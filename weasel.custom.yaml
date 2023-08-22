@@ -1,0 +1,72 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Aug  1 21:54:56 2023"
+  rime_version: 1.8.5
+patch:
+  # 为特定的应用单独设定选项
+  app_options:
+    code.exe: # 带 .exe 的进程名，全小写
+      ascii_mode: true # 英文模式
+    wechat.exe:
+      ascii_mode: false # 非英文模式
+
+  style:
+    font_face: "Segoe UI Emoji, Microsoft YaHei"
+    label_font_face: "Microsoft YaHei" # 标签字体
+    comment_font_face: "Microsoft YaHei" # 注释字体
+    font_point: 13 # 默认字体大小
+    label_font_point: 11 # 标签字体大小，不设定 fallback 到 font_point
+    comment_font_point: 11 # 注释字体大小，不设定 fallback 到 font_point
+    inline_preedit: true # 行内显示预编辑区：true；false
+    preedit_type: composition # 预编辑区内容：composition（编码）； preview（高亮候选）；preview_all（全部候选）
+    horizontal: true # 横向排列：true；false
+    label_format: "%s\u2005" # 标签字符：%s. 效果为 1. 2. 3. ....
+    candidate_format: "%c\u2005$@\u2005" # 无效，小狼毫暂时没有实现这个功能
+    color_scheme: dark
+
+    layout:
+      align_type: bottom # 对齐：top ; center ; bottom
+      max_height: 0 # 候选框最大高度
+      max_width: 0 # 候选框最大宽度，超过会折叠
+      min_height: 0 # 最小高度
+      min_width: 160
+      type: horizontal # horizontal（横向）；vertical（竖向） ; vertical_text（竖排文本） ; vertical+fullscreen（全屏） ; horizontal+fullscreen（横向全屏）
+      border_height: 0 # 边框宽度高度
+      border_width: 2 # 边框宽度，又名 border
+      margin_x: 12 # 元素偏离候选边框 X 轴距离；为负值时，不显示候选框
+      margin_y: 10 # 元素偏离候选边框 Y 轴距离；为负值时，不显示候选框
+      spacing: 16 # 默认间隙
+      candidate_spacing: 15 # 候选项之间的间隔
+      hilite_spacing: 4 # 候选和标签的间隔
+      hilite_padding: 4 # 高亮区域和边框的间隔。当值 ≥ margin 的值时，高亮颜色会覆盖整个选中的候选区域，实现「天圆地方」的效果
+      shadow_offset_x: 4 # 阴影偏离和圆角大小
+      shadow_offset_y: 4
+      shadow_radius: 0
+      corner_radius: 8 # 候选框圆角
+      round_corner: 5  # 高亮区域圆角；又名 hilited_corner_radius
+
+  preset_color_schemes:
+    light:
+      name: "浅色"
+      back_color: 0xF1F1F1
+      border_color: 0xEEEEEE
+      text_color: 0x424242
+      hilited_text_color: 0x424242
+      hilited_back_color: 0xF1F1F1
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0x45A215
+      candidate_text_color: 0x000000
+      comment_text_color: 0x000000
+    dark:
+      name: "深色"
+      back_color: 0x151515
+      border_color: 0x151515
+      text_color: 0xBBBBBB
+      hilited_text_color: 0x424242
+      hilited_back_color: 0xF1F1F1
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0x45A215
+      candidate_text_color: 0xFFFFFF
+      comment_text_color: 0xFFFFFF

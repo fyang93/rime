@@ -1,0 +1,125 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: zrm
+  name: 自然码+鹤形
+  version: "0.10"
+  author:
+    - 肥宅Official
+  description: |
+    自然码+鹤形方案
+  dependencies:
+    - english
+
+switches:
+  - name: ascii_mode
+    states: [ 中, A ]
+    reset: 0
+  - name: ascii_punct # 中英标点
+    states: [ ¥, $ ]
+    reset: 0
+  - name: traditionalization
+    states: [ 简, 繁 ]
+    reset: 0
+  - name: emoji
+    states: [ 💀, 😄 ]
+    reset: 1
+  - name: full_shape
+    states: [ 半角, 全角 ]
+    reset: 0
+
+engine:
+  processors:
+    - lua_processor@select_character_processor
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - table_translator@top_single_char # 固顶单字
+    - table_translator@top_words       # 固顶词组
+    - table_translator@custom_phrase   # 自定义短语
+    - table_translator@english         # 英文输入
+    - lua_translator@date_translator
+  filters:
+    - simplifier
+    - simplifier@emoji
+    - simplifier@traditionalize
+    - uniquifier
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcba;"
+  delimiter: " '"
+  algebra:
+    - derive/^(\w+);(\w)(\w)$/$1;$2/
+    - derive/^(\w+);(\w)(\w)$/$1;/
+    - derive/^(\w+);(\w)(\w)$/$1/
+    - abbrev/^_?(\w).*$/$1/
+    - abbrev/^_(.+)$/$1/
+
+translator:
+  dictionary: zrm
+  prism: zrm
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+
+punctuator:
+  import_preset: default
+
+custom_phrase:
+  dictionary: ""
+  user_dict: ./dicts/custom_phrase
+  db_class: stabledb
+  enable_completion: false # 提前显示尚未输入完整码的字
+  enable_sentence: false # 是否开启自动造句
+  initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
+
+top_single_char:
+  dictionary: ""
+  user_dict: ./dicts/top_single_char
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+top_words:
+  dictionary: ""
+  user_dict: ./dicts/top_words
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+english:
+  dictionary: english
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0
+
+emoji:
+  opencc_config: emoji.json
+  option_name: emoji
+  tips: all
+
+# 简繁切换
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
