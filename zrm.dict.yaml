@@ -7,6 +7,7 @@ min_phrase_weight: 100
 import_tables:
   - ./dicts/custom
   - ./dicts/base
+  - ./dicts/ext
 ...
 
 嬢	nd;ny	1
