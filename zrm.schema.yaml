@@ -67,8 +67,6 @@ speller:
     - derive/^(\w+);(\w)(\w)$/$1;$2/
     - derive/^(\w+);(\w)(\w)$/$1;/
     - derive/^(\w+);(\w)(\w)$/$1/
-    - abbrev/^_?(\w).*$/$1/
-    - abbrev/^_(.+)$/$1/
 
 translator:
   dictionary: zrm
