@@ -49,10 +49,10 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - table_translator@top_single_char # 固顶单字
-    - table_translator@top_words       # 固顶词组
+    # - table_translator@top_single_char # 固顶单字
+    # - table_translator@top_words       # 固顶词组
     - table_translator@custom_phrase   # 自定义短语
-    - table_translator@english         # 英文输入
+    # - table_translator@english         # 英文输入
     - lua_translator@date_translator
   filters:
     - simplifier
@@ -67,6 +67,7 @@ speller:
     - derive/^(\w+);(\w)(\w)$/$1;$2/
     - derive/^(\w+);(\w)(\w)$/$1;/
     - derive/^(\w+);(\w)(\w)$/$1/
+    - xform/[_]+//
 
 translator:
   dictionary: zrm
@@ -89,27 +90,27 @@ custom_phrase:
   enable_sentence: false # 是否开启自动造句
   initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
 
-top_single_char:
-  dictionary: ""
-  user_dict: ./dicts/top_single_char
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
+# top_single_char:
+#   dictionary: ""
+#   user_dict: ./dicts/top_single_char
+#   db_class: stabledb
+#   enable_completion: false
+#   enable_sentence: false
+#   initial_quality: 1
 
-top_words:
-  dictionary: ""
-  user_dict: ./dicts/top_words
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
+# top_words:
+#   dictionary: ""
+#   user_dict: ./dicts/top_words
+#   db_class: stabledb
+#   enable_completion: false
+#   enable_sentence: false
+#   initial_quality: 1
 
-english:
-  dictionary: english
-  enable_completion: true
-  enable_sentence: false
-  initial_quality: 0
+# english:
+#   dictionary: english
+#   enable_completion: true
+#   enable_sentence: false
+#   initial_quality: 0
 
 emoji:
   opencc_config: emoji.json

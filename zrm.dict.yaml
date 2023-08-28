@@ -882,6 +882,7 @@ import_tables:
 濋	iu;dr	0
 琡	iu;wy	0
 𬺓	iu;vr	0
+欻	iw;hr	0
 揣	iy;fe	27568
 踹	iy;ze	22631
 搋	iy;fj	35
@@ -1232,7 +1233,7 @@ import_tables:
 茋	di;cd	0
 𤧛	di;wj	0
 𬱖	di;yr	0
-嗲	dw;kx	7063
+嗲	dw;kx	0
 点	dm;lh	3978856
 电	dm;lv	1308303
 店	dm;gk	356601
@@ -3567,6 +3568,7 @@ import_tables:
 立	li;wa	1293824
 离	li;wd	1222359
 利	li;hd	1091519
+梨	li;hm	767900
 丽	li;ad	653445
 历	li;il	492045
 礼	li;pv	456545
@@ -3582,7 +3584,6 @@ import_tables:
 隶	li;vn	43103
 吏	li;an	29539
 栗	li;xm	29059
-梨	li;hm	25679
 漓	li;dd	22606
 雳	li;yl	18289
 厘	li;il	17464
@@ -3646,7 +3647,7 @@ import_tables:
 珕	li;wl	0
 𫵷	li;el	0
 𬍛	li;wl	0
-俩	lw;rl	231043
+俩	lw;rl	0
 连	lm;zi	2453048
 脸	lm;oa	1845354
 联	lm;et	514908
@@ -3701,12 +3702,12 @@ import_tables:
 𬜯	ld;cl	0
 聊	lc;ee	265573
 料	lc;mu	263518
-了	lc;vl	218874
 疗	lc;bl	94630
 辽	lc;zl	47836
 廖	lc;gp	31067
 撩	lc;fx	21011
 寥	lc;bp	20857
+了	lc;vl	20000
 僚	lc;rx	19624
 缭	lc;sx	16457
 燎	lc;hx	9587
@@ -4933,14 +4934,14 @@ import_tables:
 䓫	qi;ck	0
 𨙸	qi;ue	0
 𬨂	qi;iu	0
-掐	qw;fj	437391
-恰	qw;xk	110670
-洽	qw;dk	13409
-卡	qw;ub	2011
-袷	qw;pk	130
-髂	qw;gk	109
-拤	qw;fb	49
-葜	qw;cd	25
+卡	qw;ub	0
+恰	qw;xk	0
+拤	qw;fb	0
+掐	qw;fj	0
+洽	qw;dk	0
+葜	qw;cd	0
+袷	qw;pk	0
+髂	qw;gk	0
 前	qm;bd	3967855
 钱	qm;jj	1034329
 千	qm;pu	794964
@@ -5602,6 +5603,7 @@ import_tables:
 始	ui;nk	1239671
 失	ui;pf	1182384
 士	ui;ua	1175727
+湿	ui;dy	1106830
 石	ui;ak	885579
 识	ui;yb	826907
 视	ui;pe	787375
@@ -5623,7 +5625,6 @@ import_tables:
 侍	ui;rc	136559
 拾	ui;fk	136402
 饰	ui;uj	119944
-湿	ui;dy	110683
 誓	ui;fk	85826
 驶	ui;mu	80574
 逝	ui;zj	68598
@@ -6311,6 +6312,7 @@ import_tables:
 窊	wa;bg	29
 腽	wa;om	22
 坬	wa;tg	8
+凹	wa;la	1
 畖	wa;tg	1
 外	wl;xb	2234449
 歪	wl;bv	78305
@@ -7138,6 +7140,7 @@ import_tables:
 沿	yj;dk	118963
 焰	yj;hj	117059
 岩	yj;eu	102961
+淹	yj;dd	91580
 咽	yj;kd	90794
 宴	yj;bn	69541
 嫣	yj;nh	53722
@@ -7148,7 +7151,6 @@ import_tables:
 盐	yj;tm	37729
 焉	yj;vh	35627
 衍	yj;ii	33445
-淹	yj;dd	29158
 檐	yj;mk	18211
 奄	yj;dd	13947
 砚	yj;ue	13267
