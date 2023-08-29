@@ -67,11 +67,11 @@ speller:
     - derive/^(\w+);(\w)(\w)$/$1;$2/
     - derive/^(\w+);(\w)(\w)$/$1;/
     - derive/^(\w+);(\w)(\w)$/$1/
-    - xform/[_]+//
 
 translator:
   dictionary: zrm
   prism: zrm
+  enable_user_dict: false   # 关闭用户词典，固定词序
 
 key_binder:
   import_preset: default
