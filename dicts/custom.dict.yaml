@@ -5,36 +5,38 @@ sort: by_weight
 ...
 
 # 名字
-施潇雨	ui;fy xc;ds yu;ad	10000
-羊帆	yh;bl fj;jf	10000
-羊立华	yh;bl li;wa hw;ru	10000
-魏云娥	wz;hg yp;es ee;nw	10000
-施伟	ui;fy wz;rw	10000
-龚紫涛	gs;lb zi;vx tk;dc	10000
-李颉	li;mz jx;ur	10000
-猹猹	ia;qd ia;qd	10000
+施潇雨	ui;fy xc;ds yu;ad	1000000
+羊帆	yh;bl fj;jf	1000000
+羊立华	yh;bl li;wa hw;ru	1000000
+魏云娥	wz;hg yp;es ee;nw	1000000
+施伟	ui;fy wz;rw	1000000
+龚紫涛	gs;lb zi;vx tk;dc	1000000
+李颉	li;mz jx;ur	1000000
+猹猹	ia;qd ia;qd	1000000
+猹总	ia;qd zs;bx	1000000
 
 # 词汇
-鹤形	he;dn xy;kp
-闵大荒	mn;mw da;un hd;cv
-瘦了吧唧	ub;by le;vl ba;kb ji;ke
-白人餐	bl;po rf;pn cj;ll
-泛化性	fj;df hw;rb xy;xu
-奥莱	ao;pd ll;cl
-误检	wu;yt jm;ma
-大作业	da;un zo;rv ye;la
-一作	yi;aa zo;rv
-电院	dm;lv yr;ee
-世界线	ui;av jx;tl xm;sj
+鹤形	he;dn xy;kp	1000000
+闵大荒	mn;mw da;un hd;cv	1000000
+瘦了吧唧	ub;by le;vl ba;kb ji;ke	1000000
+白人餐	bl;po rf;pn cj;ll	1000000
+泛化性	fj;df hw;rb xy;xu	1000000
+奥莱	ao;pd ll;cl	1000000
+误检	wu;yt jm;ma	1000000
+大作业	da;un zo;rv ye;la	1000000
+一作	yi;aa zo;rv	1000000
+电院	dm;lv yr;ee	1000000
+世界线	ui;av jx;tl xm;sj	1000000
 
 # 常用
-配了个	pz;yj le;vl ge;rl
-出了个	iu;vk le;vl ge;rl
-更好用了	gg;an hk;nz ys;kl le;vl
-很完美了	hf;ig wj;be mz;yd le;vl
-写一份	xx;by yi;aa ff;rd
-属实是	uu;uy ui;bd ui;or
-也没上	ye;vv mz;dy uh;la
-试试水	ui;yg ui;yg uv;ln
-选里面	xr;ze li;la mm;aa
-也没啥用	ye;vv mz;dy ua;kk ys;kl
+配了个	pz;yj le;vl ge;rl	1000000
+写一份	xx;by yi;aa ff;rd	1000000
+属实是	uu;uy ui;bd ui;or	1000000
+试试水	ui;yg ui;yg uv;ln	1000000
+选里面	xr;ze li;la mm;aa	1000000
+我搞的	wo;pd gk;fk de;bu	1000000
+你搞的	ni;rx gk;fk de;bu	1000000
+他搞的	ta;ry gk;fk de;bu	1000000
+她搞的	ta;ny gk;fk de;bu	1000000
+它搞的	ta;bb gk;fk de;bu	1000000
+谁搞的	uv;yf gk;fk de;bu	1000000
