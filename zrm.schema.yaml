@@ -11,6 +11,7 @@ schema:
     自然码+鹤形方案
   dependencies:
     - english
+    - latex
 
 switches:
   - name: ascii_mode
@@ -53,6 +54,7 @@ engine:
     - table_translator@top_words       # 固顶词组
     - table_translator@custom_phrase   # 自定义短语
     - table_translator@english         # 英文输入
+    - table_translator@latex           # 数学符号输入
     - lua_translator@date_translator
   filters:
     - simplifier
@@ -61,7 +63,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba;"
+  alphabet: "zyxwvutsrqponmlkjihgfedcba;\\"
   delimiter: " '"
   algebra:
     - derive/^(\w+);(\w)(\w)$/$1;$2/
@@ -77,6 +79,8 @@ key_binder:
 
 recognizer:
   import_preset: default
+  patterns:
+    latex: "^\\\\.+$"
 
 punctuator:
   import_preset: default
@@ -110,6 +114,12 @@ english:
   enable_completion: true
   enable_sentence: false
   initial_quality: 0
+
+latex:
+  dictionary: latex
+  prefix: "\\"
+  enable_sentence: false
+  enable_completion: true # enable autocomplete
 
 emoji:
   opencc_config: emoji.json
