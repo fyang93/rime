@@ -7,5 +7,6 @@ customization:
 patch:
   schema_list:
     - {schema: zrm}
+    - {schema: pinyin}
   switcher/hotkeys:
     - "F4"

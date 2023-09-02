@@ -50,6 +50,7 @@ engine:
   translators:
     - punct_translator
     - script_translator
+    - reverse_lookup_translator
     - table_translator@top_single_char # 固顶单字
     - table_translator@top_words       # 固顶词组
     - table_translator@custom_phrase   # 自定义短语
@@ -71,8 +72,9 @@ speller:
 
 translator:
   dictionary: zrm
-  prism: zrm
-  # enable_user_dict: false   # 关闭用户词典，固定词序
+  enable_sentence: false
+  enable_completion: true
+  enable_user_dict: true
 
 key_binder:
   import_preset: default
@@ -81,6 +83,7 @@ recognizer:
   import_preset: default
   patterns:
     latex: "^\\\\.+$"
+    reverse_lookup: "^`[a-z]*'?$"
 
 punctuator:
   import_preset: default
@@ -125,6 +128,11 @@ emoji:
   opencc_config: emoji.json
   option_name: emoji
   tips: all
+
+reverse_lookup:
+  dictionary: pinyin
+  prefix: "`"
+  tips: [拼音]
 
 # 简繁切换
 traditionalize:

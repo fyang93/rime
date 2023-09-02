@@ -1,0 +1,70 @@
+# 小鹭音形方案
+# encoding: utf-8
+# 机器生成，请勿修改
+
+
+schema:
+  schema_id: pinyin
+  name: 拼音反查
+  version: "0.10"
+  author: 
+    - 肥宅Official
+  description: |
+    自然码+鹤形方案 拼音反查
+
+switches:
+  - name: ascii_mode
+    states: [ 中, A ]
+    reset: 0
+  - name: ascii_punct # 中英标点
+    states: [ ¥, $ ]
+    reset: 0
+  - name: traditionalization
+    states: [ 简, 繁 ]
+    reset: 0
+  - name: emoji
+    states: [ 💀, 😄 ]
+    reset: 1
+  - name: full_shape
+    states: [ 半角, 全角 ]
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba'
+  initials: 'abcdefghijklmnopqrstuvwxyz'
+
+translator:
+  dictionary: pinyin
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_completion: true
+  enable_user_dict: true
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
