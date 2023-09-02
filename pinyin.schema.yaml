@@ -12,23 +12,6 @@ schema:
   description: |
     自然码+鹤形方案 拼音反查
 
-switches:
-  - name: ascii_mode
-    states: [ 中, A ]
-    reset: 0
-  - name: ascii_punct # 中英标点
-    states: [ ¥, $ ]
-    reset: 0
-  - name: traditionalization
-    states: [ 简, 繁 ]
-    reset: 0
-  - name: emoji
-    states: [ 💀, 😄 ]
-    reset: 1
-  - name: full_shape
-    states: [ 半角, 全角 ]
-    reset: 0
-
 engine:
   processors:
     - ascii_composer
@@ -62,9 +45,3 @@ translator:
   enable_sentence: false
   enable_completion: true
   enable_user_dict: true
-
-punctuator:
-  import_preset: default
-
-key_binder:
-  import_preset: default
