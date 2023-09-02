@@ -67,8 +67,9 @@ speller:
   alphabet: "zyxwvutsrqponmlkjihgfedcba;\\"
   delimiter: " '"
   algebra:
-    - derive/^(\w+);(\w)(\w)$/$1;$2/
-    - derive/^(\w+);(\w)(\w)$/$1/
+    - abbrev/^(\w+);(\w)(\w)$/$1;$2/
+    - abbrev/^(\w+);(\w)(\w)$/$1;/
+    - abbrev/^(\w+);(\w)(\w)$/$1/
 
 translator:
   dictionary: zrm
