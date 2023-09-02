@@ -30,6 +30,11 @@ sort: by_weight
 世界线	ui;av jx;tl xm;sj	1000000
 行人重识别	xy;ii rf;pn is;pa ui;yb bx;kd	1000000
 
+# 中英混输
+哆啦A梦	dolaamg	10000
+b站	bvj	10000
+up主	upvu	10000
+
 # 常用
 配了个	pz;yj le;vl ge;rl	1000000
 写一份	xx;by yi;aa ff;rd	1000000

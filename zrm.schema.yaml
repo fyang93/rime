@@ -67,14 +67,13 @@ speller:
   alphabet: "zyxwvutsrqponmlkjihgfedcba;\\"
   delimiter: " '"
   algebra:
-    - derive/^(\w+);(\w)(\w)$/$1;$2/
     - abbrev/^(\w+);(\w)(\w)$/$1;/
+    - derive/^(\w+);(\w)(\w)$/$1;$2/
     - derive/^(\w+);(\w)(\w)$/$1/
 
 translator:
   dictionary: zrm
   enable_sentence: false
-  enable_completion: true
   enable_user_dict: true
 
 key_binder:
@@ -117,7 +116,10 @@ english:
   dictionary: english
   enable_completion: true
   enable_sentence: false
+  enable_user_dict: false
   initial_quality: 0
+  comment_format:          # 自定义提示码
+    - xform/.*//           # 清空提示码（就是没有那个小尾巴）
 
 latex:
   dictionary: latex
