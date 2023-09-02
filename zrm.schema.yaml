@@ -10,6 +10,7 @@ schema:
   description: |
     自然码+鹤形方案
   dependencies:
+    - pinyin
     - english
     - latex
 
