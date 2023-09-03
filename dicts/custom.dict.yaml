@@ -5,30 +5,30 @@ sort: by_weight
 ...
 
 # 名字
-施潇雨	ui;fy xc;ds yu;ad	1000000
-羊帆	yh;bl fj;jf	1000000
-羊立华	yh;bl li;wa hw;ru	1000000
-魏云娥	wz;hg yp;es ee;nw	1000000
-施伟	ui;fy wz;rw	1000000
-龚紫涛	gs;lb zi;vx tk;dc	1000000
-李颉	li;mz jx;ur	1000000
-猹猹	ia;qd ia;qd	1000000
-猹总	ia;qd zs;bx	1000000
-娄博	lb;mn bo;uc	1000000
+施潇雨	ui;fy xc;ds yu;ad	10000
+羊帆	yh;bl fj;jf	10000
+羊立华	yh;bl li;wa hw;ru	10000
+魏云娥	wz;hg yp;es ee;nw	10000
+施伟	ui;fy wz;rw	10000
+龚紫涛	gs;lb zi;vx tk;dc	10000
+李颉	li;mz jx;ur	10000
+猹猹	ia;qd ia;qd	10000
+猹总	ia;qd zs;bx	10000
+娄博	lb;mn bo;uc	10000
 
 # 词汇
-鹤形	he;dn xy;kp	1000000
-闵大荒	mn;mw da;un hd;cv	1000000
-瘦了吧唧	ub;by le;vl ba;kb ji;ke	1000000
-白人餐	bl;po rf;pn cj;ll	1000000
-泛化性	fj;df hw;rb xy;xu	1000000
-奥莱	ao;pd ll;cl	1000000
-误检	wu;yt jm;ma	1000000
-大作业	da;un zo;rv ye;la	1000000
-一作	yi;aa zo;rv	1000000
-电院	dm;lv yr;ee	1000000
-世界线	ui;av jx;tl xm;sj	1000000
-行人重识别	xy;ii rf;pn is;pa ui;yb bx;kd	1000000
+鹤形	he;dn xy;kp	10000
+闵大荒	mn;mw da;un hd;cv	10000
+瘦了吧唧	ub;by le;vl ba;kb ji;ke	10000
+白人餐	bl;po rf;pn cj;ll	10000
+泛化性	fj;df hw;rb xy;xu	10000
+奥莱	ao;pd ll;cl	10000
+误检	wu;yt jm;ma	10000
+大作业	da;un zo;rv ye;la	10000
+一作	yi;aa zo;rv	10000
+电院	dm;lv yr;ee	10000
+世界线	ui;av jx;tl xm;sj	10000
+行人重识别	xy;ii rf;pn is;pa ui;yb bx;kd	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -36,16 +36,16 @@ b站	bvj	10000
 up主	upvu	10000
 
 # 常用
-配了个	pz;yj le;vl ge;rl	1000000
-写一份	xx;by yi;aa ff;rd	1000000
-属实是	uu;uy ui;bd ui;or	1000000
-试试水	ui;yg ui;yg uv;ln	1000000
-选里面	xr;ze li;la mm;aa	1000000
-我搞的	wo;pd gk;fk de;bu	1000000
-你搞的	ni;rx gk;fk de;bu	1000000
-他搞的	ta;ry gk;fk de;bu	1000000
-她搞的	ta;ny gk;fk de;bu	1000000
-它搞的	ta;bb gk;fk de;bu	1000000
-谁搞的	uv;yf gk;fk de;bu	1000000
-塞里面	sl;bt li;la mm;aa	1000000
-不能改	bu;ad ng;sb gl;jw	1000000
+配了个	pz;yj le;vl ge;rl	10000
+写一份	xx;by yi;aa ff;rd	10000
+属实是	uu;uy ui;bd ui;or	10000
+试试水	ui;yg ui;yg uv;ln	10000
+选里面	xr;ze li;la mm;aa	10000
+我搞的	wo;pd gk;fk de;bu	10000
+你搞的	ni;rx gk;fk de;bu	10000
+他搞的	ta;ry gk;fk de;bu	10000
+她搞的	ta;ny gk;fk de;bu	10000
+它搞的	ta;bb gk;fk de;bu	10000
+谁搞的	uv;yf gk;fk de;bu	10000
+塞里面	sl;bt li;la mm;aa	10000
+不能改	bu;ad ng;sb gl;jw	10000
