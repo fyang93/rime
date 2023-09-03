@@ -5,30 +5,30 @@ sort: by_weight
 ...
 
 # 名字
-施潇雨	shi xiao yu	1000000
-羊帆	yang fan	1000000
-羊立华	yang li hua	1000000
-魏云娥	wei yun e	1000000
-施伟	shi wei	1000000
-龚紫涛	gong zi tao	1000000
-李颉	li jie	1000000
-猹猹	cha cha	1000000
-猹总	cha zong	1000000
-娄博	lou bo	1000000
+施潇雨	shi xiao yu	10000
+羊帆	yang fan	10000
+羊立华	yang li hua	10000
+魏云娥	wei yun e	10000
+施伟	shi wei	10000
+龚紫涛	gong zi tao	10000
+李颉	li jie	10000
+猹猹	cha cha	10000
+猹总	cha zong	10000
+娄博	lou bo	10000
 
 # 词汇
-鹤形	he xing	1000000
-闵大荒	min da huang	1000000
-瘦了吧唧	shou le ba ji	1000000
-白人餐	bai ren can	1000000
-泛化性	fan hua xing	1000000
-奥莱	ao lai	1000000
-误检	wu jian	1000000
-大作业	da zuo ye	1000000
-一作	yi zuo	1000000
-电院	dian yuan	1000000
-世界线	shi jie xian	1000000
-行人重识别	xing ren chong shi bie	1000000
+鹤形	he xing	10000
+闵大荒	min da huang	10000
+瘦了吧唧	shou le ba ji	10000
+白人餐	bai ren can	10000
+泛化性	fan hua xing	10000
+奥莱	ao lai	10000
+误检	wu jian	10000
+大作业	da zuo ye	10000
+一作	yi zuo	10000
+电院	dian yuan	10000
+世界线	shi jie xian	10000
+行人重识别	xing ren chong shi bie	10000
 
 # 中英混输
 哆啦A梦	do la a meng	10000
@@ -36,16 +36,16 @@ b站	b zhan	10000
 up主	up zhu	10000
 
 # 常用
-配了个	pei le ge	1000000
-写一份	xie yi fen	1000000
-属实是	shu shi shi	1000000
-试试水	shi shi shui	1000000
-选里面	xuan li mian	1000000
-我搞的	wo gao de	1000000
-你搞的	ni gao de	1000000
-他搞的	ta gao de	1000000
-她搞的	ta gao de	1000000
-它搞的	ta gao de	1000000
-谁搞的	shui gao de	1000000
-塞里面	sai li mian	1000000
-不能改	bu neng gai	1000000
+配了个	pei le ge	10000
+写一份	xie yi fen	10000
+属实是	shu shi shi	10000
+试试水	shi shi shui	10000
+选里面	xuan li mian	10000
+我搞的	wo gao de	10000
+你搞的	ni gao de	10000
+他搞的	ta gao de	10000
+她搞的	ta gao de	10000
+它搞的	ta gao de	10000
+谁搞的	shui gao de	10000
+塞里面	sai li mian	10000
+不能改	bu neng gai	10000
