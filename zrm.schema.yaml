@@ -10,14 +10,14 @@ schema:
   description: |
     自然码+鹤形方案
   dependencies:
-    - pinyin
+    - reverse
     - english
     - latex
 
 switches:
   - name: ascii_mode
     states: [ 中, A ]
-    reset: 0
+    reset: 1
   - name: ascii_punct # 中英标点
     states: [ ¥, $ ]
     reset: 0
@@ -51,9 +51,8 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - reverse_lookup_translator
-    - table_translator@top_single_char # 固顶单字
-    - table_translator@top_words       # 固顶词组
+    - reverse_lookup_translator        # 反查
+    - table_translator@custom_top      # 自定义固顶
     - table_translator@custom_phrase   # 自定义短语
     - table_translator@english         # 英文输入
     - table_translator@latex           # 数学符号输入
@@ -97,17 +96,9 @@ custom_phrase:
   enable_sentence: false # 是否开启自动造句
   initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
 
-top_single_char:
+custom_top:
   dictionary: ""
-  user_dict: ./dicts/top_single_char
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
-
-top_words:
-  dictionary: ""
-  user_dict: ./dicts/top_words
+  user_dict: ./dicts/custom_top
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
@@ -134,7 +125,7 @@ emoji:
   tips: all
 
 reverse_lookup:
-  dictionary: pinyin
+  dictionary: reverse
   prefix: "`"
   tips: [拼音]
 

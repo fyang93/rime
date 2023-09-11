@@ -1,16 +1,11 @@
-# 小鹭音形方案
-# encoding: utf-8
-# 机器生成，请勿修改
-
-
 schema:
-  schema_id: pinyin
-  name: 拼音反查
+  schema_id: reverse
+  name: 反查
   version: "0.10"
   author: 
     - 肥宅Official
   description: |
-    自然码+鹤形方案 拼音反查
+    自然码+鹤形方案 反查
 
 engine:
   processors:
@@ -40,7 +35,7 @@ speller:
   initials: 'abcdefghijklmnopqrstuvwxyz'
 
 translator:
-  dictionary: pinyin
+  dictionary: reverse
   enable_charset_filter: false
   enable_sentence: false
   enable_completion: true
