@@ -75,6 +75,10 @@ translator:
   dictionary: zrm
   enable_sentence: false
   enable_user_dict: true
+  disable_user_dict_for_patterns: # 禁止单字调频
+    - ^[a-z]{1,2}$
+    - ^[a-z]{2};$
+    - ^[a-z]{2};[a-z]{1,2}$
 
 key_binder:
   import_preset: default
