@@ -29,11 +29,18 @@ sort: by_weight
 电院	dm;lv yr;ee	10000
 世界线	ui;av jx;tl xm;sj	10000
 行人重识别	xy;ii rf;pn is;pa ui;yb bx;kd	10000
+重识别	is;pa ui;yb bx;kd	10000
+自监督	zi;po jm;lm du;uo	10000
+无监督	wu;ay jm;lm du;uo	10000
+有监督	yb;uo jm;lm du;uo	10000
+边缘计算	bm;zl yr;su ji;yu sr;vc	10000
+碳排放	tj;uh pl;ff fh;fw	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
 b站	bvj	10000
 up主	upvu	10000
+U盘	upj	10000
 
 # 常用
 配了个	pz;yj le;vl ge;rl	10000

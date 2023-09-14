@@ -34,8 +34,8 @@ patch:
       min_width: 160
       type: horizontal # horizontal（横向）；vertical（竖向） ; vertical_text（竖排文本） ; vertical+fullscreen（全屏） ; horizontal+fullscreen（横向全屏）
       border_height: 0 # 边框宽度高度
-      border_width: 2 # 边框宽度，又名 border
-      margin_x: 12 # 元素偏离候选边框 X 轴距离；为负值时，不显示候选框
+      border_width: 1 # 边框宽度，又名 border
+      margin_x: 10 # 元素偏离候选边框 X 轴距离；为负值时，不显示候选框
       margin_y: 10 # 元素偏离候选边框 Y 轴距离；为负值时，不显示候选框
       spacing: 16 # 默认间隙
       candidate_spacing: 15 # 候选项之间的间隔
@@ -50,23 +50,23 @@ patch:
   preset_color_schemes:
     light:
       name: "浅色"
-      back_color: 0xEEEEEE
-      border_color: 0xDEDEDE
+      back_color: 0xFFFFFF
+      border_color: 0xC2C2C2
       text_color: 0x424242
       hilited_text_color: 0x424242
       hilited_back_color: 0xF1F1F1
       hilited_candidate_text_color: 0xFFFFFF
-      hilited_candidate_back_color: 0x36B02E
+      hilited_candidate_back_color: 0x7AAE53
       candidate_text_color: 0x000000
       comment_text_color: 0x000000
     dark:
       name: "深色"
-      back_color: 0x151515
-      border_color: 0x151515
+      back_color: 0x111111
+      border_color: 0x050400
       text_color: 0xBBBBBB
       hilited_text_color: 0x424242
       hilited_back_color: 0xF1F1F1
       hilited_candidate_text_color: 0xFFFFFF
-      hilited_candidate_back_color: 0x36B02E
+      hilited_candidate_back_color: 0x77B240
       candidate_text_color: 0xFFFFFF
       comment_text_color: 0xF1F1F1
