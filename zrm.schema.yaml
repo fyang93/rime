@@ -10,7 +10,6 @@ schema:
   description: |
     自然码+鹤形方案
   dependencies:
-    - reverse
     - english
     - latex
 
@@ -64,7 +63,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba;\\"
+  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;\'
   delimiter: " '"
   algebra:
     - abbrev/^(\w+);(\w)(\w)$/$1;/
@@ -86,8 +85,8 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    latex: "^\\\\.+$"
-    reverse_lookup: "^`[a-z]*'?$"
+    latex: '^\.+$'
+    reverse_lookup: '^`[a-z;]*$'
 
 punctuator:
   import_preset: default
@@ -119,10 +118,12 @@ english:
 
 latex:
   dictionary: latex
-  prefix: "\\"
+  prefix: '\'
   enable_sentence: false
   enable_completion: true # enable autocomplete
   enable_user_dict: false
+  comment_format:          # 自定义提示码
+    - xform/~/ /
 
 emoji:
   opencc_config: emoji.json
@@ -130,7 +131,7 @@ emoji:
   tips: all
 
 reverse_lookup:
-  dictionary: reverse
+  dictionary: zrm
   prefix: "`"
   tips: [拼音]
 
