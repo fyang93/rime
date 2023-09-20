@@ -87,7 +87,7 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    latex: '^\.+$'
+    latex: '^\\.+$'
     reverse_lookup: '^`[a-z;]*$'
 
 punctuator:
