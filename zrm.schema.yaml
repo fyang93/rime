@@ -83,6 +83,8 @@ translator:
 
 key_binder:
   import_preset: default
+  bindings:
+    - {accept: "Shift+ISO_Left_Tab", send: Left, when: composing}
 
 recognizer:
   import_preset: default
