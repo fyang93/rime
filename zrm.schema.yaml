@@ -16,7 +16,7 @@ schema:
 switches:
   - name: ascii_mode
     states: [ 中, A ]
-    reset: 1
+    reset: 0
   - name: ascii_punct # 中英标点
     states: [ ¥, $ ]
     reset: 0
