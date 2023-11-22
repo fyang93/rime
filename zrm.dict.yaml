@@ -18,7 +18,7 @@ import_tables:
 欸	ei;sr	534
 哟	yo;ku	59051
 唷	yo;ko	1
-啊	aa;kk	2366043
+啊	aa;kk	5366043
 阿	aa;ek	867275
 吖	aa;ky	854
 锕	aa;jk	144
@@ -483,7 +483,7 @@ import_tables:
 欂	bo;mc	0
 袯	bo;pd	0
 𬭛	bo;jy	0
-不	bu;ad	29858097
+不	bu;ad	2985809
 部	bu;le	1972176
 步	bu;vp	1077549
 布	bu;uj	591571
@@ -845,7 +845,7 @@ import_tables:
 杻	ib;mi	1
 侴	ib;rd	0
 椆	ib;mk	0
-出	iu;vk	8294943
+出	iu;vk	2294943
 处	iu;wb	1626691
 楚	iu;mr	728204
 除	iu;eh	599918
@@ -2875,7 +2875,6 @@ import_tables:
 揭	jx;fv	57148
 竭	jx;lv	48555
 届	jx;uy	38051
-价	jx;rl	23092
 藉	jx;co	20781
 婕	jx;nr	19606
 睫	jx;or	18742
@@ -2884,6 +2883,7 @@ import_tables:
 芥	jx;cl	7468
 桔	jx;mk	7128
 诘	jx;yk	3733
+价	jx;rl	3500
 颉	jx;ur	3359
 嗟	jx;kg	3220
 孑	jx;va	2490
@@ -3249,7 +3249,7 @@ import_tables:
 栲	kk;mv	164
 㸆	kk;hf	0
 洘	kk;dv	0
-可	ke;dk	7069176
+可	ke;dk	1069176
 刻	ke;wd	977816
 克	ke;ue	777926
 客	ke;bk	692916
@@ -3261,6 +3261,7 @@ import_tables:
 柯	ke;mk	71973
 棵	ke;mg	58780
 壳	ke;uj	41877
+氪	ke;qe	35000
 磕	ke;um	34654
 嗑	ke;km	31720
 珂	ke;wk	16769
@@ -3280,7 +3281,6 @@ import_tables:
 髁	ke;gg	232
 骒	ke;mg	91
 缂	ke;sg	79
-氪	ke;qe	30
 牁	ke;pk	14
 匼	ke;kk	3
 炣	ke;hk	0
@@ -3707,7 +3707,6 @@ import_tables:
 廖	lc;gp	31067
 撩	lc;fx	21011
 寥	lc;bp	20857
-了	lc;vl	20000
 僚	lc;rx	19624
 缭	lc;sx	16457
 燎	lc;hx	9587
@@ -3729,6 +3728,7 @@ import_tables:
 憭	lc;xx	6
 簝	lc;vx	4
 橑	lc;mx	1
+了	lc;vl	0
 𪤗	lc;tp	0
 列	lx;dd	244324
 裂	lx;dy	174922
@@ -4115,7 +4115,7 @@ import_tables:
 芼	mk;cm	35
 眊	mk;om	34
 鄚	mk;ce	15
-么	me;ps	9727134
+么	me;ps	9727
 没	mz;dy	7560391
 美	mz;yd	1692264
 每	mz;pm	1015025
@@ -4146,8 +4146,8 @@ import_tables:
 糜	mz;gm	1
 媄	mz;nd	0
 瑂	mz;wo	0
-们	mf;rm	10741873
 门	mf;dv	2233462
+们	mf;rm	1074187
 闷	mf;mx	203501
 懑	mf;dx	2697
 扪	mf;fm	2344
@@ -4414,15 +4414,15 @@ import_tables:
 硇	nk;ux	51
 臑	nk;oe	10
 峱	nk;qe	1
-呢	ne;kb	1793494
+呢	ne;kb	179349
 讷	ne;yn	10324
 哪	ne;ke	1
 内	nz;ld	1509530
 馁	nz;un	5700
 嫩	nf;nw	58594
 恁	nf;rx	3956
-能	ng;sb	5933639
-你	ni;rx	14221925
+能	ng;sb	59336
+你	ni;rx	1422192
 尼	ni;ub	272244
 妮	ni;nb	155375
 泥	ni;db	120657
@@ -4544,8 +4544,8 @@ import_tables:
 衄	nv;xi	42
 虐	nt;ha	30741
 疟	nt;ba	1012
-哦	oo;kw	356333
-噢	oo;kd	49608
+哦	oo;kw	3563330
+噢	oo;kd	496080
 喔	oo;kt	1
 欧	ou;kr	253543
 偶	ou;ry	150991
@@ -5035,7 +5035,7 @@ import_tables:
 樵	qc;mh	8689
 撬	qc;fm	6740
 锹	qc;jh	4077
-壳	qc;uj	2000
+壳	qc;uj	3000
 谯	qc;yh	1914
 橇	qc;mm	1666
 诮	qc;yo	1506
@@ -7771,8 +7771,8 @@ import_tables:
 羱	yr;yx	4
 圜	yr;ky	1
 𫘪	yr;mx	0
-月	yt;ka	1546594
 越	yt;tv	1069176
+月	yt;ka	546594
 约	yt;su	526224
 跃	yt;zy	169432
 岳	yt;qe	131477
@@ -8128,6 +8128,7 @@ import_tables:
 至	vi;at	1199059
 之	vi;dn	1173763
 指	vi;fo	1099010
+值	vi;rq	920306
 制	vi;pd	870792
 支	vi;uy	532396
 志	vi;ux	485065
@@ -8137,7 +8138,6 @@ import_tables:
 置	vi;sq	379704
 致	vi;aw	370734
 职	vi;eb	326699
-值	vi;rq	320306
 智	vi;uo	310406
 纸	vi;su	273013
 织	vi;sb	218959
