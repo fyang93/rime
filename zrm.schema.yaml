@@ -90,7 +90,6 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    latex: '^\\.+$'
     reverse_lookup: '^`[a-z;]*$'
 
 punctuator:
@@ -131,7 +130,7 @@ english:
 
 latex:
   dictionary: latex
-  prefix: '\'
+  prefix: '\\'
   enable_sentence: false
   enable_completion: true # enable autocomplete
   enable_user_dict: false

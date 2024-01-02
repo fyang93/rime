@@ -224,11 +224,9 @@ $	\dollar
 ⅉ	\mitBbbj
 ⅊	\PropertyLine
 ⅋	\upand
-←	\<-
 ←	\leftarrow
 ←	\gets
 ↑	\uparrow
-→	\->
 →	\to
 →	\rightarrow
 ↓	\downarrow
@@ -2464,119 +2462,6 @@ $	\dollar
 𞻱	\arabichad
 °	\degree
 
-#	Superscripts/Subscripts
-⁰	\^0
-¹	\^1
-²	\^2
-³	\^3
-⁴	\^4
-⁵	\^5
-⁶	\^6
-⁷	\^7
-⁸	\^8
-⁹	\^9
-⁺	\^+
-⁻	\^-
-⁼	\^=
-⁽	\^(
-⁾	\^)
-₀	\_0
-₁	\_1
-₂	\_2
-₃	\_3
-₄	\_4
-₅	\_5
-₆	\_6
-₇	\_7
-₈	\_8
-₉	\_9
-₊	\_+
-₋	\_-
-₌	\_=
-₍	\_(
-₎	\_)
-ᵃ	\^a
-ᵇ	\^b
-ᶜ	\^c
-ᵈ	\^d
-ᵉ	\^e
-ᶠ	\^f
-ᵍ	\^g
-ʰ	\^h
-ⁱ	\^i
-ʲ	\^j
-ᵏ	\^k
-ˡ	\^l
-ᵐ	\^m
-ⁿ	\^n
-ᵒ	\^o
-ᵖ	\^p
-#	Warning: Unicode does not support \^q
-ʳ	\^r
-ˢ	\^s
-ᵗ	\^t
-ᵘ	\^u
-ᵛ	\^v
-ʷ	\^w
-ˣ	\^x
-ʸ	\^y
-ᶻ	\^z
-#	Some uppercase superscripts
-ᴬ	\^A
-ᴮ	\^B
-ᴰ	\^D
-ᴱ	\^E
-ᴳ	\^G
-ᴴ	\^H
-ᴵ	\^I
-ᴶ	\^J
-ᴷ	\^K
-ᴸ	\^L
-ᴹ	\^M
-ᴺ	\^N
-ᴼ	\^O
-ᴾ	\^P
-ᴿ	\^R
-ᵀ	\^T
-ᵁ	\^U
-ⱽ	\^V
-ᵂ	\^W
-#	Some lowercase subscripts
-ₐ	\_a
-ₑ	\_e
-ₕ	\_h
-ᵢ	\_i
-ⱼ	\_j
-ₖ	\_k
-ₗ	\_l
-ₘ	\_m
-ₙ	\_n
-ₒ	\_o
-ₚ	\_p
-ᵣ	\_r
-ₛ	\_s
-ₜ	\_t
-ᵤ	\_u
-ᵥ	\_v
-ₓ	\_x
-#	A few Greek lowercase superscripts
-ᵅ	\^alpha
-ᵝ	\^beta
-ᵞ	\^gamma
-ᵟ	\^delta
-ᵋ	\^epsilon
-ᶿ	\^theta
-ᶥ	\^iota
-ᶲ	\^phi
-ᵠ	\^varphi
-ᵡ	\^chi
-#	A few Greek lowercase subscripts
-ᵦ	\_beta
-ᵧ	\_gamma
-ᵨ	\_rho
-ᵩ	\_varphi
-ᵪ	\_chi
-
 #	Abbreviations
 ⟹	\implies
 ⟸	\impliedby
@@ -2617,12 +2502,6 @@ $	\dollar
 #	Warning: Unicode does not support \textsc{x}
 ʏ	\tscy
 ᴢ	\tscz
-
-#	Brackets
-⟦	\[[
-⟧	\]]
-⸨	\((
-⸩	\))
 
 #	Misc
 §	\S
