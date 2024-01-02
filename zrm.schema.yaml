@@ -103,9 +103,17 @@ custom_phrase:
   enable_sentence: false # 是否开启自动造句
   initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
 
-custom_top:
+top_single_char:
   dictionary: ""
-  user_dict: ./dicts/custom_top
+  user_dict: ./dicts/top_single_char
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+top_words:
+  dictionary: ""
+  user_dict: ./dicts/top_words
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
