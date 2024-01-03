@@ -41,6 +41,7 @@ sort: by_weight
 声明式	sheng ming shi	10000
 平铺式	ping pu shi	10000
 组会	zu hui	10000
+零样本	ling yang ben	10000
 
 # 中英混输
 哆啦A梦	do la a meng	10000
@@ -65,3 +66,4 @@ ibus	ibus	10000
 不能改	bu neng gai	10000
 写材料	xie cai liao	10000
 讨口饭吃	tao kou fan chi	10000
+多穿点	duo chuan dian	10000

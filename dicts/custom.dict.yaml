@@ -41,6 +41,7 @@ sort: by_weight
 声明式	ug;up my;oo ui;yg	10000
 平铺式	py;au pu;jf ui;yg	10000
 组会	zu;sq hv;rs	10000
+零样本	ly;ys yh;my bf;aa	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -65,3 +66,4 @@ ibus	ibus	10000
 不能改	bu;ad ng;sb gl;jw	10000
 写材料	xx;by cl;mc lc;mu	10000
 讨口饭吃	tk;yc kb;la fj;uy ii;kq	10000
+多穿点	do;xx ir;by dm;lh	10000
