@@ -9,3 +9,12 @@ patch:
     - {schema: zrm}
   switcher/hotkeys:
     - "F4"
+  # https://zhuanlan.zhihu.com/p/91129641
+  # shift键直接上屏并且切换为英文状态
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key:
+      Caps_Lock: clear
+      Shift_L: commit_code
+      Shift_R: inline_ascii
+      Control_L: noop
+      Control_R: noop
