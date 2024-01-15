@@ -42,12 +42,14 @@ sort: by_weight
 平铺式	py;au pu;jf ui;yg	10000
 组会	zu;sq hv;rs	10000
 零样本	ly;ys yh;my bf;aa	10000
+具身	ju;qb uf;pp	10000
 具身智能	ju;qb uf;pp vi;uo ng;sb	10000
 卷积层	jr;jv ji;hb cg;us	10000
 全连接层	qr;rw lm;zi jx;fn cg;us	10000
 蜜雪	mi;bi xt;ye	10000
 蜜雪冰城	mi;bi xt;ye by;du ig;ti	10000
 库迪	ku;gi di;zy	10000
+性转	xy;xu vr;iv	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -74,3 +76,7 @@ ibus	ibus	10000
 讨口饭吃	tk;yc kb;la fj;uy ii;kq	10000
 多穿点	do;xx ir;by dm;lh	10000
 弄一下	ns;wc yi;aa xw;ab	10000
+所在的	so;pj zl;ut de;bu	10000
+这有啥	ve;zw yb;uo ua;kk	10000
+添加了	tm;dx jw;lk le;vl	10000
+没起到	mz;dy qi;tj dk;ad	10000

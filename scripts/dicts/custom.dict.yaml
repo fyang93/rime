@@ -42,12 +42,14 @@ sort: by_weight
 平铺式	ping pu shi	10000
 组会	zu hui	10000
 零样本	ling yang ben	10000
+具身	ju shen	10000
 具身智能	ju shen zhi neng	10000
 卷积层	juan ji ceng	10000
 全连接层	quan lian jie ceng	10000
 蜜雪	mi xue	10000
 蜜雪冰城	mi xue bing cheng	10000
 库迪	ku di	10000
+性转	xing zhuan	10000
 
 # 中英混输
 哆啦A梦	do la a meng	10000
@@ -74,3 +76,7 @@ ibus	ibus	10000
 讨口饭吃	tao kou fan chi	10000
 多穿点	duo chuan dian	10000
 弄一下	nong yi xia	10000
+所在的	suo zai de	10000
+这有啥	zhe you sha	10000
+添加了	tian jia le	10000
+没起到	mei qi dao	10000
