@@ -152,3 +152,6 @@ traditionalize:
   option_name: traditionalization
   opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
   tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
+
+grammar:
+  language: zh-hans-t-essay-bgw
