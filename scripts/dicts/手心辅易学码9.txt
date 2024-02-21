@@ -1030,7 +1030,7 @@
 奋=dt
 陪=ek
 硬=ug
-避=zb
+避=zp
 园=ky
 托=fq
 训=yi
@@ -1275,7 +1275,7 @@
 执=fw
 丢=pd
 荣=cm
-臂=by
+臂=py
 逐=zn
 傲=ra
 戴=gg
@@ -1311,7 +1311,7 @@
 爬=vb
 丫=ea
 炸=hv
-壁=bt
+壁=pt
 涌=dy
 凶=xa
 郎=ea
@@ -2749,7 +2749,7 @@
 仕=ru
 倏=rq
 芹=cj
-僻=rb
+僻=rp
 絮=rx
 杏=mk
 浆=du
@@ -3254,7 +3254,7 @@
 贿=by
 肮=yk
 瑾=wa
-璧=by
+璧=py
 烙=hg
 攘=fx
 攥=fx
@@ -3752,7 +3752,7 @@
 啬=uh
 舷=vx
 矗=vv
-癖=bx
+癖=bp
 掣=vu
 匾=ba
 谧=ym
@@ -6308,7 +6308,7 @@
 窭=bl
 鞒=gq
 慝=nx
-襞=yb
+襞=yp
 臁=yl
 矧=uy
 獯=qx
@@ -6428,7 +6428,7 @@
 趼=zk
 锊=jc
 泺=dl
-擗=fx
+擗=fp
 渖=du
 舴=vv
 疬=bl
@@ -6570,7 +6570,7 @@
 阽=ev
 鹱=ny
 鲒=yj
-甓=wb
+甓=wp
 锖=jq
 蓥=cj
 垤=tv
@@ -7133,3 +7133,5 @@
 㧟=fh
 姤=nh
 囧=kb
+叆=ya
+毐=uw

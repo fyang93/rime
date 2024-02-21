@@ -8,13 +8,10 @@
 - 支持英文单词输入。
 - 支持LaTeX符号输入，如`\alpha`可以输入α。
 - 当不知道汉字读音的时候，可以用``jj``替代拼音通过形码查找。
+- 当出现重码时，辅助码后不断添加`j`即可按照字频依次选字。
 
 ## 自定义词库
 
 - `scripts/dicts/custom.dict.yaml`：自定义词库，修改后需要通过`scripts/script.ipynb`进行词库转换，转换后的词库会更新到`dicts/custom.dict.yaml`。
 - `dicts/custom_phrase.txt`：自定义短词，适用于用缩写编码输入较长的内容，如邮箱、手机号、身份证等。
 - `dicts/top_single_char.txt`和`dicts/top_words.txt`：自定义固顶字词。
-
-## 更新
-
-- 抛弃鹤形，改用易学码。该辅助码逻辑比较简单，输入更流畅。
