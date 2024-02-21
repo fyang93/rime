@@ -66,11 +66,10 @@ speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;\'
   delimiter: " '"
   algebra:
-    - abbrev/^(\w+);(\w)(\w)$/$1;/
-    - abbrev/^(\w+);(\w)(\w)$/$1;$2/
-    - derive/^(\w+);(\w)(\w)$/$1/
-    - derive/^(\w+);(\w)(\w)$/jj;$2/    # 不知道读音只知道写法的时候用
-    - derive/^(\w+);(\w)(\w)$/jj;$2$3/
+    - abbrev/^(\w+);\w+$/$1/
+    - derive/^(\w+);\w+$/$1;/
+    - derive/^(\w+);(\w)\w*$/$1;$2/
+    - derive/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
 
 translator:
   dictionary: zrm

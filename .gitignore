@@ -1,6 +1,8 @@
 *.userdb
 build
 sync
+.venv
+.vscode
 
 installation.yaml
 user.yaml
