@@ -14,7 +14,7 @@ sort: by_weight
 李颉	li;mz jx;ur	10000
 猹猹	ia;qd ia;qd	10000
 猹总	ia;qd zs;bx	10000
-娄博	lb;mn bo;uc	10000
+娄博	lb;mnj bo;uc	10000
 
 # 词汇
 鹤形	he;dn xy;kp	10000
@@ -26,7 +26,7 @@ sort: by_weight
 误检	wu;yt jm;ma	10000
 大作业	da;un zo;rv ye;la	10000
 一作	yi;aa zo;rv	10000
-电院	dm;lv yr;ee	10000
+电院	dm;lv yr;eej	10000
 世界线	ui;av jx;tl xm;sj	10000
 行人重识别	xy;ii rf;pn is;pa ui;yb bx;kd	10000
 重识别	is;pa ui;yb bx;kd	10000
@@ -62,7 +62,7 @@ ibus	ibus	10000
 配了个	pz;yj le;vl ge;rl	10000
 写一份	xx;by yi;aa ff;rd	10000
 属实是	uu;uy ui;bd ui;or	10000
-试试水	ui;yg ui;yg uv;ln	10000
+试试水	ui;ygj ui;ygj uv;ln	10000
 选里面	xr;ze li;la mm;aa	10000
 我搞的	wo;pd gk;fk de;bu	10000
 你搞的	ni;rx gk;fk de;bu	10000

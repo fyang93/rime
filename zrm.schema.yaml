@@ -53,7 +53,7 @@ engine:
     - table_translator@top_single_char # 固顶单字
     - table_translator@top_words       # 固顶词语
     - table_translator@custom_phrase   # 自定义短语
-    - table_translator@english         # 英文输入
+    # - table_translator@english         # 英文输入
     - table_translator@latex           # 数学符号输入
     - lua_translator@date_translator
   filters:
@@ -68,10 +68,7 @@ speller:
   algebra:
     - abbrev/^(\w+);\w+$/$1/
     - derive/^(\w+);\w+$/$1;/
-    - derive/^(\w+);(\w+)\w$/$1;$2/
-    - derive/^(\w+);(\w+)\w\w$/$1;$2/
-    - derive/^(\w+);(\w+)\w\w\w$/$1;$2/
-    - derive/^(\w+);(\w+)\w\w\w\w$/$1;$2/
+    - derive/^(\w+);(\w)\w+$/$1;$2/
     - derive/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
 
 translator:
