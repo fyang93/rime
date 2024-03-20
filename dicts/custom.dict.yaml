@@ -5,51 +5,51 @@ sort: by_weight
 ...
 
 # 名字
-施潇雨	ui;dhph xc;ucv yu;hlvl	10000
-羊帆	yh;dphh fj;lvpv	10000
-羊立华	yh;dphh li;dhdp hw;rpx	10000
-魏云娥	wz;phpl yp;hhvd ee;vpph	10000
-施伟	ui;dhph wz;rhhv	10000
-龚紫涛	gs;hphl zi;lhvv tk;uhhh	10000
-李颉	li;mvlh jx;thp	10000
+施潇雨	ui;dapa xc;ucv yu;alvl	10000
+羊帆	yh;dpaa fj;lvpv	10000
+羊立华	yh;dpaa li;dadp hw;rpx	10000
+魏云娥	wz;papl yp;aavd ee;vppa	10000
+施伟	ui;dapa wz;raav	10000
+龚紫涛	gs;apal zi;lavv tk;uaaa	10000
+李颉	li;mvla jx;tap	10000
 猹猹	ia;pvm ia;pvm	10000
 猹总	ia;pvm zs;dpdv	10000
-娄博	lb;dpvp bo;xhl	10000
+娄博	lb;dpvp bo;xal	10000
 
 # 词汇
-鹤形	he;dvpv xy;hhpp	10000
-闵大荒	mn;dldh da;hpdd hd;cdh	10000
-瘦了吧唧	ub;dhpl le;vll ba;kvlh ji;kvhh	10000
-白人餐	bl;plvh rf;rr cj;lhrd	10000
-泛化性	fj;updv hw;rpvv xy;ddph	10000
-奥莱	ao;plhp ll;chd	10000
-误检	wu;dvkh jm;mrhd	10000
-大作业	da;hpdd zo;rphl ye;lldp	10000
-一作	yi;hh zo;rphl	10000
-电院	dm;lvhh yr;vldd	10000
-世界线	ui;hllh jx;lvrp xm;vvhh	10000
-行人重识别	xy;pphh rf;rr is;phlv ui;dvkp bx;kvll	10000
-重识别	is;phlv ui;dvkp bx;kvll	10000
-自监督	zi;plvh jm;lllv du;lhlv	10000
-无监督	wu;hhpv jm;lllv du;lhlv	10000
-有监督	yb;hpyy jm;lllv du;lhlv	10000
-边缘计算	bm;vpdv yr;vvvv ji;dvx sr;phlv	10000
-碳排放	tj;hplv pl;flh fh;dhph	10000
-预申报	yu;vdhp uf;lvhh bk;fvl	10000
-虚头巴脑	xu;lhll tb;ddhp ba;vlhv nk;ydhp	10000
-吉姆丽德	ji;tkd mu;vpvv li;hlvd de;ppx	10000
-声明式	ug;tvl my;oyy ui;hhlh	10000
-平铺式	py;hdph pu;jhl ui;hhlh	10000
-组会	zu;vvlv hv;rhhv	10000
-零样本	ly;hdrd yh;mdph bf;hlpd	10000
-具身	ju;lvpd uf;plvh	10000
-具身智能	ju;lvpd uf;plvh vi;pho ng;vdpv	10000
-卷积层	jr;dpvv ji;phkp cg;vhhh	10000
-全连接层	qr;rhhl lm;hvdv jx;fdh cg;vhhh	10000
-蜜雪	mi;ddlv xt;hdvh	10000
-蜜雪冰城	mi;ddlv xt;hdvh by;dhuu ig;thp	10000
-库迪	ku;dhhv di;lvdv	10000
-性转	xy;ddph vr;hvhh	10000
+鹤形	he;dvpv xy;aapp	10000
+闵大荒	mn;dlda da;apdd hd;cda	10000
+瘦了吧唧	ub;dapl le;vll ba;kvla ji;kvaa	10000
+白人餐	bl;plva rf;rr cj;lard	10000
+泛化性	fj;updv hw;rpvv xy;ddpa	10000
+奥莱	ao;plap ll;cad	10000
+误检	wu;dvka jm;mrad	10000
+大作业	da;apdd zo;rpal ye;lldp	10000
+一作	yi;aa zo;rpal	10000
+电院	dm;lvaa yr;vldd	10000
+世界线	ui;alla jx;lvrp xm;vvaa	10000
+行人重识别	xy;ppaa rf;rr is;palv ui;dvkp bx;kvll	10000
+重识别	is;palv ui;dvkp bx;kvll	10000
+自监督	zi;plva jm;lllv du;lalv	10000
+无监督	wu;aapv jm;lllv du;lalv	10000
+有监督	yb;apyy jm;lllv du;lalv	10000
+边缘计算	bm;vpdv yr;vvvv ji;dvx sr;palv	10000
+碳排放	tj;aplv pl;fla fh;dapa	10000
+预申报	yu;vdap uf;lvaa bk;fvl	10000
+虚头巴脑	xu;lall tb;ddap ba;vlav nk;ydap	10000
+吉姆丽德	ji;tkd mu;vpvv li;alvd de;ppx	10000
+声明式	ug;tvl my;oyy ui;aala	10000
+平铺式	py;adpa pu;jal ui;aala	10000
+组会	zu;vvlv hv;raav	10000
+零样本	ly;adrd yh;mdpa bf;alpd	10000
+具身	ju;lvpd uf;plva	10000
+具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	10000
+卷积层	jr;dpvv ji;pakp cg;vaaa	10000
+全连接层	qr;raal lm;avdv jx;fda cg;vaaa	10000
+蜜雪	mi;ddlv xt;adva	10000
+蜜雪冰城	mi;ddlv xt;adva by;dauu ig;tap	10000
+库迪	ku;daav di;lvdv	10000
+性转	xy;ddpa vr;avaa	10000
 帕鲁	pa;lvpl lu;pvo	10000
 
 # 中英混输
@@ -60,25 +60,25 @@ U盘	upj	10000
 ibus	ibus	10000
 
 # 常用
-配了个	pz;hlvh le;vll ge;rll	10000
-写一份	xx;dvhv yi;hh ff;rpdv	10000
-属实是	uu;vhpl ui;dddd ui;ohl	10000
-试试水	ui;dvhh ui;dvhh uv;uu	10000
-选里面	xr;phdv li;lvhh mm;hplv	10000
-我搞的	wo;phlh gk;fdh de;plpv	10000
-你搞的	ni;rpvl gk;fdh de;plpv	10000
-他搞的	ta;rvlv gk;fdh de;plpv	10000
-她搞的	ta;vpvl gk;fdh de;plpv	10000
-它搞的	ta;ddpv gk;fdh de;plpv	10000
-谁搞的	uv;dvrd gk;fdh de;plpv	10000
-塞里面	sl;ddt li;lvhh mm;hplv	10000
-不能改	bu;hpld ng;vdpv gl;vhph	10000
-写材料	xx;dvhv cl;mhlp lc;dpdd	10000
-讨口饭吃	tk;dvhl kb;kk fj;pvpp ii;kphv	10000
-多穿点	do;pvpv ir;ddhv dm;lhdd	10000
-弄一下	ns;hhhp yi;hh xw;hldd	10000
-所在的	so;pppp zl;hpt de;plpv	10000
-这有啥	ve;dhdv yb;hpyy ua;krhh	10000
-添加了	tm;uhhp jw;vpkk le;vll	10000
-没起到	mz;upvv qi;tvh dk;hvll	10000
-再看吧	zl;hlvl kj;phlv ba;kvlh	10000
+配了个	pz;alva le;vll ge;rll	10000
+写一份	xx;dvav yi;aa ff;rpdv	10000
+属实是	uu;vapl ui;dddd ui;oal	10000
+试试水	ui;dvaa ui;dvaa uv;uu	10000
+选里面	xr;padv li;lvaa mm;aplv	10000
+我搞的	wo;pala gk;fda de;plpv	10000
+你搞的	ni;rpvl gk;fda de;plpv	10000
+他搞的	ta;rvlv gk;fda de;plpv	10000
+她搞的	ta;vpvl gk;fda de;plpv	10000
+它搞的	ta;ddpv gk;fda de;plpv	10000
+谁搞的	uv;dvrd gk;fda de;plpv	10000
+塞里面	sl;ddt li;lvaa mm;aplv	10000
+不能改	bu;apld ng;vdpv gl;vapa	10000
+写材料	xx;dvav cl;malp lc;dpdd	10000
+讨口饭吃	tk;dval kb;kk fj;pvpp ii;kpav	10000
+多穿点	do;pvpv ir;ddav dm;ladd	10000
+弄一下	ns;aaap yi;aa xw;aldd	10000
+所在的	so;pppp zl;apt de;plpv	10000
+这有啥	ve;dadv yb;apyy ua;kraa	10000
+添加了	tm;uaap jw;vpkk le;vll	10000
+没起到	mz;upvv qi;tva dk;avll	10000
+再看吧	zl;alvl kj;palv ba;kvla	10000
