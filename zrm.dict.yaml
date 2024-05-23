@@ -3751,7 +3751,7 @@ import_tables:
 脟	lx;	1
 䴕	lx;	0
 𫚭	lx;	0
-林	ln;mamm	1435296
+林	ln;mm	1435296
 临	ln;llpa	332190
 琳	ln;aamm	156208
 淋	ln;ummm	71208
@@ -4157,9 +4157,9 @@ import_tables:
 扪	mf;fdl	2344
 焖	mf;dpdl	1422
 钔	mf;jdl	33
-呇	mf;	2
+呇	mf;uk	2
 𫞩	mf;	0
-梦	mg;mapv	650909
+梦	mg;mmpv	650909
 猛	mg;pvvl	403183
 蒙	mg;caa	290989
 孟	mg;vllv	162475
@@ -5415,7 +5415,7 @@ import_tables:
 穑	se;pax	643
 铯	se;jpv	123
 璱	se;	38
-森	sf;mmmm	243708
+森	sf;mmm	243708
 僧	sg;rdpl	83065
 啥	ua;kraa	976190
 傻	ua;rplv	248211
