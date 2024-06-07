@@ -31,7 +31,7 @@ patch:
       max_height: 0 # 候选框最大高度
       max_width: 0 # 候选框最大宽度，超过会折叠
       min_height: 0 # 最小高度
-      min_width: 160
+      min_width: 16
       type: horizontal # horizontal（横向）；vertical（竖向） ; vertical_text（竖排文本） ; vertical+fullscreen（全屏） ; horizontal+fullscreen（横向全屏）
       border_height: 0 # 边框宽度高度
       border_width: 1 # 边框宽度，又名 border
@@ -44,8 +44,8 @@ patch:
       shadow_offset_x: 4 # 阴影偏离和圆角大小
       shadow_offset_y: 4
       shadow_radius: 0
-      corner_radius: 8 # 候选框圆角
-      round_corner: 5  # 高亮区域圆角；又名 hilited_corner_radius
+      corner_radius: 6 # 候选框圆角
+      round_corner: 4  # 高亮区域圆角；又名 hilited_corner_radius
 
   preset_color_schemes:
     light:
@@ -57,6 +57,7 @@ patch:
       hilited_back_color: 0xF1F1F1
       hilited_candidate_text_color: 0xFFFFFF
       hilited_candidate_back_color: 0x7AAE53
+      hilited_comment_text_color: 0xF1F1F1
       candidate_text_color: 0x000000
       comment_text_color: 0x000000
     dark:
@@ -68,5 +69,6 @@ patch:
       hilited_back_color: 0xF1F1F1
       hilited_candidate_text_color: 0xFFFFFF
       hilited_candidate_back_color: 0x77B240
+      hilited_comment_text_color: 0xF1F1F1
       candidate_text_color: 0xFFFFFF
       comment_text_color: 0xF1F1F1
