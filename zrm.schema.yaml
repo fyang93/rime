@@ -78,7 +78,7 @@ translator:
   enable_sentence: false
   enable_user_dict: true
   disable_user_dict_for_patterns: # 禁止单字、双字词调频
-    - ^[a-z]{1,2}$
+    - ^[a-z]{1,4}$
     - ^[a-z]{2};[a-z]+$
     - ^[a-z]{2};[a-z]+;[a-z]*$
   spelling_hints: 8               # 设置多少字以内候选标注完整编码
