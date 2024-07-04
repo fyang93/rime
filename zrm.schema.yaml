@@ -67,20 +67,19 @@ speller:
   delimiter: " '"
   algebra:
     - abbrev/^(\w+);\w+$/$1/
-    - derive/^(\w+);\w+$/$1;/
+    - abbrev/^(\w+);\w+$/$1;/
     - derive/^(\w+);(\w{1})\w+$/$1;$2/
     - derive/^(\w+);(\w{2})\w+$/$1;$2/
     - derive/^(\w+);(\w{3})\w+$/$1;$2/
-    - derive/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
+    - abbrev/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
 
 translator:
   dictionary: zrm
   enable_sentence: false
   enable_user_dict: true
-  disable_user_dict_for_patterns: # 禁止单字、双字词调频
-    - ^[a-z]{1,4}$
+  disable_user_dict_for_patterns: # 禁止单字调频
+    - ^[a-z]{1,2}$
     - ^[a-z]{2};[a-z]+$
-    - ^[a-z]{2};[a-z]+;[a-z]*$
   spelling_hints: 8               # 设置多少字以内候选标注完整编码
   comment_format:                 # 自定义提示码
     - xform/^.*[a-z]{2};//
