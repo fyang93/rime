@@ -67,11 +67,11 @@ speller:
   delimiter: " '"
   algebra:
     - abbrev/^(\w+);\w+$/$1/
-    - abbrev/^(\w+);\w+$/$1;/
+    - derive/^(\w+);\w+$/$1;/
     - derive/^(\w+);(\w{1})\w+$/$1;$2/
     - derive/^(\w+);(\w{2})\w+$/$1;$2/
     - derive/^(\w+);(\w{3})\w+$/$1;$2/
-    - abbrev/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
+    - derive/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
 
 translator:
   dictionary: zrm
