@@ -32,7 +32,6 @@ switches:
 
 engine:
   processors:
-    - lua_processor@select_character_processor
     - ascii_composer
     - recognizer
     - key_binder
@@ -55,7 +54,6 @@ engine:
     - table_translator@custom_phrase   # 自定义短语
     # - table_translator@english         # 英文输入
     - table_translator@latex           # 数学符号输入
-    - lua_translator@date_translator
   filters:
     - simplifier
     - simplifier@emoji
