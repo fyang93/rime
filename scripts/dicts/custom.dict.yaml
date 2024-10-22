@@ -5,80 +5,80 @@ sort: by_weight
 ...
 
 # 名字
-施潇雨	shi xiao yu	10000
-羊帆	yang fan	10000
-羊立华	yang li hua	10000
-魏云娥	wei yun e	10000
-施伟	shi wei	10000
-龚紫涛	gong zi tao	10000
-李颉	li jie	10000
-猹猹	cha cha	10000
-猹总	cha zong	10000
-娄博	lou bo	10000
+施潇雨	shi xiao yu
+羊帆	yang fan
+羊立华	yang li hua
+魏云娥	wei yun e
+施伟	shi wei
+龚紫涛	gong zi tao
+李颉	li jie
+猹猹	cha cha
+猹总	cha zong
+娄博	lou bo
 
 # 词汇
-鹤形	he xing	10000
-闵大荒	min da huang	10000
-瘦了吧唧	shou le ba ji	10000
-白人餐	bai ren can	10000
-泛化性	fan hua xing	10000
-奥莱	ao lai	10000
-误检	wu jian	10000
-大作业	da zuo ye	10000
-一作	yi zuo	10000
-电院	dian yuan	10000
-世界线	shi jie xian	10000
-行人重识别	xing ren chong shi bie	10000
-重识别	chong shi bie	10000
-自监督	zi jian du	10000
-无监督	wu jian du	10000
-有监督	you jian du	10000
-边缘计算	bian yuan ji suan	10000
-碳排放	tan pai fang	10000
-预申报	yu shen bao	10000
-虚头巴脑	xu tou ba nao	10000
-吉姆丽德	ji mu li de	10000
-声明式	sheng ming shi	10000
-平铺式	ping pu shi	10000
-组会	zu hui	10000
-零样本	ling yang ben	10000
-具身	ju shen	10000
-具身智能	ju shen zhi neng	10000
-卷积层	juan ji ceng	10000
-全连接层	quan lian jie ceng	10000
-蜜雪	mi xue	10000
-蜜雪冰城	mi xue bing cheng	10000
-库迪	ku di	10000
-性转	xing zhuan	10000
-帕鲁	pa lu	10000
+鹤形	he xing
+闵大荒	min da huang
+瘦了吧唧	shou le ba ji
+白人餐	bai ren can
+泛化性	fan hua xing
+奥莱	ao lai
+误检	wu jian
+大作业	da zuo ye
+一作	yi zuo
+电院	dian yuan
+世界线	shi jie xian
+行人重识别	xing ren chong shi bie
+重识别	chong shi bie
+自监督	zi jian du
+无监督	wu jian du
+有监督	you jian du
+边缘计算	bian yuan ji suan
+碳排放	tan pai fang
+预申报	yu shen bao
+虚头巴脑	xu tou ba nao
+吉姆丽德	ji mu li de
+声明式	sheng ming shi
+平铺式	ping pu shi
+组会	zu hui
+零样本	ling yang ben
+具身	ju shen
+具身智能	ju shen zhi neng
+卷积层	juan ji ceng
+全连接层	quan lian jie ceng
+蜜雪	mi xue
+蜜雪冰城	mi xue bing cheng
+库迪	ku di
+性转	xing zhuan
+帕鲁	pa lu
 
 # 中英混输
-哆啦A梦	do la a meng	10000
-b站	b zhan	10000
-up主	up zhu	10000
-U盘	u pan	10000
-ibus	ibus	10000
+哆啦A梦	do la a meng
+b站	b zhan
+up主	up zhu
+U盘	u pan
+ibus	ibus
 
 # 常用
-配了个	pei le ge	10000
-写一份	xie yi fen	10000
-属实是	shu shi shi	10000
-试试水	shi shi shui	10000
-选里面	xuan li mian	10000
-我搞的	wo gao de	10000
-你搞的	ni gao de	10000
-他搞的	ta gao de	10000
-她搞的	ta gao de	10000
-它搞的	ta gao de	10000
-谁搞的	shui gao de	10000
-塞里面	sai li mian	10000
-不能改	bu neng gai	10000
-写材料	xie cai liao	10000
-讨口饭吃	tao kou fan chi	10000
-多穿点	duo chuan dian	10000
-弄一下	nong yi xia	10000
-所在的	suo zai de	10000
-这有啥	zhe you sha	10000
-添加了	tian jia le	10000
-没起到	mei qi dao	10000
-再看吧	zai kan ba	10000
+配了个	pei le ge
+写一份	xie yi fen
+属实是	shu shi shi
+试试水	shi shi shui
+选里面	xuan li mian
+我搞的	wo gao de
+你搞的	ni gao de
+他搞的	ta gao de
+她搞的	ta gao de
+它搞的	ta gao de
+谁搞的	shui gao de
+塞里面	sai li mian
+不能改	bu neng gai
+写材料	xie cai liao
+讨口饭吃	tao kou fan chi
+多穿点	duo chuan dian
+弄一下	nong yi xia
+所在的	suo zai de
+这有啥	zhe you sha
+添加了	tian jia le
+没起到	mei qi dao
+再看吧	zai kan ba

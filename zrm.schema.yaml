@@ -75,11 +75,13 @@ speller:
 
 translator:
   dictionary: zrm
-  enable_sentence: false
-  enable_user_dict: true
-  disable_user_dict_for_patterns: # 禁止单字调频
-    - ^[a-z]{1,2}$
-    - ^[a-z]{2};[a-z]+$
+  enable_sentence: false # 自动造句
+  enable_encoder: false # 自动造词
+  enable_user_dict: false # 禁用用户词典，rime的调频算法真尼玛垃圾，不如不要
+  # enable_user_dict: true
+  # disable_user_dict_for_patterns: # 禁止单字调频
+  #   - ^[a-z]{1,2}$
+  #   - ^[a-z]{2};[a-z]+$
   spelling_hints: 8               # 设置多少字以内候选标注完整编码
   comment_format:                 # 自定义提示码
     - xform/^.*[a-z]{2};//
