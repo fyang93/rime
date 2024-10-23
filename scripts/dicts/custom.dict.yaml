@@ -42,6 +42,10 @@ sort: by_weight
 平铺式	ping pu shi
 组会	zu hui
 零样本	ling yang ben
+正样本	zheng yang ben
+负样本	fu yang ben
+误检	wu jian
+误检率	wu jian lv
 具身	ju shen
 具身智能	ju shen zhi neng
 卷积层	juan ji ceng

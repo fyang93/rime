@@ -42,6 +42,10 @@ sort: by_weight
 平铺式	py;adpa pu;jal ui;aala	1000
 组会	zu;vvlv hv;raav	1000
 零样本	ly;adrd yh;mdpa bf;alpd	1000
+正样本	vg;alal yh;mdpa bf;alpd	1000
+负样本	fu;pvb yh;mdpa bf;alpd	1000
+误检	wu;dvka jm;mrad	1000
+误检率	wu;dvka jm;mrad lv;davv	1000
 具身	ju;lvpd uf;plva	1000
 具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	1000
 卷积层	jr;dpvv ji;pakp cg;vaaa	1000
