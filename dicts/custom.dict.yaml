@@ -5,80 +5,85 @@ sort: by_weight
 ...
 
 # 名字
-施潇雨	ui;dapa xc;ucv yu;alvl	10000
-羊帆	yh;dpaa fj;lvpv	10000
-羊立华	yh;dpaa li;dadp hw;rpx	10000
-魏云娥	wz;papl yp;aavd ee;vppa	10000
-施伟	ui;dapa wz;raav	10000
-龚紫涛	gs;apal zi;lavv tk;uaaa	10000
-李颉	li;mvla jx;tap	10000
-猹猹	ia;pvm ia;pvm	10000
-猹总	ia;pvm zs;dpdv	10000
-娄博	lb;dpvp bo;xal	10000
+施潇雨	ui;dapa xc;ucv yu;alvl	1000
+羊帆	yh;dpaa fj;lvpv	1000
+羊立华	yh;dpaa li;dadp hw;rpx	1000
+魏云娥	wz;papl yp;aavd ee;vppa	1000
+施伟	ui;dapa wz;raav	1000
+龚紫涛	gs;apal zi;lavv tk;uaaa	1000
+李颉	li;mvla jx;tap	1000
+猹猹	ia;pvm ia;pvm	1000
+猹总	ia;pvm zs;dpdv	1000
+娄博	lb;dpvp bo;xal	1000
 
 # 词汇
-鹤形	he;dvpv xy;aapp	10000
-闵大荒	mn;dlda da;apdd hd;cda	10000
-瘦了吧唧	ub;dapl le;vll ba;kvla ji;kvaa	10000
-白人餐	bl;plva rf;rr cj;lard	10000
-泛化性	fj;updv hw;rpvv xy;ddpa	10000
-奥莱	ao;plap ll;cad	10000
-误检	wu;dvka jm;mrad	10000
-大作业	da;apdd zo;rpal ye;lldp	10000
-一作	yi;aa zo;rpal	10000
-电院	dm;lvaa yr;vldd	10000
-世界线	ui;alla jx;lvrp xm;vvaa	10000
-行人重识别	xy;ppaa rf;rr is;palv ui;dvkp bx;kvll	10000
-重识别	is;palv ui;dvkp bx;kvll	10000
-自监督	zi;plva jm;lllv du;lalv	10000
-无监督	wu;aapv jm;lllv du;lalv	10000
-有监督	yb;apyy jm;lllv du;lalv	10000
-边缘计算	bm;vpdv yr;vvvv ji;dvx sr;palv	10000
-碳排放	tj;aplv pl;fla fh;dapa	10000
-预申报	yu;vdap uf;lvaa bk;fvl	10000
-虚头巴脑	xu;lall tb;ddap ba;vlav nk;ydap	10000
-吉姆丽德	ji;tkd mu;vpvv li;alvd de;ppx	10000
-声明式	ug;tvl my;oyy ui;aala	10000
-平铺式	py;adpa pu;jal ui;aala	10000
-组会	zu;vvlv hv;raav	10000
-零样本	ly;adrd yh;mdpa bf;alpd	10000
-具身	ju;lvpd uf;plva	10000
-具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	10000
-卷积层	jr;dpvv ji;pakp cg;vaaa	10000
-全连接层	qr;raal lm;avdv jx;fda cg;vaaa	10000
-蜜雪	mi;ddlv xt;adva	10000
-蜜雪冰城	mi;ddlv xt;adva by;dauu ig;tap	10000
-库迪	ku;daav di;lvdv	10000
-性转	xy;ddpa vr;avaa	10000
-帕鲁	pa;lvpl lu;pvo	10000
+鹤形	he;dvpv xy;aapp	1000
+闵大荒	mn;dlda da;apdd hd;cda	1000
+瘦了吧唧	ub;dapl le;vll ba;kvla ji;kvaa	1000
+白人餐	bl;plva rf;rr cj;lard	1000
+泛化性	fj;updv hw;rpvv xy;ddpa	1000
+奥莱	ao;plap ll;cad	1000
+误检	wu;dvka jm;mrad	1000
+大作业	da;apdd zo;rpal ye;lldp	1000
+一作	yi;aa zo;rpal	1000
+电院	dm;lvaa yr;vldd	1000
+世界线	ui;alla jx;lvrp xm;vvaa	1000
+行人重识别	xy;ppaa rf;rr is;palv ui;dvkp bx;kvll	1000
+重识别	is;palv ui;dvkp bx;kvll	1000
+自监督	zi;plva jm;lllv du;lalv	1000
+无监督	wu;aapv jm;lllv du;lalv	1000
+有监督	yb;apyy jm;lllv du;lalv	1000
+边缘计算	bm;vpdv yr;vvvv ji;dvx sr;palv	1000
+碳排放	tj;aplv pl;fla fh;dapa	1000
+预申报	yu;vdap uf;lvaa bk;fvl	1000
+虚头巴脑	xu;lall tb;ddap ba;vlav nk;ydap	1000
+吉姆丽德	ji;tkd mu;vpvv li;alvd de;ppx	1000
+声明式	ug;tvl my;oyy ui;aala	1000
+平铺式	py;adpa pu;jal ui;aala	1000
+组会	zu;vvlv hv;raav	1000
+零样本	ly;adrd yh;mdpa bf;alpd	1000
+具身	ju;lvpd uf;plva	1000
+具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	1000
+卷积层	jr;dpvv ji;pakp cg;vaaa	1000
+全连接层	qr;raal lm;avdv jx;fda cg;vaaa	1000
+蜜雪	mi;ddlv xt;adva	1000
+蜜雪冰城	mi;ddlv xt;adva by;dauu ig;tap	1000
+库迪	ku;daav di;lvdv	1000
+性转	xy;ddpa vr;avaa	1000
+帕鲁	pa;lvpl lu;pvo	1000
+正哥	vg;alal ge;adad	1000
+皓俊	hk;plpa jp;rvdp	1000
+张建	vh;vapa jm;vavd	1000
+孙博	sp;vllp bo;xal	1000
+鲁博	lu;pvo bo;xal	1000
 
 # 中英混输
-哆啦A梦	dolaamg	10000
-b站	bvj	10000
-up主	upvu	10000
-U盘	upj	10000
-ibus	ibus	10000
+哆啦A梦	dolaamg	1000
+b站	bvj	1000
+up主	upvu	1000
+U盘	upj	1000
+ibus	ibus	1000
 
 # 常用
-配了个	pz;alva le;vll ge;rll	10000
-写一份	xx;dvav yi;aa ff;rpdv	10000
-属实是	uu;vapl ui;dddd ui;oal	10000
-试试水	ui;dvaa ui;dvaa uv;uu	10000
-选里面	xr;padv li;lvaa mm;aplv	10000
-我搞的	wo;pala gk;fda de;plpv	10000
-你搞的	ni;rpvl gk;fda de;plpv	10000
-他搞的	ta;rvlv gk;fda de;plpv	10000
-她搞的	ta;vpvl gk;fda de;plpv	10000
-它搞的	ta;ddpv gk;fda de;plpv	10000
-谁搞的	uv;dvrd gk;fda de;plpv	10000
-塞里面	sl;ddt li;lvaa mm;aplv	10000
-不能改	bu;apld ng;vdpv gl;vapa	10000
-写材料	xx;dvav cl;malp lc;dpdd	10000
-讨口饭吃	tk;dval kb;kk fj;pvpp ii;kpav	10000
-多穿点	do;pvpv ir;ddav dm;ladd	10000
-弄一下	ns;aaap yi;aa xw;aldd	10000
-所在的	so;pppp zl;apt de;plpv	10000
-这有啥	ve;dadv yb;apyy ua;kraa	10000
-添加了	tm;uaap jw;vpkk le;vll	10000
-没起到	mz;upvv qi;tva dk;avll	10000
-再看吧	zl;alvl kj;palv ba;kvla	10000
+配了个	pz;alva le;vll ge;rll	1000
+写一份	xx;dvav yi;aa ff;rpdv	1000
+属实是	uu;vapl ui;dddd ui;oal	1000
+试试水	ui;dvaa ui;dvaa uv;uu	1000
+选里面	xr;padv li;lvaa mm;aplv	1000
+我搞的	wo;pala gk;fda de;plpv	1000
+你搞的	ni;rpvl gk;fda de;plpv	1000
+他搞的	ta;rvlv gk;fda de;plpv	1000
+她搞的	ta;vpvl gk;fda de;plpv	1000
+它搞的	ta;ddpv gk;fda de;plpv	1000
+谁搞的	uv;dvrd gk;fda de;plpv	1000
+塞里面	sl;ddt li;lvaa mm;aplv	1000
+不能改	bu;apld ng;vdpv gl;vapa	1000
+写材料	xx;dvav cl;malp lc;dpdd	1000
+讨口饭吃	tk;dval kb;kk fj;pvpp ii;kpav	1000
+多穿点	do;pvpv ir;ddav dm;ladd	1000
+弄一下	ns;aaap yi;aa xw;aldd	1000
+所在的	so;pppp zl;apt de;plpv	1000
+这有啥	ve;dadv yb;apyy ua;kraa	1000
+添加了	tm;uaap jw;vpkk le;vll	1000
+没起到	mz;upvv qi;tva dk;avll	1000
+再看吧	zl;alvl kj;palv ba;kvla	1000
