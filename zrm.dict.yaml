@@ -7242,13 +7242,13 @@ import_tables:
 徉	yh;ppdp	2314
 烊	yh;dpdp	1882
 疡	yh;davp	1426
-旸	yh;	1023
-飏	yh;	742
-羕	yh;	559
+旸	yh;ovpp	1023
+飏	yh;pvvp	742
+羕	yh;dpdv	559
 蛘	yh;lvdp	81
-垟	yh;	42
-玚	yh;	28
-咉	yh;	19
+垟	yh;tdpa	42
+玚	yh;aavp	28
+咉	yh;klva	19
 钖	yh;jvp	9
 要	yk;alvp	7944606
 摇	yk;fpd	647544
@@ -7314,7 +7314,7 @@ import_tables:
 揶	ye;fal	4117
 咽	ye;klva	1000
 铘	ye;jav	248
-倻	ye;	22
+倻	ye;rall	22
 馌	ye;pvt	6
 一	yi;aa	35278860
 以	yi;vdrr	6523162
@@ -8371,7 +8371,7 @@ import_tables:
 谆	vp;dvda	3505
 肫	vp;yavl	178
 窀	vp;ddav	41
-衠	vp;	10
+衠	vp;ppxl	10
 屯	vp;avlv	1
 𬘯	vp;	0
 桌	vo;lamm	346095
@@ -8398,7 +8398,7 @@ import_tables:
 椓	vo;	7
 晫	vo;	6
 叕	vo;vdvd	4
-汋	vo;	2
+汋	vo;upvd	2
 焯	vo;dpla	1
 䓬	vo;	0
 䦃	vo;	0
@@ -8455,7 +8455,7 @@ import_tables:
 鬃	zs;aldd	3860
 粽	zs;dpdd	3503
 偬	zs;rpvp	396
-倧	zs;	144
+倧	zs;rddv	144
 鬷	zs;	78
 腙	zs;yddv	2
 枞	zs;mrrr	1
@@ -8480,8 +8480,8 @@ import_tables:
 俎	zu;rplv	1606
 镞	zu;jda	765
 菹	zu;cul	99
-崒	zu;	51
-珇	zu;	7
+崒	zu;lvda	51
+珇	zu;aalv	7
 钻	zr;jla	132223
 攥	zr;fpa	14543
 纂	zr;palv	2790
