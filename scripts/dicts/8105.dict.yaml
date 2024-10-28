@@ -58,6 +58,9 @@ sort: by_weight
 # 螓	qin	1
 珮	pei	0
 # 睆	huan	1
+### 自定义扩展，一些奇怪的字或者读音
+碁	qi	0
+乐	lao	0
 # 注释掉的这几行已经加入到下面并调整到合适的权重了
 # 〇	ling
 # 囧	jiong
