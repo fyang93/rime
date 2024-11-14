@@ -11,7 +11,6 @@ sort: by_weight
 魏云娥	wz;papl yp;aavd ee;vppa	10000
 施伟	ui;dapa wz;raav	10000
 龚紫涛	gs;apal zi;lavv tk;uaaa	10000
-李颉	li;mvla jx;tap	10000
 猹猹	ia;pvm ia;pvm	10000
 猹总	ia;pvm zs;dpdv	10000
 娄博	lb;dpvp bo;xal	10000
@@ -20,6 +19,8 @@ sort: by_weight
 张建	vh;vapa jm;vavd	10000
 孙博	sp;vllp bo;xal	10000
 鲁博	lu;pvo bo;xal	10000
+冯博	fg;davv bo;xal	10000
+江辉	jd;uala hv;lddv	10000
 
 # 词汇
 鹤形	he;dvpv xy;aapp	10000
@@ -61,6 +62,23 @@ sort: by_weight
 性转	xy;ddpa vr;avaa	10000
 帕鲁	pa;lvpl lu;pvo	10000
 运镜	yp;aadv jy;jda	10000
+罗马音	lo;lvpv ma;vvaa yn;dao	10000
+模速空间	mo;mc su;aldv ks;ddal jm;dlo	10000
+罕见病	hj;dvaa jm;lvpv by;daal	10000
+可交互	ke;akll jc;dapd hu;avva	10000
+昭和美国物语	vk;ovp he;pakk mz;dpap go;lvaa wu;papv yu;dval	10000
+秩序王国	vi;papa xu;davd wh;aala go;lvaa	10000
+网红店	wh;lvpd hs;vval dm;dala	10000
+当前帧	dh;ldva qm;dpyl vf;lvla	10000
+新语法	xn;dapp yu;dval fa;utv	10000
+旧语法	jq;loo yu;dval fa;utv	10000
+老语法	lk;xpv yu;dval fa;utv	10000
+锐评	rv;jdp py;dvad	10000
+像素图	xd;rpvl su;aavv tu;lvpv	10000
+退站	tv;vadv vj;dala	10000
+退站表	tv;vadv vj;dala bc;aapv	10000
+人社局	rf;rr ue;dvt ju;vavk	10000
+桃花坪	tk;mpda hw;crp py;tad	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -93,4 +111,15 @@ ibus	ibus	10000
 没起到	mz;upvv qi;tva dk;avll	10000
 再看吧	zl;alvl kj;palv ba;kvla	10000
 我吐了	wo;pala tu;ktt le;vll	10000
-罗马音	lo;lvpv ma;vvaa yn;dao	10000
+刚开完会	gh;lvll kl;aapl wj;ddaa hv;raav	10000
+搞完啦	gk;fda wj;ddaa la;kfd	10000
+住酒店	vu;rdaa jq;ualv dm;dala	10000
+烂完了	lj;dpdp wj;ddaa le;vll	10000
+开点药	kl;aapl dm;ladd yk;cvv	10000
+有点搞笑	yb;apyy dm;ladd gk;fda xc;papa	10000
+也不适用	ye;vlvv bu;apld ui;padv ys;pvaa	10000
+我改成	wo;pala gl;vapa ig;apvv	10000
+我改了	wo;pala gl;vapa le;vll	10000
+盖个章	gl;dplv ge;rll vh;dax	10000
+你学弟	ni;rpvl xt;ddvl di;dpva	10000
+你学姐	ni;rpvl xt;ddvl jx;vplv	10000
