@@ -31,61 +31,38 @@ sort: by_weight
 泛化性	fj;updv hw;rpvv xy;ddpa	10000
 奥莱	ao;plap ll;cad	10000
 误检	wu;dvka jm;mrad	10000
-大作业	da;apdd zo;rpal ye;lldp	10000
 一作	yi;aa zo;rpal	10000
 电院	dm;lvaa yr;vldd	10000
-世界线	ui;alla jx;lvrp xm;vvaa	10000
 行人重识别	xy;ppaa rf;rr is;palv ui;dvkp bx;kvll	10000
 重识别	is;palv ui;dvkp bx;kvll	10000
 自监督	zi;plva jm;lllv du;lalv	10000
-无监督	wu;aapv jm;lllv du;lalv	10000
 有监督	yb;apyy jm;lllv du;lalv	10000
-边缘计算	bm;vpdv yr;vvvv ji;dvx sr;palv	10000
-碳排放	tj;aplv pl;fla fh;dapa	10000
-预申报	yu;vdap uf;lvaa bk;fvl	10000
-虚头巴脑	xu;lall tb;ddap ba;vlav nk;ydap	10000
 吉姆丽德	ji;tkd mu;vpvv li;alvd de;ppx	10000
-声明式	ug;tvl my;oyy ui;aala	10000
-平铺式	py;adpa pu;jal ui;aala	10000
 组会	zu;vvlv hv;raav	10000
 零样本	ly;adrd yh;mdpa bf;alpd	10000
 正样本	vg;alal yh;mdpa bf;alpd	10000
-负样本	fu;pvb yh;mdpa bf;alpd	10000
 误检	wu;dvka jm;mrad	10000
 误检率	wu;dvka jm;mrad lv;davv	10000
 具身	ju;lvpd uf;plva	10000
 具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	10000
-卷积层	jr;dpvv ji;pakp cg;vaaa	10000
-全连接层	qr;raal lm;avdv jx;fda cg;vaaa	10000
-验证集	yj;vvra vg;dval ji;rdmm	10000
-测试集	ce;ubl ui;dvaa ji;rdmm	10000
-训练集	xp;dvpl lm;vvav ji;rdmm	10000
 蜜雪	mi;ddlv xt;adva	10000
 蜜雪冰城	mi;ddlv xt;adva by;dauu ig;tap	10000
 库迪	ku;daav di;lvdv	10000
 性转	xy;ddpa vr;avaa	10000
 帕鲁	pa;lvpl lu;pvo	10000
 运镜	yp;aadv jy;jda	10000
-罗马音	lo;lvpv ma;vvaa yn;dao	10000
 模速空间	mo;mc su;aldv ks;ddal jm;dlo	10000
-罕见病	hj;dvaa jm;lvpv by;daal	10000
-可交互	ke;akll jc;dapd hu;avva	10000
 昭和美国物语	vk;ovp he;pakk mz;dpap go;lvaa wu;papv yu;dval	10000
 秩序王国	vi;papa xu;davd wh;aala go;lvaa	10000
-网红店	wh;lvpd hs;vval dm;dala	10000
 当前帧	dh;ldva qm;dpyl vf;lvla	10000
 新语法	xn;dapp yu;dval fa;utv	10000
 旧语法	jq;loo yu;dval fa;utv	10000
 老语法	lk;xpv yu;dval fa;utv	10000
 锐评	rv;jdp py;dvad	10000
-像素图	xd;rpvl su;aavv tu;lvpv	10000
 退站	tv;vadv vj;dala	10000
 退站表	tv;vadv vj;dala bc;aapv	10000
-人社局	rf;rr ue;dvt ju;vavk	10000
 桃花坪	tk;mpda hw;crp py;tad	10000
 插帧	ia;fpa vf;lvla	10000
-相亲角	xd;mlva qn;damm jc;pvpv	10000
-依赖项	yi;rdap ll;alpv xd;alap	10000
 霞鹜文楷	xw;adva wu;vdpv wf;dapd kl;mavp	10000
 更纱黑体	gg;alva ua;vvlp hz;lvdd ti;ralp	10000
 航司	hh;ppda si;vakk	10000
@@ -94,14 +71,9 @@ sort: by_weight
 素材包	su;aavv cl;malp bk;pvva	10000
 狂扁	kd;pvaa bm;dvlv	10000
 挪瓦	no;fva wa;avvd	10000
-冰美式	by;dauu mz;dpap ui;aala	10000
-咖啡味	ka;kvpk fz;klaa wz;kaal	10000
-野路子	ye;lvvd lu;klpv zi;vlaa	10000
-直线段	vi;xlv xm;vvaa dr;plpv	10000
 实线段	ui;dddd xm;vvaa dr;plpv	10000
 虚线段	xu;lall xm;vvaa dr;plpv	10000
 秒退	mc;palp tv;vadv	10000
-约德尔	yt;vvpv de;ppx er;pvlp	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
