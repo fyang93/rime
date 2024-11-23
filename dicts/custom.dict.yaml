@@ -21,6 +21,7 @@ sort: by_weight
 鲁博	lu;pvo bo;xal	10000
 冯博	fg;davv bo;xal	10000
 江辉	jd;uala hv;lddv	10000
+露塞提娅	lu;adkl sl;ddt ti;fo ya;vpal	10000
 
 # 词汇
 鹤形	he;dvpv xy;aapp	10000
@@ -56,6 +57,9 @@ sort: by_weight
 具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	10000
 卷积层	jr;dpvv ji;pakp cg;vaaa	10000
 全连接层	qr;raal lm;avdv jx;fda cg;vaaa	10000
+验证集	yj;vvra vg;dval ji;rdmm	10000
+测试集	ce;ubl ui;dvaa ji;rdmm	10000
+训练集	xp;dvpl lm;vvav ji;rdmm	10000
 蜜雪	mi;ddlv xt;adva	10000
 蜜雪冰城	mi;ddlv xt;adva by;dauu ig;tap	10000
 库迪	ku;daav di;lvdv	10000
@@ -79,6 +83,25 @@ sort: by_weight
 退站表	tv;vadv vj;dala bc;aapv	10000
 人社局	rf;rr ue;dvt ju;vavk	10000
 桃花坪	tk;mpda hw;crp py;tad	10000
+插帧	ia;fpa vf;lvla	10000
+相亲角	xd;mlva qn;damm jc;pvpv	10000
+依赖项	yi;rdap ll;alpv xd;alap	10000
+霞鹜文楷	xw;adva wu;vdpv wf;dapd kl;mavp	10000
+更纱黑体	gg;alva ua;vvlp hz;lvdd ti;ralp	10000
+航司	hh;ppda si;vakk	10000
+自签名	zi;plva qm;para my;pvkk	10000
+剪映	jm;dpvp yy;olv	10000
+素材包	su;aavv cl;malp bk;pvva	10000
+狂扁	kd;pvaa bm;dvlv	10000
+挪瓦	no;fva wa;avvd	10000
+冰美式	by;dauu mz;dpap ui;aala	10000
+咖啡味	ka;kvpk fz;klaa wz;kaal	10000
+野路子	ye;lvvd lu;klpv zi;vlaa	10000
+直线段	vi;xlv xm;vvaa dr;plpv	10000
+实线段	ui;dddd xm;vvaa dr;plpv	10000
+虚线段	xu;lall xm;vvaa dr;plpv	10000
+秒退	mc;palp tv;vadv	10000
+约德尔	yt;vvpv de;ppx er;pvlp	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -123,3 +146,20 @@ ibus	ibus	10000
 盖个章	gl;dplv ge;rll vh;dax	10000
 你学弟	ni;rpvl xt;ddvl di;dpva	10000
 你学姐	ni;rpvl xt;ddvl jx;vplv	10000
+很难办	hf;ppva nj;vdrd bj;vpdd	10000
+倒也没有	dk;ravd ye;vlvv mz;upvv yb;apyy	10000
+挺常用	ty;fpa ih;ldkl ys;pvaa	10000
+买了券	ml;vdda le;vll qr;dpvp	10000
+弹了个窗	tj;vadp le;vll ge;rll id;ddpl	10000
+有点蠢	yb;apyy dm;ladd ip;aalv	10000
+那挺好	na;vavl ty;fpa hk;vpvl	10000
+这挺好	ve;dadv ty;fpa hk;vpvl	10000
+写得不对	xx;dvav de;ppo bu;apld dv;vdal	10000
+做得不对	zo;rxl de;ppo bu;apld dv;vdal	10000
+这一侧	ve;dadv yi;aa ce;rbl	10000
+我麻了	wo;pala ma;damm le;vll	10000
+人都麻了	rf;rr db;xvl ma;damm le;vll	10000
+没这玩意 mei zhe wan yi
+不生效 bu sheng xiao
+赚波快钱 zhuan bo kuai qian
+一开始以为 yi kai shi yi wei

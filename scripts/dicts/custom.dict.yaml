@@ -21,6 +21,7 @@ sort: by_weight
 鲁博	lu bo
 冯博	feng bo
 江辉	jiang hui
+露塞提娅	lu sai ti ya
 
 # 词汇
 鹤形	he xing
@@ -56,6 +57,9 @@ sort: by_weight
 具身智能	ju shen zhi neng
 卷积层	juan ji ceng
 全连接层	quan lian jie ceng
+验证集	yan zheng ji
+测试集	ce shi ji
+训练集	xun lian ji
 蜜雪	mi xue
 蜜雪冰城	mi xue bing cheng
 库迪	ku di
@@ -79,6 +83,25 @@ sort: by_weight
 退站表	tui zhan biao
 人社局	ren she ju
 桃花坪	tao hua ping
+插帧	cha zhen
+相亲角	xiang qin jiao
+依赖项	yi lai xiang
+霞鹜文楷	xia wu wen kai
+更纱黑体	geng sha hei ti
+航司	hang si
+自签名	zi qian ming
+剪映	jian ying
+素材包	su cai bao
+狂扁	kuang bian
+挪瓦	nuo wa
+冰美式	bing mei shi
+咖啡味	ka fei wei
+野路子	ye lu zi
+直线段	zhi xian duan
+实线段	shi xian duan
+虚线段	xu xian duan
+秒退	miao tui
+约德尔	yue de er
 
 # 中英混输
 哆啦A梦	do la a meng
@@ -123,3 +146,20 @@ ibus	ibus
 盖个章	gai ge zhang
 你学弟	ni xue di
 你学姐	ni xue jie
+很难办	hen nan ban
+倒也没有	dao ye mei you
+挺常用	ting chang yong
+买了券	mai le quan
+弹了个窗	tan le ge chuang
+有点蠢	you dian chun
+那挺好	na ting hao
+这挺好	zhe ting hao
+写得不对	xie de bu dui
+做得不对	zuo de bu dui
+这一侧	zhe yi ce
+我麻了	wo ma le
+人都麻了	ren dou ma le
+没这玩意 mei zhe wan yi
+不生效 bu sheng xiao
+赚波快钱 zhuan bo kuai qian
+一开始以为 yi kai shi yi wei
