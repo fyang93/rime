@@ -74,6 +74,7 @@ sort: by_weight
 实线段	ui;dddd xm;vvaa dr;plpv	10000
 虚线段	xu;lall xm;vvaa dr;plpv	10000
 秒退	mc;palp tv;vadv	10000
+防冷场	fh;vlda lg;dard ih;tvp	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -84,9 +85,7 @@ ibus	ibus	10000
 
 # 常用
 配了个	pz;alva le;vll ge;rll	10000
-写一份	xx;dvav yi;aa ff;rpdv	10000
 属实是	uu;vapl ui;dddd ui;oal	10000
-试试水	ui;dvaa ui;dvaa uv;uu	10000
 选里面	xr;padv li;lvaa mm;aplv	10000
 我搞的	wo;pala gk;fda de;plpv	10000
 你搞的	ni;rpvl gk;fda de;plpv	10000
@@ -95,10 +94,6 @@ ibus	ibus	10000
 它搞的	ta;ddpv gk;fda de;plpv	10000
 谁搞的	uv;dvrd gk;fda de;plpv	10000
 塞里面	sl;ddt li;lvaa mm;aplv	10000
-不能改	bu;apld ng;vdpv gl;vapa	10000
-写材料	xx;dvav cl;malp lc;dpdd	10000
-讨口饭吃	tk;dval kb;kk fj;pvpp ii;kpav	10000
-多穿点	do;pvpv ir;ddav dm;ladd	10000
 弄一下	ns;aaap yi;aa xw;aldd	10000
 所在的	so;pppp zl;apt de;plpv	10000
 这有啥	ve;dadv yb;apyy ua;kraa	10000
@@ -115,7 +110,6 @@ ibus	ibus	10000
 也不适用	ye;vlvv bu;apld ui;padv ys;pvaa	10000
 我改成	wo;pala gl;vapa ig;apvv	10000
 我改了	wo;pala gl;vapa le;vll	10000
-盖个章	gl;dplv ge;rll vh;dax	10000
 你学弟	ni;rpvl xt;ddvl di;dpva	10000
 你学姐	ni;rpvl xt;ddvl jx;vplv	10000
 很难办	hf;ppva nj;vdrd bj;vpdd	10000
@@ -135,3 +129,4 @@ ibus	ibus	10000
 不生效 bu sheng xiao
 赚波快钱 zhuan bo kuai qian
 一开始以为 yi kai shi yi wei
+真打不开 zhen da bu kai

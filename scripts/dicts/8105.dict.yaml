@@ -57,6 +57,7 @@ sort: by_weight
 # 咲	xiao	1
 # 螓	qin	1
 珮	pei	0
+畊	geng	1
 # 睆	huan	1
 ### 自定义扩展，一些奇怪的字或者读音
 碁	qi	0
@@ -753,8 +754,8 @@ sort: by_weight
 鲳	chang	98
 鲿	chang	0
 𬬮	chang	0
+超	chao	839240
 朝	chao	709793
-超	chao	383924
 潮	chao	139090
 吵	chao	117058
 嘲	chao	67228
@@ -1959,7 +1960,6 @@ sort: by_weight
 耿	geng	54708
 哽	geng	21976
 耕	geng	21786
-畊	geng	1
 羹	geng	9720
 庚	geng	8607
 梗	geng	7980
@@ -2576,8 +2576,8 @@ sort: by_weight
 烠	hui	0
 𬤝	hui	0
 𬭬	hui	0
-婚	hun	386955
 混	hun	338565
+婚	hun	306955
 魂	hun	291928
 昏	hun	197245
 浑	hun	175322
@@ -2635,6 +2635,8 @@ sort: by_weight
 激	ji	535171
 继	ji	503302
 基	ji	499224
+寄	ji	487256
+忌	ji	461352
 己	ji	456925
 际	ji	352008
 纪	ji	335852
@@ -2645,12 +2647,10 @@ sort: by_weight
 积	ji	188812
 寂	ji	144616
 疾	ji	120121
-忌	ji	113527
 姬	ji	101929
 绩	ji	99008
 祭	ji	89101
 肌	ji	85083
-寄	ji	72560
 辑	ji	71050
 籍	ji	66610
 圾	ji	45932
@@ -3099,12 +3099,12 @@ sort: by_weight
 䌹	jiong	0
 𬳶	jiong	0
 就	jiu	11305679
-酒	jiu	862253
-久	jiu	737479
-九	jiu	506014
-究	jiu	429844
+九	jiu	862253
+酒	jiu	737479
+久	jiu	506014
+旧	jiu	429844
 救	jiu	427315
-旧	jiu	275220
+究	jiu	275220
 舅	jiu	73540
 纠	jiu	69730
 疚	jiu	37765
@@ -3126,13 +3126,13 @@ sort: by_weight
 桕	jiu	120
 氿	jiu	3
 㠇	jiu	0
-句	ju	754300
-居	ju	627014
-举	ju	493503
+巨	ju	753729
+举	ju	693503
+居	ju	527014
 局	ju	461034
-巨	ju	453729
 具	ju	433976
 据	ju	405279
+句	ju	254300
 聚	ju	222383
 剧	ju	220880
 距	ju	193245
@@ -3164,7 +3164,7 @@ sort: by_weight
 琚	ju	1045
 疽	ju	992
 莒	ju	817
-# 車	ju	651
+車	ju	651
 龃	ju	624
 苣	ju	620
 榉	ju	581
@@ -4732,14 +4732,14 @@ sort: by_weight
 喷	pen	112711
 盆	pen	64086
 湓	pen	93
-朋	peng	588716
 碰	peng	240438
-彭	peng	86069
+朋	peng	88716
 鹏	peng	79602
 捧	peng	68202
 砰	peng	54753
 蓬	peng	46160
 篷	peng	41474
+彭	peng	36069
 棚	peng	28567
 膨	peng	17894
 澎	peng	16976
@@ -5020,14 +5020,14 @@ sort: by_weight
 䓫	qi	0
 𨙸	qi	0
 𬨂	qi	0
-卡	qia	0
-恰	qia	0
-拤	qia	0
-掐	qia	0
-洽	qia	0
-葜	qia	0
-袷	qia	0
-髂	qia	0
+卡	qia	5555
+恰	qia	3333
+掐	qia	2222
+洽	qia	1111
+拤	qia	2
+葜	qia	1
+袷	qia	1
+髂	qia	1
 前	qian	3967855
 钱	qian	1034329
 千	qian	794964
@@ -5451,11 +5451,11 @@ sort: by_weight
 爇	ruo	35
 蒻	ruo	20
 鄀	ruo	8
-萨	sa	151844
 撒	sa	140910
 洒	sa	96761
 飒	sa	12008
 仨	sa	5719
+萨	sa	5184
 卅	sa	1019
 靸	sa	168
 挲	sa	100
@@ -5593,10 +5593,10 @@ sort: by_weight
 蛸	shao	37
 睄	shao	16
 召	shao	1
+杓	shao	1
 鞘	shao	1
 柖	shao	0
 玿	shao	0
-社	she	476704
 射	she	386983
 设	she	369436
 舍	she	276743
@@ -5604,6 +5604,7 @@ sort: by_weight
 舌	she	115405
 涉	she	80705
 摄	she	80547
+社	she	76704
 奢	she	32985
 慑	she	20266
 赦	she	16333
@@ -6099,13 +6100,13 @@ sort: by_weight
 澹	tan	1
 榃	tan	0
 磹	tan	0
-堂	tang	408194
-唐	tang	339749
 躺	tang	220026
 汤	tang	124040
-趟	tang	65492
 糖	tang	60725
+趟	tang	55492
 烫	tang	41461
+堂	tang	40819
+唐	tang	39749
 膛	tang	37836
 倘	tang	34043
 淌	tang	33568
@@ -6129,9 +6130,9 @@ sort: by_weight
 铴	tang	5
 䣘	tang	0
 鄌	tang	0
+套	tao	478641
 逃	tao	388318
 讨	tao	282187
-套	tao	278641
 桃	tao	107204
 涛	tao	105605
 掏	tao	102071
@@ -6298,6 +6299,7 @@ sort: by_weight
 哃	tong	11
 穜	tong	6
 鲖	tong	3
+侗	tong	1
 峒	tong	1
 洞	tong	1
 㛚	tong	0
@@ -6360,9 +6362,9 @@ sort: by_weight
 忳	tun	8
 焞	tun	5
 褪	tun	1
+拖	tuo	463823
 脱	tuo	375299
 托	tuo	267516
-拖	tuo	163823
 妥	tuo	67901
 拓	tuo	63143
 陀	tuo	30349
@@ -6648,6 +6650,7 @@ sort: by_weight
 峿	wu	0
 珸	wu	0
 𣲘	wu	0
+洗	xi	2290306
 西	xi	1778761
 喜	xi	1069981
 系	xi	942245
@@ -6657,7 +6660,6 @@ sort: by_weight
 习	xi	487160
 吸	xi	431549
 戏	xi	347524
-洗	xi	290306
 惜	xi	271651
 席	xi	208395
 袭	xi	189129
@@ -6702,6 +6704,7 @@ sort: by_weight
 郗	xi	917
 晞	xi	743
 烯	xi	717
+歙	xi	679
 屃	xi	588
 浠	xi	435
 阋	xi	413
@@ -6743,6 +6746,7 @@ sort: by_weight
 觿	xi	3
 嶍	xi	2
 暿	xi	1
+栖	xi	1
 俙	xi	0
 熻	xi	0
 饻	xi	0
@@ -7298,11 +7302,11 @@ sort: by_weight
 𫄧	yan	0
 𬙂	yan	0
 𬸘	yan	0
-样	yang	4769842
+养	yang	1019753
+样	yang	969842
 阳	yang	850226
 杨	yang	633480
 扬	yang	383219
-养	yang	319753
 洋	yang	293496
 仰	yang	159568
 央	yang	146296
@@ -8056,8 +8060,8 @@ sort: by_weight
 瘵	zhai	34
 祭	zhai	1
 豸	zhai	1
-战	zhan	1924225
 站	zhan	994038
+战	zhan	924225
 展	zhan	570379
 占	zhan	246282
 斩	zhan	102461
@@ -8356,8 +8360,8 @@ sort: by_weight
 婤	zhou	1
 㑇	zhou	0
 㤘	zhou	0
-主	zhu	2156315
 住	zhu	2114870
+主	zhu	1156315
 注	zhu	583182
 助	zhu	401900
 著	zhu	329248

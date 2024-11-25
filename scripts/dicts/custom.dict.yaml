@@ -74,6 +74,7 @@ sort: by_weight
 实线段	shi xian duan
 虚线段	xu xian duan
 秒退	miao tui
+防冷场	fang leng chang
 
 # 中英混输
 哆啦A梦	do la a meng
@@ -84,9 +85,7 @@ ibus	ibus
 
 # 常用
 配了个	pei le ge
-写一份	xie yi fen
 属实是	shu shi shi
-试试水	shi shi shui
 选里面	xuan li mian
 我搞的	wo gao de
 你搞的	ni gao de
@@ -95,10 +94,6 @@ ibus	ibus
 它搞的	ta gao de
 谁搞的	shui gao de
 塞里面	sai li mian
-不能改	bu neng gai
-写材料	xie cai liao
-讨口饭吃	tao kou fan chi
-多穿点	duo chuan dian
 弄一下	nong yi xia
 所在的	suo zai de
 这有啥	zhe you sha
@@ -115,7 +110,6 @@ ibus	ibus
 也不适用	ye bu shi yong
 我改成	wo gai cheng
 我改了	wo gai le
-盖个章	gai ge zhang
 你学弟	ni xue di
 你学姐	ni xue jie
 很难办	hen nan ban
@@ -135,3 +129,4 @@ ibus	ibus
 不生效 bu sheng xiao
 赚波快钱 zhuan bo kuai qian
 一开始以为 yi kai shi yi wei
+真打不开 zhen da bu kai
