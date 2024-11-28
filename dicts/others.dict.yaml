@@ -1,0 +1,556 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# https://github.com/iDvel/rime-ice
+# ------- 一些杂项，按需选择 -------
+---
+name: others
+version: "2024-05-21"
+sort: by_weight
+...
+##### 容错词
+# 一些口语读音
+空落落	ks;ddal lo;cup lo;cup	16
+空落落	ks;ddal lk;cup lk;cup	16
+空落落的	ks;ddal lo;cup lo;cup de;plpv	87
+空落落的	ks;ddal lk;cup lk;cup de;plpv	87
+# 「阿房宫」的注音争议比较大
+阿房宫	ee;vlak ph;dvda gs;ddkk	180
+阿房宫	aa;vlak ph;dvda gs;ddkk	180
+阿房宫	ee;vlak fh;dvda gs;ddkk	180
+阿房宫	aa;vlak fh;dvda gs;ddkk	180
+阿房宫赋	ee;vlak ph;dvda gs;ddkk fu;baa	44
+阿房宫赋	aa;vlak ph;dvda gs;ddkk fu;baa	44
+阿房宫赋	ee;vlak fh;dvda gs;ddkk fu;baa	44
+阿房宫赋	aa;vlak fh;dvda gs;ddkk fu;baa	44
+# 「伯伯」方言
+伯伯	bo;rplv bo;rplv	541
+伯伯	bl;rplv bl;rplv	541
+# 「斜」的古音
+远上寒山石径斜	yr;aadv uh;laaa hj;dddd uj;lvll ui;apkk jy;ppvd xx;radd	38
+# 「骑」目前统读 qi
+坐骑	zo;rrt qi;vvap	1019
+铁骑	tx;jpa qi;vvap	383
+一骑绝尘	yi;aa qi;vvap jt;vvpv if;lpt	684
+一骑当千	yi;aa qi;vvap dh;ldva qm;pall	53
+一骑红尘妃子笑	yi;aa qi;vvap hs;vval if;lpt fz;vpva zi;vlaa xc;papa	37
+走单骑	zb;tla dj;dplv qi;vvap	0
+千里走单骑	qm;pall li;lvaa zb;tla dj;dplv qi;vvap	100
+# 「街」的粤语和东北话读音及常见的两种写法
+仆街	pu;rldd jx;ppt	37
+扑街	pu;fld jx;ppt	1315
+扑街仔	pu;fld jx;ppt zl;rvla	20
+仆街仔	pu;rldd jx;ppt zl;rvla	0
+街溜子	jx;ppt lq;upvd zi;vlaa	70
+# 「錤」这个字念 ji，但是台湾媒体都会念成 qi，他的英文名 Ming-Chi Kuo 也是接近 qi
+郭明錤	go;davl my;oyy ji;	38
+# 「镐 gao hao」的发音，多为韩国人名，不知道 🤷‍♂️，词库里为 gao，这里额外加上 hao 音
+李昌镐	li;mvla ih;oo hk;jda	242
+曹世镐	ck;alo ui;alla hk;jda	0
+张镐哲	vh;vapa gk;jda ve;fkk	0
+姜成镐	jd;dpvp ig;apvv hk;jda	0
+姜镐童	jd;dpvp hk;jda ts;dalv	0
+张镐濂	vh;vapa hk;jda lm;udap	0
+李敏镐	li;mvla mn;papa hk;jda	28
+李陈镐	li;mvla if;vlav hk;jda	2
+赵亮镐	vk;tpd ld;dapv hk;jda	0
+郑俊镐	vg;dpvl jp;rvdp hk;jda	1
+##### 错音错字提示。与 corrector.lua 配合，上面的是正确的，下面是错误的
+### 错音
+馄饨	hp;pvo tp;pvav	898
+主角	vu;daal jt;pvpv	24115
+主角	vu;daal jc;pvpv	24115
+角色	jt;pvpv se;pvvl	20102
+角色	jc;pvpv se;pvvl	20102
+比萨	bi;avpv sa;cvl	197
+比萨饼	bi;avpv sa;cvl by;pvdp	23
+吃比萨	ii;kpav bi;avpv sa;cvl	5
+说服	uo;dvdp fu;yvlv	5642
+说服	uv;dvdp fu;yvlv	5642
+道行	dk;dpdv hg;ppaa	270
+道行	dk;dpdv hh;ppaa	270
+模样	mu;mc yh;mdpa	5185
+模样	mo;mc yh;mdpa	5185
+有模有样	yb;apyy mu;mc yb;apyy yh;mdpa	279
+有模有样	yb;apyy mo;mc yb;apyy yh;mdpa	279
+一模一样	yi;aa mu;mc yi;aa yh;mdpa	5083
+一模一样	yi;aa mo;mc yi;aa yh;mdpa	5083
+装模作样	vd;dada mu;mc zo;rpal yh;mdpa	485
+装模作样	vd;dada mo;mc zo;rpal yh;mdpa	485
+人模狗样	rf;rr mu;mc gb;pvpv yh;mdpa	146
+人模狗样	rf;rr mo;mc gb;pvpv yh;mdpa	146
+模板	mu;mc bj;mppv	14674
+模板	mo;mc bj;mppv	14674
+阿弥陀佛	ee;vlak mi;vapv to;vldd fo;rvav	371
+阿弥陀佛	aa;vlak mi;vapv to;vldd fo;rvav	371
+南无阿弥陀佛	na;xlv mo;aapv ee;vlak mi;vapv to;vldd fo;rvav	42
+南无阿弥陀佛	na;xlv mo;aapv aa;vlak mi;vapv to;vldd fo;rvav	42
+南无阿弥陀佛	nj;xlv wu;aapv ee;vlak mi;vapv to;vldd fo;rvav	42
+南无阿弥陀佛	nj;xlv wu;aapv aa;vlak mi;vapv to;vldd fo;rvav	42
+给予	ji;vvra yu;vdvl	11349
+给予	gz;vvra yu;vdvl	11349
+槟榔	by;mddv lh;mdva	633
+槟榔	bn;mddv lh;mdva	633
+张柏芝	vh;vapa bo;mplv vi;cdv	748
+张柏芝	vh;vapa bl;mplv vi;cdv	748
+藤蔓	tg;cyd wj;co	320
+藤蔓	tg;cyd mj;co	320
+弄堂	ls;aaap th;ldt	126
+弄堂	ns;aaap th;ldt	126
+心宽体胖	xn;dvdd kr;ddc ti;ralp pj;ydpa	39
+心宽体胖	xn;dvdd kr;ddc ti;ralp ph;ydpa	39
+埋怨	mj;tlv yr;pvdv	1138
+埋怨	ml;tlv yr;pvdv	1138
+虚与委蛇	xu;lall yu;avaa wz;pavp yi;lvdd	93
+虚与委蛇	xu;lall yu;avaa wz;pavp ue;lvdd	93
+木讷	mu;mm ne;dvlv	471
+独乐乐	du;pvlv yt;pvlp le;pvlp	13
+独乐乐	du;pvlv le;pvlp le;pvlp	13
+众乐乐	vs;rrrr yt;pvlp le;pvlp	20
+众乐乐	vs;rrrr le;pvlp le;pvlp	20
+荨麻	qm;cva ma;damm	71
+荨麻	xp;cva ma;damm	71
+荨麻疹	xp;cva ma;damm vf;darp	198
+荨麻疹	qm;cva ma;damm vf;darp	198
+模具	mu;mc ju;lvpd	1935
+模具	mo;mc ju;lvpd	1935
+草薙	ck;co ti;	88
+草薙京	ck;co ti; jy;dakl	144
+草薙剑	ck;co ti; jm;rall	17
+贾平凹	jw;alb py;adpa wa;lvlv	247
+贾平凹	jw;alb py;adpa ao;lvlv	247
+雪佛兰	xt;adva fu;rvav lj;dpaa	365
+雪佛兰	xt;adva fo;rvav lj;dpaa	365
+强劲	qd;vakl jy;vdvp	1505
+强劲	qd;vakl jn;vdvp	1505
+胴体	ds;ylva ti;ralp	80
+力能扛鼎	li;vpp ng;vdpv gh;fal dy;lvva	26
+力能扛鼎	li;vpp ng;vdpv kh;fal dy;lvva	26
+鸭绿江	ya;lvpv lu;vvva jd;uala	152
+鸭绿江	ya;lvpv lv;vvva jd;uala	152
+大腹便便	da;apdd fu;ypa pm;ralv pm;ralv	147
+大腹便便	da;apdd fu;ypa bm;ralv bm;ralv	147
+卡脖子	qw;laal bo;yxd zi;vlaa	308
+卡脖子	ka;laal bo;yxd zi;vlaa	308
+吱声	zi;kxv ug;tvl	217
+吱声	vi;kxv ug;tvl	217
+掺和	ij;fvd ho;pakk	438
+掺和	ij;fvd he;pakk	438
+掺和	cj;fvd ho;pakk	438
+掺和	cj;fvd he;pakk	438
+称职	if;papv vi;alkp	90
+称职	ig;papv vi;alkp	90
+螺蛳粉	lo;lvlv si;lvlp ff;dppd	645
+调换	dc;dvpv hr;fpv	616
+调换	tc;dvpv hr;fpv	616
+太行山	tl;apdd hh;ppaa uj;lvll	390
+太行山	tl;apdd xy;ppaa uj;lvll	390
+歇斯底里	xx;opv si;alpp di;dapv li;lvaa	883
+暖和	nr;opd ho;pakk	743
+暖和	nr;opd he;pakk	743
+模棱两可	mo;mc lg;mtp ld;alvp ke;akll	848
+模棱两可	mo;mc ly;mtp ld;alvp ke;akll	848
+鄱阳湖	po;pdvl yh;vlo hu;uxl	1336
+脖颈	bo;yxd gg;vdap	483
+脖颈	bo;yxd jy;vdap	483
+脖颈儿	bo;yxd gg;vdap er;pvv	1
+脖颈儿	bo;yxd jy;vdap er;pvv	1
+结扎	jx;vvt za;fvv	126
+结扎	jx;vvt va;fvv	126
+海参崴	hl;upav uf;vdpp wl;lvap	304
+海参崴	hl;upav uf;vdpp wz;lvap	304
+厚朴	hb;apo po;mldd	52
+厚朴	hb;apo pu;mldd	52
+大宛马	da;apdd yr;ddpv ma;vvaa	9
+大宛马	da;apdd wj;ddpv ma;vvaa	9
+龇牙	zi;lala ya;avlp	62
+龇着牙	zi;lala ve;dplv ya;avlp	14
+龇牙咧嘴	zi;lala ya;avlp lx;kapv zv;klal	166
+头皮屑	tb;ddap pi;vpvd xx;vald	525
+六安	lu;dapd an;ddvp	110
+六安	lq;dapd an;ddvp	110
+六安县	lu;dapd an;ddvp xm;lvvd	3
+六安县	lq;dapd an;ddvp xm;lvvd	3
+六安市	lu;dapd an;ddvp ui;dalv	23
+六安市	lq;dapd an;ddvp ui;dalv	23
+六合区	lu;dapd he;rakk qu;apdv	3
+六合区	lq;dapd he;rakk qu;apdv	3
+安徽六安	an;ddvp hv;pplv lu;dapd an;ddvp	16
+安徽六安	an;ddvp hv;pplv lq;dapd an;ddvp	16
+安徽六安市	an;ddvp hv;pplv lu;dapd an;ddvp ui;dalv	3
+安徽六安市	an;ddvp hv;pplv lq;dapd an;ddvp ui;dalv	3
+安徽省六安市	an;ddvp hv;pplv ug;lplv lu;dapd an;ddvp ui;dalv	8
+安徽省六安市	an;ddvp hv;pplv ug;lplv lq;dapd an;ddvp ui;dalv	8
+南京六合	nj;xlv jy;dakl lu;dapd he;rakk	5
+南京六合	nj;xlv jy;dakl lq;dapd he;rakk	5
+南京六合区	nj;xlv jy;dakl lu;dapd he;rakk qu;apdv	1
+南京六合区	nj;xlv jy;dakl lq;dapd he;rakk qu;apdv	1
+南京市六合区	nj;xlv jy;dakl ui;dalv lu;dapd he;rakk qu;apdv	2
+南京市六合区	nj;xlv jy;dakl ui;dalv lq;dapd he;rakk qu;apdv	2
+偌大	ro;rca da;apdd	680
+饮鸩止渴	yn;pvpv vf;dvpv vi;lala ke;uop	336
+饮鸩解渴	yn;pvpv vf;dvpv jx;pvvp ke;uop	0
+### 错字
+曾经	cg;dpo jy;vvvd	39759
+曾今	cg;dpo jn;rdvv	105
+按捺	an;fdd na;fap	127
+按耐	an;fdd nl;apal	8
+按捺不住	an;fdd na;fap bu;apld vu;rdaa	345
+按耐不住	an;fdd nl;apal bu;apld vu;rdaa	0
+别价	bx;kvll jx;rrpl	1
+别介	bx;kvll jx;rpll	31
+甭价	bg;appv jx;rrpl	0
+甭介	bg;appv jx;rpll	0
+血脉贲张	xt;plvl ml;ydvv bf;xb vh;vapa	49
+血脉偾张	xt;plvl ml;ydvv ff;rxa vh;vapa	0
+血脉喷张	xt;plvl ml;ydvv pf;kxa vh;vapa	0
+契诃夫	qi;aaap he;dvak fu;aapd	437
+契科夫	qi;aaap ke;padd fu;aapd	0
+凑合	cb;daaa he;rakk	1809
+凑活	cb;daaa ho;upal	246
+巨惠	ju;avav hv;aldv	0
+钜惠	ju;jav hv;aldv	0
+摩羯座	mo;daf jx;dpo zo;darr	107
+魔蝎座	mo;dapl xx;lvo zo;darr	0
+##### 叠字
+# 数据来源： https://zh.wikipedia.org/zh-cn/%E4%BA%8C%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97
+# 二叠字
+两个火	ld;alvp ge;rll ho;dprr	0
+两个土	ld;alvp ge;rll tu;tt	0
+两个一	ld;alvp ge;rll yi;aa	0
+两个二	ld;alvp ge;rll er;aaa	0
+两个山	ld;alvp ge;rll uj;lvll	0
+两个口	ld;alvp ge;rll kb;kk	0
+两个田	ld;alvp ge;rll tm;lval	0
+两个九	ld;alvp ge;rll jq;pvv	0
+两个人	ld;alvp ge;rll rf;rr	18484
+两个飞	ld;alvp ge;rll fz;vpdd	0
+两个戈	ld;alvp ge;rll ge;avpd	0
+两个厶	ld;alvp ge;rll si;	0
+两个厶	ld;alvp ge;rll mb;	0
+两个又	ld;alvp ge;rll yb;vdd	0
+两个香	ld;alvp ge;rll xd;pao	0
+两个面	ld;alvp ge;rll mm;aplv	0
+两个兀	ld;alvp ge;rll wu;apvv	0
+两个女	ld;alvp ge;rll nv;vpaa	0
+两个𡥦	ld;alvp ge;rll ni;	0
+两个臣	ld;alvp ge;rll if;alva	0
+两个巾	ld;alvp ge;rll jn;lvll	0
+两个左	ld;alvp ge;rll zo;apal	0
+两个母	ld;alvp ge;rll mu;vvda	0
+两个来	ld;alvp ge;rll ll;adpa	0
+两个凡	ld;alvp ge;rll fj;pvdd	0
+两个夕	ld;alvp ge;rll xi;pvdd	0
+两个彐	ld;alvp ge;rll ji;	0
+两个𢎘	ld;alvp ge;rll hj;	0
+两个魚	ld;alvp ge;rll yu;	0
+两个明	ld;alvp ge;rll my;oyy	0
+两个朿	ld;alvp ge;rll ci;	0
+两个乂	ld;alvp ge;rll yi;pdd	0
+两个曰	ld;alvp ge;rll yt;oo	0
+两个尸	ld;alvp ge;rll ui;vapp	0
+两个户	ld;alvp ge;rll hu;dvap	0
+两个大	ld;alvp ge;rll da;apdd	541
+两个八	ld;alvp ge;rll ba;pdd	12
+两个而	ld;alvp ge;rll er;aplv	0
+两个羊	ld;alvp ge;rll yh;dpaa	0
+两个吉	ld;alvp ge;rll ji;tkd	0
+两个马	ld;alvp ge;rll ma;vvaa	0
+两个卅	ld;alvp ge;rll sa;apll	0
+两个巛	ld;alvp ge;rll ir;	0
+两个止	ld;alvp ge;rll vi;lala	0
+两个比	ld;alvp ge;rll bi;avpv	0
+两个言	ld;alvp ge;rll yj;daaa	0
+两个申	ld;alvp ge;rll uf;lvaa	0
+两个牛	ld;alvp ge;rll nq;paal	0
+两个余	ld;alvp ge;rll yu;raal	0
+两个束	ld;alvp ge;rll uu;alva	0
+两个㐅	ld;alvp ge;rll wu;	0
+两个金	ld;alvp ge;rll jn;jj	0
+两个木	ld;alvp ge;rll mu;mm	0
+两个水	ld;alvp ge;rll uv;uu	0
+两个風	ld;alvp ge;rll fg;	0
+两个石	ld;alvp ge;rll ui;apkk	0
+两个日	ld;alvp ge;rll ri;oo	0
+两个月	ld;alvp ge;rll yt;yy	7342
+两个目	ld;alvp ge;rll mu;lvaa	0
+两个白	ld;alvp ge;rll bl;plva	0
+两个百	ld;alvp ge;rll bl;apo	0
+两个耳	ld;alvp ge;rll er;alla	0
+两个屮	ld;alvp ge;rll ie;	0
+两个屮	ld;alvp ge;rll ck;	0
+两个廿	ld;alvp ge;rll nm;alla	0
+两个卄	ld;alvp ge;rll nm;	0
+两个虫	ld;alvp ge;rll is;lval	0
+两个虎	ld;alvp ge;rll hu;lapv	0
+两个龍	ld;alvp ge;rll ls;	0
+两个馬	ld;alvp ge;rll ma;	0
+两个犬	ld;alvp ge;rll qr;apdd	0
+两个入	ld;alvp ge;rll ru;pdd	0
+两个习	ld;alvp ge;rll xi;vdaa	0
+两个卪	ld;alvp ge;rll jx;	0
+两个㔾	ld;alvp ge;rll jx;	0
+两个几	ld;alvp ge;rll ji;pvv	0
+两个乙	ld;alvp ge;rll yi;vv	0
+两个夫	ld;alvp ge;rll fu;aapd	0
+两个禾	ld;alvp ge;rll he;palp	0
+两个干	ld;alvp ge;rll gj;aall	0
+两个井	ld;alvp ge;rll jy;aapl	0
+两个斤	ld;alvp ge;rll jn;ppal	0
+两个片	ld;alvp ge;rll pm;plav	0
+两个牙	ld;alvp ge;rll ya;avlp	0
+两个炎	ld;alvp ge;rll yj;dpdp	0
+两个弓	ld;alvp ge;rll gs;vavv	0
+两个永	ld;alvp ge;rll ys;dvvp	0
+两个亦	ld;alvp ge;rll yi;dapl	0
+两个手	ld;alvp ge;rll ub;ff	0
+两个毛	ld;alvp ge;rll mk;paav	0
+两个王	ld;alvp ge;rll wh;aala	0
+两个男	ld;alvp ge;rll nj;lvvp	0
+两个支	ld;alvp ge;rll vi;xvd	0
+两个隻	ld;alvp ge;rll vi;	0
+两个古	ld;alvp ge;rll gu;xkk	0
+两个舌	ld;alvp ge;rll ue;pakk	0
+两个启	ld;alvp ge;rll qi;dvkk	0
+两个來	ld;alvp ge;rll ll;	0
+两个桼	ld;alvp ge;rll qi;	0
+两个旡	ld;alvp ge;rll ji;	0
+两个歹	ld;alvp ge;rll dl;apvd	0
+两个匕	ld;alvp ge;rll bi;pvv	0
+两个幺	ld;alvp ge;rll yk;vvdd	0
+两个玄	ld;alvp ge;rll xr;davv	0
+两个心	ld;alvp ge;rll xn;dvdd	0
+两个力	ld;alvp ge;rll li;vpp	0
+两个欠	ld;alvp ge;rll qm;pvrr	0
+两个子	ld;alvp ge;rll zi;vlaa	0
+两个予	ld;alvp ge;rll yu;vdvl	0
+两个享	ld;alvp ge;rll xd;dakv	0
+两个立	ld;alvp ge;rll li;dadp	0
+两个音	ld;alvp ge;rll yn;dao	0
+两个竟	ld;alvp ge;rll jy;dapv	0
+两个竞	ld;alvp ge;rll jy;dakp	0
+两个兄	ld;alvp ge;rll xs;kpvv	0
+两个見	ld;alvp ge;rll jm;	0
+两个貝	ld;alvp ge;rll bz;	0
+两个辛	ld;alvp ge;rll xn;dax	0
+两个瓜	ld;alvp ge;rll gw;ppvd	0
+两个呆	ld;alvp ge;rll dl;kmm	0
+两个果	ld;alvp ge;rll go;lvaa	0
+两个鸟	ld;alvp ge;rll nc;pvdv	0
+两个巢	ld;alvp ge;rll ik;vvlv	0
+两个禺	ld;alvp ge;rll yu;lvaa	0
+两个巿	ld;alvp ge;rll fu;	0
+两个句	ld;alvp ge;rll ju;pvkk	0
+两个奇	ld;alvp ge;rll qi;apak	0
+两个真	ld;alvp ge;rll vf;xpd	0
+两个尹	ld;alvp ge;rll yn;vaap	0
+两个昔	ld;alvp ge;rll xi;alo	0
+两个易	ld;alvp ge;rll yi;opv	0
+两个先	ld;alvp ge;rll xm;papv	0
+两个老	ld;alvp ge;rll lk;xpv	0
+两个示	ld;alvp ge;rll ui;aalp	0
+两个至	ld;alvp ge;rll vi;avt	0
+两个生	ld;alvp ge;rll ug;paal	0
+两个車	ld;alvp ge;rll ie;	0
+两个車	ld;alvp ge;rll ju;	0
+两个足	ld;alvp ge;rll zu;klap	0
+两个區	ld;alvp ge;rll qu;	0
+两个隹	ld;alvp ge;rll vv;rdaa	0
+两个牟	ld;alvp ge;rll mb;vdpa	0
+两个豕	ld;alvp ge;rll ui;apvp	0
+两个𠂢	ld;alvp ge;rll pl;	0
+两个畐	ld;alvp ge;rll fu;	0
+两个㣇	ld;alvp ge;rll yi;	0
+两个邑	ld;alvp ge;rll yi;kvla	0
+两个堯	ld;alvp ge;rll yk;	0
+两个秉	ld;alvp ge;rll by;pava	0
+两个倉	ld;alvp ge;rll ch;	0
+两个東	ld;alvp ge;rll ds;	0
+两个善	ld;alvp ge;rll uj;dpkk	0
+两个僉	ld;alvp ge;rll qm;	0
+两个齒	ld;alvp ge;rll ii;	0
+两个喜	ld;alvp ge;rll xi;tkd	0
+两个走	ld;alvp ge;rll zb;tla	0
+两个昌	ld;alvp ge;rll ih;oo	0
+两个串	ld;alvp ge;rll ir;lval	0
+两个米	ld;alvp ge;rll mi;dpal	0
+两个隶	ld;alvp ge;rll li;vaal	0
+两个不	ld;alvp ge;rll bu;apld	0
+两个龙	ld;alvp ge;rll ls;apvp	0
+两个乞	ld;alvp ge;rll qi;pavv	0
+两个夋	ld;alvp ge;rll qp;	0
+两个天	ld;alvp ge;rll tm;aapd	0
+# 三叠字
+三个生	sj;aaaa ge;rll ug;paal	0
+三个秦	sj;aaaa ge;rll qn;aapa	0
+三个若	sj;aaaa ge;rll ro;cap	0
+三个雲	sj;aaaa ge;rll yp;	0
+三个人	sj;aaaa ge;rll rf;rr	4260
+三个刀	sj;aaaa ge;rll dk;vpp	0
+三个十	sj;aaaa ge;rll ui;xx	1
+三个力	sj;aaaa ge;rll li;vpp	0
+三个原	sj;aaaa ge;rll yr;appl	0
+三个厶	sj;aaaa ge;rll si;	0
+三个厶	sj;aaaa ge;rll mb;	0
+三个又	sj;aaaa ge;rll yb;vdd	0
+三个口	sj;aaaa ge;rll kb;kk	5
+三个七	sj;aaaa ge;rll qi;avv	0
+三个吉	sj;aaaa ge;rll ji;tkd	0
+三个土	sj;aaaa ge;rll tu;tt	0
+三个士	sj;aaaa ge;rll ui;tt	0
+三个女	sj;aaaa ge;rll nv;vpaa	0
+三个子	sj;aaaa ge;rll zi;vlaa	0
+三个小	sj;aaaa ge;rll xc;lpdd	0
+三个心	sj;aaaa ge;rll xn;dvdd	0
+三个手	sj;aaaa ge;rll ub;ff	0
+三个日	sj;aaaa ge;rll ri;oo	0
+三个木	sj;aaaa ge;rll mu;mm	0
+三个止	sj;aaaa ge;rll vi;lala	0
+三个毛	sj;aaaa ge;rll mk;paav	0
+三个水	sj;aaaa ge;rll uv;uu	0
+三个泉	sj;aaaa ge;rll qr;pluu	0
+三个火	sj;aaaa ge;rll ho;dprr	0
+三个牛	sj;aaaa ge;rll nq;paal	0
+三个犬	sj;aaaa ge;rll qr;apdd	0
+三个田	sj;aaaa ge;rll tm;lval	0
+三个白	sj;aaaa ge;rll bl;plva	0
+三个目	sj;aaaa ge;rll mu;lvaa	0
+三个直	sj;aaaa ge;rll vi;xlv	0
+三个石	sj;aaaa ge;rll ui;apkk	0
+三个羊	sj;aaaa ge;rll yh;dpaa	0
+三个耳	sj;aaaa ge;rll er;alla	0
+三个舌	sj;aaaa ge;rll ue;pakk	0
+三个屮	sj;aaaa ge;rll ie;	0
+三个屮	sj;aaaa ge;rll ck;	0
+三个虫	sj;aaaa ge;rll is;lval	0
+三个言	sj;aaaa ge;rll yj;daaa	0
+三个贝	sj;aaaa ge;rll bz;bb	0
+三个車	sj;aaaa ge;rll ie;	0
+三个金	sj;aaaa ge;rll jn;jj	0
+三个隹	sj;aaaa ge;rll vv;rdaa	0
+三个雷	sj;aaaa ge;rll lz;adlv	0
+三个風	sj;aaaa ge;rll fg;	0
+三个飛	sj;aaaa ge;rll fz;	0
+三个香	sj;aaaa ge;rll xd;pao	0
+三个马	sj;aaaa ge;rll ma;vvaa	0
+三个魚	sj;aaaa ge;rll yu;	0
+三个鹿	sj;aaaa ge;rll lu;daav	0
+三个龍	sj;aaaa ge;rll ls;	0
+三个个	sj;aaaa ge;rll ge;rll	0
+三个丶	sj;aaaa ge;rll vu;	0
+三个了	sj;aaaa ge;rll le;vll	0
+三个介	sj;aaaa ge;rll jx;rpll	0
+三个企	sj;aaaa ge;rll qi;rlal	0
+三个舍	sj;aaaa ge;rll ue;raal	0
+三个圥	sj;aaaa ge;rll lu;	0
+三个光	sj;aaaa ge;rll gd;ldpv	0
+三个兔	sj;aaaa ge;rll tu;pvlv	0
+三个全	sj;aaaa ge;rll qr;raal	0
+三个𠧪	sj;aaaa ge;rll tc;	0
+三个𠧪	sj;aaaa ge;rll yb;	0
+三个㔾	sj;aaaa ge;rll jx;	0
+三个厡	sj;aaaa ge;rll yr;	0
+三个可	sj;aaaa ge;rll ke;akll	0
+三个因	sj;aaaa ge;rll yn;lvap	0
+三个夏	sj;aaaa ge;rll xw;appv	0
+三个大	sj;aaaa ge;rll da;apdd	0
+三个天	sj;aaaa ge;rll tm;aapd	0
+三个太	sj;aaaa ge;rll tl;apdd	0
+三个宝	sj;aaaa ge;rll bk;ddaa	0
+三个宜	sj;aaaa ge;rll yi;ddlv	0
+三个客	sj;aaaa ge;rll ke;ddpv	0
+三个寒	sj;aaaa ge;rll hj;dddd	0
+三个少	sj;aaaa ge;rll uk;lpdp	0
+三个山	sj;aaaa ge;rll uj;lvll	0
+三个市	sj;aaaa ge;rll ui;dalv	3
+三个文	sj;aaaa ge;rll wf;dapd	0
+三个斗	sj;aaaa ge;rll db;ddx	0
+三个朿	sj;aaaa ge;rll ci;	0
+三个束	sj;aaaa ge;rll uu;alva	0
+三个林	sj;aaaa ge;rll ln;mm	0
+三个果	sj;aaaa ge;rll go;lvaa	0
+三个欠	sj;aaaa ge;rll qm;pvrr	0
+三个爪	sj;aaaa ge;rll vk;ppld	0
+三个妥	sj;aaaa ge;rll to;pdvp	0
+三个用	sj;aaaa ge;rll ys;pvaa	0
+三个甲	sj;aaaa ge;rll jw;lvaa	0
+三个百	sj;aaaa ge;rll bl;apo	0
+三个盖	sj;aaaa ge;rll gl;dplv	0
+三个県	sj;aaaa ge;rll xm;	0
+三个空	sj;aaaa ge;rll ks;ddal	0
+三个亇	sj;aaaa ge;rll ge;	0
+三个竹	sj;aaaa ge;rll vu;papa	0
+三个羗	sj;aaaa ge;rll qd;	0
+三个老	sj;aaaa ge;rll lk;xpv	0
+三个月	sj;aaaa ge;rll yt;yy	9003
+三个至	sj;aaaa ge;rll vi;avt	0
+三个興	sj;aaaa ge;rll xy;	0
+三个足	sj;aaaa ge;rll zu;klap	0
+三个㖖	sj;aaaa ge;rll nx;	0
+三个門	sj;aaaa ge;rll mf;	0
+三个面	sj;aaaa ge;rll mm;aplv	0
+三个頁	sj;aaaa ge;rll ye;	0
+三个鳥	sj;aaaa ge;rll nc;	0
+三个男	sj;aaaa ge;rll nj;lvvp	0
+三个立	sj;aaaa ge;rll li;dadp	0
+三个九	sj;aaaa ge;rll jq;pvv	3
+三个也	sj;aaaa ge;rll ye;vlvv	0
+三个加	sj;aaaa ge;rll jw;vpkk	0
+三个動	sj;aaaa ge;rll ds;	0
+三个千	sj;aaaa ge;rll qm;pall	0
+三个方	sj;aaaa ge;rll fh;davp	0
+三个朔	sj;aaaa ge;rll uo;dpyy	0
+三个玉	sj;aaaa ge;rll yu;aala	0
+三个申	sj;aaaa ge;rll uf;lvaa	0
+三个𡿨	sj;aaaa ge;rll qr;	0
+三个去	sj;aaaa ge;rll qu;tvd	0
+三个弓	sj;aaaa ge;rll gs;vavv	0
+三个䖝	sj;aaaa ge;rll is;	0
+三个丿	sj;aaaa ge;rll px;	0
+三个户	sj;aaaa ge;rll hu;dvap	0
+三个瓜	sj;aaaa ge;rll gw;ppvd	0
+三个鸟	sj;aaaa ge;rll nc;pvdv	0
+三个米	sj;aaaa ge;rll mi;dpal	0
+# 四叠字
+四个乂	si;lvpv ge;rll yi;pdd	0
+四个人	si;lvpv ge;rll rf;rr	2268
+四个厶	si;lvpv ge;rll si;	0
+四个厶	si;lvpv ge;rll mb;	0
+四个又	si;lvpv ge;rll yb;vdd	0
+四个匕	si;lvpv ge;rll bi;pvv	0
+四个工	si;lvpv ge;rll gs;alaa	0
+四个口	si;lvpv ge;rll kb;kk	0
+四个天	si;lvpv ge;rll tm;aapd	0
+四个小	si;lvpv ge;rll xc;lpdd	0
+四个屮	si;lvpv ge;rll ie;	0
+四个屮	si;lvpv ge;rll ck;	0
+四个火	si;lvpv ge;rll ho;dprr	0
+四个牛	si;lvpv ge;rll nq;paal	0
+四个魚	si;lvpv ge;rll yu;	0
+四个月	si;lvpv ge;rll yt;yy	1860
+四个日	si;lvpv ge;rll ri;oo	0
+四个林	si;lvpv ge;rll ln;mm	0
+四个水	si;lvpv ge;rll uv;uu	0
+四个石	si;lvpv ge;rll ui;apkk	0
+四个田	si;lvpv ge;rll tm;lval	0
+四个甲	si;lvpv ge;rll jw;lvaa	0
+四个且	si;lvpv ge;rll qx;lvaa	0
+四个囚	si;lvpv ge;rll qq;lvrr	0
+四个困	si;lvpv ge;rll kp;lvmm	0
+四个竹	si;lvpv ge;rll vu;papa	0
+四个老	si;lvpv ge;rll lk;xpv	0
+四个朿	si;lvpv ge;rll ci;	0
+四个先	si;lvpv ge;rll xm;papv	0
+四个金	si;lvpv ge;rll jn;jj	0
+四个泉	si;lvpv ge;rll qr;pluu	0
+四个言	si;lvpv ge;rll yj;daaa	0
+四个門	si;lvpv ge;rll mf;	0
+四个果	si;lvpv ge;rll go;lvaa	0
+四个春	si;lvpv ge;rll ip;aao	0
+四个車	si;lvpv ge;rll ie;	0
+四个風	si;lvpv ge;rll fg;	0
+四个雷	si;lvpv ge;rll lz;adlv	0
+四个雲	si;lvpv ge;rll yp;	0
+四个興	si;lvpv ge;rll xy;	0
+四个龍	si;lvpv ge;rll ls;	0
+四个土	si;lvpv ge;rll tu;tt	0
