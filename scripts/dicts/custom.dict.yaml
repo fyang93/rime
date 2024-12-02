@@ -31,38 +31,61 @@ sort: by_weight
 泛化性	fan hua xing
 奥莱	ao lai
 误检	wu jian
+大作业	da zuo ye
 一作	yi zuo
 电院	dian yuan
+世界线	shi jie xian
 行人重识别	xing ren chong shi bie
 重识别	chong shi bie
 自监督	zi jian du
+无监督	wu jian du
 有监督	you jian du
+边缘计算	bian yuan ji suan
+碳排放	tan pai fang
+预申报	yu shen bao
+虚头巴脑	xu tou ba nao
 吉姆丽德	ji mu li de
+声明式	sheng ming shi
+平铺式	ping pu shi
 组会	zu hui
 零样本	ling yang ben
 正样本	zheng yang ben
+负样本	fu yang ben
 误检	wu jian
 误检率	wu jian lv
 具身	ju shen
 具身智能	ju shen zhi neng
+卷积层	juan ji ceng
+全连接层	quan lian jie ceng
+验证集	yan zheng ji
+测试集	ce shi ji
+训练集	xun lian ji
 蜜雪	mi xue
 蜜雪冰城	mi xue bing cheng
 库迪	ku di
 性转	xing zhuan
 帕鲁	pa lu
 运镜	yun jing
+罗马音	luo ma yin
 模速空间	mo su kong jian
+罕见病	han jian bing
+可交互	ke jiao hu
 昭和美国物语	zhao he mei guo wu yu
 秩序王国	zhi xu wang guo
+网红店	wang hong dian
 当前帧	dang qian zhen
 新语法	xin yu fa
 旧语法	jiu yu fa
 老语法	lao yu fa
 锐评	rui ping
+像素图	xiang su tu
 退站	tui zhan
 退站表	tui zhan biao
+人社局	ren she ju
 桃花坪	tao hua ping
 插帧	cha zhen
+相亲角	xiang qin jiao
+依赖项	yi lai xiang
 霞鹜文楷	xia wu wen kai
 更纱黑体	geng sha hei ti
 航司	hang si
@@ -71,14 +94,20 @@ sort: by_weight
 素材包	su cai bao
 狂扁	kuang bian
 挪瓦	nuo wa
+冰美式	bing mei shi
+咖啡味	ka fei wei
+野路子	ye lu zi
+直线段	zhi xian duan
 实线段	shi xian duan
 虚线段	xu xian duan
 秒退	miao tui
+约德尔	yue de er
 防冷场	fang leng chang
 亮机卡	liang ji ka
 影刀	ying dao
 图吧老哥	tu ba lao ge
 绿幕	lv mu
+齐活	qi huo
 
 # 中英混输
 哆啦A梦	do la a meng
@@ -137,3 +166,6 @@ ibus	ibus
 还试了	hai shi le
 吃少	chi shao
 吃少了	chi shao le
+狠狠关注	hen hen guan zhu
+先出门	xian chu men
+早呀	zao ya

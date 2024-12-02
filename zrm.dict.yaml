@@ -8,7 +8,6 @@ import_tables:
   - ./dicts/custom
   - ./dicts/base
   - ./dicts/ext
-  - ./dicts/tencent
 ...
 
 这	vz;dadv	17648808
