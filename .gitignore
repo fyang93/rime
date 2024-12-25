@@ -6,3 +6,4 @@ sync
 
 installation.yaml
 user.yaml
+*.gram
