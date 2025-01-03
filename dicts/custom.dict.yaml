@@ -111,7 +111,9 @@ sort: by_weight
 赛霸	sl;ddb ba;adal	10000
 细软塌	xi;vvlv rr;avpv ta;to	10000
 玉米夹	yu;aala mi;dpal jw;adpa	10000
-发泥	fa;vpvd ni;uvap	10000
+发泥	fa;vpvd ni;uvap	100
+路径依赖	lu;klpv jy;ppvd yi;rdap ll;alpv	10000
+英雄旧忆	yy;clv xs;aprd jq;loo yi;ddvv	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -141,4 +143,3 @@ ibus	ibus	10000
 赚波快钱	vr;bdp bo;uvpl ky;ddva qm;jaa	10000
 早呀	zk;ox ya;kavl	10000
 下载好	xw;aldd zl;xav hk;vpvl	10000
-路径依赖	lu;klpv jy;ppvd yi;rdap ll;alpv	10000

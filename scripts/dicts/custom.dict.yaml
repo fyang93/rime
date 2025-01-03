@@ -111,7 +111,9 @@ sort: by_weight
 赛霸	sai ba
 细软塌	xi ruan ta
 玉米夹	yu mi jia
-发泥	fa ni
+发泥	fa ni	100
+路径依赖	lu jing yi lai
+英雄旧忆	ying xiong jiu yi
 
 # 中英混输
 哆啦A梦	do la a meng
@@ -141,4 +143,3 @@ ibus	ibus
 赚波快钱	zhuan bo kuai qian
 早呀	zao ya
 下载好	xia zai hao
-路径依赖	lu jing yi lai
