@@ -1,7 +1,7 @@
 ## 使用方式
 
 复制到用户文件夹并重新部署。
-额外下载(万象语法模型)[https://github.com/amzxyz/RIME-LMDG/releases]。
+额外下载[万象语法模型](https://github.com/amzxyz/RIME-LMDG/releases)。
 
 ## 主要功能
 
