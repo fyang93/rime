@@ -64,8 +64,8 @@ speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;\'
   delimiter: " '"
   algebra:
-    - derive/^(\w+);\w+$/$1/
-    - derive/^(\w+);\w+$/$1;/
+    - derive/^(\w+);\w*$/$1/
+    - derive/^(\w+);\w*$/$1;/
     - derive/^(\w+);(\w{1})\w+$/$1;$2/
     - derive/^(\w+);(\w{2})\w+$/$1;$2/
     - derive/^(\w+);(\w{3})\w+$/$1;$2/
