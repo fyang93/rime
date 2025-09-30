@@ -21,8 +21,10 @@ sort: by_weight
 孙哥	sun ge
 鲁博	lu bo
 冯博	feng bo
+李博	li bo
 江辉	jiang hui
 露塞提娅	lu sai ti ya
+渥尔悠	wo er you
 
 # 词汇
 鹤形	he xing
@@ -119,6 +121,10 @@ sort: by_weight
 新质	xin zhi
 基底模型	ji di mo xing
 最后纪元	zui hou ji yuan
+私汤	si tang
+区役所	qu yi suo
+在留卡	zai liu ka
+池袋	chi dai
 
 # 中英混输
 哆啦A梦	do la a meng
@@ -154,13 +160,28 @@ ibus	ibus
 数据类	shu ju lei
 我一般	wo yi ban
 好蠢	hao chun
+厌蠢	yan chun
 发送封包	fa song feng bao
 解析类	jie xi lei
 在售数	zai shou shu
 短租年化	duan zu nian hua
 长租年化	chang zu nian hua
 多币种	duo bi zhong
-掉箱子	diao xiang zi
 讨口饭吃	tao kou fan chi
-交易号	jiao yi hao
 好咯	hao lo
+回点血	hui dian xue
+拼尽全力	pin jin quan li
+有券	you quan
+
+# CS
+战痕	zhan hen
+掉箱	diao xiang
+交易号	jiao yi hao
+卡价	ka jia
+爪子刀	zhua zi dao
+熊刀	xiong dao
+磨损值	mo sun zhi
+内格夫	nei ge fu
+法玛斯	fa ma si
+求购金	qiu gou jin
+开箱等级	kai xiang deng ji

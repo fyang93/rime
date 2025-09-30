@@ -21,8 +21,10 @@ sort: by_weight
 孙哥	sp;vllp ge;adad	10000
 鲁博	lu;pvo bo;xal	10000
 冯博	fg;davv bo;xal	10000
+李博	li;mvla bo;xal	10000
 江辉	jd;uala hv;lddv	10000
 露塞提娅	lu;adkl sl;ddt ti;fo ya;vpal	10000
+渥尔悠	wo;uvap er;pvlp yb;rldv	10000
 
 # 词汇
 鹤形	he;dvpv xy;aapp	10000
@@ -119,6 +121,10 @@ sort: by_weight
 新质	xn;dapp vi;ppx	10000
 基底模型	ji;alt di;dapv mo;mc xy;aat	10000
 最后纪元	zv;oal hb;ppkk ji;vvva yr;aapv	10000
+私汤	si;pavd th;uvpp	10000
+区役所	qu;apdv yi;pppv so;pppp	10000
+在留卡	zl;apt lq;pvlv ka;laal	10000
+池袋	ii;uvlv dl;rada	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
@@ -154,13 +160,28 @@ ibus	ibus	10000
 数据类	uu;dppa ju;fva lz;dpap	10000
 我一般	wo;pala yi;aa bj;pppv	10000
 好蠢	hk;vpvl ip;aalv	10000
+厌蠢	yj;apap ip;aalv	10000
 发送封包	fa;vpvd ss;dpdv fg;tal bk;pvva	10000
 解析类	jx;pvvp xi;mppa lz;dpap	10000
 在售数	zl;apt ub;rdkk uu;dppa	10000
 短租年化	dr;paak zu;palv nm;paal hw;rpvv	10000
 长租年化	ih;pavd zu;palv nm;paal hw;rpvv	10000
 多币种	do;pvpv bi;plvl vs;palv	10000
-掉箱子	dc;fla xd;paml zi;vlaa	10000
 讨口饭吃	tk;dval kb;kk fj;pvpp ii;kpav	10000
-交易号	jc;dapd yi;opv hk;kavv	10000
 好咯	hk;vpvl lo;kpvd	10000
+回点血	hv;lvkk dm;ladd xt;plvl	10000
+拼尽全力	pn;fdp jn;vadd qr;raal li;vpp	10000
+有券	yb;apyy qr;dpvp	10000
+
+# CS
+战痕	vj;laav hf;dava	10000
+掉箱	dc;fla xd;paml	10000
+交易号	jc;dapd yi;opv hk;kavv	10000
+卡价	ka;laal jw;rrpl	10000
+爪子刀	vw;ppld zi;vlaa dk;vpp	10000
+熊刀	xs;vddd dk;vpp	10000
+磨损值	mo;daap sp;fk vi;rxl	10000
+内格夫	nz;lvpd ge;mpvd fu;aapd	10000
+法玛斯	fa;utv ma;aavv si;alpp	10000
+求购金	qq;alda gb;bpv jn;jj	10000
+开箱等级	kl;aapl xd;paml dg;pat ji;vvpv	10000
