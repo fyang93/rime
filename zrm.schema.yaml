@@ -64,7 +64,7 @@ speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;\'
   delimiter: " '"
   algebra:
-    - derive/^(\w+);\w*$/$1/
+    - derive/^(\w+);\w+$/$1/          # 缺失辅助码的字不会被纯音码匹配
     # - derive/^(\w+);\w*$/$1;/         # 解除注释可能会把形码作为音码识别
     - derive/^(\w+);(\w{1})\w+$/$1;$2/
     - derive/^(\w+);(\w{2})\w+$/$1;$2/
