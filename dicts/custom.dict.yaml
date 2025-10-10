@@ -5,186 +5,186 @@ sort: by_weight
 ...
 
 # 名字
-施潇雨	ui;dapa xc;ucv yu;alvl	10000
-羊帆	yh;dpaa fj;lvpv	10000
-羊立华	yh;dpaa li;dadp hw;rpx	10000
-魏云娥	wz;papl yp;aavd ee;vppa	10000
-施伟	ui;dapa wz;raav	10000
-龚紫涛	gs;apal zi;lavv tk;uaaa	10000
-猹猹	ia;pvm ia;pvm	10000
-猹总	ia;pvm zs;dpdv	10000
-娄博	lb;dpvp bo;xal	10000
-正哥	vg;alal ge;adad	10000
-皓俊	hk;plpa jp;rvdp	10000
-张建	vh;vapa jm;vavd	10000
-孙博	sp;vllp bo;xal	10000
-孙哥	sp;vllp ge;adad	10000
-鲁博	lu;pvo bo;xal	10000
-冯博	fg;davv bo;xal	10000
-李博	li;mvla bo;xal	10000
-江辉	jd;uala hv;lddv	10000
-露塞提娅	lu;adkl sl;ddt ti;fo ya;vpal	10000
-渥尔悠	wo;uvap er;pvlp yb;rldv	10000
+施潇雨	ui;dapa xc;ucv yu;alvl	100000
+羊帆	yh;dpaa fj;lvpv	100000
+羊立华	yh;dpaa li;dadp hw;rpx	100000
+魏云娥	wz;papl yp;aavd ee;vppa	100000
+施伟	ui;dapa wz;raav	100000
+龚紫涛	gs;apal zi;lavv tk;uaaa	100000
+猹猹	ia;pvm ia;pvm	100000
+猹总	ia;pvm zs;dpdv	100000
+娄博	lb;dpvp bo;xal	100000
+正哥	vg;alal ge;adad	100000
+皓俊	hk;plpa jp;rvdp	100000
+张建	vh;vapa jm;vavd	100000
+孙博	sp;vllp bo;xal	100000
+孙哥	sp;vllp ge;adad	100000
+鲁博	lu;pvo bo;xal	100000
+冯博	fg;davv bo;xal	100000
+李博	li;mvla bo;xal	100000
+江辉	jd;uala hv;lddv	100000
+露塞提娅	lu;adkl sl;ddt ti;fo ya;vpal	100000
+渥尔悠	wo;uvap er;pvlp yb;rldv	100000
 
 # 词汇
-鹤形	he;dvpv xy;aapp	10000
-闵大荒	mn;dlda da;apdd hd;cda	10000
-瘦了吧唧	ub;dapl le;vll ba;kvla ji;kvaa	10000
-白人餐	bl;plva rf;rr cj;lard	10000
-泛化性	fj;updv hw;rpvv xy;ddpa	10000
-奥莱	ao;plap ll;cad	10000
-误检	wu;dvka jm;mrad	10000
-大作业	da;apdd zo;rpal ye;lldp	10000
-一作	yi;aa zo;rpal	10000
-电院	dm;lvaa yr;vldd	10000
-世界线	ui;alla jx;lvrp xm;vvaa	10000
-行人重识别	xy;ppaa rf;rr is;palv ui;dvkp bx;kvll	10000
-重识别	is;palv ui;dvkp bx;kvll	10000
-自监督	zi;plva jm;lllv du;lalv	10000
-无监督	wu;aapv jm;lllv du;lalv	10000
-有监督	yb;apyy jm;lllv du;lalv	10000
-边缘计算	bm;vpdv yr;vvvv ji;dvx sr;palv	10000
-碳排放	tj;aplv pl;fla fh;dapa	10000
-预申报	yu;vdap uf;lvaa bk;fvl	10000
-虚头巴脑	xu;lall tb;ddap ba;vlav nk;ydap	10000
-吉姆丽德	ji;tkd mu;vpvv li;alvd de;ppx	10000
-声明式	ug;tvl my;oyy ui;aala	10000
-平铺式	py;adpa pu;jal ui;aala	10000
-组会	zu;vvlv hv;raav	10000
-零样本	ly;adrd yh;mdpa bf;alpd	10000
-正样本	vg;alal yh;mdpa bf;alpd	10000
-负样本	fu;pvb yh;mdpa bf;alpd	10000
-误检	wu;dvka jm;mrad	10000
-误检率	wu;dvka jm;mrad lv;davv	10000
-具身	ju;lvpd uf;plva	10000
-具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	10000
-卷积层	jr;dpvv ji;pakp cg;vaaa	10000
-全连接层	qr;raal lm;avdv jx;fda cg;vaaa	10000
-验证集	yj;vvra vg;dval ji;rdmm	10000
-测试集	ce;ubl ui;dvaa ji;rdmm	10000
-训练集	xp;dvpl lm;vvav ji;rdmm	10000
-蜜雪	mi;ddlv xt;adva	10000
-蜜雪冰城	mi;ddlv xt;adva by;dauu ig;tap	10000
-库迪	ku;daav di;lvdv	10000
-性转	xy;ddpa vr;avaa	10000
-帕鲁	pa;lvpl lu;pvo	10000
-运镜	yp;aadv jy;jda	10000
-罗马音	lo;lvpv ma;vvaa yn;dao	10000
-模速空间	mo;mc su;aldv ks;ddal jm;dlo	10000
-罕见病	hj;dvaa jm;lvpv by;daal	10000
-可交互	ke;akll jc;dapd hu;avva	10000
-昭和美国物语	vk;ovp he;pakk mz;dpap go;lvaa wu;papv yu;dval	10000
-秩序王国	vi;papa xu;davd wh;aala go;lvaa	10000
-网红店	wh;lvpd hs;vval dm;dala	10000
-当前帧	dh;ldva qm;dpyl vf;lvla	10000
-新语法	xn;dapp yu;dval fa;utv	10000
-旧语法	jq;loo yu;dval fa;utv	10000
-老语法	lk;xpv yu;dval fa;utv	10000
-锐评	rv;jdp py;dvad	10000
-像素图	xd;rpvl su;aavv tu;lvpv	10000
-退站	tv;vadv vj;dala	10000
-退站表	tv;vadv vj;dala bc;aapv	10000
-人社局	rf;rr ue;dvt ju;vavk	10000
-桃花坪	tk;mpda hw;crp py;tad	10000
-插帧	ia;fpa vf;lvla	10000
-相亲角	xd;mlva qn;damm jc;pvpv	10000
-依赖项	yi;rdap ll;alpv xd;alap	10000
-霞鹜文楷	xw;adva wu;vdpv wf;dapd kl;mavp	10000
-更纱黑体	gg;alva ua;vvlp hz;lvdd ti;ralp	10000
-航司	hh;ppda si;vakk	10000
-自签名	zi;plva qm;para my;pvkk	10000
-剪映	jm;dpvp yy;olv	10000
-素材包	su;aavv cl;malp bk;pvva	10000
-狂扁	kd;pvaa bm;dvlv	10000
-挪瓦	no;fva wa;avvd	10000
-冰美式	by;dauu mz;dpap ui;aala	10000
-咖啡味	ka;kvpk fz;klaa wz;kaal	10000
-野路子	ye;lvvd lu;klpv zi;vlaa	10000
-直线段	vi;xlv xm;vvaa dr;plpv	10000
-实线段	ui;dddd xm;vvaa dr;plpv	10000
-虚线段	xu;lall xm;vvaa dr;plpv	10000
-秒退	mc;palp tv;vadv	10000
-约德尔	yt;vvpv de;ppx er;pvlp	10000
-防冷场	fh;vlda lg;dard ih;tvp	10000
-亮机卡	ld;dapv ji;mpvv ka;laal	10000
-影刀	yy;opp dk;vpp	10000
-图吧老哥	tu;lvpv ba;kvla lk;xpv ge;adad	10000
-绿幕	lv;vvva mu;clv	10000
-齐活	qi;dapl ho;upal	10000
-赛霸	sl;ddb ba;adal	10000
-细软塌	xi;vvlv rr;avpv ta;to	10000
-玉米夹	yu;aala mi;dpal jw;adpa	10000
+鹤形	he;dvpv xy;aapp	100000
+闵大荒	mn;dlda da;apdd hd;cda	100000
+瘦了吧唧	ub;dapl le;vll ba;kvla ji;kvaa	100000
+白人餐	bl;plva rf;rr cj;lard	100000
+泛化性	fj;updv hw;rpvv xy;ddpa	100000
+奥莱	ao;plap ll;cad	100000
+误检	wu;dvka jm;mrad	100000
+大作业	da;apdd zo;rpal ye;lldp	100000
+一作	yi;aa zo;rpal	100000
+电院	dm;lvaa yr;vldd	100000
+世界线	ui;alla jx;lvrp xm;vvaa	100000
+行人重识别	xy;ppaa rf;rr is;palv ui;dvkp bx;kvll	100000
+重识别	is;palv ui;dvkp bx;kvll	100000
+自监督	zi;plva jm;lllv du;lalv	100000
+无监督	wu;aapv jm;lllv du;lalv	100000
+有监督	yb;apyy jm;lllv du;lalv	100000
+边缘计算	bm;vpdv yr;vvvv ji;dvx sr;palv	100000
+碳排放	tj;aplv pl;fla fh;dapa	100000
+预申报	yu;vdap uf;lvaa bk;fvl	100000
+虚头巴脑	xu;lall tb;ddap ba;vlav nk;ydap	100000
+吉姆丽德	ji;tkd mu;vpvv li;alvd de;ppx	100000
+声明式	ug;tvl my;oyy ui;aala	100000
+平铺式	py;adpa pu;jal ui;aala	100000
+组会	zu;vvlv hv;raav	100000
+零样本	ly;adrd yh;mdpa bf;alpd	100000
+正样本	vg;alal yh;mdpa bf;alpd	100000
+负样本	fu;pvb yh;mdpa bf;alpd	100000
+误检	wu;dvka jm;mrad	100000
+误检率	wu;dvka jm;mrad lv;davv	100000
+具身	ju;lvpd uf;plva	100000
+具身智能	ju;lvpd uf;plva vi;pao ng;vdpv	100000
+卷积层	jr;dpvv ji;pakp cg;vaaa	100000
+全连接层	qr;raal lm;avdv jx;fda cg;vaaa	100000
+验证集	yj;vvra vg;dval ji;rdmm	100000
+测试集	ce;ubl ui;dvaa ji;rdmm	100000
+训练集	xp;dvpl lm;vvav ji;rdmm	100000
+蜜雪	mi;ddlv xt;adva	100000
+蜜雪冰城	mi;ddlv xt;adva by;dauu ig;tap	100000
+库迪	ku;daav di;lvdv	100000
+性转	xy;ddpa vr;avaa	100000
+帕鲁	pa;lvpl lu;pvo	100000
+运镜	yp;aadv jy;jda	100000
+罗马音	lo;lvpv ma;vvaa yn;dao	100000
+模速空间	mo;mc su;aldv ks;ddal jm;dlo	100000
+罕见病	hj;dvaa jm;lvpv by;daal	100000
+可交互	ke;akll jc;dapd hu;avva	100000
+昭和美国物语	vk;ovp he;pakk mz;dpap go;lvaa wu;papv yu;dval	100000
+秩序王国	vi;papa xu;davd wh;aala go;lvaa	100000
+网红店	wh;lvpd hs;vval dm;dala	100000
+当前帧	dh;ldva qm;dpyl vf;lvla	100000
+新语法	xn;dapp yu;dval fa;utv	100000
+旧语法	jq;loo yu;dval fa;utv	100000
+老语法	lk;xpv yu;dval fa;utv	100000
+锐评	rv;jdp py;dvad	100000
+像素图	xd;rpvl su;aavv tu;lvpv	100000
+退站	tv;vadv vj;dala	100000
+退站表	tv;vadv vj;dala bc;aapv	100000
+人社局	rf;rr ue;dvt ju;vavk	100000
+桃花坪	tk;mpda hw;crp py;tad	100000
+插帧	ia;fpa vf;lvla	100000
+相亲角	xd;mlva qn;damm jc;pvpv	100000
+依赖项	yi;rdap ll;alpv xd;alap	100000
+霞鹜文楷	xw;adva wu;vdpv wf;dapd kl;mavp	100000
+更纱黑体	gg;alva ua;vvlp hz;lvdd ti;ralp	100000
+航司	hh;ppda si;vakk	100000
+自签名	zi;plva qm;para my;pvkk	100000
+剪映	jm;dpvp yy;olv	100000
+素材包	su;aavv cl;malp bk;pvva	100000
+狂扁	kd;pvaa bm;dvlv	100000
+挪瓦	no;fva wa;avvd	100000
+冰美式	by;dauu mz;dpap ui;aala	100000
+咖啡味	ka;kvpk fz;klaa wz;kaal	100000
+野路子	ye;lvvd lu;klpv zi;vlaa	100000
+直线段	vi;xlv xm;vvaa dr;plpv	100000
+实线段	ui;dddd xm;vvaa dr;plpv	100000
+虚线段	xu;lall xm;vvaa dr;plpv	100000
+秒退	mc;palp tv;vadv	100000
+约德尔	yt;vvpv de;ppx er;pvlp	100000
+防冷场	fh;vlda lg;dard ih;tvp	100000
+亮机卡	ld;dapv ji;mpvv ka;laal	100000
+影刀	yy;opp dk;vpp	100000
+图吧老哥	tu;lvpv ba;kvla lk;xpv ge;adad	100000
+绿幕	lv;vvva mu;clv	100000
+齐活	qi;dapl ho;upal	100000
+赛霸	sl;ddb ba;adal	100000
+细软塌	xi;vvlv rr;avpv ta;to	100000
+玉米夹	yu;aala mi;dpal jw;adpa	100000
 发泥	fa;vpvd ni;uvap	100
-路径依赖	lu;klpv jy;ppvd yi;rdap ll;alpv	10000
-英雄旧忆	yy;clv xs;aprd jq;loo yi;ddvv	10000
-框束	kd;maaa uu;alva	10000
-新质	xn;dapp vi;ppx	10000
-基底模型	ji;alt di;dapv mo;mc xy;aat	10000
-最后纪元	zv;oal hb;ppkk ji;vvva yr;aapv	10000
-私汤	si;pavd th;uvpp	10000
-区役所	qu;apdv yi;pppv so;pppp	10000
-在留卡	zl;apt lq;pvlv ka;laal	10000
-池袋	ii;uvlv dl;rada	10000
+路径依赖	lu;klpv jy;ppvd yi;rdap ll;alpv	100000
+英雄旧忆	yy;clv xs;aprd jq;loo yi;ddvv	100000
+框束	kd;maaa uu;alva	100000
+新质	xn;dapp vi;ppx	100000
+基底模型	ji;alt di;dapv mo;mc xy;aat	100000
+最后纪元	zv;oal hb;ppkk ji;vvva yr;aapv	100000
+私汤	si;pavd th;uvpp	100000
+区役所	qu;apdv yi;pppv so;pppp	100000
+在留卡	zl;apt lq;pvlv ka;laal	100000
+池袋	ii;uvlv dl;rada	100000
 
 # 中英混输
-哆啦A梦	dolaamg	10000
-b站	bvj	10000
-up主	upvu	10000
-U盘	upj	10000
-ibus	ibus	10000
+哆啦A梦	dolaamg	100000
+b站	bvj	100000
+up主	upvu	100000
+U盘	upj	100000
+ibus	ibus	100000
 
 # 常用
-嗯嗯	en;klva en;klva	10000
-是吗	ui;oal ma;kvva	10000
-了解	lc;vll jx;pvvp	10000
-属实是	uu;vapl ui;dddd ui;oal	10000
-塞里面	sl;ddt li;lvaa mm;aplv	10000
-所在的	so;pppp zl;apt de;plpv	10000
-再看吧	zl;alvl kj;palv ba;kvla	10000
-刚开完会	gh;lvll kl;aapl wj;ddaa hv;raav	10000
-搞完啦	gk;fda wj;ddaa la;kfd	10000
-哪搞的	na;kvaa gk;fda de;plpv	10000
-开点药	kl;aapl dm;ladd yk;cvv	10000
-有点搞笑	yb;apyy dm;ladd gk;fda xc;papa	10000
-也不适用	ye;vlvv bu;apld ui;padv ys;pvaa	10000
-你学弟	ni;rpvl xt;ddvl di;dpva	10000
-挺常用	ty;fpa ih;ldkl ys;pvaa	10000
-买了券	ml;vdda le;vll qr;dpvp	10000
-弹了个窗	tj;vadp le;vll ge;rll id;ddpl	10000
-这挺好	ve;dadv ty;fpa hk;vpvl	10000
-做得不对	zo;rxl de;ppo bu;apld dv;vdal	10000
-我麻了	wo;pala ma;damm le;vll	10000
-人都麻了	rf;rr db;xvl ma;damm le;vll	10000
-赚波快钱	vr;bdp bo;uvpl ky;ddva qm;jaa	10000
-早呀	zk;ox ya;kavl	10000
-下载好	xw;aldd zl;xav hk;vpvl	10000
-来得了	ll;adpa de;ppo lc;vll	10000
-来的了	ll;adpa de;plpv le;vll	10000
-数据类	uu;dppa ju;fva lz;dpap	10000
-我一般	wo;pala yi;aa bj;pppv	10000
-好蠢	hk;vpvl ip;aalv	10000
-厌蠢	yj;apap ip;aalv	10000
-发送封包	fa;vpvd ss;dpdv fg;tal bk;pvva	10000
-解析类	jx;pvvp xi;mppa lz;dpap	10000
-在售数	zl;apt ub;rdkk uu;dppa	10000
-短租年化	dr;paak zu;palv nm;paal hw;rpvv	10000
-长租年化	ih;pavd zu;palv nm;paal hw;rpvv	10000
-多币种	do;pvpv bi;plvl vs;palv	10000
-讨口饭吃	tk;dval kb;kk fj;pvpp ii;kpav	10000
-好咯	hk;vpvl lo;kpvd	10000
-回点血	hv;lvkk dm;ladd xt;plvl	10000
-拼尽全力	pn;fdp jn;vadd qr;raal li;vpp	10000
-有券	yb;apyy qr;dpvp	10000
+嗯嗯	en;klva en;klva	100000
+是吗	ui;oal ma;kvva	100000
+了解	lc;vll jx;pvvp	100000
+属实是	uu;vapl ui;dddd ui;oal	100000
+塞里面	sl;ddt li;lvaa mm;aplv	100000
+所在的	so;pppp zl;apt de;plpv	100000
+再看吧	zl;alvl kj;palv ba;kvla	100000
+刚开完会	gh;lvll kl;aapl wj;ddaa hv;raav	100000
+搞完啦	gk;fda wj;ddaa la;kfd	100000
+哪搞的	na;kvaa gk;fda de;plpv	100000
+开点药	kl;aapl dm;ladd yk;cvv	100000
+有点搞笑	yb;apyy dm;ladd gk;fda xc;papa	100000
+也不适用	ye;vlvv bu;apld ui;padv ys;pvaa	100000
+你学弟	ni;rpvl xt;ddvl di;dpva	100000
+挺常用	ty;fpa ih;ldkl ys;pvaa	100000
+买了券	ml;vdda le;vll qr;dpvp	100000
+弹了个窗	tj;vadp le;vll ge;rll id;ddpl	100000
+这挺好	ve;dadv ty;fpa hk;vpvl	100000
+做得不对	zo;rxl de;ppo bu;apld dv;vdal	100000
+我麻了	wo;pala ma;damm le;vll	100000
+人都麻了	rf;rr db;xvl ma;damm le;vll	100000
+赚波快钱	vr;bdp bo;uvpl ky;ddva qm;jaa	100000
+早呀	zk;ox ya;kavl	100000
+下载好	xw;aldd zl;xav hk;vpvl	100000
+来得了	ll;adpa de;ppo lc;vll	100000
+来的了	ll;adpa de;plpv le;vll	100000
+数据类	uu;dppa ju;fva lz;dpap	100000
+我一般	wo;pala yi;aa bj;pppv	100000
+好蠢	hk;vpvl ip;aalv	100000
+厌蠢	yj;apap ip;aalv	100000
+发送封包	fa;vpvd ss;dpdv fg;tal bk;pvva	100000
+解析类	jx;pvvp xi;mppa lz;dpap	100000
+在售数	zl;apt ub;rdkk uu;dppa	100000
+短租年化	dr;paak zu;palv nm;paal hw;rpvv	100000
+长租年化	ih;pavd zu;palv nm;paal hw;rpvv	100000
+多币种	do;pvpv bi;plvl vs;palv	100000
+讨口饭吃	tk;dval kb;kk fj;pvpp ii;kpav	100000
+好咯	hk;vpvl lo;kpvd	100000
+回点血	hv;lvkk dm;ladd xt;plvl	100000
+拼尽全力	pn;fdp jn;vadd qr;raal li;vpp	100000
+有券	yb;apyy qr;dpvp	100000
 
 # CS
-战痕	vj;laav hf;dava	10000
-掉箱	dc;fla xd;paml	10000
-交易号	jc;dapd yi;opv hk;kavv	10000
-卡价	ka;laal jw;rrpl	10000
-爪子刀	vw;ppld zi;vlaa dk;vpp	10000
-熊刀	xs;vddd dk;vpp	10000
-磨损值	mo;daap sp;fk vi;rxl	10000
-内格夫	nz;lvpd ge;mpvd fu;aapd	10000
-法玛斯	fa;utv ma;aavv si;alpp	10000
-求购金	qq;alda gb;bpv jn;jj	10000
-开箱等级	kl;aapl xd;paml dg;pat ji;vvpv	10000
+战痕	vj;laav hf;dava	100000
+掉箱	dc;fla xd;paml	100000
+交易号	jc;dapd yi;opv hk;kavv	100000
+卡价	ka;laal jw;rrpl	100000
+爪子刀	vw;ppld zi;vlaa dk;vpp	100000
+熊刀	xs;vddd dk;vpp	100000
+磨损值	mo;daap sp;fk vi;rxl	100000
+内格夫	nz;lvpd ge;mpvd fu;aapd	100000
+法玛斯	fa;utv ma;aavv si;alpp	100000
+求购金	qq;alda gb;bpv jn;jj	100000
+开箱等级	kl;aapl xd;paml dg;pat ji;vvpv	100000
