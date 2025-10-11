@@ -34,5 +34,6 @@
 ## 自定义词库
 
 - `scripts/dicts/custom.dict.yaml`：自定义词库，修改后需要通过`scripts/script.ipynb`进行词库转换，转换后的词库会更新到`dicts/custom.dict.yaml`。
+- `scripts/dicts/fix.dict.yaml`：有些词本身不常见但是单个字的字频很高，由于rime的排序算法会将字频相乘导致有些奇怪的词会排在前面，可以通过这个词库来降低词频。
 - `dicts/custom_phrase.txt`：自定义短词，适用于用缩写编码输入较长的内容，如邮箱、手机号、身份证等。
 - `dicts/top_single_char.txt`和`dicts/top_words.txt`：自定义固顶字词。
