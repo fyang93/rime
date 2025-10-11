@@ -8,6 +8,7 @@ import_tables:
   - ./dicts/custom
   - ./dicts/base
   - ./dicts/ext
+  - ./dicts/fix
 ...
 
 啊	aa;kvla	252181
