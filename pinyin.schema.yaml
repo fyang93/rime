@@ -1,0 +1,121 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: pinyin
+  name: 全拼
+  version: "0.10"
+  author:
+    - 肥宅Official
+  description: |
+    普通全拼方案
+  dependencies:
+    - english
+    - latex
+
+switches:
+  - name: ascii_mode
+    states: [ 中, A ]
+    reset: 1
+  - name: ascii_punct # 中英标点
+    states: [ ¥, $ ]
+    reset: 0
+  - name: traditionalization
+    states: [ 简, 繁 ]
+    reset: 0
+  - name: emoji
+    states: [ 💀, 😄 ]
+    reset: 1
+  - name: full_shape
+    states: [ 半角, 全角 ]
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - table_translator@custom_phrase   # 自定义短语
+    - table_translator@latex           # 数学符号输入
+  filters:
+    - simplifier
+    - simplifier@emoji
+    - simplifier@traditionalize
+    - uniquifier
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;\'
+  delimiter: " '"
+  # algebra:
+  #   - derive/^(\w+);\w+$/$1/          # 缺失辅助码的字不会被纯音码匹配
+  #   - derive/^(\w+);\w*$/$1;/         # 解除注释可能会把形码作为音码识别
+  #   - derive/^(\w+);(\w{1})\w+$/$1;$2/
+  #   - derive/^(\w+);(\w{2})\w+$/$1;$2/
+  #   - derive/^(\w+);(\w{3})\w+$/$1;$2/
+  #   - derive/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
+
+translator:
+  dictionary: pinyin
+  enable_sentence: false # 自动造句
+  enable_encoder: false # 自动造词
+  enable_user_dict: false # 禁用用户词典，rime的调频算法真尼玛垃圾，不如不要
+  # enable_user_dict: true
+  # disable_user_dict_for_patterns: # 禁止单字调频
+  #   - ^[a-z]{1,2}$
+  #   - ^[a-z]{2};[a-z]+$
+  # spelling_hints: 8               # 设置多少字以内候选标注完整编码
+  # comment_format:                 # 自定义提示码
+  #   - xform/^.*[a-z]{2};//
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {accept: "Shift+ISO_Left_Tab", send: Left, when: composing}
+
+recognizer:
+  import_preset: default
+
+punctuator:
+  import_preset: default
+
+custom_phrase:
+  dictionary: ""
+  user_dict: ./dicts/custom_phrase
+  db_class: stabledb
+  enable_completion: false # 提前显示尚未输入完整码的字
+  enable_sentence: false # 是否开启自动造句
+  initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
+
+latex:
+  dictionary: latex
+  prefix: '\\'
+  enable_sentence: false
+  enable_completion: true # enable autocomplete
+  enable_user_dict: false
+  comment_format:          # 自定义提示码
+    - xform/~/ /
+
+emoji:
+  opencc_config: emoji.json
+  option_name: emoji
+  tips: all
+
+# 简繁切换
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
