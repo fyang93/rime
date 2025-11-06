@@ -1,0 +1,176 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: pinyin
+  name: 全拼
+  version: "0.10"
+  author:
+    - 肥宅Official
+  description: |
+    普通全拼方案
+  dependencies:
+    - english
+    - latex
+
+switches:
+  - name: ascii_mode
+    states: [ 中, A ]
+    reset: 1
+  - name: ascii_punct # 中英标点
+    states: [ ¥, $ ]
+    reset: 0
+  - name: traditionalization
+    states: [ 简, 繁 ]
+    reset: 0
+  - name: emoji
+    states: [ 💀, 😄 ]
+    reset: 1
+  - name: full_shape
+    states: [ 半角, 全角 ]
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - table_translator@custom_phrase   # 自定义短语
+    - table_translator@latex           # 数学符号输入
+  filters:
+    - simplifier
+    - simplifier@emoji
+    - simplifier@traditionalize
+    - uniquifier
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\'
+  delimiter: " '" # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
+  algebra:
+    ### 模糊音
+    # 声母
+    # - derive/^([zcs])h/$1/          # zh* ch* sh* 派生出 z* c* s*
+    # - derive/^([zcs])([^h])/$1h$2/  # z* c* s*    派生出 zh* ch* sh*
+    # - derive/^l/n/  # 解释：为 l 开头的拼写派生出 n 开头，即 nai 也可以输出 lai（来、莱、赖……）
+    # - derive/^n/l/  #      lai 可输出 nai（奶、乃、奈……）。 可以单向或成对儿启用模糊音
+    # - derive/^f/h/
+    # - derive/^h/f/
+    # - derive/^l/r/
+    # - derive/^r/l/
+    # - derive/^g/k/
+    # - derive/^k/g/
+    # 韵母
+    # - derive/ang$/an/
+    # - derive/an$/ang/
+    # - derive/eng$/en/
+    # - derive/en$/eng/
+    # - derive/in$/ing/
+    # - derive/ing$/in/
+    # - derive/ian$/iang/
+    # - derive/iang$/ian/
+    # - derive/uan$/uang/
+    # - derive/uang$/uan/
+    # - derive/ai$/an/
+    # - derive/an$/ai/
+    # - derive/ong$/un/
+    # - derive/un$/ong/
+    # - derive/ong$/on/
+    # - derive/iong$/un/
+    # - derive/un$/iong/
+    # - derive/ong$/eng/
+    # - derive/eng$/ong/
+    # 拼音音节
+    # - derive/^fei$/hui/
+    # - derive/^hui$/fei/
+    # - derive/^hu$/fu/
+    # - derive/^fu$/hu/
+    # - derive/^wang$/huang/
+    # - derive/^huang$/wang/
+
+    ### 旧时的拼写规则
+    # - derive/un$/uen/
+    # - derive/ui$/uei/
+    # - derive/iu$/iou/
+
+    ### 超级简拼
+    - erase/^hm$/ # 响应超级简拼，取消「噷 hm」的独占（如果拼音词库有这个音节的话，雾凇里没有）
+    - erase/^m$/  # 响应超级简拼，取消「呣 m」的独占（如果拼音词库有这个音节的话，雾凇里没有）
+    - erase/^n$/  # 响应超级简拼，取消「嗯 n」的独占（如果拼音词库有这个音节的话，雾凇里没有）
+    - erase/^ng$/ # 响应超级简拼，取消「嗯 ng」的独占（如果拼音词库有这个音节的话，雾凇里没有）
+
+    - abbrev/^([a-z]).+$/$1/   # 超级简拼
+    - abbrev/^([zcs]h).+$/$1/  # 超级简拼中，zh ch sh 视为整体（ch'sh → 城市），而不是像这样分开（c'h's'h → 吃好睡好）。
+
+    ### v u 转换
+    # 雾凇的词库严格按照正确的 u v(ü) 注音的，支持使用 qu/qv nue/nve 来输入 qu nve
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    # 以防引入的其他词库没按照正确方式注音，也做一个转换
+    - derive/^([nl])ue$/$1ve/
+    - derive/^([jqxy])v/$1u/
+
+translator:
+  dictionary: pinyin
+  enable_sentence: false # 自动造句
+  enable_encoder: false # 自动造词
+  enable_user_dict: false # 禁用用户词典，rime的调频算法真尼玛垃圾，不如不要
+  # enable_user_dict: true
+  # disable_user_dict_for_patterns: # 禁止单字调频
+  #   - ^[a-z]{1,2}$
+  #   - ^[a-z]{2};[a-z]+$
+  # spelling_hints: 8               # 设置多少字以内候选标注完整编码
+  # comment_format:                 # 自定义提示码
+  #   - xform/^.*[a-z]{2};//
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {accept: "Shift+ISO_Left_Tab", send: Left, when: composing}
+
+recognizer:
+  import_preset: default
+
+punctuator:
+  import_preset: default
+
+custom_phrase:
+  dictionary: ""
+  user_dict: ./dicts/custom_phrase
+  db_class: stabledb
+  enable_completion: false # 提前显示尚未输入完整码的字
+  enable_sentence: false # 是否开启自动造句
+  initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
+
+latex:
+  dictionary: latex
+  prefix: '\\'
+  enable_sentence: false
+  enable_completion: true # enable autocomplete
+  enable_user_dict: false
+  comment_format:          # 自定义提示码
+    - xform/~/ /
+
+emoji:
+  opencc_config: emoji.json
+  option_name: emoji
+  tips: all
+
+# 简繁切换
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
