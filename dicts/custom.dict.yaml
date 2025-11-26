@@ -27,7 +27,7 @@ sort: by_weight
 渥尔悠	wo;uvap er;pvlp yb;rldv	10000
 
 # 词汇
-鹤形	mnhe;dvpv xy;aapp	10000
+鹤形	he;dvpv xy;aapp	10000
 闵大荒	mn;dlda da;apdd hd;cda	10000
 瘦了吧唧	ub;dapl le;vll ba;kvla ji;kvaa	10000
 白人餐	bl;plva rf;rr cj;lard	10000
@@ -126,13 +126,14 @@ sort: by_weight
 在留卡	zl;apt lq;pvlv ka;laal	10000
 池袋	ii;uvlv dl;rada	10000
 永住	ys;dvvp vu;rdaa	10000
+限价单	xm;vlva jw;rrpl dj;dplv	10000
+鸭科夫	ya;lvpv ke;padd fu;aapd	10000
 
 # 中英混输
 哆啦A梦	dolaamg	10000
 b站	bvj	10000
 up主	upvu	10000
 U盘	upj	10000
-ibus	ibus	10000
 
 # 常用
 属实是	uu;vapl ui;dddd ui;oal	10000
