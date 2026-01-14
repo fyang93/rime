@@ -15,19 +15,19 @@ schema:
 
 switches:
   - name: ascii_mode
-    states: [ 中, A ]
+    states: [中, A]
     reset: 1
   - name: ascii_punct # 中英标点
-    states: [ ¥, $ ]
+    states: [¥, $]
     reset: 0
   - name: traditionalization
-    states: [ 简, 繁 ]
+    states: [简, 繁]
     reset: 0
   - name: emoji
-    states: [ 💀, 😄 ]
+    states: [💀, 😄]
     reset: 1
   - name: full_shape
-    states: [ 半角, 全角 ]
+    states: [半角, 全角]
     reset: 0
 
 engine:
@@ -50,10 +50,10 @@ engine:
     - punct_translator
     - script_translator
     - table_translator@top_single_char # 固顶单字
-    - table_translator@top_words       # 固顶词语
-    - table_translator@custom_phrase   # 自定义短语
+    - table_translator@top_words # 固顶词语
+    - table_translator@custom_phrase # 自定义短语
     # - table_translator@english         # 英文输入
-    - table_translator@latex           # 数学符号输入
+    - table_translator@latex # 数学符号输入
   filters:
     - simplifier
     - simplifier@emoji
@@ -64,12 +64,12 @@ speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;\'
   delimiter: " '"
   algebra:
-    - derive/^(\w+);\w+$/$1/          # 缺失辅助码的字不会被纯音码匹配
-    - derive/^(\w+);\w*$/$1;/         # 解除注释可能会把形码作为音码识别
+    - derive/^(\w+);\w+$/$1/ # 缺失辅助码的字不会被纯音码匹配
+    - derive/^(\w+);\w*$/$1;/ # 解除注释可能会把形码作为音码识别
     - derive/^(\w+);(\w{1})\w+$/$1;$2/
     - derive/^(\w+);(\w{2})\w+$/$1;$2/
     - derive/^(\w+);(\w{3})\w+$/$1;$2/
-    - derive/^(\w+);(\w+)$/jj;$2/     # 不知道读音只知道写法的时候用
+    - derive/^(\w+);(\w+)$/jj;$2/ # 不知道读音只知道写法的时候用
 
 translator:
   dictionary: zrm
@@ -80,14 +80,14 @@ translator:
   # disable_user_dict_for_patterns: # 禁止单字调频
   #   - ^[a-z]{1,2}$
   #   - ^[a-z]{2};[a-z]+$
-  spelling_hints: 8               # 设置多少字以内候选标注完整编码
-  comment_format:                 # 自定义提示码
+  spelling_hints: 8 # 设置多少字以内候选标注完整编码
+  comment_format: # 自定义提示码
     - xform/^.*[a-z]{2};//
 
 key_binder:
   import_preset: default
   bindings:
-    - {accept: "Shift+ISO_Left_Tab", send: Left, when: composing}
+    - { accept: "Shift+ISO_Left_Tab", send: Left, when: composing }
 
 recognizer:
   import_preset: default
@@ -125,8 +125,8 @@ english:
   enable_sentence: false
   enable_user_dict: false
   initial_quality: 0
-  comment_format:          # 自定义提示码
-    - xform/.*//           # 清空提示码（就是没有那个小尾巴）
+  comment_format: # 自定义提示码
+    - xform/.*// # 清空提示码（就是没有那个小尾巴）
 
 latex:
   dictionary: latex
@@ -134,7 +134,7 @@ latex:
   enable_sentence: false
   enable_completion: true # enable autocomplete
   enable_user_dict: false
-  comment_format:          # 自定义提示码
+  comment_format: # 自定义提示码
     - xform/~/ /
 
 emoji:
@@ -145,5 +145,5 @@ emoji:
 # 简繁切换
 traditionalize:
   option_name: traditionalization
-  opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
-  tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
+  opencc_config: s2t.json # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。

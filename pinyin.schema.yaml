@@ -15,19 +15,19 @@ schema:
 
 switches:
   - name: ascii_mode
-    states: [ 中, A ]
+    states: [中, A]
     reset: 1
   - name: ascii_punct # 中英标点
-    states: [ ¥, $ ]
+    states: [¥, $]
     reset: 0
   - name: traditionalization
-    states: [ 简, 繁 ]
+    states: [简, 繁]
     reset: 0
   - name: emoji
-    states: [ 💀, 😄 ]
+    states: [💀, 😄]
     reset: 1
   - name: full_shape
-    states: [ 半角, 全角 ]
+    states: [半角, 全角]
     reset: 0
 
 engine:
@@ -49,8 +49,8 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - table_translator@custom_phrase   # 自定义短语
-    - table_translator@latex           # 数学符号输入
+    - table_translator@custom_phrase # 自定义短语
+    - table_translator@latex # 数学符号输入
   filters:
     - simplifier
     - simplifier@emoji
@@ -108,12 +108,12 @@ speller:
 
     ### 超级简拼
     - erase/^hm$/ # 响应超级简拼，取消「噷 hm」的独占（如果拼音词库有这个音节的话，雾凇里没有）
-    - erase/^m$/  # 响应超级简拼，取消「呣 m」的独占（如果拼音词库有这个音节的话，雾凇里没有）
-    - erase/^n$/  # 响应超级简拼，取消「嗯 n」的独占（如果拼音词库有这个音节的话，雾凇里没有）
+    - erase/^m$/ # 响应超级简拼，取消「呣 m」的独占（如果拼音词库有这个音节的话，雾凇里没有）
+    - erase/^n$/ # 响应超级简拼，取消「嗯 n」的独占（如果拼音词库有这个音节的话，雾凇里没有）
     - erase/^ng$/ # 响应超级简拼，取消「嗯 ng」的独占（如果拼音词库有这个音节的话，雾凇里没有）
 
-    - abbrev/^([a-z]).+$/$1/   # 超级简拼
-    - abbrev/^([zcs]h).+$/$1/  # 超级简拼中，zh ch sh 视为整体（ch'sh → 城市），而不是像这样分开（c'h's'h → 吃好睡好）。
+    - abbrev/^([a-z]).+$/$1/ # 超级简拼
+    - abbrev/^([zcs]h).+$/$1/ # 超级简拼中，zh ch sh 视为整体（ch'sh → 城市），而不是像这样分开（c'h's'h → 吃好睡好）。
 
     ### v u 转换
     # 雾凇的词库严格按照正确的 u v(ü) 注音的，支持使用 qu/qv nue/nve 来输入 qu nve
@@ -139,7 +139,7 @@ translator:
 key_binder:
   import_preset: default
   bindings:
-    - {accept: "Shift+ISO_Left_Tab", send: Left, when: composing}
+    - { accept: "Shift+ISO_Left_Tab", send: Left, when: composing }
 
 recognizer:
   import_preset: default
@@ -161,7 +161,7 @@ latex:
   enable_sentence: false
   enable_completion: true # enable autocomplete
   enable_user_dict: false
-  comment_format:          # 自定义提示码
+  comment_format: # 自定义提示码
     - xform/~/ /
 
 emoji:
@@ -172,5 +172,5 @@ emoji:
 # 简繁切换
 traditionalize:
   option_name: traditionalization
-  opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
-  tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
+  opencc_config: s2t.json # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
