@@ -9,9 +9,11 @@
 事多	uido	10000
 嗯嗯	enen	10000
 是吗	uima	10000
+是的	uide	10000
 没事	mzui	10000
 显示	xmui	10000
 买点	mldm	10000
 卖点	mldm;	10000
 编译	bmyi	10000
 说是	uoui	10000
+图标	tubc;	10000
