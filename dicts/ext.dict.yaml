@@ -1,25 +1,8 @@
-# Rime dictionary
-# encoding: utf-8
-#
-#
-# https://github.com/iDvel/rime-ice
-# ------- 扩展词库 -------
-#
-#
-# 只保留三个字及以上的
-# 与 base 没有重复
-# 通过朴素的脚本和勤劳的双手完成了注音
-#
-#
-# - 日常更新的一些
-# - tencent.dict.yaml 中的多音字
-# - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
 version: "2026-01-28"
 sort: by_weight
 ...
-# +_+
 啊啊啊啊啊啊	aa;kvla aa;kvla aa;kvla aa;kvla aa;kvla aa;kvla	100
 阿爸父	aa;vlak ba;pdvl fu;pdpd	100
 阿巴拉契亚	aa;vlak ba;vlav la;fda qi;aaap ya;alld	100
@@ -10660,6 +10643,7 @@ sort: by_weight
 北宫玄武	bz;lapv gs;ddkk xr;davv wu;aala	100
 背公徇私	bz;layy gs;pdvd xp;pppv si;pavd	100
 被狗仔拍到	bz;dvvp gb;pvpv zl;rvla pl;fpl dk;avll	100
+北姑射山	bz;lapv gu;vpx ye;plal uj;lvll	100
 悲观的	bz;ladv gr;vdlv de;plpv	100
 被惯坏了	bz;dvvp gr;ddvv hy;tap le;vll	100
 被关进了监狱	bz;dvvp gr;dpaa jn;aadv le;vll jm;lllv yu;pvdv	100
@@ -16670,6 +16654,7 @@ sort: by_weight
 柏林之声音响	bo;mplv ln;mm vi;dvdd ug;tvl yn;dao xd;kplv	100
 柏林自由大学	bo;mplv ln;mm zi;plva yb;lval da;apdd xt;ddvl	100
 泊岭紫郡	bo;uplv ly;lvrd zi;lavv jp;vavl	100
+波流弟靡	bo;uvpl lq;udav ti;dpva mi;dala	100
 波隆那	bo;uvpl ls;vlpv na;vavl	100
 柏庐市场	bo;mplv lu;dadv ui;dalv ih;tvp	100
 拨乱反治	bo;fvp lr;pavv fj;ppvd vi;uvdk	100
@@ -16719,6 +16704,8 @@ sort: by_weight
 薄伽梵歌	bo;cua qx;rvpk fj;mapv ge;adpv	100
 波切利	bo;uvpl qx;avvp li;pall	100
 拨清波	bo;fvp qy;uaal bo;uvpl	100
+般若波罗蜜多	bo;pppv re;cap bo;uvpl lo;lvpv mi;ddlv do;pvpv	100
+般若波罗蜜多心经	bo;pppv re;cap bo;uvpl lo;lvpv mi;ddlv do;pvpv xn;dvdd jy;vvvd	100
 博热度	bo;xal re;fdd du;davd	100
 博人和鸣人	bo;xal rf;rr he;pakk my;kpvd rf;rr	100
 博人和佐助	bo;xal rf;rr he;pakk zo;rapa vu;lvvp	100
@@ -46186,6 +46173,7 @@ sort: by_weight
 大发神威	da;apdd fa;vpvd uf;dvlv wz;apav	100
 大法小廉	da;apdd fa;utv xc;lpdd lm;dadp	100
 大法院	da;apdd fa;utv yr;vldd	100
+大梵般若	da;apdd fj;mapv bo;pppv re;cap	100
 打翻掉	da;fal fj;pdvd dc;fla	100
 打翻了	da;fal fj;pdvd le;vll	100
 打翻了醋坛子	da;fal fj;pdvd le;vll cu;alal tj;taa zi;vlaa	100
@@ -48855,6 +48843,7 @@ sort: by_weight
 大元大一统志	da;apdd yr;aapv da;apdd yi;aa ts;vvda vi;tdv	100
 大愿地藏菩萨	da;apdd yr;apdv di;tvl zh;cap pu;cda sa;cvl	100
 大愿地藏王菩萨	da;apdd yr;apdv di;tvl zh;cap wh;aala pu;cda sa;cvl	100
+大宛国	da;apdd yr;ddpv go;lvaa	100
 大院君	da;apdd yr;vldd jp;vakk	100
 大圆满	da;apdd yr;lvk mj;uca	100
 大圆圈	da;apdd yr;lvk qr;lvdp	100
@@ -54649,6 +54638,7 @@ sort: by_weight
 得中原	de;ppo vs;lval yr;appl	100
 德州地区	de;ppx vb;dpdl di;tvl qu;apdv	100
 德州科技	de;ppx vb;dpdl ke;padd ji;fx	100
+德州乐陵	de;ppx vb;dpdl lk;pvlp ly;vlt	100
 德州牛仔	de;ppx vb;dpdl nq;paal zl;rvla	100
 德州人	de;ppx vb;dpdl rf;rr	100
 德州疫情	de;ppx vb;dpdl yi;dapv qy;ddaa	100
@@ -56910,6 +56900,7 @@ sort: by_weight
 地图绘	di;tvl tu;lvpv hv;vvra	100
 地图绘制	di;tvl tu;lvpv hv;vvra vi;pall	100
 地图介绍	di;tvl tu;lvpv jx;rpll uk;vvvp	100
+氐土貉	di;pvav tu;tt mo;pdpv	100
 地图模式	di;tvl tu;lvpv mo;mc ui;aala	100
 地图炮	di;tvl tu;lvpv pk;dppv	100
 地图软件	di;tvl tu;lvpv rr;avpv jm;rpaa	100
@@ -67640,6 +67631,7 @@ sort: by_weight
 恶女花魁	ee;aldv nv;vpaa hw;crp kv;pldd	100
 恶女人	ee;aldv nv;vpaa rf;rr	100
 恶女妆	ee;aldv nv;vpaa vd;davp	100
+阿房出	ee;vlak ph;dvda iu;vllv	100
 饿殍遍地	ee;pvpa pc;appd bm;dvdv di;tvl	100
 饿殍盈路	ee;pvpa pc;appd yy;vplv lu;klpv	100
 饿殍载道	ee;pvpa pc;appd zl;xav dk;dpdv	100
@@ -70971,6 +70963,7 @@ sort: by_weight
 鲕状石	er;pvap vd;daap ui;apkk	100
 鲕状燧石	er;pvap vd;daap sv;dpdp ui;apkk	100
 鲕状岩	er;pvap vd;daap yj;lvap	100
+耳著明月珰	er;alla vo;cx my;oyy yt;yy dh;aald	100
 儿子成长	er;pvv zi;vlaa ig;apvv vh;pavd	100
 儿子大了	er;pvv zi;vlaa da;apdd le;vll	100
 儿子的	er;pvv zi;vlaa de;plpv	100
@@ -71345,6 +71338,7 @@ sort: by_weight
 发际线调整	fa;vpvd ji;vlaa xm;vvaa tc;dvpv vg;alal	100
 发绩效	fa;vpvd ji;vvaa xc;dapa	100
 发迹之地	fa;vpvd ji;dadv vi;dvdd di;tvl	100
+法家拂士	fa;utv jw;ddap bi;fva ui;tt	100
 发夹弯	fa;vpvd jw;adpa wj;dava	100
 发夹五连弯	fa;vpvd jw;adpa wu;alva lm;avdv wj;dava	100
 发件地址	fa;vpvd jm;rpaa di;tvl vi;tla	100
@@ -72253,6 +72247,7 @@ sort: by_weight
 发作的频率	fa;vpvd zo;rpal de;plpv pn;laap lv;davv	100
 发作频率	fa;vpvd zo;rpal pn;laap lv;davv	100
 泛爱乐善	fj;updv ai;pdap le;pvlp uj;dpkk	100
+梵呗圆音	fj;mapv bl;kbb yr;lvk yn;dao	100
 反白字	fj;ppvd bl;plva zi;ddvl	100
 翻版碟	fj;pdvd bj;plpp dx;apal	100
 翻版书	fj;pdvd bj;plpp uu;vvld	100
@@ -77600,6 +77595,7 @@ sort: by_weight
 封家里了	fg;tal jw;ddap li;lvaa le;vll	100
 逢甲学院	fg;pvdv jw;lvaa xt;ddvl yr;vldd	100
 冯嘉仪	fg;davv jw;tvp yi;rdpd	100
+泛驾之马	fg;updv jw;vpvv vi;dvdd ma;vvaa	100
 封建剥削	fg;tal jm;vavd bo;vall xt;ldll	100
 风间彻	fg;pvpd jm;dlo ie;ppav	100
 封建传统	fg;tal jm;vavd ir;raav ts;vvda	100
@@ -84182,6 +84178,7 @@ sort: by_weight
 高县人	gk;dakl xm;lvvd rf;rr	100
 高先生	gk;dakl xm;papv ug;paal	100
 高纤维椰果	gk;dakl xm;vvpa wz;vvrd ye;mall go;lvaa	100
+槁项黄馘	gk;mdak xd;alap hd;allv xu;dpak	100
 高翔远引	gk;dakl xd;dpvd yr;aadv yn;vall	100
 高校办学	gk;dakl xc;mdap bj;vpdd xt;ddvl	100
 高校邦	gk;dakl xc;mdap bh;aavl	100
@@ -90576,6 +90573,7 @@ sort: by_weight
 鼓衰气竭	gu;tx uy;dalv qi;paav jx;dao	100
 估税员	gu;rxk uv;padp yr;kbp	100
 谷水苑	gu;pdkk uv;uu yr;cpv	100
+告朔饩羊	gu;pakk uo;dpyy xi;pvpa yh;dpaa	100
 古寺青灯	gu;xkk si;tal qy;aayy dg;dpal	100
 古斯塔夫多雷	gu;xkk si;alpp ta;tc fu;aapd do;pvpv lz;adlv	100
 估算出	gu;rxk sr;palv iu;vllv	100
@@ -90664,6 +90662,7 @@ sort: by_weight
 鼓眼睛	gu;tx yj;lvva jy;lvaa	100
 顾颜面	gu;apap yj;daap mm;aplv	100
 骨岩岩	gu;lvyy yj;lvap yj;lvap	100
+姑射冰肌	gu;vpx ye;plal by;dauu ji;ypvv	100
 姑爷节	gu;vpx ye;pdvl jx;cvl	100
 故意传播	gu;xpa yi;dadv ir;raav bo;fpd	100
 故意传播病毒	gu;xpa yi;dadv ir;raav bo;fpd by;daal du;aavv	100
@@ -101453,6 +101452,7 @@ sort: by_weight
 喝杯咖啡吧	he;kop bz;mapl ka;kvpk fz;klaa ba;kvla	100
 河北考生	he;uakl bz;lapv kk;xav ug;paal	100
 喝杯可乐	he;kop bz;mapl ke;akll le;pvlp	100
+河北乐亭	he;uakl bz;lapv lk;pvlp ty;daal	100
 河北麻将	he;uakl bz;lapv ma;damm jd;dapv	100
 河北民族	he;uakl bz;lapv mn;vava zu;dapa	100
 河北全省	he;uakl bz;lapv qr;raal ug;lplv	100
@@ -108411,6 +108411,7 @@ sort: by_weight
 怀有旧恨	hy;ddap yb;apyy jq;loo hf;ddva	100
 怀有怎样的	hy;ddap yb;apyy zf;padv yh;mdpa de;plpv	100
 怀忧终年岁	hy;ddap yb;ddap vs;vvpv nm;paal sv;lvpv	100
+怀玉被褐	hy;ddap yu;aala pi;dvvp he;dvo	100
 怀远登高	hy;ddap yr;aadv dg;vdak gk;dakl	100
 怀孕八个月	hy;ddap yp;vpvl ba;pdd ge;rll yt;yy	100
 怀孕吃什么	hy;ddap yp;vpvl ii;kpav uf;rxx me;pvdd	100
@@ -109980,6 +109981,7 @@ sort: by_weight
 黄星魁	hd;allv xy;opa kv;pldd	100
 黄胸鹀	hd;allv xs;ypvp wu;	100
 黄锈病	hd;allv xq;jpa by;daal	100
+黄馘槁项	hd;allv xu;dpak gk;mdak xd;alap	100
 黄旭升	hd;allv xu;pvo ug;papl	100
 黄宣绮	hd;allv xr;dda qi;vvap	100
 黄学新	hd;allv xt;ddvl xn;dapp	100
@@ -110502,6 +110504,7 @@ sort: by_weight
 会干什么	hv;raav gj;aall uf;rxx me;pvdd	100
 会干预	hv;raav gj;aall yu;vdap	100
 会干政	hv;raav gj;aall vg;alpa	100
+堕高堙庳	hv;vlt gk;dakl yn;tal bi;dapl	100
 辉格党	hv;lddv ge;mpvd dh;ldkp	100
 辉格党人	hv;lddv ge;mpvd dh;ldkp rf;rr	100
 挥戈返日	hv;fdv ge;avpd fj;ppdv ri;oo	100
@@ -112427,6 +112430,7 @@ sort: by_weight
 火了一把	ho;dprr le;vll yi;aa ba;fvl	100
 活了一辈子	ho;upal le;vll yi;aa bz;laav zi;vlaa	100
 火了以后	ho;dprr le;vll yi;vdrr hb;ppkk	100
+火雷噬嗑	ho;dprr lz;adlv ui;kpad he;ktv	100
 火雷炸响	ho;dprr lz;adlv va;dppa xd;kplv	100
 嚯棱棱	ho;kadv lg;mtp lg;mtp	100
 获利倍蓰	ho;cpv li;pall bz;rdad xi;cpp	100
@@ -117840,11 +117844,13 @@ sort: by_weight
 加上调料	jw;vpkk uh;laaa tc;dvpv lc;dpdd	100
 加上这个	jw;vpkk uh;laaa ve;dadv ge;rll	100
 加少许盐调味	jw;vpkk uk;lpdp xu;dvpa yj;tlv tc;dvpv wz;kaal	100
+迦叶佛	jw;vpdv ue;kxx fo;rvav	100
 假设会	jw;rval ue;dvpv hv;raav	100
 假设说	jw;rval ue;dvpv uo;dvdp	100
 假设语气	jw;rval ue;dvpv yu;dval qi;paav	100
 假设这是	jw;rval ue;dvpv ve;dadv ui;oal	100
 假设这是一个	jw;rval ue;dvpv ve;dadv ui;oal yi;aa ge;rll	100
+迦叶尊者	jw;vpdv ue;kxx zp;dpal ve;xo	100
 加深处理	jw;vpkk uf;udvp iu;pvld li;aalv	100
 加深理解	jw;vpkk uf;udvp li;aalv jx;pvvp	100
 加什么	jw;vpkk uf;rxx me;pvdd	100
@@ -125578,6 +125584,7 @@ sort: by_weight
 进面的	jn;aadv mm;aplv di;plpv	100
 筋面粉	jn;payv mm;aplv ff;dppd	100
 近庙欺神	jn;ppdv mc;dalv qi;alpv uf;dvlv	100
+金玟锡	jn;jj mn;aada xi;jo	100
 金敏绪	jn;jj mn;papa xu;vvx	100
 金珉周	jn;jj mn;aava vb;pvt	100
 矜名嫉能	jn;vdrd my;pvkk ji;vpda ng;vdpv	100
@@ -126046,6 +126053,7 @@ sort: by_weight
 金盛路	jn;jj ug;aplv lu;klpv	100
 金盛曼城	jn;jj ug;aplv mj;olv ig;tap	100
 今盛美	jn;rdvv ug;aplv mz;dpap	100
+金昇玟	jn;jj ug; mn;aada	100
 金圣权	jn;jj ug;vdt qr;mvdd	100
 今生是第一次	jn;rdvv ug;paal ui;oal di;pava yi;aa ci;dapv	100
 金生水	jn;jj ug;paal uv;uu	100
@@ -143920,6 +143928,9 @@ sort: by_weight
 篮球系列	lj;pall qq;aaal xi;pvlp lx;apll	100
 篮球校队	lj;pall qq;aaal xc;mdap dv;vlrr	100
 篮球学校	lj;pall qq;aaal xt;ddvl xc;mdap	100
+兰若寺	lj;dpaa re;cap si;tal	100
+兰若庭	lj;dpaa re;cap ty;dapa	100
+兰若心	lj;dpaa re;cap xn;dvdd	100
 懒人杯	lj;ddal rf;rr bz;mapl	100
 懒人党	lj;ddal rf;rr dh;ldkp	100
 懒人抹布	lj;ddal rf;rr ma;faa bu;aplv	100
@@ -144250,6 +144261,7 @@ sort: by_weight
 琅琊美人榜	lh;aadv ya;aaav mz;dpap rf;rr bh;mdad	100
 琅玡区	lh;aadv ya; qu;apdv	100
 琅琊台刻石	lh;aadv ya;aaav tl;vdkk ke;dall ui;apkk	100
+琅邪王	lh;aadv ya;avvl wh;aala	100
 狼牙雪崩术	lh;pvdv ya;avlp xt;adva bg;lvyy uu;mdd	100
 狼烟遍地	lh;pvdv yj;dplv bm;dvdv di;tvl	100
 狼烟纷争	lh;pvdv yj;dplv ff;vvpd vg;pvva	100
@@ -144882,6 +144894,7 @@ sort: by_weight
 老铁扎心	lk;xpv tx;jpa va;fvv xn;dvdd	100
 老铁扎心了	lk;xpv tx;jpa va;fvv xn;dvdd le;vll	100
 烙铁嘴	lk;dppv tx;jpa zv;klal	100
+乐亭镇	lk;pvlp ty;daal vf;jx	100
 老同事	lk;xpv ts;lvak ui;alva	100
 老头儿乐	lk;xpv tb;ddap er;pvv le;pvlp	100
 老头滚动条	lk;xpv tb;ddap gp;udap ds;aavp tc;pvmm	100
@@ -147033,9 +147046,11 @@ sort: by_weight
 利民保	li;pall mn;vava bk;rkmm	100
 利民便物	li;pall mn;vava bm;ralv wu;papv	100
 里民大会	li;lvaa mn;vava da;apdd hv;raav	100
+李玟赫	li;mvla mn;aada he;tt	100
 利民惠民	li;pall mn;vava hv;aldv mn;vava	100
 李民基	li;mvla mn;vava ji;alt	100
 李敏勇	li;mvla mn;papa ys;vdvp	100
+李玟雨	li;mvla mn;aada yu;alvl	100
 李珉宇	li;mvla mn;aava yu;ddaa	100
 利民之事	li;pall mn;vava vi;dvdd ui;alva	100
 立命安身	li;dadp my;rakv an;ddvp uf;plva	100
@@ -147709,6 +147724,7 @@ sort: by_weight
 立一个规矩	li;dadp yi;aa ge;rll gv;aalv ju;paav	100
 礼仪规程	li;dvvv yi;rdpd gv;aalv ig;paka	100
 李易欢	li;mvla yi;opv hr;vdpv	100
+郦食其	li;alvl yi;rdva ji;alpd	100
 利益角度	li;pall yi;dplv jc;pvpv du;davd	100
 利益纠葛	li;pall yi;dplv jq;vvvl ge;co	100
 李逸朗	li;mvla yi;pvdv lh;dvyy	100
@@ -150295,6 +150311,8 @@ sort: by_weight
 列个清单	lx;apll ge;rll qy;uaal dj;dplv	100
 鬣狗帮	lx;alvv gb;pvpv bh;aalv	100
 裂谷热病毒	lx;apda gu;pdkk re;fdd by;daal du;aavv	100
+列姑射	lx;apll gu;vpx ye;plal	100
+列姑射山	lx;apll gu;vpx ye;plal uj;lvll	100
 猎虹乐团	lx;pval hs;lval yt;pvlp tr;lval	100
 猎户臂	lx;pval hu;dvap bi;vayy	100
 猎狐行动	lx;pval hu;pvpp xy;ppaa ds;aavp	100
@@ -150530,6 +150548,7 @@ sort: by_weight
 林宏岳	ln;mm hs;ddap yt;pllv	100
 临湖地区	ln;llpa hu;uxl di;tvl qu;apdv	100
 磷化镁	ln;apdp hw;rpvv mz;jdp	100
+林花著雨胭脂湿	ln;mm hw;crp vo;cx yu;alvl yj;ylva vi;ypv ui;uol	100
 林怀部	ln;mm hy;ddap bu;davl	100
 林恢复	ln;mm hv;ddap fu;pao	100
 林慧萍	ln;mm hv;aadv py;cua	100
@@ -155092,6 +155111,7 @@ sort: by_weight
 龙虾小兵	ls;apvp xw;lval xc;lpdd by;plpd	100
 龙虾刑警	ls;apvp xw;lval xy;aall jy;cda	100
 龙虾养殖基地	ls;apvp xw;lval yh;dppl vi;apx ji;alt di;tvl	100
+龙象般若功	ls;apvp xd;pvlv bo;pppv re;cap gs;alvp	100
 龙翔凤舞	ls;apvp xd;dpvd fg;pvvd wu;papv	100
 龙翔凤翥	ls;apvp xd;dpvd fg;pvvd vu;xvd	100
 龙骧虎贲	ls;apvp xd;vvda hu;lapv bf;xb	100
@@ -167259,6 +167279,7 @@ sort: by_weight
 免得我们	mm;pvlv de;ppo wo;pala mf;rdlv	100
 免得夜长梦多	mm;pvlv de;ppo ye;darp ih;pavd mg;mmpv do;pvpv	100
 缅甸曼德勒	mm;vvap dm;pvlv mj;olv de;ppx le;alvp	100
+缅甸掸邦	mm;vvap dm;pvlv uj;fdp bh;aavl	100
 面点王	mm;aplv dm;ladd wh;aala	100
 缅甸诈骗	mm;vvap dm;pvlv va;dvpa pm;vvdv	100
 面都没见到	mm;aplv db;xvl mz;upvv jm;lvpv dk;avll	100
@@ -168954,6 +168975,7 @@ sort: by_weight
 明星宣传	my;oyy xy;opa xr;dda ir;raav	100
 明星学校	my;oyy xy;opa xt;ddvl xc;mdap	100
 明星娱乐	my;oyy xy;opa yu;vpka le;pvlp	100
+冥行擿埴	my;dvo xy;ppaa vi; vi;tx	100
 明修暗度	my;oyy xq;rlpv an;oda du;davd	100
 命悬一线	my;rakv xr;lvdv yi;aa xm;vvaa	100
 明宣宗	my;oyy xr;dda zs;ddaa	100
@@ -169446,6 +169468,8 @@ sort: by_weight
 莫哈韦沙漠	mo;co ha;krak wz;aavl ua;ulpd mo;uc	100
 墨海马	mo;lvt hl;upav ma;vvaa	100
 磨耗症	mo;daap hk;aapa vg;daal	100
+摩诃般若波罗蜜	mo;daf he;dvak bo;pppv re;cap bo;uvpl lo;lvpv mi;ddlv	100
+摩诃般若波罗蜜多	mo;daf he;dvak bo;pppv re;cap bo;uvpl lo;lvpv mi;ddlv do;pvpv	100
 莫荷不连续面	mo;co he;cra bu;apld lm;avdv xu;vvx mm;aplv	100
 摩诃不思议	mo;daf he;dvak bu;apld si;lvdv yi;dvdp	100
 摩诃不思议大冒险	mo;daf he;dvak bu;apld si;lvdv yi;dvdp da;apdd mk;lvlv xm;vlra	100
@@ -173386,8 +173410,10 @@ sort: by_weight
 南工大	nj;xlv gs;alaa da;apdd	100
 南宫煌	nj;xlv gs;ddkk hd;dppl	100
 南宫适	nj;xlv gs;ddkk ko;padv	100
+南宫仆射	nj;xlv gs;ddkk pu;rldd ye;plal	100
 南宫一中	nj;xlv gs;ddkk yi;aa vs;lval	100
 南宫朱雀	nj;xlv gs;ddkk vu;paal qt;lprd	100
+南姑射山	nj;xlv gu;vpx ye;plal uj;lvll	100
 南瓜币	nj;xlv gw;ppvd bi;plvl	100
 南瓜车	nj;xlv gw;ppvd ie;aval	100
 南瓜怪人	nj;xlv gw;ppvd gy;ddvd rf;rr	100
@@ -183402,6 +183428,7 @@ sort: by_weight
 皮蛋鸡肉粥	pi;vpvd dj;vllv ji;vdpv rb;lvrr vb;vadp	100
 皮蛋鸡肉粥组合	pi;vpvd dj;vllv ji;vdpv rb;lvrr vb;vadp zu;vvlv he;rakk	100
 皮蛋奶茶	pi;vpvd dj;vllv nl;vpvp ia;crm	100
+劈地价来	pi;vavp di;tvl ga;rrpl ll;adpa	100
 辟地开天	pi;vada di;tvl kl;aapl tm;aapd	100
 屁颠屁颠地跑	pi;vaav dm;xap pi;vaav dm;xap de;tvl pk;klpv	100
 皮垫圈	pi;vpvd dm;ft qr;lvdp	100
@@ -183417,6 +183444,7 @@ sort: by_weight
 皮尔特沃夫	pi;vpvd er;pvlp te;pat wo;upap fu;aapd	100
 批而未供土地	pi;fav er;aplv wz;aalp gs;rall tu;tt di;tvl	100
 批发城里	pi;fav fa;vpvd ig;tap li;lvaa	100
+被发拊膺	pi;dvvp fa;vpvd fu;fra yy;dayy	100
 披发垢面	pi;fvp fa;vpvd gb;tpp mm;aplv	100
 批发行情	pi;fav fa;vpvd hh;ppaa qy;ddaa	100
 批发行业	pi;fav fa;vpvd hh;ppaa ye;lldp	100
@@ -183424,13 +183452,17 @@ sort: by_weight
 批发零售行业	pi;fav fa;vpvd ly;adrd ub;rdkk hh;ppaa ye;lldp	100
 批发模式	pi;fav fa;vpvd mo;mc ui;aala	100
 披发入山	pi;fvp fa;vpvd ru;pdd uj;lvll	100
+被发入山	pi;dvvp fa;vpvd ru;pdd uj;lvll	100
 披发涂面	pi;fvp fa;vpvd tu;uraa mm;aplv	100
 披发徒跣	pi;fvp fa;vpvd tu;ppt xm;klpa	100
 披发文身	pi;fvp fa;vpvd wf;dapd uf;plva	100
 披发跣足	pi;fvp fa;vpvd xm;klpa zu;klap	100
 批发销售月率	pi;fav fa;vpvd xc;jld ub;rdkk yt;yy lv;davv	100
+被发佯狂	pi;dvvp fa;vpvd yh;rdpa kd;pvaa	100
 披发缨冠	pi;fvp fa;vpvd yy;vvb gr;dvaa	100
+被发缨冠	pi;dvvp fa;vpvd yy;vvb gr;dvaa	100
 披发左衽	pi;fvp fa;vpvd zo;apal rf;dvpa	100
+被发左衽	pi;dvvp fa;vpvd zo;apal rf;dvpa	100
 屁放了	pi;vaav fh;dapa le;vll	100
 批风抹月	pi;fav fg;pvpd mo;faa yt;yy	100
 皮肤保卫战	pi;vpvd fu;yaap bk;rkmm wz;vlaa vj;laav	100
@@ -183495,6 +183527,8 @@ sort: by_weight
 皮辊棉	pi;vpvd gp;avo mm;mplv	100
 披国旗	pi;fvp go;lvaa qi;dapa	100
 批吭捣虚	pi;fav hh;kdap dk;fpv xu;lall	100
+被褐怀玉	pi;dvvp he;dvo hy;ddap yu;aala	100
+被褐怀珠	pi;dvvp he;dvo hy;ddap vu;aapa	100
 批红戴绿	pi;fav hs;vval dl;xlv lv;vvva	100
 披红戴绿	pi;fvp hs;vval dl;xlv lv;vvva	100
 批红判白	pi;fav hs;vval pj;dpll bl;plva	100
@@ -183507,11 +183541,15 @@ sort: by_weight
 否极而泰	pi;apkk ji;mpvd er;aplv tl;aaud	100
 否极生泰	pi;apkk ji;mpvd ug;paal tl;aaud	100
 否极泰至	pi;apkk ji;mpvd tl;aaud vi;avt	100
+被甲持兵	pi;dvvp jw;lvaa ii;ft by;plpd	100
 披枷带锁	pi;fvp jw;mvpk dl;allv so;jld	100
 披甲龙龟	pi;fvp jw;lvaa ls;apvp gv;pvlv	100
 披甲龙龟拉莫斯	pi;fvp jw;lvaa ls;apvp gv;pvlv la;fda mo;co si;alpp	100
+被甲执兵	pi;dvvp jw;lvaa vi;fpv by;plpd	100
+被甲执锐	pi;dvvp jw;lvaa vi;fpv rv;jdp	100
 披碱草	pi;fvp jm;apap ck;co	100
 披肩的长发	pi;fvp jm;dvyy de;plpv ih;pavd fa;vpvd	100
+被坚执锐	pi;dvvp jm;llt vi;fpv rv;jdp	100
 披襟岸帻	pi;fvp jn;dvma an;lvap ze;lvaa	100
 僻静的角落	pi;rvap jy;aapv de;plpv jc;pvpv lo;cup	100
 疲精竭力	pi;davp jy;dpaa jx;dao li;vpp	100
@@ -183653,6 +183691,7 @@ sort: by_weight
 披散着头发	pi;fvp sj;alpa ve;dplv tb;ddap fa;vpvd	100
 披沙剖璞	pi;fvp ua;ulpd pb;dall pu;aall	100
 劈山大师	pi;vavp uj;lvll da;apdd ui;lpal	100
+被山带河	pi;dvvp uj;lvll dl;allv he;uakl	100
 批上来	pi;fav uh;laaa ll;adpa	100
 披上来	pi;fvp uh;laaa ll;adpa	100
 批上去	pi;fav uh;laaa qu;tvd	100
@@ -207688,6 +207727,8 @@ sort: by_weight
 善罢干休	uj;dpkk ba;lvt gj;aall xq;rmm	100
 扇巴掌	uj;dvvd ba;vlav vh;ldf	100
 舢板运动	uj;pplv bj;mppv yp;aadv ds;aavp	100
+掸邦北部	uj;fdp bh;aavl bz;lapv bu;davl	100
+掸邦高原	uj;fdp bh;aavl gk;dakl yr;appl	100
 陕北地区	uj;vlad bz;lapv di;tvl qu;apdv	100
 陕北高原	uj;vlad bz;lapv gk;dakl yr;appl	100
 陕北根据地	uj;vlad bz;lapv gf;mvaa ju;fva di;tvl	100
@@ -207899,6 +207940,7 @@ sort: by_weight
 山东蓝翔	uj;lvll ds;avlp lj;cll xd;dpvd	100
 山东蓝翔技师	uj;lvll ds;avlp lj;cll xd;dpvd ji;fx ui;lpal	100
 山东蓝翔技师学院	uj;lvll ds;avlp lj;cll xd;dpvd ji;fx ui;lpal xt;ddvl yr;vldd	100
+山东乐陵	uj;lvll ds;avlp lk;pvlp ly;vlt	100
 山东鲁能俱乐部	uj;lvll ds;avlp lu;pvo ng;vdpv ju;rlva le;pvlp bu;davl	100
 山东女子	uj;lvll ds;avlp nv;vpaa zi;vlaa	100
 山东平度	uj;lvll ds;avlp py;adpa du;davd	100
@@ -209663,8 +209705,11 @@ sort: by_weight
 上书谏寡人者	uh;laaa uu;vvld jm;dval gw;ddap rf;rr ve;xo	100
 上述脚本	uh;laaa uu;mddv jc;ytv bf;alpd	100
 尚书经	uh;ldlv uu;vvld jy;vvvd	100
+尚书仆射	uh;ldlv uu;vvld pu;rldd ye;plal	100
 尚蜀山道	uh;ldlv uu;lvpv uj;lvll dk;dpdv	100
 上数学课	uh;laaa uu;dppa xt;ddvl ke;dvlv	100
+尚书右仆射	uh;ldlv uu;vvld yb;apkk pu;rldd ye;plal	100
+尚书左仆射	uh;ldlv uu;vvld zo;apal pu;rldd ye;plal	100
 上水船	uh;laaa uv;uu ir;pppv	100
 上水径	uh;laaa uv;uu jy;ppvd	100
 上四挡	uh;laaa si;lvpv dh;fld	100
@@ -212308,6 +212353,7 @@ sort: by_weight
 神里流	uf;dvlv li;lvaa lq;udav	100
 神离貌合	uf;dvlv li;dalv mk;pdpl he;rakk	100
 审理模式	uf;ddlv li;aalv mo;mc ui;aala	100
+深厉浅揭	uf;udvp li;apav qm;uaav qi;fo	100
 身历声	uf;plva li;apvp ug;tvl	100
 神里屋敷	uf;dvlv li;lvaa wu;vaav fu;alpa	100
 神裂火织	uf;dvlv lx;apda ho;dprr vi;vvkp	100
@@ -233250,6 +233296,7 @@ sort: by_weight
 隧道行驶	sv;vldp dk;dpdv xy;ppaa ui;vvlv	100
 隧道症	sv;vldp dk;dpdv vg;daal	100
 岁的时候	sv;lvpv de;plpv ui;oal hb;rlva	100
+随地便溺	sv;vlap di;tvl bm;ralv nc;uvav	100
 随地大小便	sv;vlap di;tvl da;apdd xc;lpdd bm;ralv	100
 随地可见	sv;vlap di;tvl ke;akll jm;lvpv	100
 随地乱扔	sv;vlap di;tvl lr;pavv rg;fvp	100
@@ -234703,6 +234750,7 @@ sort: by_weight
 他求婚	ta;rvlv qq;alda hp;vppv	100
 她去了哪里	ta;vpvl qu;tvd le;vll na;kvaa li;lvaa	100
 他确实	ta;rvlv qt;appv ui;dddd	100
+嗒然自丧	ta;kcr rj;pvdd zi;plva sh;xvp	100
 她让我	ta;vpvl rh;dvla wo;pala	100
 他人的	ta;rvlv rf;rr de;plpv	100
 他认得	ta;rvlv rf;dvrr de;ppo	100
@@ -234819,6 +234867,7 @@ sort: by_weight
 她行走于黑暗中	ta;vpvl xy;ppaa zb;tla yu;aall hz;lvdd an;oda vs;lval	100
 踏雪泥	ta;klu xt;adva ni;uvap	100
 踏雪寻龙	ta;klu xt;adva xp;vaal ls;apvp	100
+嗒焉若丧	ta;kcr yj;alav ro;cap sh;xvp	100
 他养了	ta;rvlv yh;dppl le;vll	100
 她养了	ta;vpvl yh;dppl le;vll	100
 他也不行	ta;rvlv ye;vlvv bu;apld xy;ppaa	100
@@ -237108,6 +237157,7 @@ sort: by_weight
 唐山分行	th;dava uj;lvll ff;pdvp hh;ppaa	100
 唐山加油	th;dava uj;lvll jw;vpkk yb;ulva	100
 唐山狂徒	th;dava uj;lvll kd;pvaa tu;ppt	100
+唐山乐亭	th;dava uj;lvll lk;pvlp ty;daal	100
 唐山雷霆风暴行动	th;dava uj;lvll lz;adlv ty;adpa fg;pvpd bk;oal xy;ppaa ds;aavp	100
 唐山烧烤店	th;dava uj;lvll uk;dpav kk;dpx dm;dala	100
 唐山烧烤店打人	th;dava uj;lvll uk;dpav kk;dpx dm;dala da;fal rf;rr	100
@@ -247364,6 +247414,7 @@ sort: by_weight
 顽固而专一	wj;aaap gu;lvx er;aplv vr;aavd yi;aa	100
 顽固立场	wj;aaap gu;lvx li;dadp ih;tvp	100
 万古留芳	wj;avpp gu;xkk lq;pvlv fh;cda	100
+万古钦躅	wj;avpp gu;xkk qn;jpv vo;kllv	100
 万古如长夜	wj;avpp gu;xkk ru;vpkk ih;pavd ye;darp	100
 万蛊蚀天	wj;avpp gu;lvlv ui;pvlv tm;aapd	100
 顽固小气	wj;aaap gu;lvx xc;lpdd qi;paav	100
@@ -258983,6 +259034,7 @@ sort: by_weight
 无间可乘	wu;aapv jm;dlo ke;akll ig;pala	100
 无间傀儡	wu;aapv jm;dlo kv;rplv lz;rlva	100
 吴趼人	wu;kaap jm;klaa rf;rr	100
+於靬王	wu;dard jm; wh;aala	100
 无将牌	wu;aapv jd;dapv pl;plpl	100
 吴江盛泽	wu;kaap jd;uala ug;aplv ze;uvda	100
 无降水	wu;aapv jd;vlpv uv;uu	100
@@ -260841,6 +260893,7 @@ sort: by_weight
 五世而斩	wu;alva ui;alla er;aplv vj;avpp	100
 无视风险	wu;aapv ui;dvlv fg;pvpd xm;vlra	100
 吴师傅	wu;kaap ui;lpal fu;ralv	100
+亡是公	wu;davv ui;oal gs;pdvd	100
 务实共赢	wu;pvvp ui;dddd gs;alpd yy;daky	100
 无尸骸	wu;aapv ui;vapp hl;lvda	100
 无视即可	wu;aapv ui;dvlv ji;vavl ke;akll	100
@@ -277119,6 +277172,7 @@ sort: by_weight
 行善之人	xy;ppaa uj;dpkk vi;dvdd rf;rr	100
 行商坐贾	xy;ppaa uh;dalv zo;rrt gu;alb	100
 形神毕肖	xy;aapp uf;dvlv bi;avx xc;ldyy	100
+行深般若波罗蜜多时	xy;ppaa uf;udvp bo;pppv re;cap bo;uvpl lo;lvpv mi;ddlv do;pvpv ui;oal	100
 醒神儿	xy;alo uf;dvlv er;pvv	100
 形神各异	xy;aapp uf;dvlv ge;pvkk yi;vaap	100
 性神经症	xy;ddpa uf;dvlv jy;vvvd vg;daal	100
@@ -280259,6 +280313,7 @@ sort: by_weight
 选修题	xr;padv xq;rlpv ti;oap	100
 选秀制度	xr;padv xq;pavp vi;pall du;davd	100
 悬悬而望	xr;lvdv xr;lvdv er;aplv wh;daaa	100
+嬛嬛一袅楚宫腰	xr;vplv xr;vplv yi;aa nc;pvda iu;mavl gs;ddkk yk;yalv	100
 轩轩自得	xr;avaa xr;avaa zi;plva de;ppo	100
 玄学院	xr;davv xt;ddvl yr;vldd	100
 玄学者	xr;davv xt;ddvl ve;xo	100
@@ -293207,6 +293262,7 @@ sort: by_weight
 一切有为法	yi;aa qx;avvp yb;apyy wz;dpvd fa;utv	100
 一切值得	yi;aa qx;avvp vi;rxl de;ppo	100
 义切中抱	yi;dpdd qx;avvp vs;lval bk;fpv	100
+欹嵚历落	yi;appv qn;lvj li;apvp lo;cup	100
 疫情暴发	yi;dapv qy;ddaa bk;oal fa;vpvd	100
 疫情报告制度	yi;dapv qy;ddaa bk;fvl gk;pakk vi;pall du;davd	100
 疫情比较严重	yi;dapv qy;ddaa bi;avpv jc;avda yj;alld vs;palv	100
@@ -296324,6 +296380,7 @@ sort: by_weight
 一直前行	yi;aa vi;xlv qm;dpyl xy;ppaa	100
 一直强调	yi;aa vi;xlv qd;vakl dc;dvpv	100
 一直屈居于	yi;aa vi;xlv qu;vavl ju;vax yu;aall	100
+一之日觱发	yi;aa vi;dvdd ri;oo bi;appv bo;vpvd	100
 一直上到	yi;aa vi;xlv uh;laaa dk;avll	100
 以致社稷变为丘墟	yi;vdrr vi;avpa ue;dvt ji;palv bm;davd wz;dpvd qq;plal xu;tla	100
 一指神功	yi;aa vi;fpv uf;dvlv gs;alvp	100
@@ -328935,6 +328992,7 @@ sort: by_weight
 主创者	vu;daal id;rvll ve;xo	100
 朱唇粉面	vu;paal ip;apkk ff;dppd mm;aplv	100
 朱唇皓齿	vu;paal ip;apkk hk;plpa ii;larv	100
+属辞比事	vu;vapl ci;pada bi;avpv ui;alva	100
 逐次近似	vu;apdv ci;dapv jn;ppdv si;rvdr	100
 主词库	vu;daal ci;dvva ku;daav	100
 主词条	vu;daal ci;dvva tc;pvmm	100
@@ -331927,6 +331985,7 @@ sort: by_weight
 捉她回去	vo;fkl ta;vpvl hv;lvkk qu;tvd	100
 卓文萱	vo;lax wf;dapd xr;cdd	100
 捉我回去	vo;fkl wo;pala hv;lvkk qu;tvd	100
+著我旧时裳	vo;cx wo;pala jq;loo ui;oal ih;ldda	100
 卓溪乡	vo;lax xi;updd xd;vvpp	100
 捉狭鬼	vo;fkl xw;pvad gv;plvd	100
 捉下来	vo;fkl xw;aldd ll;adpa	100

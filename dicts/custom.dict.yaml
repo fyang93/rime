@@ -4,7 +4,6 @@ version: "2023.08.03"
 sort: by_weight
 ...
 
-# 名字
 施潇雨	ui;dapa xc;ucv yu;alvl	10000
 羊帆	yh;dpaa fj;lvpv	10000
 羊立华	yh;dpaa li;dadp hw;rpx	10000
@@ -26,7 +25,6 @@ sort: by_weight
 露塞提娅	lu;adkl sl;ddt ti;fo ya;vpal	10000
 渥尔悠	wo;uvap er;pvlp yb;rldv	10000
 
-# 词汇
 鹤形	he;dvpv xy;aapp	10000
 闵大荒	mn;dlda da;apdd hd;cda	10000
 瘦了吧唧	ub;dapl le;vll ba;kvla ji;kvaa	10000
@@ -128,15 +126,14 @@ sort: by_weight
 鸭科夫	ya;lvpv ke;padd fu;aapd	10000
 复权因子	fu;pao qr;mvdd yn;lvap zi;vlaa	10000
 不复权	bu;apld fu;pao qr;mvdd	10000
+订单薄	dy;dval dj;dplv bu;cua	10000
 
-# 中英混输
 哆啦A梦	dolaamg	10000
 b站	bvj	10000
 up主	upvu	10000
 U盘	upj	10000
 A股	agu	10000
 
-# 常用
 属实是	uu;vapl ui;dddd ui;oal	10000
 塞里面	sl;ddt li;lvaa mm;aplv	10000
 所在的	so;pppp zl;apt de;plpv	10000
@@ -178,7 +175,6 @@ A股	agu	10000
 赚麻	vr;bdp ma;damm	10000
 商业互吹	uh;dalv ye;lldp hu;avva iv;kpvr	10000
 
-# CS
 战痕	vj;laav hf;dava	10000
 掉箱	dc;fla xd;paml	10000
 交易号	jc;dapd yi;opv hk;kavv	10000
