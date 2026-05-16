@@ -6,3 +6,6 @@ patch:
   translator/contextual_suggestions: false
   translator/max_homophones: 7
   translator/max_homographs: 7
+  punctuator:
+    import_preset: symbols
+    digit_separators: ""
