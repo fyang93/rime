@@ -127,6 +127,7 @@ sort: by_weight
 复权因子	fu;pao qr;mvdd yn;lvap zi;vlaa	10000
 不复权	bu;apld fu;pao qr;mvdd	10000
 订单薄	dy;dval dj;dplv bu;cua	10000
+主会话	vu;daal hv;raav hw;dvpa	10000
 
 哆啦A梦	dolaamg	10000
 b站	bvj	10000
