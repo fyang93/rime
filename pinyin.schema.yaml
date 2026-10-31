@@ -10,7 +10,6 @@ schema:
   description: |
     普通全拼方案
   dependencies:
-    - english
     - latex
 
 switches:
@@ -49,6 +48,7 @@ engine:
   translators:
     - punct_translator
     - script_translator
+    - table_translator@top_single_char # 固顶单字
     - table_translator@custom_phrase # 自定义短语
     - table_translator@latex # 数学符号输入
   filters:
@@ -154,6 +154,14 @@ custom_phrase:
   enable_completion: false # 提前显示尚未输入完整码的字
   enable_sentence: false # 是否开启自动造句
   initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
+
+top_single_char:
+  dictionary: ""
+  user_dict: ./dicts/top_single_char
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
 
 latex:
   dictionary: latex

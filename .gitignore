@@ -7,3 +7,9 @@ sync
 installation.yaml
 user.yaml
 *.gram
+
+# Built for the local librime Lua ABI.
+lua/jiangen_bridge.so
+__pycache__/
+/models/jiangen/*.pt
+/models/jiangen/*.json

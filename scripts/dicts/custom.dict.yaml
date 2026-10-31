@@ -200,3 +200,37 @@ A股	a gu
 法玛斯	fa ma si
 求购金	qiu gou jin
 开箱等级	kai xiang deng ji
+
+# 原固定首位词：改为普通自定义词，按调频后的词频参与排序。
+时神时鬼	shi shen shi gui
+该省省该花花	gai sheng sheng gai hua hua
+智能	zhi neng	60032
+一下	yi xia	601757
+以下	yi xia	60245
+任务	ren wu	601099
+想想	xiang xiang	312300
+不急	bu ji	39048
+示例	shi li	176964
+实例	shi li	345150
+封包	feng bao	15702
+事多	shi duo	5333
+嗯嗯	en en	11999
+是吗	shi ma	130068
+是的	shi de	420456
+没事	mei shi	338502
+显示	xian shi	601523
+买点	mai dian	35520
+卖点	mai dian	129006
+编译	bian yi	181842
+说是	shuo shi	545436
+图标	tu biao	393468
+图表	tu biao	58190
+退出	tui chu	456720
+推出	tui chu	600764
+异常	yi chang	574620
+机器	ji qi	600450
+极其	ji qi	828168
+愿意	yuan yi	600442
+原意	yuan yi	3209
+美股	mei gu	5898
+会话	hui hua	9332

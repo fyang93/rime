@@ -1,9 +1,0 @@
-# 用来降低一些奇怪的词的词频
-
----
-name: fix
-version: "2025.10.11"
-sort: by_weight
-...
-
-但不限於	dan bu xian yu	0
