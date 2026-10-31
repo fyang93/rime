@@ -128,6 +128,11 @@ sort: by_weight
 不复权	bu;apld fu;papv qr;mvd	10000
 订单薄	dy;dval dj;dplv bu;cua	10000
 主会话	vu;dw hv;raa hw;dvpa	10000
+父代理	fu;pdpd dl;rav li;wlv	10000
+子代理	zi;vla dl;rav li;wlv	10000
+主代理	vu;dw dl;rav li;wlv	10000
+父会话	fu;pdpd hv;raa hw;dvpa	10000
+子会话	zi;vla hv;raa hw;dvpa	10000
 韭研	jq;laa yj;apaa	10000
 韭研公社	jq;laa yj;apaa gs;pdvd ue;dvt	10000
 休市日	xq;rm ui;dalv ri;o	10000
@@ -226,5 +231,5 @@ A股	agu	10000
 极其	ji;mpv qi;alpd	828168
 愿意	yr;apdv yi;dadv	600442
 原意	yr;appl yi;dadv	3209
-美股	mz;dpap gu;ypv	5898
-会话	hv;raa hw;dvpa	9332
+美股	mz;dpap gu;ypv	120000
+会话	hv;raa hw;dvpa	12000

@@ -130,6 +130,11 @@ sort: by_weight
 不复权	bu fu quan
 订单薄	ding dan bu
 主会话	zhu hui hua
+父代理	fu dai li
+子代理	zi dai li
+主代理	zhu dai li
+父会话	fu hui hua
+子会话	zi hui hua
 韭研	jiu yan
 韭研公社	jiu yan gong she
 休市日	xiu shi ri
@@ -232,5 +237,5 @@ A股	a gu
 极其	ji qi	828168
 愿意	yuan yi	600442
 原意	yuan yi	3209
-美股	mei gu	5898
-会话	hui hua	9332
+美股	mei gu	120000
+会话	hui hua	12000
