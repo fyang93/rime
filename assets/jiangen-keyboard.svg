@@ -76,11 +76,10 @@
 <text class="letter" x="12" y="22">D</text>
 <text class="root" x="44" y="57" text-anchor="middle">丶</text>
 </g>
-<g data-key="f" data-roots="手" data-alias="false" transform="translate(388 199)">
+<g data-key="f" data-roots="手扌" data-alias="false" transform="translate(388 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">F</text>
-<text class="root" x="44" y="57" text-anchor="middle">手</text>
-<text class="note" x="44" y="77" text-anchor="middle">含扌</text>
+<text class="root" style="font-size:25px" x="44" y="57" text-anchor="middle">手 / 扌</text>
 </g>
 <g data-key="g" data-roots="工" data-alias="false" transform="translate(486 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
@@ -92,11 +91,10 @@
 <text class="letter" x="12" y="22">H</text>
 <text class="root" x="44" y="57" text-anchor="middle">火</text>
 </g>
-<g data-key="j" data-roots="金" data-alias="false" transform="translate(682 199)">
+<g data-key="j" data-roots="金钅" data-alias="false" transform="translate(682 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">J</text>
-<text class="root" x="44" y="57" text-anchor="middle">金</text>
-<text class="note" x="44" y="77" text-anchor="middle">含钅</text>
+<text class="root" style="font-size:25px" x="44" y="57" text-anchor="middle">金 / 钅</text>
 </g>
 <g data-key="k" data-roots="口" data-alias="false" transform="translate(780 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
@@ -145,6 +143,4 @@
 <text class="letter" x="12" y="22">M</text>
 <text class="root" x="44" y="57" text-anchor="middle">木</text>
 </g>
-<text x="45" y="420" font-size="13" fill="#52617b">艹规范记作“草”；犭/豸同组，土/士同组。灬不是火根。</text>
-<text x="45" y="442" font-size="13" fill="#52617b">按自然分块依序取码，每块最多两码，整字最多四码；三列结构不必硬凑两部。</text>
 </svg>
