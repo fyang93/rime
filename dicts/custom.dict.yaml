@@ -14,7 +14,7 @@ sort: by_weight
 猹总	ia;qmo zs;dpdv	10000
 娄博	lb;dpn bo;xal	10000
 正哥	vg;ala ge;akak	10000
-皓俊	hk;plpa jp;rvd	10000
+皓俊	hk;popt jp;rvd	10000
 张建	vh;vapa jm;vavd	10000
 孙博	sp;vllp bo;xal	10000
 孙哥	sp;vllp ge;akak	10000
@@ -28,7 +28,7 @@ sort: by_weight
 鹤形	he;dvpv xy;aapp	10000
 闵大荒	mn;dlda da;apd hd;cda	10000
 瘦了吧唧	ub;dapl le;vl ba;kvl ji;kva	10000
-白人餐	bl;plva rf;r cj;lard	10000
+白人餐	bl;po rf;r cj;lard	10000
 泛化性	fj;upd hw;rpv xy;ddpa	10000
 奥莱	ao;plap ll;cad	10000
 大作业	da;apd zo;rpa ye;lldp	10000
@@ -63,7 +63,7 @@ sort: by_weight
 蜜雪冰城	mi;ddi xt;adva by;dau ig;tap	10000
 库迪	ku;daav di;lvdv	10000
 性转	xy;ddpa vr;avaa	10000
-帕鲁	pa;lvpl lu;pvo	10000
+帕鲁	pa;lvpo lu;pvo	10000
 运镜	yp;aadv jy;jda	10000
 罗马音	lo;lvpv ma;vva yn;dao	10000
 模速空间	mo;mco su;aldv ks;ddg jm;dlo	10000
@@ -83,7 +83,7 @@ sort: by_weight
 人社局	rf;r ue;dvt ju;vavk	10000
 桃花坪	tk;mpd hw;crp py;tad	10000
 插帧	ia;fpa vf;lvla	10000
-相亲角	xd;mlv qn;dam jc;pvpv	10000
+相亲角	xd;mlv qn; jc;pvpv	10000
 依赖项	yi;rda ll;alpv xd;gap	10000
 霞鹜文楷	xw;adva wu;vdpv wf;dapd kl;mav	10000
 更纱黑体	gg;alva ua;vvlp hz;lvdd ti;ral	10000
@@ -149,16 +149,16 @@ A股	agu	10000
 
 属实是	uu;vapl ui;dddd ui;oal	10000
 塞里面	sl;ddt li;lvaa mm;aplv	10000
-所在的	so;pppp zl;apt de;plpv	10000
+所在的	so;pppp zl;apt de;popv	10000
 再看吧	zl;alv kj;palv ba;kvl	10000
 刚开完会	gh;lvll kl;aapl wj;ddaa hv;raa	10000
 搞完啦	gk;fda wj;ddaa la;kfd	10000
-哪搞的	na;kva gk;fda de;plpv	10000
+哪搞的	na;kva gk;fda de;popv	10000
 开点药	kl;aapl dm;ladd yk;cvv	10000
 有点搞笑	yb;apy dm;ladd gk;fda xc;zpa	10000
 也不适用	ye;vlv bu;apld ui;pxdv ys;pvaa	10000
 你学弟	ni;rpv xt;ddvl di;dpva	10000
-挺常用	ty;fpt ih;ldlv ys;pvaa	10000
+挺常用	ty;fpt ih;ldkl ys;pvaa	10000
 买了券	ml;vdd le;vl qr;dpvp	10000
 弹了个窗	tj;vadp le;vl ge;rl id;ddpl	10000
 这挺好	ve;dadv ty;fpt hk;nvl	10000
@@ -169,7 +169,7 @@ A股	agu	10000
 早呀	zk;ox ya;kav	10000
 下载好	xw;ald zl;xaav hk;nvl	10000
 来得了	ll;adpa de;ppoa lc;vl	10000
-来的了	ll;adpa de;plpv le;vl	10000
+来的了	ll;adpa de;popv le;vl	10000
 数据类	uu;dppa ju;fva lz;dpap	10000
 我一般	wo;pala yi;a bj;pppv	10000
 好蠢	hk;nvl ip;aaii	10000
@@ -198,7 +198,7 @@ A股	agu	10000
 爪子刀	vw;ppld zi;vla dk;vp	10000
 熊刀	xs;vddd dk;vp	10000
 磨损值	mo;damm sp;fkb vi;rxl	10000
-内格夫	nz;lvr ge;mpv fu;aapd	10000
+内格夫	nz;lvpd ge;mpv fu;aapd	10000
 法玛斯	fa;utv ma;wvv si;alpp	10000
 求购金	qq;alda gb;bpv jn;j	10000
 开箱等级	kl;aapl xd;zml dg;zta ji;vvpv	10000
@@ -217,7 +217,7 @@ A股	agu	10000
 事多	ui;alva do;pvpv	5333
 嗯嗯	en;klv en;klv	11999
 是吗	ui;oal ma;kvv	130068
-是的	ui;oal de;plpv	420456
+是的	ui;oal de;popv	420456
 没事	mz;upv ui;alva	338502
 显示	xm;oll ui;aalp	601523
 买点	ml;vdd dm;ladd	35520
@@ -228,10 +228,10 @@ A股	agu	10000
 图表	tu;lvpv bc;aapv	58190
 退出	tv;vadv iu;vllv	456720
 推出	tv;frd iu;vllv	600764
-异常	yi;vaap ih;ldlv	574620
+异常	yi;vaap ih;ldkl	574620
 机器	ji;mpv qi;kkap	600450
 极其	ji;mpv qi;alpd	828168
 愿意	yr;apdv yi;dadv	600442
-原意	yr;appl yi;dadv	3209
+原意	yr;appo yi;dadv	3209
 美股	mz;dpap gu;ypv	120000
 会话	hv;raa hw;dvpx	12000
