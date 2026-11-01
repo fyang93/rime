@@ -15,17 +15,34 @@ from jd6 import ROOT, ROOT_GROUPS, ROOT_KEYS, TABLE, build_index, dictionary_cha
 
 
 def review_shape(first, second, reason):
-    """说明可前缀【选码顺序:1221】：1/2各取对应部下一码，省略则先一后二。
-
-    标记后仍须写笔顺依据，说明先写、中断、穿插和续写；标记本身不是证据。
-    """
-    if '【选码顺序' not in reason:
-        return first + second
-    match = re.fullmatch(r'【选码顺序:([12]+)】(.+)', reason)
-    if not match or not match[2].strip() or '【选码顺序' in match[2]:
-        raise ValueError('选码顺序须是说明开头的唯一标记，且附有笔顺依据')
-    order = match[1]
-    if order.count('1') != len(first) or order.count('2') != len(second):
+    """核对分支与部码，再消费选码顺序；说明标记不替代人工字形证据。"""
+    labels = ('选码顺序', '非根顺取', '起首根', '特裁取码')
+    markers = {}
+    while match := re.match(r'【(' + '|'.join(labels) + r'):([^】]*)】', reason):
+        label, value = match.groups()
+        if label in markers:
+            raise ValueError('同类审核标记不得重复')
+        markers[label] = value
+        reason = reason[match.end():]
+    if any('【' + label in reason for label in labels) or (markers and not reason.strip()):
+        raise ValueError('审核标记须连续位于说明开头，且附有取码依据')
+    codes = {'1': first, '2': second}
+    assigned = set()
+    for label in labels[1:]:
+        if label not in markers:
+            continue
+        value = markers[label]
+        if not re.fullmatch(r'[12](?:,[12])?', value):
+            raise ValueError('分支须列出存在的部号1、2')
+        for part in value.split(','):
+            if part in assigned or not codes[part]:
+                raise ValueError('部号不得重复、缺失或同时属于不同分支')
+            assigned.add(part)
+            if label == '非根顺取' and (not 1 <= len(codes[part]) <= 2
+                                      or set(codes[part]) - set('一丨丿丶乛')):
+                raise ValueError('非根部只能取真实前两笔，不能夹带后置完整根')
+    order = markers.get('选码顺序', '1' * len(first) + '2' * len(second))
+    if not re.fullmatch('[12]+', order) or order.count('1') != len(first) or order.count('2') != len(second):
         raise ValueError('选码顺序须恰好用完两部取码，不得遗漏或重复')
     parts = {'1': iter(first), '2': iter(second)}
     return ''.join(next(parts[part]) for part in order)
@@ -88,6 +105,11 @@ class JD6Tests(unittest.TestCase):
             self.assertFalse(set(after) - ROOT_KEYS.keys(), char)
             with self.subTest(char=char):
                 self.assertEqual(after, review_shape(first, second, reason), char)
+                for part, code in [('1', first), ('2', second)]:
+                    if code and code[0] in '一丨丿丶乛' and set(code[1:]) - set('一丨丿丶乛'):
+                        qualified = re.findall(r'【(?:起首根|特裁取码):([12](?:,[12])?)】', reason)
+                        self.assertTrue(any(part in value.split(',') for value in qualified),
+                                        '实笔后接根须逐项说明直接起首根资格或用户特裁：' + char)
             self.assertEqual(before == after, verdict == '保留', char)
             if part1.startswith(('【独体】', '【裁决】', '【顺取】')):
                 self.assertFalse(part2 or second, char)
@@ -95,6 +117,23 @@ class JD6Tests(unittest.TestCase):
                 self.assertTrue(part2, char)
                 self.assertTrue(1 <= len(first) <= 2 and 1 <= len(second) <= 2, char)
         self.assertTrue((TABLE.parent / 'jd6_review_first_root.tsv').is_file())
+
+    def test_nonroot_parts_stop_at_two_strokes(self):
+        self.assertEqual(review_shape('丿一', '口', '【非根顺取:1】合成非根部取真实前两笔'), '丿一口')
+        self.assertEqual(review_shape('木丨', '口', '合成起首完整根加余部首笔'), '木丨口')
+        self.assertEqual(review_shape('一口', '水', '【起首根:1】合成独立根直接相接'), '一口水')
+        self.assertEqual(review_shape('一乛', '口', '【选码顺序:121】【非根顺取:1】合成两部交错'), '一口乛')
+        for code in ['丿木', '丿日', '丿土', '丿十', '丿士', '丶王', '一十', '乛十', '丿一丨']:
+            with self.subTest(code=code), self.assertRaises(ValueError):
+                review_shape(code, '口', '【非根顺取:1】合成错误抽根或超额')
+        for marker in ['【非根顺取:1,1】', '【非根顺取:3】', '【非根顺取:】',
+                       '【非根顺取:1】【起首根:1】', '【非根顺取:1】【非根顺取:1】']:
+            with self.subTest(marker=marker), self.assertRaises(ValueError):
+                review_shape('丿一', '口', marker + '合成非法分支')
+        with self.assertRaises(ValueError):
+            review_shape('丿一', '', '【非根顺取:2】不存在的部')
+        with self.assertRaises(ValueError):
+            review_shape('丿一', '口', '【非根顺取:1】')
 
     def test_review_shape_order(self):
         a, b, c, d = tuple(ROOT_KEYS)[:4]
