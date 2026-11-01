@@ -1,4 +1,4 @@
-"""校验简根形码总表并重建索引；不自动猜测拆字。"""
+"""校验拼好字形码总表并重建索引；不自动猜测拆字。"""
 
 import csv
 import re
@@ -55,7 +55,7 @@ def build_index(rows):
     counts = Counter(status for _, status, _ in rows.values())
     target = dictionary_characters(('8105',))
     pending = sorted(char for char in target if not rows[char][0])
-    lines = ['# 简根形码索引（JD6 衍生）', '',
+    lines = ['# 拼好字形码索引（JD6 衍生）', '',
              '自动生成：`uv run python scripts/jd6.py`。只编辑 `chaizi_jd6_v2.txt`。', '',
              f'共 {len(rows)} 字：' + '，'.join(f'{s} {counts[s]}' for s in ('已核对', '沿用', '待补')) + '。', '',
              '**沿用不等于已核对；待补项没有猜测码。**', '',

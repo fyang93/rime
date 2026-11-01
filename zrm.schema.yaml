@@ -3,12 +3,12 @@
 
 schema:
   schema_id: zrm
-  name: 自然码+简根
+  name: 自然码+拼好字
   version: "0.10"
   author:
     - 肥宅Official
   description: |
-    自然码+简根（键道6衍生）方案
+    自然码+拼好字（键道6衍生）方案
   dependencies:
     - latex
 

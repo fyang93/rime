@@ -1,4 +1,4 @@
-# 简根形码索引（JD6 衍生）
+# 拼好字形码索引（JD6 衍生）
 
 自动生成：`uv run python scripts/jd6.py`。只编辑 `chaizi_jd6_v2.txt`。
 

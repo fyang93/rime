@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1060" height="460" viewBox="0 0 1060 460" role="img" aria-labelledby="title description">
-<title id="title">简根25组字根键位图</title>
+<title id="title">拼好字25组字根键位图</title>
 <desc id="description">QWERTY字母键盘。q：犭豸；w：王；e：日；r：人；t：土士；y：月；u：水；i：虫；o：日；p：丿；a：一；s：山；d：丶；f：手；g：工；h：火；j：金；k：口；l：丨；z：⺮；x：十；c：草；v：乛；b：贝；n：女；m：木。日支持o和e，e不是另一个字根；艹在码表中规范写草。</desc>
 <style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif}.letter{font-size:15px;font-weight:700;fill:#52617b}.root{font-size:34px;font-weight:500;fill:#142d4e}.note{font-size:11px;fill:#61718b}</style>
 <rect x="1" y="1" width="1058" height="458" rx="20" fill="#f7f9fc" stroke="#d6dfeb"/>
-<text x="45" y="47" font-size="26" font-weight="700" fill="#142d4e">简根 · 字根键位</text>
+<text x="45" y="47" font-size="26" font-weight="700" fill="#142d4e">拼好字 · 字根键位</text>
 <text x="45" y="72" font-size="14" fill="#61718b">25组字根 · 日 o/e 双码 · QWERTY 布局</text>
 <rect x="846" y="28" width="169" height="33" rx="16" fill="#e7eef9"/>
 <text x="930" y="50" text-anchor="middle" font-size="13" fill="#385374">25组 / 26个字母键</text>

@@ -9,9 +9,9 @@
 
 ## 字根键位
 
-形码方案名为“简根”，是键道6的魔改版。
+形码方案名为“拼好字”，是键道6的魔改版。
 
-![简根25组字根键位图，按QWERTY排列，日支持o/e双码](assets/jiangen-keyboard.svg)
+![拼好字25组字根键位图，按QWERTY排列，日支持o/e双码](assets/jiangen-keyboard.svg)
 
 ```text
 ├─ 整字本身是字根 → 取这个根
