@@ -646,7 +646,7 @@ import_tables:
 查	ia;moa	417554
 查	ia;mea	417554
 察	ia;ddpv	413974
-茶	ia;	248811
+茶	ia;cra	248811
 插	ia;fpa	167435
 诧	ia;dvdd	61708
 叉	ia;vdd	54152
@@ -5381,7 +5381,7 @@ import_tables:
 箧	qx;zaa	452
 慊	qx;dddp	178
 郄	qx;pdvl	95
-亲	qn;	1388321
+亲	qn;daal	1388321
 秦	qn;aapa	381190
 琴	qn;wwrd	161113
 侵	qn;rva	103019
@@ -5424,7 +5424,7 @@ import_tables:
 氢	qy;pavd	2589
 罄	qy;tvpa	1796
 磬	qy;tvap	1448
-亲	qy;	1388
+亲	qy;daal	1388
 綮	qy;dvvv	938
 氰	qy;paaa	605
 黥	qy;lvda	351
@@ -5737,7 +5737,7 @@ import_tables:
 僧	sg;rdp	83065
 啥	ua;kra	976190
 傻	ua;rpl	248211
-杀	ua;	109588
+杀	ua;pdal	109588
 刹	ua;pdll	109543
 莎	ua;cul	107897
 煞	ua;pvdd	70229
@@ -6505,7 +6505,7 @@ import_tables:
 淟	tm;ulv	1
 晪	tm;olv	0
 晪	tm;elv	0
-条	tc;	925439
+条	tc;pval	925439
 调	tc;dvpv	542792
 跳	tc;klpd	532527
 挑	tc;fpd	245886
@@ -7565,7 +7565,7 @@ import_tables:
 砑	ya;apav	66
 堐	ya;tap	6
 眼	yj;lvva	3495315
-言	yj;	1026005
+言	yj;dak	1026005
 严	yj;alld	480979
 烟	yj;hlv	435202
 演	yj;udd	341366
@@ -8303,7 +8303,7 @@ import_tables:
 𫖳	yp;vaap	0
 咋	za;kpa	98411
 砸	za;apal	49191
-杂	za;	27765
+杂	za;pval	27765
 咂	za;kal	6899
 匝	za;alvv	3734
 扎	za;fv	1000
