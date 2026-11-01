@@ -61,7 +61,8 @@ def build_index(rows):
              '**沿用不等于已核对；待补项没有猜测码。**', '',
              f'8105补码目标共 {len(target)} 个不同字：已有形码 {len(target) - len(pending)}，待补 {len(pending)}（含原表未知和缺失项）。', '',
              '41448独有字保留参考记录，不属于本轮补码目标。', '',
-             f'当前采用 {len(ROOT_GROUPS)} 个字根组，日支持 o/e 别名；按自然分块依序取码，整字最多四码，讠、纟不另设根。', '']
+             f'当前采用 {len(ROOT_GROUPS)} 个字根组，日支持 o/e 别名；合体字两部各最多两码，按所选单位起笔的实际先后输出，整字最多四码，讠、纟不另设根。', '',
+             '审核范围、最终口径及覆盖限制见 [本轮审核摘要](jd6_audit.md)。', '']
     for group in ROOT_GROUPS:
         keys = 'o/e' if group == '日' else ROOT_KEYS[group[0]]
         matches = [(char, shape, status) for char, (shape, status, _) in rows.items()
