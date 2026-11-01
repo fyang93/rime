@@ -493,7 +493,7 @@ import_tables:
 病	by;daal	505956
 柄	by;mal	76845
 饼	by;pvdp	40371
-禀	by;	34572
+禀	by;daaa	34572
 秉	by;pava	19831
 丙	by;alvp	11170
 炳	by;hal	9133
@@ -922,7 +922,7 @@ import_tables:
 摛	ii;fda	58
 眵	ii;lvpv	56
 傺	ii;rpv	42
-漦	ii;	7
+漦	ii;aau	7
 胣	ii;ypa	3
 瓻	ii;pdav	1
 痓	ii;daav	0
@@ -3173,7 +3173,7 @@ import_tables:
 𬬱	jn;jpp	0
 经	jy;vvvd	3923454
 惊	jy;ddda	1161953
-竟	jy;	1160070
+竟	jy;dapv	1160070
 静	jy;aapv	968467
 精	jy;dpaa	932565
 睛	jy;lvaa	724850
@@ -3617,7 +3617,7 @@ import_tables:
 馗	kv;pvdp	4134
 匮	kv;alvv	4129
 喟	kv;klv	3119
-夔	kv;	2715
+夔	kv;dppv	2715
 篑	kv;zlv	2458
 岿	kv;slp	1390
 揆	kv;fvd	1377
@@ -3814,7 +3814,7 @@ import_tables:
 理	li;wlv	1903915
 李	li;mvl	1462547
 立	li;dadp	1293824
-离	li;	1222359
+离	li;dalv	1222359
 利	li;pall	1091519
 梨	li;pam	767900
 丽	li;alv	653445
@@ -3878,7 +3878,7 @@ import_tables:
 坜	li;tap	223
 疠	li;daav	201
 粝	li;dpap	199
-嫠	li;	195
+嫠	li;aan	195
 篥	li;zal	148
 悝	li;ddlv	99
 轹	li;avpv	72
@@ -4789,7 +4789,7 @@ import_tables:
 镍	nx;jpl	485
 蘖	nx;cpm	235
 颞	nx;alap	167
-糵	nx;	92
+糵	nx;cpdp	92
 陧	nx;vlot	54
 陧	nx;vlet	54
 乜	nx;vv	1
@@ -5324,7 +5324,7 @@ import_tables:
 跄	qd;klrv	20209
 蔷	qd;ctd	14896
 锵	qd;jda	8532
-羌	qd;	7900
+羌	qd;dpaa	7900
 戕	qd;vlav	2303
 戗	qd;rvav	2092
 襁	qd;dvva	2036
@@ -5933,7 +5933,7 @@ import_tables:
 屎	ui;vadp	1359880
 世	ui;alla	1305454
 始	ui;nvd	1239671
-失	ui;	1182384
+失	ui;paap	1182384
 士	ui;t	1175727
 湿	ui;uol	1106830
 湿	ui;uel	1106830
@@ -6752,7 +6752,7 @@ import_tables:
 未	wz;aalp	758953
 围	wz;lvaa	659219
 卫	wz;vla	504141
-威	wz;	503918
+威	wz;apan	503918
 味	wz;kaa	493741
 维	wz;vvrd	369458
 危	wz;pvvv	279881
@@ -7025,7 +7025,7 @@ import_tables:
 爔	xi;hdp	280
 屣	xi;vapp	270
 硒	xi;apal	258
-釐	xi;	223
+釐	xi;aalv	223
 葸	xi;clv	214
 咥	xi;kav	189
 豨	xi;appd	127
@@ -7098,7 +7098,7 @@ import_tables:
 线	xm;vvaa	539444
 险	xm;vlra	386142
 仙	xm;rs	379429
-咸	xm;	330660
+咸	xm;apak	330660
 鲜	xm;pvdp	273041
 限	xm;vlva	222821
 闲	xm;dlm	202953
@@ -7824,7 +7824,7 @@ import_tables:
 旖	yi;dapa	4980
 祎	yi;dvaa	4800
 臆	yi;yda	4735
-彝	yi;	4376
+彝	yi;vvap	4376
 贻	yi;bvd	4040
 噫	yi;kda	3418
 佚	yi;rpa	3148
