@@ -214,6 +214,13 @@ class JD6Tests(unittest.TestCase):
             self.assertEqual(namespace['xcodes'][char], expected, char)
         self.assertIn(r'derive/^(\w+);\w*$/$1/', (ROOT / 'zrm.schema.yaml').read_text())
 
+    def test_whole_roots_are_not_split(self):
+        rows = load_table()
+        # 草是艹的码名，不是整字草根。
+        for root in ROOT_KEYS.keys() & dictionary_characters(('8105',)) - {'草'}:
+            with self.subTest(root=root):
+                self.assertEqual(rows[root][0], root)
+
     def test_root_mapping_budget(self):
         self.assertTrue(0 < len(ROOT_GROUPS) <= 26)
         self.assertEqual(set(''.join(ROOT_GROUPS)), ROOT_KEYS.keys())

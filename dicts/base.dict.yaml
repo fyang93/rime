@@ -6768,7 +6768,7 @@ sort: by_weight
 吧女	ba;kvl nv;n	1090
 八女	ba;pd nv;n	8
 把女儿	ba;fvl nv;n er;pv	7370
-巴女骑牛唱竹枝	ba;vlav nv;n qi;vvap nq;paal ih;koo vu;papa vi;mxv	1
+巴女骑牛唱竹枝	ba;vlav nv;n qi;vvap nq;paal ih;koo vu;z vi;mxv	1
 八女投江	ba;pd nv;n tb;fpv jd;ug	925
 八排	ba;pd pl;fla	655
 八盆	ba;pd pf;pdlv	3333
@@ -7998,7 +7998,7 @@ sort: by_weight
 白唇鹿角	bl;plva ip;apk lu;davl jc;pvpv	6
 柏纯诗	bl;mpl ip;vvav ui;dvta	3
 百春园街道	bl;apl ip;aao yr;lvaa jx;pptt dk;dpdv	19
-白唇竹叶青	bl;plva ip;apk vu;papa ye;kx qy;aay	29
+白唇竹叶青	bl;plva ip;apk vu;z ye;kx qy;aay	29
 百次	bl;apl ci;dapv	10685
 白瓷	bl;plva ci;daav	10420
 拜辞	bl;paaa ci;pada	1700
@@ -8067,7 +8067,7 @@ sort: by_weight
 白帝城	bl;plva di;dalv ig;tap	6380
 白帝城高急暮砧	bl;plva di;dalv ig;tap gk;dakl ji;pvdv mu;coo vf;apla	1
 白帝城邻外啮	bl;plva di;dalv ig;tap ln;rdvl wl;pvld nx;kla	1
-白帝城西万竹蟠	bl;plva di;dalv ig;tap xi;alvp wj;avp vu;papa pj;ipd	1
+白帝城西万竹蟠	bl;plva di;dalv ig;tap xi;alvp wj;avp vu;z pj;ipd	1
 白帝出谷	bl;plva di;dalv iu;vllv gu;pdrk	1
 白底儿	bl;plva di;dapv er;pv	1111
 白底辐肛参	bl;plva di;dapv fu;avak gh;yg uf;vdpp	3
@@ -10270,7 +10270,7 @@ sort: by_weight
 白须	bl;plva xu;ppap	3005
 败絮	bl;bpa xu;nkvv	825
 白絮	bl;plva xu;nkvv	490
-白须道士竹间棋	bl;plva xu;ppap dk;dpdv ui;t vu;papa jm;dlo qi;mal	1
+白须道士竹间棋	bl;plva xu;ppap dk;dpdv ui;t vu;z jm;dlo qi;mal	1
 败絮其中	bl;bpa xu;nkvv qi;alpd vs;lval	2475
 败选	bl;bpa xr;padv	9999
 百癣夏塔热胶囊	bl;apl xr;dapv xw;appv ta;tcr re;fpdd jc;yda nh;alkk	1
@@ -10722,18 +10722,18 @@ sort: by_weight
 白猪	bl;plva vu;qxa	847
 白煮	bl;plva vu;xadd	22
 白术	bl;plva vu;md	19
-白竹	bl;plva vu;papa	7
+白竹	bl;plva vu;z	7
 白纻	bl;plva vu;vvdd	2
 白珠环蝶	bl;plva vu;wpa hr;wap dx;ial	1
 白珠鸡	bl;plva vu;wpa ji;vdpv	4
 白住囊虫	bl;plva vu;rda nh;alkk is;i	1
 白煮肉	bl;plva vu;xadd rb;lvpd	131
 白术散	bl;plva vu;md sj;alpa	1
-白竹山	bl;plva vu;papa uj;s	15
-白竹水村	bl;plva vu;papa uv;u cp;mal	1
+白竹山	bl;plva vu;z uj;s	15
+白竹水村	bl;plva vu;z uv;u cp;mal	1
 白猪头肉	bl;plva vu;qxa tb;ddap rb;lvpd	23
-白竹园	bl;plva vu;papa yr;lvaa	2
-白竹园村	bl;plva vu;papa yr;lvaa cp;mal	6
+白竹园	bl;plva vu;z yr;lvaa	2
+白竹园村	bl;plva vu;z yr;lvaa cp;mal	6
 白术猪肚汤	bl;plva vu;md vu;qxa du;yt th;uvp	1
 白赚	bl;plva vr;bdp	750
 白专	bl;plva vr;aavd	2
@@ -12682,20 +12682,20 @@ sort: by_weight
 半周期	bj;dpaa vb;pvtk qi;aly	320
 半轴突缘	bj;dpaa vb;avlv tu;ddap yr;vvvv	27
 版主	bj;plpp vu;dw	501354
-斑竹	bj;wda vu;papa	297535
+斑竹	bj;wda vu;z	297535
 绊住	bj;vvdp vu;rda	3050
 班主	bj;wdp vu;dw	22
 版筑	bj;plpp vu;zgp	11
 半朱半白	bj;dpaa vu;paal bj;dpaa bl;plva	1
-斑竹垱镇	bj;wda vu;papa dh;tld vf;jxl	16
+斑竹垱镇	bj;wda vu;z dh;tld vf;jxl	16
 班珠尔	bj;wdp vu;wpa er;pvlp	275
 版筑饭牛	bj;plpp vu;zgp fj;pvpp nq;paal	1
 版主们	bj;plpp vu;dw mf;rdl	4600
 班主任	bj;wdp vu;dw rf;rpa	255415
 办主任	bj;vpdd vu;dw rf;rpa	29970
 班主任老师	bj;wdp vu;dw rf;rpa lk;xapv ui;lpal	156
-斑竹湘泪	bj;wda vu;papa xd;uml lz;ulv	1
-斑竹一枝千滴泪	bj;wda vu;papa yi;a vi;mxv qm;pal di;uda lz;ulv	23
+斑竹湘泪	bj;wda vu;z xd;uml lz;ulv	1
+斑竹一枝千滴泪	bj;wda vu;z yi;a vi;mxv qm;pal di;uda lz;ulv	23
 半主轴	bj;dpaa vu;dw vb;avlv	1
 半抓半放	bj;dpaa vw;fpp bj;dpaa fh;dapa	1
 搬砖	bj;fpp vr;apaa	9999
@@ -14199,7 +14199,7 @@ sort: by_weight
 保济丸	bk;rkm ji;uda wj;pvd	90
 宝鸡文理学院	bk;ddwd ji;vdpv wf;dapd li;wlv xt;ddvl yr;vldd	236
 宝鸡县	bk;ddwd ji;vdpv xm;lvvd	875
-抱鸡养竹	bk;fpv ji;vdpv yh;dppl vu;papa	1
+抱鸡养竹	bk;fpv ji;vdpv yh;dppl vu;z	1
 保级战	bk;rkm ji;vvpv vj;laav	475
 报记者	bk;fvl ji;dvva ve;xao	1246
 宝鸡职业技术学院	bk;ddwd ji;vdpv vi;alkp ye;lldp ji;fxv uu;md xt;ddvl yr;vldd	47
@@ -15929,27 +15929,27 @@ sort: by_weight
 宝洲小商品市场	bk;ddwd vb;udp xc;lpd uh;dalv pn;kkk ui;dalv ih;tvp	1
 抱住	bk;fpv vu;rda	88025
 保住	bk;rkm vu;rda	60250
-爆竹	bk;hoa vu;papa	24050
+爆竹	bk;hoa vu;z	24050
 宝珠	bk;ddwd vu;wpa	16475
 包住	bk;pvva vu;rda	14935
 宝珠笔	bk;ddwd vu;wpa bi;zpa	1380
 抱住不放	bk;fpv vu;rda bu;apld fh;dapa	335
-爆竹厂	bk;hoa vu;papa ih;ap	440
+爆竹厂	bk;hoa vu;z ih;ap	440
 包住的	bk;pvva vu;rda de;plpv	660
 宝珠洞	bk;ddwd vu;wpa ds;ulv	5
 抱柱对儿	bk;fpv vu;mda dv;vdal er;pv	9999
 抱柱含谤	bk;fpv vu;mda hj;rdk bh;dvda	1
-爆竹鸡	bk;hoa vu;papa ji;vdpv	11
+爆竹鸡	bk;hoa vu;z ji;vdpv	11
 抱住了	bk;fpv vu;rda le;vl	1000
 保住了	bk;rkm vu;rda le;vl	100
 抱住了她	bk;fpv vu;rda le;vl ta;nvl	433
 抱住了他	bk;fpv vu;rda le;vl ta;rvl	333
-报竹平安	bk;fvl vu;papa py;adpa an;ddn	2
+报竹平安	bk;fvl vu;z py;adpa an;ddn	2
 煲猪肉汤	bk;rkh vu;qxa rb;lvpd th;uvp	19
-爆竹声	bk;hoa vu;papa ug;tvl	1545
-爆竹声声	bk;hoa vu;papa ug;tvl ug;tvl	187
-爆竹声中	bk;hoa vu;papa ug;tvl vs;lval	128
-爆竹声中一岁除	bk;hoa vu;papa ug;tvl vs;lval yi;a sv;spv iu;vlra	1180
+爆竹声	bk;hoa vu;z ug;tvl	1545
+爆竹声声	bk;hoa vu;z ug;tvl ug;tvl	187
+爆竹声中	bk;hoa vu;z ug;tvl vs;lval	128
+爆竹声中一岁除	bk;hoa vu;z ug;tvl vs;lval yi;a sv;spv iu;vlra	1180
 宝珠市饼	bk;ddwd vu;wpa ui;dalv by;pvdp	1
 抱住他	bk;fpv vu;rda ta;rvl	9999
 抱住她	bk;fpv vu;rda ta;nvl	8888
@@ -17802,7 +17802,7 @@ sort: by_weight
 北京紫光恒越网络	bz;lapv jy;dakl zi;lavv gd;ldap hg;ddao yt;tlav wh;lvpd lo;vvpv	87
 北京紫光恒越网络科技有限公司	bz;lapv jy;dakl zi;lavv gd;ldap hg;ddao yt;tlav wh;lvpd lo;vvpv ke;padd ji;fxv yb;apy xm;vlva gs;pdvd si;vak	87
 北京紫光华宇软件股份有限公司	bz;lapv jy;dakl zi;lavv gd;ldap hw;rpx yu;ddaa rr;avpv jm;rpa gu;ypv ff;rpd yb;apy xm;vlva gs;pdvd si;vak	12
-北京紫竹院公园	bz;lapv jy;dakl zi;lavv vu;papa yr;vldd gs;pdvd yr;lvaa	23
+北京紫竹院公园	bz;lapv jy;dakl zi;lavv vu;z yr;vldd gs;pdvd yr;lvaa	23
 北京尊府	bz;lapv jy;dakl zp;dpal fu;dara	31
 杯酒	bz;map jq;ual	20170
 被救	bz;dvvp jq;alpa	5555
@@ -18336,7 +18336,7 @@ sort: by_weight
 被瞧见	bz;dvvp qc;lvrd jm;lvpv	25
 北桥头	bz;lapv qc;mpa tb;ddap	467
 北桥芯片	bz;lapv qc;mpa xn;cdv pm;plav	11615
-被敲竹杠	bz;dvvp qc;dala vu;papa gh;mg	95
+被敲竹杠	bz;dvvp qc;dala vu;z gh;mg	95
 被窃	bz;dvvp qx;ddav	6075
 悲切	bz;ladv qx;avvp	3910
 卑怯	bz;plx qx;ddtv	830
@@ -31971,7 +31971,7 @@ sort: by_weight
 不氪金	bu;apld ke;paxk jn;j	2222
 不可究诘	bu;apld ke;ak jq;ddpv jx;dvtk	9
 不可救药	bu;apld ke;ak jq;alpa yk;cvv	6545
-不可居无竹	bu;apld ke;ak ju;vaxk wu;aapv vu;papa	1180
+不可居无竹	bu;apld ke;ak ju;vaxk wu;aapv vu;z	1180
 不可开交	bu;apld ke;ak kl;aapl jc;dapd	8815
 不可抗拒	bu;apld ke;ak kh;fda ju;fav	37850
 不可抗拒的事由	bu;apld ke;ak kh;fda ju;fav de;plpv ui;alva yb;lval	150
@@ -39512,7 +39512,7 @@ sort: by_weight
 苍苍茫茫	ch;crv ch;crv mh;cud mh;cud	625
 藏藏掖掖	ch;cap ch;cap ye;fda ye;fda	850
 苍苍者天	ch;crv ch;crv ve;xao tm;aap	2
-苍苍竹林寺	ch;crv ch;crv vu;papa ln;mm si;tal	1
+苍苍竹林寺	ch;crv ch;crv vu;z ln;mm si;tal	1
 苍叉鼻鲀	ch;crv ia;vdd bi;pllv tp;pvav	1
 苍场村	ch;crv ih;tvp cp;mal	4
 苍城	ch;crv ig;tap	14
@@ -39783,7 +39783,7 @@ sort: by_weight
 藏私房钱	ch;cap si;pavd fh;dvda qm;jaa	150
 苍松	ch;crv ss;mpd	12535
 苍松翠柏	ch;crv ss;mpd cv;vdda bl;mpl	3840
-苍松翠竹	ch;crv ss;mpd cv;vdda vu;papa	67
+苍松翠竹	ch;crv ss;mpd cv;vdda vu;z	67
 苍松路	ch;crv ss;mpd lu;klpv	146
 伧俗	ch;rrv su;rpd	115
 苍天	ch;crv tm;aap	28090
@@ -42104,7 +42104,7 @@ sort: by_weight
 茶山	ia;cra uj;s	13950
 茶山工业区	ia;cra uj;s gs;g ye;lldp qu;apdv	1
 茶山刘	ia;cra uj;s lq;dall	21
-茶山竹海	ia;cra uj;s vu;papa hl;upa	125
+茶山竹海	ia;cra uj;s vu;z hl;upa	125
 插上	ia;fpa uh;laa	50440
 茶商	ia;cra uh;dalv	9860
 搽上	ia;fcr uh;laa	2050
@@ -43393,7 +43393,7 @@ sort: by_weight
 缠住	ij;vvda vu;rda	16985
 搀住	ij;fpv vu;rda	835
 缠住脚	ij;vvda vu;rda jc;ytv	15
-产竹省	ij;dap vu;papa ug;lplv	87
+产竹省	ij;dap vu;z ug;lplv	87
 产自	ij;dap zi;plva	18150
 铲子	ij;jda zi;vla	7570
 产子	ij;dap zi;vla	123
@@ -51525,15 +51525,15 @@ sort: by_weight
 成洲工业区	ig;apv vb;udp gs;g ye;lldp qu;apdv	3
 撑住	ig;fld vu;rda	6285
 城主	ig;tap vu;dw	2791
-成竹	ig;apv vu;papa	2
+成竹	ig;apv vu;z	2
 成珠	ig;apv vu;wpa	1
-成竹村	ig;apv vu;papa cp;mal	3
+成竹村	ig;apv vu;z cp;mal	3
 成住坏空	ig;apv vu;rda hy;tap ks;ddg	500
 程朱理学	ig;pakw vu;paal li;wlv xt;ddvl	3230
 成珠楼	ig;apv vu;wpa lb;mdp	171
 程朱学派	ig;pakw vu;paal xt;ddvl pl;upp	205
 呈逐月	ig;kw vu;apdv yt;y	980
-成竹在胸	ig;apv vu;papa zl;apt xs;ypv	5100
+成竹在胸	ig;apv vu;z zl;apt xs;ypv	5100
 城砖	ig;tap vr;apaa	2770
 承转	ig;vlaa vr;avaa	1080
 乘专机	ig;pala vr;aavd ji;mpv	2035
@@ -52612,7 +52612,7 @@ sort: by_weight
 吃水线	ii;kpa uv;u xm;vvaa	315
 赤水县	ii;tpl uv;u xm;lvvd	6
 尺水兴波	ii;vapd uv;u xy;ddpd bo;uvp	9
-赤水竹乡鸡	ii;tpl uv;u vu;papa xd;vvp ji;vdpv	1
+赤水竹乡鸡	ii;tpl uv;u vu;z xd;vvp ji;vdpv	1
 吃死	ii;kpa si;appv	1111
 驰思	ii;vvvl si;lvdv	90
 吃四方饭	ii;kpa si;lvpv fh;davp fj;pvpp	1
@@ -52632,7 +52632,7 @@ sort: by_weight
 吃它	ii;kpa ta;ddpv	1111
 赤塔	ii;tpl ta;tcr	1
 池台钟鼓	ii;uvl tl;vdk vs;jlv gu;tkxv	1
-池台竹树三亩余	ii;uvl tl;vdk vu;papa uu;mvd sj;aaa mu;dalv yu;raa	1
+池台竹树三亩余	ii;uvl tl;vdk vu;z uu;mvd sj;aaa mu;dalv yu;raa	1
 侈谈	ii;rpv tj;dvhh	980
 池塘	ii;uvl th;tda	49840
 吃糖	ii;kpa th;dpda	10615
@@ -53063,7 +53063,7 @@ sort: by_weight
 驰逐	ii;vvvl vu;apdv	700
 斥逐	ii;ppal vu;apdv	545
 吃著不尽	ii;kpa vu;cxa bu;apld jn;vadd	3
-尺竹伍符	ii;vapd vu;papa wu;ral fu;zra	1
+尺竹伍符	ii;vapd vu;z wu;ral fu;zra	1
 吃住行	ii;kpa vu;rda xy;ppaa	2415
 赤朱衣	ii;tpl vu;paal yi;dapv	1
 齿状	ii;larv vd;daap	1875
@@ -55884,7 +55884,7 @@ sort: by_weight
 出境游	iu;vllv jy;tda yb;uda	17010
 出境证	iu;vllv jy;tda vg;dval	330
 出境证件	iu;vllv jy;tda vg;dval jm;rpa	1830
-出境竹木草制品检疫管理办法	iu;vllv jy;tda vu;papa mu;m ck;cox vi;pall pn;kkk jm;mra yi;dapv gr;zdd li;wlv bj;vpdd fa;utv	4
+出境竹木草制品检疫管理办法	iu;vllv jy;tda vu;z mu;m ck;cox vi;pall pn;kkk jm;mra yi;dapv gr;zdd li;wlv bj;vpdd fa;utv	4
 初九	iu;dvvp jq;pv	15525
 除旧	iu;vlra jq;lo	1670
 出九	iu;vllv jq;pv	2
@@ -59587,8 +59587,8 @@ sort: by_weight
 垂周分裂	iv;pala vb;pvtk ff;pdvp lx;apda	5
 吹皱一池春水	iv;kpv vb;pvvp yi;a ii;uvl ip;aao uv;u	670
 吹绉一池春水	iv;kpv vb;vvpv yi;a ii;uvl ip;aao uv;u	5
-吹竹弹丝	iv;kpv vu;papa tj;vadp si;vva	1
-吹竹调丝	iv;kpv vu;papa tc;dvpv si;vva	1
+吹竹弹丝	iv;kpv vu;z tj;vadp si;vva	1
+吹竹调丝	iv;kpv vu;z tc;dvpv si;vva	1
 垂朱拖紫	iv;pala vu;paal to;fpa zi;lavv	1
 锤专精	iv;jpa vr;aavd jy;dpaa	8
 锤状趾	iv;jpa vd;daap vi;klla	12
@@ -60103,7 +60103,7 @@ sort: by_weight
 春日局	ip;aao ri;o ju;vavl	2
 春日望	ip;aao ri;o wh;daw	157
 春日暄甚戏作	ip;aao ri;o xr;odd uf;alap xi;vdav zo;rpa	1
-春日莺啼修竹里	ip;aao ri;o yy;cdpv ti;kda xq;rlp vu;papa li;lvaa	2
+春日莺啼修竹里	ip;aao ri;o yy;cdpv ti;kda xq;rlp vu;z li;lvaa	2
 春日载阳	ip;aao ri;o zl;xaav yh;vlo	16
 春日醉起言志	ip;aao ri;o zv;alda qi;tlva yj;dak vi;tdv	1
 醇溶性	ip;alda rs;udd xy;ddpa	685
@@ -61631,7 +61631,7 @@ sort: by_weight
 此株	ci;lapv vu;mpa	111
 雌猪	ci;lard vu;qxa	3
 雌蛛	ci;lard vu;ipa	3
-慈竹	ci;dpdv vu;papa	2
+慈竹	ci;dpdv vu;z	2
 此主题	ci;lapv vu;dw ti;oaap	500435
 磁朱丸	ci;apdp vu;paal wj;pvd	4
 瓷砖	ci;daav vr;apaa	101065
@@ -61895,7 +61895,7 @@ sort: by_weight
 从今天起	cs;rr jn;rdv tm;aap qi;tlva	17170
 从今往后	cs;rr jn;rdv wh;ppda hb;ppk	3620
 从今以后	cs;rr jn;rdv yi;vdr hb;ppk	12810
-从斤竹涧越岭溪行	cs;rr jn;ppal vu;papa jm;udl yt;tlav ly;srd xi;upd xy;ppaa	1
+从斤竹涧越岭溪行	cs;rr jn;ppal vu;z jm;udl yt;tlav ly;srd xi;upd xy;ppaa	1
 从警	cs;rr jy;cpda	4055
 从旧	cs;rr jq;lo	6560
 从句	cs;rr ju;pvk	23945
@@ -63480,17 +63480,17 @@ sort: by_weight
 崔指挥营村	cv;srd vi;fpv hv;fdv yy;cdkk cp;mal	4
 崔智友	cv;srd vi;pao yb;apvd	174
 崔致远	cv;srd vi;avpa yr;aadv	52
-翠竹	cv;vdda vu;papa	19115
+翠竹	cv;vdda vu;z	19115
 翠珠	cv;vdda vu;wpa	755
-翠竹苍松	cv;vdda vu;papa ch;crv ss;mpd	10
-翠竹粉蒸鱼	cv;vdda vu;papa ff;dppd vg;cvl yu;pvlv	4
-翠竹黄花	cv;vdda vu;papa hd;allv hw;crp	8
-翠竹路	cv;vdda vu;papa lu;klpv	2255
-翠竹小区	cv;vdda vu;papa xc;lpd qu;apdv	13
-翠竹新村	cv;vdda vu;papa xn;dapp cp;mal	25
-翠竹园	cv;vdda vu;papa yr;lvaa	1215
-翠竹苑	cv;vdda vu;papa yr;cpv	42
-翠竹园小区	cv;vdda vu;papa yr;lvaa xc;lpd qu;apdv	46
+翠竹苍松	cv;vdda vu;z ch;crv ss;mpd	10
+翠竹粉蒸鱼	cv;vdda vu;z ff;dppd vg;cvl yu;pvlv	4
+翠竹黄花	cv;vdda vu;z hd;allv hw;crp	8
+翠竹路	cv;vdda vu;z lu;klpv	2255
+翠竹小区	cv;vdda vu;z xc;lpd qu;apdv	13
+翠竹新村	cv;vdda vu;z xn;dapp cp;mal	25
+翠竹园	cv;vdda vu;z yr;lvaa	1215
+翠竹苑	cv;vdda vu;z yr;cpv	42
+翠竹园小区	cv;vdda vu;z yr;lvaa xc;lpd qu;apdv	46
 崔庄村	cv;srd vd;dat cp;mal	37
 崔庄村委会	cv;srd vd;dat cp;mal wz;pan hv;raa	1
 崔庄子	cv;srd vd;dat zi;vla	1
@@ -70268,7 +70268,7 @@ sort: by_weight
 打印位置	da;fal yn;pvvl wz;rda vi;lvxl	480
 打印文档	da;fal yn;pvvl wf;dapd dh;mld	1480
 打印文件	da;fal yn;pvvl wf;dapd jm;rpa	2390
-大银纹竹眼蝶	da;apd yn;jva wf;vvda vu;papa yj;lvva dx;ial	1
+大银纹竹眼蝶	da;apd yn;jva wf;vvda vu;z yj;lvva dx;ial	1
 大音希声	da;apd yn;dao xi;pdap ug;tvl	3420
 打印下	da;fal yn;pvvl xw;ald	33
 打印线	da;fal yn;pvvl xm;vvaa	255
@@ -70775,20 +70775,20 @@ sort: by_weight
 大珠	da;apd vu;wpa	3955
 搭住	da;fcr vu;rda	1415
 大杼	da;apd vu;mvd	7
-大竹村	da;apd vu;papa cp;mal	21
+大竹村	da;apd vu;z cp;mal	21
 大煮干丝	da;apd vu;xadd gj;aal si;vva	553
 大主教	da;apd vu;dw jc;xapa	6280
 大主教的	da;apd vu;dw jc;xapa de;plpv	795
 大竺葵	da;apd vu;zaa kv;cvd	10
 大侏儒	da;apd vu;rpa ru;rad	1
 大侏儒云鼠	da;apd vu;rpa ru;rad yp;aavd uu;plvd	1
-大竹县	da;apd vu;papa xm;lvvd	2650
+大竹县	da;apd vu;z xm;lvvd	2650
 大珠小珠落玉盘	da;apd vu;wpa xc;lpd vu;wpa lo;cup yu;wd pj;pplv	139
 大杼穴	da;apd vu;mvd xt;ddpd	7
 打主意	da;fal vu;dw yi;dadv	2250
-大竹英雄	da;apd vu;papa yy;clv xs;aprd	14
-大竹园	da;apd vu;papa yr;lvaa	18
-大竹园村	da;apd vu;papa yr;lvaa cp;mal	19
+大竹英雄	da;apd vu;z yy;clv xs;aprd	14
+大竹园	da;apd vu;z yr;lvaa	18
+大竹园村	da;apd vu;z yr;lvaa cp;mal	19
 大朱庄	da;apd vu;paal vd;dat	186
 大柱子	da;apd vu;mda zi;vla	960
 大著作	da;apd vu;cxa zo;rpa	190
@@ -71285,7 +71285,7 @@ sort: by_weight
 带花	dl;allv hw;crp	3355
 歹话	dl;apvd hw;dvpa	155
 代化程度	dl;rav hw;rpv ig;pakw du;daal	563
-戴花红石竹	dl;xlv hw;crp hs;vvg ui;apk vu;papa	1
+戴花红石竹	dl;xlv hw;crp hs;vvg ui;apk vu;z	1
 带画框的图片	dl;allv hw;alv kd;maa de;plpv tu;lvpv pm;plav	3333
 带花树	dl;allv hw;crp uu;mvd	86
 带花园的楼房	dl;allv hw;crp yr;lvaa de;plpv lb;mdp fh;dvda	3333
@@ -74177,18 +74177,18 @@ sort: by_weight
 弹珠	dj;vadp vu;wpa	9570
 单注	dj;dplv vu;uda	1053
 单株	dj;dplv vu;mpa	811
-淡竹	dj;uhh vu;papa	145
-单竹	dj;dplv vu;papa	16
+淡竹	dj;uhh vu;z	145
+单竹	dj;dplv vu;z	16
 丹朱	dj;pvd vu;paal	2
 单注奖金	dj;dplv vu;uda jd;daap jn;j	6535
 胆主决断	dj;yoa vu;dw jt;dava dr;dppp	4
-丹竹坑	dj;pvd vu;papa kg;tda	3
-单竹坑	dj;dplv vu;papa kg;tda	1
+丹竹坑	dj;pvd vu;z kg;tda	3
+单竹坑	dj;dplv vu;z kg;tda	1
 弹珠汽水	dj;vadp vu;wpa qi;upa uv;u	61
 弹珠人	dj;vadp vu;wpa rf;r	133
 弹珠台	dj;vadp vu;wpa tl;vdk	1180
-丹竹头村	dj;pvd vu;papa tb;ddap cp;mal	5
-淡竹叶	dj;uhh vu;papa ye;kx	222
+丹竹头村	dj;pvd vu;z tb;ddap cp;mal	5
+淡竹叶	dj;uhh vu;z ye;kx	222
 丹朱镇	dj;pvd vu;paal vf;jxl	165
 淡妆	dj;uhh vd;dan	9100
 单桩	dj;dplv vd;mda	1220
@@ -75647,7 +75647,7 @@ sort: by_weight
 倒过去	dk;rav go;aldv qu;tvd	665
 到国外	dk;avll go;lvwd wl;pvld	26340
 倒果为因	dk;rav go;lvaa wz;dpvd yn;lvap	305
-刀过竹解	dk;vp go;aldv vu;papa jx;pvvp	1
+刀过竹解	dk;vp go;aldv vu;z jx;pvvp	1
 倒还	dk;rav hl;apdv	15550
 蹈海	dk;klpd hl;upa	805
 倒海翻江卷巨澜	dk;rav hl;upa fj;pdvd jd;ug jr;dpvv ju;avav lj;udl	23
@@ -87202,7 +87202,7 @@ sort: by_weight
 跌破眼镜	dx;klpa po;apvp yj;lvva jy;jda	2150
 迭起	dx;padv qi;tlva	5850
 叠起来	dx;vddv qi;tlva ll;adpa	1710
-蝶栖石竹银交关	dx;ial qi;mal ui;apk vu;papa yn;jva jc;dapd gr;dpaa	1
+蝶栖石竹银交关	dx;ial qi;mal ui;apk vu;z yn;jva jc;dapd gr;dpaa	1
 蝶群	dx;ial qp;vadp	100
 蝶绕绣衣花	dx;ial rk;vvav xq;vvpa yi;dapv hw;crp	1
 跌入	dx;klpa ru;pd	15695
@@ -95066,8 +95066,8 @@ sort: by_weight
 端州石工巧如神	dr;dasa vb;dpdl ui;apk gs;g qc;gav ru;nk uf;dvlv	1
 短柱	dr;paak vu;mda	1035
 锻铸	dr;jpl vu;jaa	1035
-段竹君	dr;plpv vu;papa jp;vak	187
-断竹续竹	dr;dppp vu;papa xu;vvxv vu;papa	3
+段竹君	dr;plpv vu;z jp;vak	187
+断竹续竹	dr;dppp vu;z xu;vvxv vu;z	3
 断杼择邻	dr;dppp vu;mvd ze;fvd ln;rdvl	1
 端庄	dr;dasa vd;dat	48660
 短装	dr;paak vd;dada	2680
@@ -96014,7 +96014,7 @@ sort: by_weight
 对中国	dv;vdal vs;lval go;lvwd	342560
 对中日	dv;vdal vs;lval ri;o	1955
 对中小企业	dv;vdal vs;lval xc;lpd qi;rla ye;lldp	15220
-对竹镇	dv;vdal vu;papa vf;jxl	66
+对竹镇	dv;vdal vu;z vf;jxl	66
 对转	dv;vdal vr;avaa	4595
 对转子	dv;vdal vr;avaa zi;vla	229
 对撞	dv;vdal vd;fda	3425
@@ -98626,7 +98626,7 @@ sort: by_weight
 峨眉异饰肛螽	ee;spa mz;vllv yi;vaap ui;pvpa gh;yg vs;pvii	1
 峨眉𫚪	ee;spa mz;vllv yu;pvvd	1
 蛾眉月	ee;ipa mz;vllv yt;y	9999
-峨眉竹叶青	ee;spa mz;vllv vu;papa ye;kx qy;aay	8
+峨眉竹叶青	ee;spa mz;vllv vu;z ye;kx qy;aay	8
 噩梦	ee;wkk mg;mmpv	51130
 恶梦	ee;aldv mg;mmpv	28770
 蛾蠓	ee;ipa mg;icd	111
@@ -99033,7 +99033,7 @@ sort: by_weight
 莪术	ee;cpa vu;md	46
 莪术醇	ee;cpa vu;md ip;alda	1
 恶蛛隧道	ee;aldv vu;ipa sv;vldp dk;dpdv	5
-恶竹应须斩万竿	ee;aldv vu;papa yy;dadd xu;ppap vj;avpp wj;avp gj;zaa	72
+恶竹应须斩万竿	ee;aldv vu;z yy;dadd xu;ppap vj;avpp wj;avp gj;zaa	72
 莪术油	ee;cpa vu;md yb;ulv	560
 莪术油葡萄糖注射液	ee;cpa vu;md yb;ulv pu;cpv tk;cpv th;dpda vu;uda ue;plal ye;uda	1
 阿庄镇	ee;vlak vd;dat vf;jxl	13
@@ -105879,7 +105879,7 @@ sort: by_weight
 防爆衣	fh;vlda bk;hoa yi;dapv	154
 防保站	fh;vlda bk;rkm vj;dala	45
 防抱制动系统	fh;vlda bk;fpv vi;pall ds;aavp xi;pvv ts;vvda	183
-放爆竹	fh;dapa bk;hoa vu;papa	1010
+放爆竹	fh;dapa bk;hoa vu;z	1010
 防爆装置	fh;vlda bk;hoa vd;dada vi;lvxl	370
 防备	fh;vlda bz;pvlv	38035
 方碑村	fh;davp bz;appl cp;mal	39
@@ -108023,7 +108023,7 @@ sort: by_weight
 放逐	fh;dapa vu;apdv	24780
 防蛀	fh;vlda vu;ida	6535
 防住	fh;vlda vu;rda	3160
-方竹	fh;davp vu;papa	2340
+方竹	fh;davp vu;z	2340
 方柱	fh;davp vu;mda	1570
 防注入	fh;vlda vu;uda ru;pd	277
 放逐术	fh;dapa vu;apdv uu;md	5
@@ -108031,7 +108031,7 @@ sort: by_weight
 放诸四海而准	fh;dapa vu;dvxa si;lvpv hl;upa er;aplv vp;dard	1
 放诸四夷	fh;dapa vu;dvxa si;lvpv yi;avav	1
 放诸四裔	fh;dapa vu;dvxa si;lvpv yi;dalv	1
-方竹杖	fh;davp vu;papa vh;map	2
+方竹杖	fh;davp vu;z vh;map	2
 放珠镇	fh;dapa vu;wpa vf;jxl	6
 方砖	fh;davp vr;apaa	4040
 方砖厂	fh;davp vr;apaa ih;ap	4
@@ -109333,7 +109333,7 @@ sort: by_weight
 飞谋钓谤	fz;vpd mb;dval dc;jpv bh;dvda	1
 飞谋荐谤	fz;vpd mb;dval jm;cap bh;dvda	1
 非穆斯林	fz;lala mu;papl si;alpp ln;mm	1190
-非木竹浆	fz;lala mu;m vu;papa jd;dau	87
+非木竹浆	fz;lala mu;m vu;z jd;dau	87
 非那西丁	fz;lala na;vavl xi;alvp dy;al	153
 非那雄胺	fz;lala na;vavl xs;aprd an;ydd	31
 非那雄胺片	fz;lala na;vavl xs;aprd an;ydd pm;plav	3
@@ -113969,7 +113969,7 @@ sort: by_weight
 凤尾鱼罐头	fg;pvvd wz;vapa yu;pvlv gr;pack tb;ddap	170
 峰尾镇	fg;spv wz;vapa vf;jxl	15
 奉为至宝	fg;aaaa wz;dpvd vi;avt bk;ddwd	410
-凤尾竹	fg;pvvd wz;vapa vu;papa	3115
+凤尾竹	fg;pvvd wz;vapa vu;z	3115
 风闻	fg;pvpd wf;dlal	2625
 凤纹	fg;pvvd wf;vvda	1960
 风温	fg;pvpd wf;uol	386
@@ -114068,7 +114068,7 @@ sort: by_weight
 奉献精神	fg;aaaa xm;xlap jy;dpaa uf;dvlv	29085
 风险可保性	fg;pvpd xm;vlra ke;ak bk;rkm xy;ddpa	6
 风险控制	fg;pvpd xm;vlra ks;fdd vi;pall	44340
-奉贤南竹港	fg;aaaa xm;llb nj;xlv vu;papa gh;ual	1
+奉贤南竹港	fg;aaaa xm;llb nj;xlv vu;z gh;ual	1
 风险能力	fg;pvpd xm;vlra ng;vdpv li;vp	5200
 风险评估	fg;pvpd xm;vlra py;dvad gu;rxk	28690
 风险评价	fg;pvpd xm;vlra py;dvad jw;rrp	5965
@@ -114526,7 +114526,7 @@ sort: by_weight
 风烛残年	fg;pvpd vu;hi cj;apaa nm;paal	2295
 风烛草露	fg;pvpd vu;hi ck;cox lu;adkl	1
 风住尘香花已尽	fg;pvpd vu;rda if;lpt xd;pao hw;crp yi;vav jn;vadd	5
-凤竹纺织	fg;pvvd vu;papa fh;vvda vi;vvkp	2
+凤竹纺织	fg;pvvd vu;z fh;vvda vi;vvkp	2
 风助火势	fg;pvpd vu;lvvp ho;h ui;fpvp	195
 凤翥龙骧	fg;pvvd vu;xavd ls;apvp xd;vvda	7
 凤翥鸾回	fg;pvvd vu;xavd lr;dapv hv;lvk	1
@@ -114592,7 +114592,7 @@ sort: by_weight
 佛豆柠檬枇	fo;rva db;akdp ny;mdd mg;mcd pi;mav	5
 佛豆柠檬批	fo;rva db;akdp ny;mdd mg;mcd pi;fav	1
 佛度	fo;rva du;daal	1111
-佛肚竹	fo;rva du;yt vu;papa	940
+佛肚竹	fo;rva du;yt vu;z	940
 佛法	fo;rva fa;utv	123090
 佛法无边	fo;rva fa;utv wu;aapv bm;vpdv	1580
 佛冈	fo;rva gh;lvpd	1835
@@ -115615,7 +115615,7 @@ sort: by_weight
 复方戊二醛	fu;papv fh;davp wu;apvp er;aa qr;alcr	3
 复方五味子酊	fu;papv fh;davp wu;alva wz;kaa zi;vla dy;alal	1
 复方西羚解毒片	fu;papv fh;davp xi;alvp ly;dprd jx;pvvp du;aavv pm;plav	2
-复方鲜竹沥液	fu;papv fh;davp xm;pvdp vu;papa li;uap ye;uda	7
+复方鲜竹沥液	fu;papv fh;davp xm;pvdp vu;z li;uap ye;uda	7
 傅坊乡	fu;ral fh;tda xd;vvp	6
 复方消化酶	fu;papv fh;davp xc;uld hw;rpv mz;alpa	6
 复方消化酶胶囊	fu;papv fh;davp xc;uld hw;rpv mz;alpa jc;yda nh;alkk	7
@@ -115872,7 +115872,7 @@ sort: by_weight
 复归于婴儿	fu;papv gv;lpva yu;aal yy;bbn er;pv	3
 富贵园	fu;ddak gv;lvb yr;lvaa	68
 富贵在天	fu;ddak gv;lvb zl;apt tm;aap	1025
-富贵竹	fu;ddak gv;lvb vu;papa	3075
+富贵竹	fu;ddak gv;lvb vu;z	3075
 腐国	fu;dalv go;lvwd	9999
 复国	fu;papv go;lvwd	7275
 富国	fu;ddak go;lvwd	3930
@@ -119391,7 +119391,7 @@ sort: by_weight
 扶助	fu;faa vu;lvvp	35080
 扶住	fu;faa vu;rda	19695
 付诸	fu;ral vu;dvxa	13705
-腐竹	fu;dalv vu;papa	8315
+腐竹	fu;dalv vu;z	8315
 缚住	fu;vval vu;rda	2605
 伏诛	fu;rap vu;dvpa	2180
 服主	fu;yvl vu;dw	1
@@ -119451,7 +119451,7 @@ sort: by_weight
 辅助任务	fu;aval vu;lvvp rf;rpa wu;pvvp	36
 副主任药师	fu;akll vu;dw rf;rpa yk;cvv ui;lpal	184
 副主任医师	fu;akll vu;dw rf;rpa yi;apav ui;lpal	54265
-腐竹肉片	fu;dalv vu;papa rb;lvpd pm;plav	50
+腐竹肉片	fu;dalv vu;z rb;lvpd pm;plav	50
 辅助软件	fu;aval vu;lvvp rr;avpv jm;rpa	8215
 辅助色素	fu;aval vu;lvvp se;pvvl su;aavv	10
 辅助设备	fu;aval vu;lvvp ue;dvpv bz;pvlv	15385
@@ -120636,8 +120636,8 @@ sort: by_weight
 盖州街	gl;dplv vb;dpdl jx;pptt	5
 盖州市	gl;dplv vb;dpdl ui;dalv	2465
 盖住	gl;dplv vu;rda	22540
-盖竹柏影也	gl;dplv vu;papa bl;mpl yy;odpp ye;vlv	2
-盖竹村	gl;dplv vu;papa cp;mal	3
+盖竹柏影也	gl;dplv vu;z bl;mpl yy;odpp ye;vlv	2
+盖竹村	gl;dplv vu;z cp;mal	3
 改主意	gl;vapa vu;dw yi;dadv	735
 改柱张弦	gl;vapa vu;mda vh;vapa xm;vada	1
 该抓	gl;dvda vw;fpp	1445
@@ -127727,7 +127727,7 @@ sort: by_weight
 个猪	ge;rl vu;qxa	111
 隔住	ge;vlak vu;rda	4
 各主管	ge;pvk vu;dw gr;zdd	202
-葛竹坪镇	ge;cop vu;papa py;tad vf;jxl	9
+葛竹坪镇	ge;cop vu;z py;tad vf;jxl	9
 各专业	ge;pvk vr;aavd ye;lldp	81400
 各庄	ge;pvk vd;dat	16525
 格状	ge;mpv vd;daap	2085
@@ -131076,7 +131076,7 @@ sort: by_weight
 宫阙	gs;ddkk qt;dldp	4800
 宫阙万间都做了土	gs;ddkk qt;dldp wj;avp jm;dlo db;xavl zo;rxk le;vl tu;t	7
 公然	gs;pdvd rj;pvdd	39310
-公然抱茅入竹去	gs;pdvd rj;pvdd bk;fpv mk;cvd ru;pd vu;papa qu;tvd	2
+公然抱茅入竹去	gs;pdvd rj;pvdd bk;fpv mk;cvd ru;pd vu;z qu;tvd	2
 公然反抗	gs;pdvd rj;pvdd fj;ppvd kh;fda	190
 公然违背	gs;pdvd rj;pvdd wz;aadv bz;lay	370
 公然侮辱	gs;pdvd rj;pvdd wu;rpa ru;apal	17625
@@ -136170,7 +136170,7 @@ sort: by_weight
 谷主	gu;pdrk vu;dw	1111
 故主	gu;xkpa vu;dw	276
 顾渚村	gu;apap vu;uxa cp;mal	13
-古竹老梢惹碧云	gu;xk vu;papa lk;xapv uk;mld re;cadv bi;wpap yp;aavd	1
+古竹老梢惹碧云	gu;xk vu;z lk;xapv uk;mld re;cadv bi;wpap yp;aavd	1
 顾渚山	gu;apap vu;uxa uj;s	3
 顾祝同	gu;apap vu;dvkp ts;lvak	1290
 孤烛异乡人	gu;vlpp vu;hi yi;vaap xd;vvp rf;r	2
@@ -138139,7 +138139,7 @@ sort: by_weight
 观赏者	gr;vdlv uh;ldb ve;xao	4595
 观赏着	gr;vdlv uh;ldb ve;dplv	1725
 观赏植物	gr;vdlv uh;ldb vi;mxl wu;papv	5785
-观赏竹	gr;vdlv uh;ldb vu;papa	116
+观赏竹	gr;vdlv uh;ldb vu;z	116
 观赏棕榈	gr;vdlv uh;ldb zs;mdd lv;mdl	13
 关涉	gr;dpaa ue;ula	9999
 馆舍	gr;pvdd ue;raa	5840
@@ -138538,7 +138538,7 @@ sort: by_weight
 观音现	gr;vdlv yn;dao xm;wlv	4
 观音像	gr;vdlv yn;dao xd;rpv	5065
 观音岩	gr;vdlv yn;dao yj;sap	1715
-观音竹	gr;vdlv yn;dao vu;papa	9999
+观音竹	gr;vdlv yn;dao vu;z	9999
 观音坐莲	gr;vdlv yn;dao zo;rrt lm;cav	645
 观音座莲	gr;vdlv yn;dao zo;darr lm;cav	7
 观音座前	gr;vdlv yn;dao zo;darr qm;dpyl	4
@@ -138757,7 +138757,7 @@ sort: by_weight
 冠珠瓷砖	gr;dvaa vu;wpa ci;daav vr;apaa	176
 关注点	gr;dpaa vu;uda dm;ladd	11680
 关注度	gr;dpaa vu;uda du;daal	34055
-管竹管山管水	gr;zdd vu;papa gr;zdd uj;s gr;zdd uv;u	1
+管竹管山管水	gr;zdd vu;z gr;zdd uj;s gr;zdd uv;u	1
 关注焦点	gr;dpaa vu;uda jc;rddd dm;ladd	9845
 关注民生	gr;dpaa vu;uda mn;vava ug;paal	8160
 关注热点	gr;dpaa vu;uda re;fpdd dm;ladd	6225
@@ -138943,7 +138943,7 @@ sort: by_weight
 广埠屯	gd;dap bu;tpl tp;avlv	632
 广布种	gd;dap bu;aplv vs;palv	132
 广布中剑水蚤	gd;dap bu;aplv vs;lval jm;rall uv;u zk;vdi	1
-广布竹链蚧	gd;dap bu;aplv vu;papa lm;jav jx;irp	1
+广布竹链蚧	gd;dap bu;aplv vu;z lm;jav jx;irp	1
 光彩	gd;ldap cl;pdpp	101075
 广采博收	gd;dap cl;pdm bo;xal ub;vlpa	23
 广采博学	gd;dap cl;pdm bo;xal xt;ddvl	4
@@ -140626,7 +140626,7 @@ sort: by_weight
 龟背	gv;pvlv bz;lay	3155
 龟背痰	gv;pvlv bz;lay tj;dahh	1
 龟背纹	gv;pvlv bz;lay wf;vvda	5
-龟背竹	gv;pvlv bz;lay vu;papa	2375
+龟背竹	gv;pvlv bz;lay vu;z	2375
 规避	gv;aalv bi;vadv	94865
 鬼笔	gv;plva bi;zpa	270
 鬼笔毒素	gv;plva bi;zpa du;aavv su;aavv	30
@@ -141970,11 +141970,11 @@ sort: by_weight
 贵州羽芒秆蝇	gv;lvb vb;dpdl yu;vdvd mh;cda gj;paaa yy;ikl	1
 桂洲长	gv;mtt vb;udp vh;pavd	1
 桂洲中学	gv;mtt vb;udp vs;lval xt;ddvl	15
-桂竹	gv;mtt vu;papa	385
-筀竹	gv;ztt vu;papa	2
-桂竹香	gv;mtt vu;papa xd;pao	10
+桂竹	gv;mtt vu;z	385
+筀竹	gv;ztt vu;z	2
+桂竹香	gv;mtt vu;z xd;pao	10
 鬼主意	gv;plva vu;dw yi;dadv	2525
-桂竹园	gv;mtt vu;papa yr;lvaa	4
+桂竹园	gv;mtt vu;z yr;lvaa	4
 鬼抓狼嚎	gv;plva vw;fpp lh;qdv hk;kda	1
 硅砖	gv;aptt vr;apaa	535
 鬼妆	gv;plva vd;dan	1111
@@ -147154,7 +147154,7 @@ sort: by_weight
 海事仲裁	hl;upa ui;alva vs;rlv cl;xada	765
 海事仲裁裁决	hl;upa ui;alva vs;rlv cl;xada cl;xada jt;dava	50
 海事仲裁程序规则	hl;upa ui;alva vs;rlv cl;xada ig;pakw xu;davd gv;aalv ze;bll	2
-海石竹	hl;upa ui;apk vu;papa	5
+海石竹	hl;upa ui;apk vu;z	5
 还是自己	hl;apdv ui;oal zi;plva ji;vav	23940
 还收	hl;apdv ub;vlpa	10485
 还受	hl;apdv ub;pdvd	8685
@@ -148464,7 +148464,7 @@ sort: by_weight
 酣酒	hj;alal jq;ual	345
 含酒精	hj;rdk jq;ual jy;dpaa	5200
 喊救命	hj;kap jq;alpa my;rak	2295
-韩玖竹	hj;xoaa jq;wpv vu;papa	385
+韩玖竹	hj;xoaa jq;wpv vu;z	385
 韩剧	hj;xoaa ju;vall	52055
 汉剧	hj;uvd ju;vall	2535
 焊炬	hj;hoa ju;hav	685
@@ -151548,7 +151548,7 @@ sort: by_weight
 豪猪	hk;daap vu;qxa	3200
 号主	hk;kav vu;dw	111
 好著丹青图画取	hk;nvl vu;cxa dj;pvd qy;aay tu;lvpv hw;alv qu;alvd	2
-好竹连山觉笋香	hk;nvl vu;papa lm;avdv uj;s jt;ddlv sp;zva xd;pao	4
+好竹连山觉笋香	hk;nvl vu;z lm;avdv uj;s jt;ddlv sp;zva xd;pao	4
 好主意	hk;nvl vu;dw yi;dadv	17680
 好跩	hk;nvl vy;kllv	1010
 好跩啊	hk;nvl vy;kllv aa;kvl	101
@@ -152101,7 +152101,7 @@ sort: by_weight
 何处是吾乡	he;rak iu;pvld ui;oal wu;alk xd;vvp	1
 何处望神州	he;rak iu;pvld wh;daw uf;dvlv vb;dpdl	12
 何处闻灯不看来	he;rak iu;pvld wf;dlal dg;hal bu;apld kj;palv ll;adpa	7
-何处无竹柏	he;rak iu;pvld wu;aapv vu;papa bl;mpl	1
+何处无竹柏	he;rak iu;pvld wu;aapv vu;z bl;mpl	1
 何处相思苦	he;rak iu;pvld xd;mlv si;lvdv ku;cxk	2
 何处相思明月楼	he;rak iu;pvld xd;mlv si;lvdv my;oy yt;y lb;mdp	2
 何处寻行迹	he;rak iu;pvld xp;vaal xy;ppaa ji;dadv	1
@@ -155932,7 +155932,7 @@ sort: by_weight
 黑种人	hz;lvdd vs;palv rf;r	855
 黑轴	hz;lvdd vb;avlv	3
 黑猪	hz;lvdd vu;qxa	3030
-黑竹	hz;lvdd vu;papa	455
+黑竹	hz;lvdd vu;z	455
 黑侏儒蛛	hz;lvdd vu;rpa ru;rad vu;ipa	1
 黑爪	hz;lvdd vw;ppld	821
 黑转泉蝇	hz;lvdd vr;avaa qr;plu yy;ikl	1
@@ -158601,7 +158601,7 @@ sort: by_weight
 红烧豆瓣鱼	hs;vvg uk;hav db;akdp bj;dapp yu;pvlv	1
 红苕粉	hs;vvg uk;cvp ff;dppd	2
 红烧浮皮	hs;vvg uk;hav fu;upd pi;vplv	2
-红烧腐竹	hs;vvg uk;hav fu;dalv vu;papa	5
+红烧腐竹	hs;vvg uk;hav fu;dalv vu;z	5
 红烧干贝	hs;vvg uk;hav gj;aal bz;b	1
 红烧咕噜肉	hs;vvg uk;hav gu;kxk lu;kpv rb;lvpd	11
 红烧海参	hs;vvg uk;hav hl;upa uf;vdpp	203
@@ -159359,7 +159359,7 @@ sort: by_weight
 红烛	hs;vvg vu;hi	8600
 红猪	hs;vvg vu;qxa	2825
 红侏霸鹟	hs;vvg vu;rpa ba;adal wg;pdpv	1
-洪竹村	hs;ual vu;papa cp;mal	2
+洪竹村	hs;ual vu;z cp;mal	2
 红烛昏罗帐	hs;vvg vu;hi hp;pvo lo;lvpv vh;lvpa	184
 红砖	hs;vvg vr;apaa	11080
 红专	hs;vvg vr;aavd	2640
@@ -160257,7 +160257,7 @@ sort: by_weight
 后头部	hb;ppk tb;ddap bu;davl	435
 后头村	hb;ppk tb;ddap cp;mal	2
 猴头菇	hb;qrv tb;ddap gu;cnx	5108
-猴头菇炖竹丝鸡	hb;qrv tb;ddap gu;cnx dp;hav vu;papa si;vva ji;vdpv	9
+猴头菇炖竹丝鸡	hb;qrv tb;ddap gu;cnx dp;hav vu;z si;vva ji;vdpv	9
 猴头猴脑	hb;qrv tb;ddap hb;qrv nk;yda	8
 喉头剪	hb;krv tb;ddap jm;dpvp	1
 猴头菌	hb;qrv tb;ddap jp;clv	9999
@@ -160701,7 +160701,7 @@ sort: by_weight
 湖北省文化市场管理暂行条例	hu;uxk bz;lapv ug;lplv wf;dapd hw;rpv ui;dalv ih;tvp gr;zdd li;wlv zj;avo xy;ppaa tc;pval li;rap	2
 湖北省五峰土家族自治县	hu;uxk bz;lapv ug;lplv wu;alva fg;spv tu;t jw;ddap zu;dapa zi;plva vi;uvd xm;lvvd	54
 湖北省新华医院	hu;uxk bz;lapv ug;lplv xn;dapp hw;rpx yi;apav yr;vldd	10
-湖北省烟花爆竹经营许可实施细则	hu;uxk bz;lapv ug;lplv yj;hlv hw;crp bk;hoa vu;papa jy;vvvd yy;cdkk xu;dvpa ke;ak ui;dddd ui;dapa xi;vvlv ze;bll	1
+湖北省烟花爆竹经营许可实施细则	hu;uxk bz;lapv ug;lplv yj;hlv hw;crp bk;hoa vu;z jy;vvvd yy;cdkk xu;dvpa ke;ak ui;dddd ui;dapa xi;vvlv ze;bll	1
 湖北省宜城市	hu;uxk bz;lapv ug;lplv yi;ddlv ig;tap ui;dalv	155
 湖北省云梦县	hu;uxk bz;lapv ug;lplv yp;aavd mg;mmpv xm;lvvd	75
 湖北省枣阳市	hu;uxk bz;lapv ug;lplv zk;aldd yh;vlo ui;dalv	212
@@ -162872,7 +162872,7 @@ sort: by_weight
 糊住	hu;dpxk vu;rda	1045
 互祝	hu;avva vu;dvkp	785
 互逐	hu;avva vu;apdv	40
-虎竹	hu;lapv vu;papa	2
+虎竹	hu;lapv vu;z	2
 互助储蓄银行	hu;avva vu;lvvp iu;rdv xu;cda yn;jva hh;ppaa	70
 互助村	hu;avva vu;lvvp cp;mal	54
 互助道	hu;avva vu;lvvp dk;dpdv	3
@@ -164347,7 +164347,7 @@ sort: by_weight
 花旗参	hw;crp qi;dapa uf;vdpp	2710
 花旗参茶	hw;crp qi;dapa uf;vdpp ia;cra	180
 花旗参炖水鸭	hw;crp qi;dapa uf;vdpp dp;hav uv;u ya;lvpv	4
-花旗参炖竹丝鸡	hw;crp qi;dapa uf;vdpp dp;hav vu;papa si;vva ji;vdpv	48
+花旗参炖竹丝鸡	hw;crp qi;dapa uf;vdpp dp;hav vu;z si;vva ji;vdpv	48
 花旗参螺肉汤	hw;crp qi;dapa uf;vdpp lo;ilv rb;lvpd th;uvp	1
 花气袭人知骤暖	hw;crp qi;paav xi;apda rf;r vi;pak vb;vval nr;opd	1
 花旗银行	hw;crp qi;dapa yn;jva hh;ppaa	13130
@@ -164465,7 +164465,7 @@ sort: by_weight
 华融资产管理公司	hw;rpx rs;aki zi;dab ij;dap gr;zdd li;wlv gs;pdvd si;vak	3
 滑肉	hw;ulv rb;lvpd	1305
 滑肉肠粉	hw;ulv rb;lvpd ih;yvp ff;dppd	1
-滑肉烩鲜竹	hw;ulv rb;lvpd hv;hra xm;pvdp vu;papa	2
+滑肉烩鲜竹	hw;ulv rb;lvpd hv;hra xm;pvdp vu;z	2
 滑肉门	hw;ulv rb;lvpd mf;dlv	3
 滑肉汤	hw;ulv rb;lvpd th;uvp	16
 划入	hw;avll ru;pd	30040
@@ -164610,7 +164610,7 @@ sort: by_weight
 华声在线	hw;rpx ug;tvl zl;apt xm;vvaa	685
 花生枣	hw;crp ug;paal zk;aldd	124
 花生粘	hw;crp ug;paal vj;dpla	34
-花生支竹鱼头汤	hw;crp ug;paal vi;xvd vu;papa yu;pvlv tb;ddap th;uvp	1
+花生支竹鱼头汤	hw;crp ug;paal vi;xvd vu;z yu;pvlv tb;ddap th;uvp	1
 花生猪蹄	hw;crp ug;paal vu;qxa ti;klda	37
 化石	hw;rpv ui;apk	77785
 画室	hw;alv ui;ddav	28630
@@ -165259,7 +165259,7 @@ sort: by_weight
 滑液囊	hw;ulv ye;uda nh;alkk	1
 花叶如意	hw;crp ye;kx ru;nk yi;dadv	1
 花叶万年青	hw;crp ye;kx wj;avp nm;paal qy;aay	42
-花叶竹芋	hw;crp ye;kx vu;papa yu;caa	2
+花叶竹芋	hw;crp ye;kx vu;z yu;caa	2
 华裔	hw;rpx yi;dalv	33120
 花艺	hw;crp yi;cv	13787
 华谊	hw;rpx yi;dvdd	6666
@@ -165561,7 +165561,7 @@ sort: by_weight
 花珠宝螺	hw;crp vu;wpa bk;ddwd lo;ilv	1
 花烛红妆	hw;crp vu;hi hs;vvg vd;dan	1
 花柱异长	hw;crp vu;mda yi;vaap ih;pavd	1
-花竹有和气	hw;crp vu;papa yb;apy he;pak qi;paav	4
+花竹有和气	hw;crp vu;z yb;apy he;pak qi;paav	4
 划转	hw;avll vr;avaa	60553
 花砖	hw;crp vr;apaa	3910
 画传	hw;alv vr;raa	2655
@@ -166338,7 +166338,7 @@ sort: by_weight
 换个口味	hr;fpv ge;rl kb;k wz;kaa	137
 缓歌慢舞	hr;vvpd ge;akpv mj;ddol wu;papv	13
 缓歌缦舞	hr;vvpd ge;akpv mj;vvol wu;papv	1
-缓歌慢舞凝丝竹	hr;vvpd ge;akpv mj;ddol wu;papv ny;dapv si;vva vu;papa	1
+缓歌慢舞凝丝竹	hr;vvpd ge;akpv mj;ddol wu;papv ny;dapv si;vva vu;z	1
 换个视野	hr;fpv ge;rl ui;dvlv ye;lvvd	75
 换个图	hr;fpv ge;rl tu;lvpv	155
 欢歌笑语	hr;vdpv ge;akpv xc;zpa yu;dval	5290
@@ -168010,7 +168010,7 @@ sort: by_weight
 黄花浩气	hd;allv hw;crp hk;upa qi;paav	10
 黄花皓月	hd;allv hw;crp hk;plpa yt;y	7
 黄花机场	hd;allv hw;crp ji;mpv ih;tvp	1606
-黄花夹竹桃	hd;allv hw;crp jw;adpa vu;papa tk;mpd	23
+黄花夹竹桃	hd;allv hw;crp jw;adpa vu;z tk;mpd	23
 黄花老圃	hd;allv hw;crp lk;xapv pu;lval	1
 黄花梨	hd;allv hw;crp li;pam	6030
 黄桦路	hd;allv hw;mrp lu;klpv	19
@@ -168450,8 +168450,8 @@ sort: by_weight
 黄颅盖刺鱼	hd;allv lu;laap gl;dplv ci;alll yu;pvlv	1
 黄路秽蝇	hd;allv lu;klpv hv;pasp yy;ikl	1
 黄鲈金鲈	hd;allv lu;pvla jn;j lu;pvla	1
-黄芦苦竹	hd;allv lu;cdv ku;cxk vu;papa	23
-黄芦苦竹绕宅生	hd;allv lu;cdv ku;cxk vu;papa rk;vvav vl;ddpa ug;paal	1
+黄芦苦竹	hd;allv lu;cdv ku;cxk vu;z	23
+黄芦苦竹绕宅生	hd;allv lu;cdv ku;cxk vu;z rk;vvav vl;ddpa ug;paal	1
 黄垆之痛	hd;allv lu;tla vi;dvd ts;davd	1
 慌乱	hd;ddcd lr;pav	40955
 荒乱	hd;cda lr;pav	665
@@ -169389,16 +169389,16 @@ sort: by_weight
 黄州区	hd;allv vb;dpdl qu;apdv	1775
 黄州烧梅	hd;allv vb;dpdl uk;hav mz;mpa	6
 黄州市	hd;allv vb;dpdl ui;dalv	7
-黄州新建小竹楼记	hd;allv vb;dpdl xn;dapp jm;vavd xc;lpd vu;papa lb;mdp ji;dvva	1
-黄竹白毫	hd;allv vu;papa bl;plva hk;dapa	7
-黄竹坑	hd;allv vu;papa kg;tda	555
-黄竹坑道	hd;allv vu;papa kg;tda dk;dpdv	65
-黄竹沥	hd;allv vu;papa li;uap	2
-黄竹林	hd;allv vu;papa ln;mm	19
-黄竹坪	hd;allv vu;papa py;tad	2
-黄竹坡	hd;allv vu;papa po;tvp	2
-黄竹园	hd;allv vu;papa yr;lvaa	3
-黄竹斋	hd;allv vu;papa vl;daap	3
+黄州新建小竹楼记	hd;allv vb;dpdl xn;dapp jm;vavd xc;lpd vu;z lb;mdp ji;dvva	1
+黄竹白毫	hd;allv vu;z bl;plva hk;dapa	7
+黄竹坑	hd;allv vu;z kg;tda	555
+黄竹坑道	hd;allv vu;z kg;tda dk;dpdv	65
+黄竹沥	hd;allv vu;z li;uap	2
+黄竹林	hd;allv vu;z ln;mm	19
+黄竹坪	hd;allv vu;z py;tad	2
+黄竹坡	hd;allv vu;z po;tvp	2
+黄竹园	hd;allv vu;z yr;lvaa	3
+黄竹斋	hd;allv vu;z vl;daap	3
 黄庄	hd;allv vd;dat	540
 荒庄	hd;cda vd;dat	7
 黄庄村	hd;allv vd;dat cp;mal	85
@@ -169544,7 +169544,7 @@ sort: by_weight
 徽标	hv;ppsa bc;maa	16055
 会标	hv;raa bc;maa	5570
 回飙吹散五峰雪	hv;lvk bc;appv iv;kpv sj;alpa wu;alva fg;spv xt;adva	3
-灰标竹眼蝶	hv;aph bc;maa vu;papa yj;lvva dx;ial	1
+灰标竹眼蝶	hv;aph bc;maa vu;z yj;lvva dx;ial	1
 挥别	hv;fdv bx;kvll	4520
 回禀	hv;lvk by;daaa	3100
 挥兵	hv;fdv by;plpd	830
@@ -171475,7 +171475,7 @@ sort: by_weight
 灰胸长尾霸鹟	hv;aph xs;ypv ih;pavd wz;vapa ba;adal wg;pdpv	1
 灰胸刀翅蜂鸟	hv;aph xs;ypv dk;vp ii;xvvd fg;ipv nc;pvdv	1
 灰熊队	hv;aph xs;vddd dv;vlr	2360
-灰胸竹鸡	hv;aph xs;ypv vu;papa ji;vdpv	1
+灰胸竹鸡	hv;aph xs;ypv vu;z ji;vdpv	1
 回修	hv;lvk xq;rlp	520
 回叙	hv;lvk xu;ravd	220
 惠徐保	hv;aldv xu;ppra bk;rkm	124
@@ -172660,7 +172660,7 @@ sort: by_weight
 或藏或露	ho;akav ch;cap ho;akav lb;adkl	105
 货舱容积	ho;rpb ch;pprv rs;ddpd ji;pakp	7160
 货仓商场	ho;rpb ch;rvv uh;dalv ih;tvp	95
-或草或竹	ho;akav ck;cox ho;akav vu;papa	1
+或草或竹	ho;akav ck;cox ho;akav vu;z	1
 或侧或正	ho;akav ce;rbl ho;akav vg;ala	1
 活茬	ho;upa ia;cap	1
 或茶或咖	ho;akav ia;cra ho;akav ka;kvp	2
@@ -173600,7 +173600,7 @@ sort: by_weight
 霍姆格伦	ho;adrd mu;nvv ge;mpv lp;rrp	125
 或母或父	ho;akav mu;vvda ho;akav fu;pdpd	20
 或木或瓦	ho;akav mu;m ho;akav wa;avvd	5
-或木或竹	ho;akav mu;m ho;akav vu;papa	4
+或木或竹	ho;akav mu;m ho;akav vu;z	4
 霍姆绞甲陆龟	ho;adrd mu;nvv jc;vvda jw;lvaa lu;vlaa gv;pvlv	1
 霍姆斯	ho;adrd mu;nvv si;alpp	3130
 火男	ho;h nj;lvvp	999
@@ -174668,7 +174668,7 @@ sort: by_weight
 火烛	ho;h vu;hi	1515
 火主	ho;h vu;dw	435
 火箸	ho;h vu;zxa	130
-或竹或木	ho;akav vu;papa ho;akav mu;m	30
+或竹或木	ho;akav vu;z ho;akav mu;m	30
 或煮或烧	ho;akav vu;xadd ho;akav uk;hav	130
 或煮或蒸	ho;akav vu;xadd ho;akav vg;cvl	15
 火烛小心	ho;h vu;hi xc;lpd xn;dvdd	3
@@ -181279,7 +181279,7 @@ sort: by_weight
 脊柱变形	ji;day vu;mda bm;davd xy;aapp	138
 脊柱侧弯	ji;day vu;mda ce;rbl wj;dava	2345
 脊柱侧弯矫正钳	ji;day vu;mda ce;rbl wj;dava jc;papa vg;ala qm;jal	1
-急竹繁丝	ji;pvdv vu;papa fj;pavv si;vva	1
+急竹繁丝	ji;pvdv vu;z fj;pavv si;vva	1
 极主夫道	ji;mpv vu;dw fu;aapd dk;dpdv	106
 脊柱后凸	ji;day vu;mda hb;ppk tu;lalv	48
 记住了	ji;dvva vu;rda le;vl	40070
@@ -184320,13 +184320,13 @@ sort: by_weight
 家主大人	jw;ddap vu;dw da;apd rf;r	164
 加注机	jw;vpk vu;uda ji;mpv	540
 加注口	jw;vpk vu;uda kb;k	231
-甲竹林镇	jw;lvaa vu;papa ln;mm vf;jxl	5
+甲竹林镇	jw;lvaa vu;z ln;mm vf;jxl	5
 假诸人而后见也	jw;rva vu;dvxa rf;r er;aplv hb;ppk jm;lvpv ye;vlv	1
 加注释	jw;vpk vu;uda ui;pdvd	805
 家住水东西	jw;ddap vu;rda uv;u ds;avlp xi;alvp	2
-夹竹桃	jw;adpa vu;papa tk;mpd	5400
-夹竹桃黄毒蛾	jw;adpa vu;papa tk;mpd hd;allv du;aavv ee;ipa	1
-夹竹桃中毒	jw;adpa vu;papa tk;mpd vs;lval du;aavv	3
+夹竹桃	jw;adpa vu;z tk;mpd	5400
+夹竹桃黄毒蛾	jw;adpa vu;z tk;mpd hd;allv du;aavv ee;ipa	1
+夹竹桃中毒	jw;adpa vu;z tk;mpd vs;lval du;aavv	3
 加注油	jw;vpk vu;uda yb;ulv	87
 加砖添瓦	jw;vpk vr;apaa tm;uaa wa;avvd	50
 假装	jw;rva vd;dada	75940
@@ -187116,7 +187116,7 @@ sort: by_weight
 涧水东流复向西	jm;udl uv;u ds;avlp lq;uda fu;papv xd;plk xi;alvp	3
 减税方案	jm;daap uv;padp fh;davp an;ddm	95
 见水是水	jm;lvpv uv;u ui;oal uv;u	681
-涧水无声绕竹流	jm;udl uv;u wu;aapv ug;tvl rk;vvav vu;papa lq;uda	1
+涧水无声绕竹流	jm;udl uv;u wu;aapv ug;tvl rk;vvav vu;z lq;uda	1
 建水县	jm;vavd uv;u xm;lvvd	1495
 煎水作冰	jm;dpdd uv;u zo;rpa by;dau	1
 健硕	jm;rva uo;apap	5760
@@ -187990,7 +187990,7 @@ sort: by_weight
 见诸	jm;lvpv vu;dvxa	9825
 煎煮	jm;dpdd vu;xadd	9725
 僭主	jm;rav vu;dw	7432
-箭竹	jm;zdp vu;papa	4325
+箭竹	jm;zdp vu;z	4325
 笺注	jm;zaa vu;uda	1380
 肩注	jm;dvy vu;uda	10
 建筑安全必读法律法规汇编	jm;vavd vu;zgp an;ddn qr;rw bi;dvdp du;dvxv fa;utv lv;ppva fa;utv gv;aalv hv;uav bm;vvdv	1
@@ -188430,7 +188430,7 @@ sort: by_weight
 将夺固与	jd;dapv do;apal gu;lvxk yu;ava	1
 奖额	jd;daap ee;ddap	999
 降额	jd;vlpv ee;ddap	555
-江娥啼竹素女愁	jd;ug ee;npa ti;kda vu;papa su;aavv nv;n ib;padv	3
+江娥啼竹素女愁	jd;ug ee;npa ti;kda vu;z su;aavv nv;n ib;padv	3
 江恩	jd;ug en;lvdv	1
 姜恩惠	jd;dpn en;lvdv hv;aldv	134
 僵而不死	jd;ral er;aplv bu;apld si;appv	340
@@ -189981,7 +189981,7 @@ sort: by_weight
 江铸久	jd;ug vu;jaa jq;pvd	29
 江主席	jd;ug vu;dw xi;daal	3705
 蒋筑英	jd;cda vu;zgp yy;clv	490
-江竹筠	jd;ug vu;papa yp;ztp	133
+江竹筠	jd;ug vu;z yp;ztp	133
 讲专家	jd;dvaa vr;aavd jw;ddap	26
 奖状	jd;daap vd;daap	23600
 浆状	jd;dau vd;daap	3535
@@ -198224,7 +198224,7 @@ sort: by_weight
 进入门户	jn;aadv ru;pd mf;dlv hu;dvap	195
 进入梦乡	jn;aadv ru;pd mg;mmpv xd;vvp	6560
 禁入期	jn;mmaa ru;pd qi;aly	87
-近入千家散花竹	jn;ppdv ru;pd qm;pal jw;ddap sj;alpa hw;crp vu;papa	1
+近入千家散花竹	jn;ppdv ru;pd qm;pal jw;ddap sj;alpa hw;crp vu;z	1
 进入人体	jn;aadv ru;pd rf;r ti;ral	13600
 尽如人意	jn;vadd ru;nk rf;r yi;dadv	15885
 进入社会	jn;aadv ru;pd ue;dvt hv;raa	9175
@@ -199209,7 +199209,7 @@ sort: by_weight
 金镶玉裹	jn;j xd;jda yu;wd go;dalv	1
 金相玉映	jn;j xd;mlv yu;wd yy;olv	1
 金相玉振	jn;j xd;mlv yu;wd vf;fap	1
-金镶玉竹	jn;j xd;jda yu;wd vu;papa	113
+金镶玉竹	jn;j xd;jda yu;wd vu;z	113
 进校	jn;aadv xc;mda	14975
 今宵	jn;rdv xc;ddld	12525
 尽孝	jn;vadd xc;xavl	6990
@@ -200094,15 +200094,15 @@ sort: by_weight
 金柱	jn;j vu;mda	2
 金珠	jn;j vu;wpa	2
 金珠宝螺	jn;j vu;wpa bk;ddwd lo;ilv	1
-金竹村	jn;j vu;papa cp;mal	78
-金竹岗	jn;j vu;papa gh;slv	6
+金竹村	jn;j vu;z cp;mal	78
+金竹岗	jn;j vu;z gh;slv	6
 金珠花海	jn;j vu;wpa hw;crp hl;upa	181
-金竹坑	jn;j vu;papa kg;tda	6
+金竹坑	jn;j vu;z kg;tda	6
 金珠玛米	jn;j vu;wpa ma;wvv mi;dpal	130
-金竹坪	jn;j vu;papa py;tad	1
-金竹围	jn;j vu;papa wz;lvaa	3
+金竹坪	jn;j vu;z py;tad	1
+金竹围	jn;j vu;z wz;lvaa	3
 金祝新村	jn;j vu;dvkp xn;dapp cp;mal	13
-金竹园	jn;j vu;papa yr;lvaa	28
+金竹园	jn;j vu;z yr;lvaa	28
 近朱者赤	jn;ppdv vu;paal ve;xao ii;tpl	3340
 近蛛者杀	jn;ppdv vu;ipa ve;xao ua;pdal	2
 紧抓	jn;llvv vw;fpp	11880
@@ -202956,7 +202956,7 @@ sort: by_weight
 精芜不一	jy;dpaa wu;caa bu;apld yi;a	1
 警务处长	jy;cpda wu;pvvp iu;pvld vh;pavd	270
 景坞村	jy;oda wu;tpv cp;mal	2
-径无凡草唯生竹	jy;ppvd wu;aapv fj;pvd ck;cox wz;krd ug;paal vu;papa	1
+径无凡草唯生竹	jy;ppvd wu;aapv fj;pvd ck;cox wz;krd ug;paal vu;z	1
 净无痕	jy;dapv wu;aapv hf;dava	153
 静物画	jy;aapv wu;papv hw;alv	960
 精武魂	jy;dpaa wu;aala hp;aapl	151
@@ -203691,9 +203691,9 @@ sort: by_weight
 精铸	jy;dpaa vu;jaa	2815
 敬祝	jy;cppa vu;dvkp	1965
 晶珠本草	jy;ooo vu;wpa bf;alpd ck;cox	6
-荆竹村	jy;call vu;papa cp;mal	7
+荆竹村	jy;call vu;z cp;mal	7
 京珠高速	jy;dakl vu;wpa gk;dakl su;aldv	9185
-荆竹铺镇	jy;call vu;papa pu;jal vf;jxl	1
+荆竹铺镇	jy;call vu;z pu;jal vf;jxl	1
 净赚	jy;dapv vr;bdp	8615
 经传	jy;vvvd vr;raa	5440
 经专家	jy;vvvd vr;aavd jw;ddap	10945
@@ -204129,7 +204129,7 @@ sort: by_weight
 旧车交易市场	jq;lo ie;aval jc;dapd yi;opv ui;dalv ih;tvp	158
 旧车市场	jq;lo ie;aval ui;dalv ih;tvp	2750
 旧车站	jq;lo ie;aval vj;dala	59
-鸠车竹马	jq;pvpv ie;aval vu;papa ma;vva	1
+鸠车竹马	jq;pvpv ie;aval vu;z ma;vva	1
 旧臣	jq;lo if;alvv	2375
 就成	jq;daap ig;apv	46265
 九成	jq;pv ig;apv	30915
@@ -205470,7 +205470,7 @@ sort: by_weight
 九山北路	jq;pv uj;s bz;lapv lu;klpv	2
 就删除	jq;daap uj;pvll iu;vlra	75
 就删掉	jq;daap uj;pvll dc;fla	149
-旧山松竹老	jq;lo uj;s ss;mpd vu;papa lk;xapv	13
+旧山松竹老	jq;lo uj;s ss;mpd vu;z lk;xapv	13
 鸠山由纪夫	jq;pvpv uj;s yb;lval ji;vvva fu;aapd	196
 鸠山镇	jq;pvpv uj;s vf;jxl	137
 就上	jq;daap uh;laa	35250
@@ -210381,10 +210381,10 @@ sort: by_weight
 君住长江尾	jp;vak vu;rda ih;pavd jd;ug wz;vapa	1180
 君主的威严	jp;vak vu;dw de;plpv wz;apan yj;alld	3
 君主国	jp;vak vu;dw go;lvwd	1130
-君竹环岛	jp;vak vu;papa hr;wap dk;pvs	6
+君竹环岛	jp;vak vu;z hr;wap dk;pvs	6
 君主立宪	jp;vak vu;dw li;dadp xm;ddpa	3780
 君主立宪制	jp;vak vu;dw li;dadp xm;ddpa vi;pall	2880
-君竹路	jp;vak vu;papa lu;klpv	11
+君竹路	jp;vak vu;z lu;klpv	11
 君主政体	jp;vak vu;dw vg;alpa ti;ral	1170
 君主政治	jp;vak vu;dw vg;alpa vi;uvd	265
 君主制	jp;vak vu;dw vi;pall	6415
@@ -219231,7 +219231,7 @@ sort: by_weight
 空中阻击	ks;ddg vs;lval zu;vllv ji;aalv	1
 空洲对鹦鹉	ks;ddg vb;udp dv;vdal yy;bbpv wu;aapv	1
 控住	ks;fdd vu;rda	2222
-空竹	ks;ddg vu;papa	1765
+空竹	ks;ddg vu;z	1765
 空转	ks;ddg vr;avaa	8050
 孔庄	ks;vlv vd;dat	48
 孔子	ks;vlv zi;vla	224680
@@ -220464,16 +220464,16 @@ sort: by_weight
 苦中有乐	ku;cxk vs;lval yb;apy le;pvlp	850
 苦中作乐	ku;cxk vs;lval zo;rpa le;pvlp	10676
 苦主	ku;cxk vu;dw	3333
-苦竹	ku;cxk vu;papa	2285
+苦竹	ku;cxk vu;z	2285
 枯株	ku;mxk vu;mpa	135
 苦槠	ku;cxk vu;mdv	1
-苦竹坝	ku;cxk vu;papa ba;tb	22
-枯竹空言	ku;mxk vu;papa ks;ddg yj;dak	1
-苦竹林	ku;cxk vu;papa ln;mm	23
-苦竹坪	ku;cxk vu;papa py;tad	12
-苦竹坪乡	ku;cxk vu;papa py;tad xd;vvp	30
-苦竹山	ku;cxk vu;papa uj;s	2
-苦竹叶	ku;cxk vu;papa ye;kx	205
+苦竹坝	ku;cxk vu;z ba;tb	22
+枯竹空言	ku;mxk vu;z ks;ddg yj;dak	1
+苦竹林	ku;cxk vu;z ln;mm	23
+苦竹坪	ku;cxk vu;z py;tad	12
+苦竹坪乡	ku;cxk vu;z py;tad xd;vvp	30
+苦竹山	ku;cxk vu;z uj;s	2
+苦竹叶	ku;cxk vu;z ye;kx	205
 裤装	ku;dvda vd;dada	5440
 裤子	ku;dvda zi;vla	124960
 裤子背带	ku;dvda zi;vla bz;lay dl;allv	55
@@ -225303,7 +225303,7 @@ sort: by_weight
 拦住	lj;fdp vu;rda	51150
 揽住	lj;fll vu;rda	5830
 懒猪	lj;ddal vu;qxa	4875
-兰竹路	lj;dpaa vu;papa lu;klpv	10
+兰竹路	lj;dpaa vu;z lu;klpv	10
 缆桩	lj;vvll vd;mda	340
 兰卓丽	lj;dpaa vo;laox li;alv	8
 篮子	lj;zll zi;vla	16010
@@ -225551,7 +225551,7 @@ sort: by_weight
 狼皮	lh;qdv pi;vplv	5860
 狼皮斗篷	lh;qdv pi;vplv db;ddx pg;zpv	1
 浪坪乡	lh;udv py;tad xd;vvp	2
-郎骑竹马来	lh;dvvl qi;vvap vu;papa ma;vva ll;adpa	31
+郎骑竹马来	lh;dvvl qi;vvap vu;z ma;vva ll;adpa	31
 郎前白发	lh;dvvl qm;dpyl bl;plva fa;vpvd	1
 狼前虎后	lh;qdv qm;dpyl hu;lapv hb;ppk	1
 廊桥	lh;dadv qc;mpa	16205
@@ -227331,8 +227331,8 @@ sort: by_weight
 老皱宝螺	lk;xapv vb;pvvp bk;ddwd lo;ilv	1
 老朱	lk;xapv vu;paal	7725
 老猪	lk;xapv vu;qxa	4990
-老竹大方	lk;xapv vu;papa da;apd fh;davp	31
-老竹大方茶	lk;xapv vu;papa da;apd fh;davp ia;cra	2
+老竹大方	lk;xapv vu;z da;apd fh;davp	31
+老竹大方茶	lk;xapv vu;z da;apd fh;davp ia;cra	2
 老主顾	lk;xapv vu;dw gu;apap	2060
 老专家	lk;xapv vr;aavd jw;ddap	8890
 老装	lk;xapv vd;dada	111
@@ -227702,9 +227702,9 @@ sort: by_weight
 乐至	le;pvlp vi;avt	2370
 乐芝牛	le;pvlp vi;cdv nq;paal	162
 乐至县	le;pvlp vi;avt xm;lvvd	1975
-勒竹	le;alvp vu;papa	9
-簕竹	le;zal vu;papa	1
-簕竹镇	le;zal vu;papa vf;jxl	50
+勒竹	le;alvp vu;z	9
+簕竹	le;zal vu;z	1
+簕竹镇	le;zal vu;z vf;jxl	50
 乐子	le;pvlp zi;vla	6370
 乐自由我	le;pvlp zi;plva yb;lval wo;pala	118
 乐滋滋	le;pvlp zi;udp zi;udp	3330
@@ -230062,7 +230062,7 @@ sort: by_weight
 李家院	li;mvl jw;ddap yr;vldd	1
 李家院子	li;mvl jw;ddap yr;vldd zi;vla	33
 厉家寨	li;apav jw;ddap vl;ddm	15
-黎家竹筒饭	li;parl jw;ddap vu;papa ts;zlv fj;pvpp	66
+黎家竹筒饭	li;parl jw;ddap vu;z ts;zlv fj;pvpp	66
 李家庄	li;mvl jw;ddap vd;dat	193
 李家庄子	li;mvl jw;ddap vd;dat zi;vla	1
 立减	li;dadp jm;daap	9999
@@ -237531,7 +237531,7 @@ sort: by_weight
 凛冬散尽	ln;dada ds;pvdd sj;alpa jn;vadd	172
 凛冬已至	ln;dada ds;pvdd yi;vav vi;avt	180
 林豆豆	ln;mm db;akdp db;akdp	191
-林断山明竹隐墙	ln;mm dr;dppp uj;s my;oy vu;papa yn;vlpv qd;ttd	2
+林断山明竹隐墙	ln;mm dr;dppp uj;s my;oy vu;z yn;vlpv qd;ttd	2
 麟儿	ln;dadp er;pv	1280
 赁耳佣目	ln;rpb er;alla ys;rpv mu;lvaa	1
 林放问礼之本	ln;mm fh;dapa wf;dlk li;dvv vi;dvd bf;alpd	1
@@ -239134,7 +239134,7 @@ sort: by_weight
 凌乱不堪	ly;datp lr;pav bu;apld kj;tal	2055
 零乱不堪	ly;adrd lr;pav bu;apld kj;tal	33
 凌乱无章	ly;datp lr;pav wu;aapv vh;daox	7
-伶伦吹裂孤生竹	ly;rrd lp;rrp iv;kpv lx;apda gu;vlpp ug;paal vu;papa	1
+伶伦吹裂孤生竹	ly;rrd lp;rrp iv;kpv lx;apda gu;vlpp ug;paal vu;z	1
 零落	ly;adrd lo;cup	13145
 绫罗	ly;vvtp lo;lvpv	1940
 零落成泥碾作尘	ly;adrd lo;cup ig;apv ni;uva nm;apva zo;rpa if;lpt	33
@@ -239283,7 +239283,7 @@ sort: by_weight
 灵清	ly;vah qy;uaa	2
 另请高明	ly;kvp qy;dvaa gk;dakl my;oy	895
 令情欲说宫中事	ly;rdv qy;ddaa yu;pdpv uo;dvdp gs;ddkk vs;lval ui;alva	1180
-绫清竹	ly;vvtp qy;uaa vu;papa	165
+绫清竹	ly;vvtp qy;uaa vu;z	165
 灵丘	ly;vah qq;plal	2680
 灵丘县	ly;vah qq;plal xm;lvvd	1505
 灵丘熏鸡	ly;vah qq;plal xp;padd ji;vdpv	14
@@ -241501,7 +241501,7 @@ sort: by_weight
 留门	lq;pvlv mf;dlv	280
 溜门撬锁	lq;upv mf;dlv qc;fpa so;jld	140
 六门乡	lq;dapd mf;dlv xd;vvp	1
-柳门竹巷	lq;mpv mf;dlv vu;papa xd;alva	1
+柳门竹巷	lq;mpv mf;dlv vu;z xd;alva	1
 刘猛	lq;dall mg;qvl	2
 刘猛将军	lq;dall mg;qvl jd;dapv jp;dvav	75
 柳梦梅	lq;mpv mg;mmpv mz;mpa	159
@@ -243354,7 +243354,7 @@ sort: by_weight
 龙井县	ls;apvp jy;aapl xm;lvvd	20
 龙井新村	ls;apvp jy;aapl xn;dapp cp;mal	1
 龙井一路	ls;apvp jy;aapl yi;a lu;klpv	1
-龙井竹荪	ls;apvp jy;aapl vu;papa sp;cvl	51
+龙井竹荪	ls;apvp jy;aapl vu;z sp;cvl	51
 龙驹	ls;apvp ju;vvpv	2380
 陇剧	ls;vlap ju;vall	1
 龙居村	ls;apvp ju;vaxk cp;mal	14
@@ -244158,7 +244158,7 @@ sort: by_weight
 龙珠	ls;apvp vu;wpa	35075
 隆柱螯磷虾	ls;vlpv vu;mda ao;aai ln;apdp xw;ial	1
 龙珠大道	ls;apvp vu;wpa da;apd dk;dpdv	73
-笼竹和烟滴露梢	ls;zap vu;papa he;pak yj;hlv di;uda lu;adkl uk;mld	1
+笼竹和烟滴露梢	ls;zap vu;z he;pak yj;hlv di;uda lu;adkl uk;mld	1
 龙珠花园	ls;apvp vu;wpa hw;crp yr;lvaa	41
 龙珠觉醒	ls;apvp vu;wpa jt;ddlv xy;alop	169
 陇珠螨	ls;vlap vu;wpa mj;ica	1
@@ -246243,9 +246243,9 @@ sort: by_weight
 泸州中院	lu;ula vb;dpdl vs;lval yr;vldd	87
 露珠	lu;adkl vu;wpa	19200
 卤煮	lu;lalv vu;xadd	1995
-芦竹	lu;cdv vu;papa	2
+芦竹	lu;cdv vu;z	2
 露珠宝螺	lu;adkl vu;wpa bk;ddwd lo;ilv	1
-芦竹村	lu;cdv vu;papa cp;mal	1
+芦竹村	lu;cdv vu;z cp;mal	1
 露珠杜鹃	lu;adkl vu;wpa du;mt jr;kypv	36
 露珠粉	lu;adkl vu;wpa ff;dppd	1
 卢主任	lu;lava vu;dw rf;rpa	98
@@ -246944,7 +246944,7 @@ sort: by_weight
 论坛	lp;dvrp tj;taa	503524
 论谈	lp;dvrp tj;dvhh	7885
 论坛版主	lp;dvrp tj;taa bj;plpp vu;dw	289830
-论坛斑竹	lp;dvrp tj;taa bj;wda vu;papa	874
+论坛斑竹	lp;dvrp tj;taa bj;wda vu;z	874
 论坛报	lp;dvrp tj;taa bk;fvl	6220
 论坛地址	lp;dvrp tj;taa di;tvl vi;tla	10625
 论坛发表	lp;dvrp tj;taa fa;vpvd bc;aapv	23765
@@ -247115,7 +247115,7 @@ sort: by_weight
 萝卜汆鲫鱼	lo;clv bo;ld cr;pdu ji;pvva yu;pvlv	4
 萝卜炖羊肉	lo;clv bo;ld dp;hav yh;dpaa rb;lvpd	83
 罗波峰	lo;lvpv bo;uvp fg;spv	5
-萝卜腐竹汤	lo;clv bo;ld fu;dalv vu;papa th;uvp	1
+萝卜腐竹汤	lo;clv bo;ld fu;dalv vu;z th;uvp	1
 萝卜干	lo;clv bo;ld gj;aal	3380
 萝卜干炒腊肉	lo;clv bo;ld gj;aal ik;hlp la;yal rb;lvpd	56
 萝卜糕	lo;clv bo;ld gk;dpdp	2258
@@ -247221,7 +247221,7 @@ sort: by_weight
 裸唇纲	lo;dvlv ip;apk gh;vvlv	1
 裸辞	lo;dvlv ci;pada	1111
 罗村村	lo;lvpv cp;mal cp;mal	1
-罗村竹笋	lo;lvpv cp;mal vu;papa sp;zva	13
+罗村竹笋	lo;lvpv cp;mal vu;z sp;zva	13
 落错车	lo;cup co;jal ie;aval	9
 罗大春	lo;lvpv da;apd ip;aao	13
 洛达尔隧道	lo;upv da;apdv er;pvlp sv;vldp dk;dpdv	1
@@ -248644,7 +248644,7 @@ sort: by_weight
 绿川小区	lv;vvva ir;pll xc;lpd qu;apdv	1
 绿川英子	lv;vvva ir;pll yy;clv zi;vla	3
 屡创	lv;vadp id;rvll	9095
-绿窗竹户	lv;vvva id;ddpl vu;papa hu;dvap	1
+绿窗竹户	lv;vvva id;ddpl vu;z hu;dvap	1
 绿春	lv;vvva ip;aao	1465
 驴唇	lv;vvdv ip;apk	100
 驴唇不对马嘴	lv;vvdv ip;apk bu;apld dv;vdal ma;vva zv;kla	875
@@ -248730,7 +248730,7 @@ sort: by_weight
 绿豆乳饮料	lv;vvva db;akdp ru;pdv yn;pvpv lc;dpdd	4
 绿豆沙	lv;vvva db;akdp ua;ulp	1265
 绿豆水果盅	lv;vvva db;akdp uv;u go;lvaa vs;lvlv	1
-绿豆丝瓜竹笙汤	lv;vvva db;akdp si;vva gw;ppvd vu;papa ug;zpa th;uvp	1
+绿豆丝瓜竹笙汤	lv;vvva db;akdp si;vva gw;ppvd vu;z ug;zpa th;uvp	1
 绿豆汤	lv;vvva db;akdp th;uvp	20591
 绿豆凸	lv;vvva db;akdp tu;lalv	23
 绿豆团	lv;vvva db;akdp tr;lval	3
@@ -249743,12 +249743,12 @@ sort: by_weight
 绿洲家园	lv;vvva vb;udp jw;ddap yr;lvaa	50
 绿洲湾公寓	lv;vvva vb;udp wj;uda gs;pdvd yu;ddlv	1
 虑周藻密	lv;ladv vb;pvtk zk;cuk mi;dds	1
-绿竹	lv;vvva vu;papa	5780
+绿竹	lv;vvva vu;z	5780
 绿珠	lv;vvva vu;wpa	4295
 绿珠附玉楼	lv;vvva vu;wpa fu;vlra yu;wd lb;mdp	1
 绿珠红拂终成梦	lv;vvva vu;wpa hs;vvg fu;fva vs;vvpv ig;apv mg;mmpv	1180
 铝铸件	lv;jkk vu;jaa jm;rpa	810
-绿竹入幽径	lv;vvva vu;papa ru;pd yb;svv jy;ppvd	2
+绿竹入幽径	lv;vvva vu;z ru;pd yb;svv jy;ppvd	2
 绿柱石	lv;vvva vu;mda ui;apk	9999
 绿珠坠楼	lv;vvva vu;wpa vv;vlt lb;mdp	7
 旅专	lv;dapa vr;aavd	8
@@ -251693,7 +251693,7 @@ sort: by_weight
 麻州	ma;damm vb;dpdl	825
 马洲村	ma;vva vb;udp cp;mal	1
 马注	ma;vva vu;uda	1
-麻竹笋	ma;damm vu;papa sp;zva	5
+麻竹笋	ma;damm vu;z sp;zva	5
 马桩	ma;vva vd;mda	9999
 马壮	ma;vva vd;dat	935
 马庄	ma;vva vd;dat	257
@@ -253875,7 +253875,7 @@ sort: by_weight
 茫无涯	mh;cud wu;aapv ya;uap	1
 芒香西番莲	mh;cda xd;pao xi;alvp fj;pdlv lm;cav	1
 芒硝	mh;cda xc;apld	4955
-芒鞋竹笠	mh;cda xx;altt vu;papa li;zda	1
+芒鞋竹笠	mh;cda xx;altt vu;z li;zda	1
 盲信	mh;dalv xn;rda	1111
 芒辛乡	mh;cda xn;dax xd;vvp	7
 忙呀	mh;ddda ya;kav	2645
@@ -254352,7 +254352,7 @@ sort: by_weight
 茂林居社区	mk;cap ln;mm ju;vaxk ue;dvt qu;apdv	2
 毛林林	mk;paav ln;mm ln;mm	124
 茂林深篁	mk;cap ln;mm uf;udv hd;zpl	1
-茂林修竹	mk;cap ln;mm xq;rlp vu;papa	2175
+茂林修竹	mk;cap ln;mm xq;rlp vu;z	2175
 冒领	mk;lvlv ly;rdap	9310
 茂陵	mk;cap ly;vltp	3290
 毛领	mk;paav ly;rdap	3040
@@ -255000,19 +255000,19 @@ sort: by_weight
 猫中毒	mk;qcl vs;lval du;aavv	186
 毛舟蛾	mk;paav vb;ppvd ee;ipa	1
 鄚州镇	mk;covl vb;dpdl vf;jxl	3
-毛竹	mk;paav vu;papa	9999
+毛竹	mk;paav vu;z	9999
 毛猪	mk;paav vu;qxa	1
-毛竹黑叶蜂	mk;paav vu;papa hz;lvdd ye;kx fg;ipv	1
-茅竹岭	mk;cvd vu;papa ly;srd	9
+毛竹黑叶蜂	mk;paav vu;z hz;lvdd ye;kx fg;ipv	1
+茅竹岭	mk;cvd vu;z ly;srd	9
 毛主任	mk;paav vu;dw rf;rpa	95
-毛竹笋	mk;paav vu;papa sp;zva	35
+毛竹笋	mk;paav vu;z sp;zva	35
 毛主席	mk;paav vu;dw xi;daal	108750
 毛主席纪念堂	mk;paav vu;dw xi;daal ji;vvva nm;rddv th;ldt	3895
 毛主席家	mk;paav vu;dw xi;daal jw;ddap	10
 毛主席万岁	mk;paav vu;dw xi;daal wj;avp sv;spv	2475
 毛主席语录	mk;paav vu;dw xi;daal yu;dval lu;vald	3720
-毛竹叶螨	mk;paav vu;papa ye;kx mj;ica	16
-毛竹园	mk;paav vu;papa yr;lvaa	10
+毛竹叶螨	mk;paav vu;z ye;kx mj;ica	16
+毛竹园	mk;paav vu;z yr;lvaa	10
 猫爪	mk;qcl vw;ppld	3830
 猫抓	mk;qcl vw;fpp	1111
 猫抓病	mk;qcl vw;fpp by;daal	26
@@ -256485,7 +256485,7 @@ sort: by_weight
 每览昔人兴感之由	mz;pavv lj;lllv xi;alo rf;r xy;ddpd gj;apdv vi;dvd yb;lval	1
 没拦着	mz;upv lj;fdp vk;dplv	55
 没拦着	mz;upv lj;fdp ve;dplv	55
-梅兰竹菊	mz;mpa lj;dpaa vu;papa ju;cpv	1875
+梅兰竹菊	mz;mpa lj;dpaa vu;z ju;cpv	1875
 煤老板	mz;hal lk;xapv bj;mpp	3450
 没捞着	mz;upv lk;fcd vk;dplv	365
 没了	mz;upv le;vl	123970
@@ -258716,9 +258716,9 @@ sort: by_weight
 没煮	mz;upv vu;xadd	3333
 每株	mz;pavv vu;mpa	2222
 每注	mz;pavv vu;uda	1111
-美竹凉子	mz;dpap vu;papa ld;dada zi;vla	185
-美竹铃	mz;dpap vu;papa ly;jrd	6666
-梅竹山石	mz;mpa vu;papa uj;s ui;apk	4
+美竹凉子	mz;dpap vu;z ld;dada zi;vla	185
+美竹铃	mz;dpap vu;z ly;jrd	6666
+梅竹山石	mz;mpa vu;z uj;s ui;apk	4
 没住宿	mz;upv vu;rda su;ddra	148
 没注意	mz;upv vu;uda yi;dadv	12875
 没主意	mz;upv vu;dw yi;dadv	850
@@ -259021,7 +259021,7 @@ sort: by_weight
 门前秋水可扬舲	mf;dlv qm;dpyl qq;pah uv;u ke;ak yh;fvp ly;pprd	2
 门前若市	mf;dlv qm;dpyl ro;cap ui;dalv	1
 门前三包	mf;dlv qm;dpyl sj;aaa bk;pvva	3780
-门前万竿竹	mf;dlv qm;dpyl wj;avp gj;zaa vu;papa	2
+门前万竿竹	mf;dlv qm;dpyl wj;avp gj;zaa vu;z	2
 门前有流水	mf;dlv qm;dpyl yb;apy lq;uda uv;u	1
 门前壮士气如云	mf;dlv qm;dpyl vd;dat ui;t qi;paav ru;nk yp;aavd	1
 门墙	mf;dlv qd;ttd	2970
@@ -262133,13 +262133,13 @@ sort: by_weight
 绵中	mm;vvpl vs;lval	27
 免中介	mm;pvlv vs;lval jx;rpl	4650
 免中介费	mm;pvlv vs;lval jx;rpl fz;vab	485
-绵竹	mm;vvpl vu;papa	5710
+绵竹	mm;vvpl vu;z	5710
 棉株	mm;mpl vu;mpa	1515
 免注册	mm;pvlv vu;uda ce;pvpv	6065
-绵竹大曲	mm;vvpl vu;papa da;apd qu;lval	10
-绵竹市	mm;vvpl vu;papa ui;dalv	2700
-绵竹亭亭出县高	mm;vvpl vu;papa ty;daal ty;daal iu;vllv xm;lvvd gk;dakl	3
-绵竹县	mm;vvpl vu;papa xm;lvvd	245
+绵竹大曲	mm;vvpl vu;z da;apd qu;lval	10
+绵竹市	mm;vvpl vu;z ui;dalv	2700
+绵竹亭亭出县高	mm;vvpl vu;z ty;daal ty;daal iu;vllv xm;lvvd gk;dakl	3
+绵竹县	mm;vvpl vu;z xm;lvvd	245
 面砖	mm;aplv vr;apaa	14300
 𩾃状黄姑鱼	mm;pvpv vd;daap hd;allv gu;nxk yu;pvlv	15
 面子	mm;aplv zi;vla	135850
@@ -262482,7 +262482,7 @@ sort: by_weight
 妙音	mc;nlp yn;dao	7725
 妙音鸟	mc;nlp yn;dao nc;pvdv	123
 妙应寺白塔	mc;nlp yy;dadd si;tal bl;plva ta;tcr	180
-苗颖竹荪鹅	mc;clv yy;pvap vu;papa sp;cvl ee;papv	10
+苗颖竹荪鹅	mc;clv yy;pvap vu;z sp;cvl ee;papv	10
 妙用	mc;nlp ys;pvaa	21155
 苗永鹏	mc;clv ys;dvvp pg;yypv	2
 妙用无穷	mc;nlp ys;pvaa wu;aapv qs;ddvp	715
@@ -262502,7 +262502,7 @@ sort: by_weight
 邈远	mc;qpdv yr;aadv	330
 庙垣之鼠	mc;dalv yr;tao vi;dvd uu;plvd	1
 妙韵飞扬	mc;nlp yp;dapv fz;vpd yh;fvp	1
-苗韵竹荪鹅	mc;clv yp;dapv vu;papa sp;cvl ee;papv	2
+苗韵竹荪鹅	mc;clv yp;dapv vu;z sp;cvl ee;papv	2
 妙在	mc;nlp zl;apt	5735
 妙哉	mc;nlp zl;xak	2905
 妙在心手	mc;nlp zl;apt xn;dvdd ub;f	1
@@ -264450,7 +264450,7 @@ sort: by_weight
 名书锦轴	my;pvk uu;vvld jn;jpl vb;avlv	1
 明叔亮	my;oy uu;lavd ld;dapv	2
 名殊体不殊	my;pvk uu;appa ti;ral bu;apld uu;appa	1
-名书竹帛	my;pvk uu;vvld vu;papa bo;pllv	87
+名书竹帛	my;pvk uu;vvld vu;z bo;pllv	87
 名帅	my;pvk uy;lplv	111
 明水	my;oy uv;u	6365
 明水路	my;oy uv;u lu;klpv	19
@@ -266596,7 +266596,7 @@ sort: by_weight
 摩托车维修工	mo;damm to;fpa ie;aval wz;vvrd xq;rlp gs;g	181
 摩托车运动	mo;damm to;fpa ie;aval yp;aadv ds;aavp	995
 摩托车总厂	mo;damm to;fpa ie;aval zs;dpdv ih;ap	4
-墨脱东亚竹叶青蛇	mo;lvt to;ydp ds;avlp ya;alld vu;papa ye;kx qy;aay ue;idd	1
+墨脱东亚竹叶青蛇	mo;lvt to;ydp ds;avlp ya;alld vu;z ye;kx qy;aay ue;idd	1
 墨脱沟臀肖叶甲	mo;lvt to;ydp gb;upv tp;vay xc;ldy ye;kx jw;lvaa	1
 摩托化	mo;damm to;fpa hw;rpv	3410
 摩托化步兵	mo;damm to;fpa hw;rpv bu;lalp by;plpd	400
@@ -266616,8 +266616,8 @@ sort: by_weight
 墨脱园蛛	mo;lvt to;ydp yr;lvaa vu;ipa	1
 摩托运动	mo;damm to;fpa yp;aadv ds;aavp	245
 墨脱镇	mo;lvt to;ydp vf;jxl	8
-墨脱竹叶青	mo;lvt to;ydp vu;papa ye;kx qy;aay	9
-墨托竹叶青蛇	mo;lvt to;fpa vu;papa ye;kx qy;aay ue;idd	1
+墨脱竹叶青	mo;lvt to;ydp vu;z ye;kx qy;aay	9
+墨托竹叶青蛇	mo;lvt to;fpa vu;z ye;kx qy;aay ue;idd	1
 抹完	mo;faa wj;ddaa	3333
 摸完	mo;fco wj;ddaa	3333
 莫万丹	mo;coa wj;avp dj;pvd	10
@@ -266948,11 +266948,11 @@ sort: by_weight
 魔咒的	mo;damm vb;kkpv de;plpv	795
 魔咒课	mo;damm vb;kkpv ke;dvlv	176
 莫州镇	mo;coa vb;dpdl vf;jxl	1
-墨竹	mo;lvt vu;papa	3525
+墨竹	mo;lvt vu;z	3525
 模铸	mo;mco vu;jaa	1350
 末主	mo;aalp vu;dw	2
-墨竹工卡	mo;lvt vu;papa gs;g ka;lald	1505
-墨竹工卡县	mo;lvt vu;papa gs;g ka;lald xm;lvvd	725
+墨竹工卡	mo;lvt vu;z gs;g ka;lald	1505
+墨竹工卡县	mo;lvt vu;z gs;g ka;lald xm;lvvd	725
 莫逐狂风起浪心	mo;coa vu;apdv kd;qw fg;pvpd qi;tlva lh;udv xn;dvdd	1
 魔爪	mo;damm vw;ppld	8220
 模转换器	mo;mco vr;avaa hr;fpv qi;kkap	925
@@ -272294,7 +272294,7 @@ sort: by_weight
 南田乡	nj;xlv tm;lvx xd;vvp	1
 南天信息	nj;xlv tm;aap xn;rda xi;pldv	2
 南天一柱	nj;xlv tm;aap yi;a vu;mda	3645
-南天竹	nj;xlv tm;aap vu;papa	2210
+南天竹	nj;xlv tm;aap vu;z	2210
 南天竺	nj;xlv tm;aap vu;zaa	25
 南条一香	nj;xlv tc;pval yi;a xd;pao	6666
 南铁中院	nj;xlv tx;jpa vs;lval yr;vldd	87
@@ -272562,7 +272562,7 @@ sort: by_weight
 男演员奖	nj;lvvp yj;udd yr;kb jd;daap	1950
 南烟斋	nj;xlv yj;hlv vl;daap	183
 难言之隐	nj;vdrd yj;dak vi;dvd yn;vlpv	7095
-南燕竹镇	nj;xlv yj;aldd vu;papa vf;jxl	10
+南燕竹镇	nj;xlv yj;aldd vu;z vf;jxl	10
 南洋	nj;xlv yh;udp	43185
 难养	nj;vdrd yh;dppl	111
 南阳	nj;xlv yh;vlo	84
@@ -272823,18 +272823,18 @@ sort: by_weight
 男主	nj;lvvp vu;dw	9999
 难住	nj;vdrd vu;rda	4610
 南珠	nj;xlv vu;wpa	22
-南竹	nj;xlv vu;papa	11
+南竹	nj;xlv vu;z	11
 男主持人	nj;lvvp vu;dw ii;fta rf;r	172
 南珠东大街	nj;xlv vu;wpa ds;avlp da;apd jx;pptt	2
-南竹杆胡同	nj;xlv vu;papa gj;maa hu;xky ts;lvak	11
-南竹杆社区	nj;xlv vu;papa gj;maa ue;dvt qu;apdv	3
-南竹桂雨	nj;xlv vu;papa gv;mtt yu;alvl	1
+南竹杆胡同	nj;xlv vu;z gj;maa hu;xky ts;lvak	11
+南竹杆社区	nj;xlv vu;z gj;maa ue;dvt qu;apdv	3
+南竹桂雨	nj;xlv vu;z gv;mtt yu;alvl	1
 男主角	nj;lvvp vu;dw jt;pvpv	72530
 男主角奖	nj;lvvp vu;dw jt;pvpv jd;daap	3085
-楠竹林	nj;mxl vu;papa ln;mm	44
+楠竹林	nj;mxl vu;z ln;mm	44
 男主人	nj;lvvp vu;dw rf;r	12465
 男主人公	nj;lvvp vu;dw rf;r gs;pdvd	8040
-楠竹山村	nj;mxl vu;papa uj;s cp;mal	11
+楠竹山村	nj;mxl vu;z uj;s cp;mal	11
 南珠西大街	nj;xlv vu;wpa xi;alvp da;apd jx;pptt	3
 难赚	nj;vdrd vr;bdp	2005
 男装	nj;lvvp vd;dada	64480
@@ -277571,12 +277571,12 @@ sort: by_weight
 年逾古稀	nm;paal yu;radv gu;xk xi;papd	2300
 年逾花甲	nm;paal yu;radv hw;crp jw;lvaa	1350
 鲇鱼上竿	nm;pvla yu;pvlv uh;laa gj;zaa	1
-鲇鱼上竹	nm;pvla yu;pvlv uh;laa vu;papa	1
-鲇鱼上竹竿	nm;pvla yu;pvlv uh;laa vu;papa gj;zaa	1
+鲇鱼上竹	nm;pvla yu;pvlv uh;laa vu;z	1
+鲇鱼上竹竿	nm;pvla yu;pvlv uh;laa vu;z gj;zaa	1
 鲇鱼套	nm;pvla yu;pvlv tk;apal	47
 鲇鱼效应	nm;pvla yu;pvlv xc;dapa yy;dadd	1225
 鲶鱼效应	nm;pvrd yu;pvlv xc;dapa yy;dadd	153
-鲇鱼缘竹竿	nm;pvla yu;pvlv yr;vvvv vu;papa gj;zaa	1
+鲇鱼缘竹竿	nm;pvla yu;pvlv yr;vvvv vu;z gj;zaa	1
 年元旦	nm;paal yr;aapv dj;oa	2843
 年月	nm;paal yt;y	71270
 年月日	nm;paal yt;y ri;o	154240
@@ -280217,7 +280217,7 @@ sort: by_weight
 农中	ns;dvpv vs;lval	47
 脓肿探针	ns;ydv vs;ylv tj;fdv vf;jx	1
 弄皱	ns;wap vb;pvvp	850
-弄竹弹丝	ns;wap vu;papa tj;vadp si;vva	1
+弄竹弹丝	ns;wap vu;z tj;vadp si;vva	1
 农转非	ns;dvpv vr;avaa fz;lala	10676
 农庄	ns;dvpv vd;dat	25870
 浓妆	ns;udv vd;dan	7560
@@ -284599,7 +284599,7 @@ sort: by_weight
 泡制	pk;upv vi;pall	4870
 炮炙	pk;hpv vi;pvh	485
 炮制学	pk;hpv vi;pall xt;ddvl	149
-炮竹	pk;hpv vu;papa	2695
+炮竹	pk;hpv vu;z	2695
 抛珠滚玉	pk;fpv vu;wpa gp;uda yu;wd	8
 抛砖	pk;fpv vr;apaa	1300
 抛砖引玉	pk;fpv vr;apaa yn;val yu;wd	20785
@@ -288646,7 +288646,7 @@ sort: by_weight
 品种选择	pn;kkk vs;palv xr;padv ze;fvd	3655
 贫中有等级	pn;pdb vs;lval yb;apy dg;zta ji;vvpv	1
 玭珠	pn;wav vu;wpa	12
-品竹弹丝	pn;kkk vu;papa tj;vadp si;vva	175
+品竹弹丝	pn;kkk vu;z tj;vadp si;vva	175
 拼装	pn;fdp vd;dada	22105
 拼装车	pn;fdp vd;dada ie;aval	1505
 拼装台	pn;fdp vd;dada tl;vdk	51
@@ -290710,8 +290710,8 @@ sort: by_weight
 颇知	po;vpap vi;pak	795
 迫之如火煎	po;pldv vi;dvd ru;nk ho;h jm;dpdd	1
 颇重	po;vpap vs;palv	1905
-破竹	po;apvp vu;papa	1205
-破竹之势	po;apvp vu;papa vi;dvd ui;fpvp	485
+破竹	po;apvp vu;z	1205
+破竹之势	po;apvp vu;z vi;dvd ui;fpvp	485
 婆子	po;uvn zi;vla	13595
 坡子	po;tvp zi;vla	123
 泊子	po;upl zi;vla	18
@@ -291440,7 +291440,7 @@ sort: by_weight
 朴实作风	pu;mld ui;dddd zo;rpa fg;pvpd	65
 铺首	pu;jal ub;dppl	790
 朴树	pu;mld uu;mvd	1111
-曝书见竹	pu;ooa uu;vvld jm;lvpv vu;papa	13
+曝书见竹	pu;ooa uu;vvld jm;lvpv vu;z	13
 瀑水	pu;uoa uv;u	1105
 扑朔	pu;fld uo;dpy	805
 扑朔迷离	pu;fld uo;dpy mi;dpdv li;dalv	19980
@@ -293500,7 +293500,7 @@ sort: by_weight
 乞鞫	qi;pav ju;alpv	1
 杞菊地黄口服液	qi;mva ju;cpv di;tvl hd;allv kb;k fu;yvl ye;uda	2
 杞菊地黄丸	qi;mva ju;cpv di;tvl hd;allv wj;pvd	56
-棋局动随寻涧竹	qi;mal ju;vavl ds;aavp sv;vlap xp;vaal jm;udl vu;papa	1
+棋局动随寻涧竹	qi;mal ju;vavl ds;aavp sv;vlap xp;vaal jm;udl vu;z	1
 起巨浪	qi;tlva ju;avav lh;udv	20
 起居舍人	qi;tlva ju;vaxk ue;raa rf;r	355
 起居生活	qi;tlva ju;vaxk ug;paal ho;upa	1135
@@ -297010,9 +297010,9 @@ sort: by_weight
 钤盖	qm;jrd gl;dplv	3
 前盖板	qm;dpyl gl;dplv bj;mpp	237
 钎杆	qm;jpa gj;maa	980
-千竿竹	qm;pal gj;zaa vu;papa	339
-千竿竹翠数莲红	qm;pal gj;zaa vu;papa cv;vdda uu;dppa lm;cav hs;vvg	2
-千竿竹影乱登墙	qm;pal gj;zaa vu;papa yy;odpp lr;pav dg;vdak qd;ttd	2
+千竿竹	qm;pal gj;zaa vu;z	339
+千竿竹翠数莲红	qm;pal gj;zaa vu;z cv;vdda uu;dppa lm;cav hs;vvg	2
+千竿竹影乱登墙	qm;pal gj;zaa vu;z yy;odpp lr;pav dg;vdak qd;ttd	2
 前钢板	qm;dpyl gh;jlv bj;mpp	113
 前钢板后支架	qm;dpyl gh;jlv bj;mpp hb;ppk vi;xvd jw;vpm	2
 前钢板前支架	qm;dpyl gh;jlv bj;mpp qm;dpyl vi;xvd jw;vpm	2
@@ -300552,7 +300552,7 @@ sort: by_weight
 抢注	qd;frv vu;uda	30190
 戗住	qd;rvav vu;rda	123
 抢注了	qd;frv vu;uda le;vl	2165
-炝竹笋	qd;hrv vu;papa sp;zva	18
+炝竹笋	qd;hrv vu;z sp;zva	18
 抢抓	qd;frv vw;fpp	8645
 抢抓机遇	qd;frv vw;fpp ji;mpv yu;lvdv	18310
 墙砖	qd;ttd vr;apaa	12170
@@ -301341,7 +301341,7 @@ sort: by_weight
 敲钟人	qc;dala vs;jlv rf;r	172
 谯周	qc;dvrd vb;pvtk	12
 劁猪	qc;rdll vu;qxa	123
-敲竹杠	qc;dala vu;papa gh;mg	1305
+敲竹杠	qc;dala vu;z gh;mg	1305
 劁猪匠	qc;rdll vu;qxa jd;appv	123
 乔装	qc;papl vd;dada	5580
 桥桩	qc;mpa vd;mda	520
@@ -301924,7 +301924,7 @@ sort: by_weight
 亲不亲故乡人	qn;daal bu;apld qn;daal gu;xkpa xd;vvp rf;r	8
 勤不言苦	qn;alvp bu;apld yj;dak ku;cxk	75
 芹菜	qn;cpp cl;cpd	57135
-芹菜拌腐竹	qn;cpp cl;cpd bj;fdp fu;dalv vu;papa	39
+芹菜拌腐竹	qn;cpp cl;cpd bj;fdp fu;dalv vu;z	39
 芹菜美洲斑潜蝇	qn;cpp cl;cpd mz;dpap vb;udp bj;wda qm;uaa yy;ikl	1
 芹菜牛肉丝	qn;cpp cl;cpd nq;paal rb;lvpd si;vva	15
 芹菜虱目鱼粥	qn;cpp cl;cpd ui;vpl mu;lvaa yu;pvlv vb;vadp	1
@@ -302327,7 +302327,7 @@ sort: by_weight
 亲睦	qn;daal mu;lvtp	510
 秦牧	qn;aapa mu;papa	84
 秦穆公	qn;aapa mu;papl gs;pdvd	3965
-秦墓竹简	qn;aapa mu;cot vu;papa jm;zdl	380
+秦墓竹简	qn;aapa mu;cot vu;z jm;zdl	380
 擒拿	qn;frd na;raf	8950
 擒拿格斗	qn;frd na;raf ge;mpv db;ddx	1120
 擒拿手	qn;frd na;raf ub;f	1750
@@ -303551,7 +303551,7 @@ sort: by_weight
 庆丰村	qy;daap fg;aaal cp;mal	109
 青峰村	qy;aay fg;spv cp;mal	26
 清风店	qy;uaa fg;pvpd dm;dala	73
-清风动窗竹	qy;uaa fg;pvpd ds;aavp id;ddpl vu;papa	1
+清风动窗竹	qy;uaa fg;pvpd ds;aavp id;ddpl vu;z	1
 清风拂过	qy;uaa fg;pvpd fu;fva go;aldv	480
 清风拂山岗	qy;uaa fg;pvpd fu;fva uj;s gh;slv	186
 轻风高谊	qy;avvd fg;pvpd gk;dakl yi;dvdd	1
@@ -304577,7 +304577,7 @@ sort: by_weight
 青霉素皮试剂	qy;aay mz;adpa su;aavv pi;vplv ui;dvaa ji;dall	2
 青梅汁	qy;aay mz;mpa vi;ux	179
 青梅煮酒	qy;aay mz;mpa vu;xadd jq;ual	1160
-青梅竹马	qy;aay mz;mpa vu;papa ma;vva	21170
+青梅竹马	qy;aay mz;mpa vu;z ma;vva	21170
 清门	qy;uaa mf;dlv	995
 清焖荷包鲤	qy;uaa mf;hdl he;cra bk;pvva li;pvlv	1
 清焖莲子	qy;uaa mf;hdl lm;cav zi;vla	19
@@ -306484,11 +306484,11 @@ sort: by_weight
 青州站	qy;aay vb;dpdl vj;dala	340
 庆祝	qy;daap vu;dvkp	146615
 倾注	qy;rav vu;uda	34445
-青竹	qy;aay vu;papa	12640
+青竹	qy;aay vu;z	12640
 青贮	qy;aay vu;bdd	9380
 庆祝大会	qy;daap vu;dvkp da;apd hv;raa	6195
-青竹丹枫	qy;aay vu;papa dj;pvd fg;mpv	1
-青竹弓	qy;aay vu;papa gs;vav	1
+青竹丹枫	qy;aay vu;z dj;pvd fg;mpv	1
+青竹弓	qy;aay vu;z gs;vav	1
 庆祝国庆	qy;daap vu;dvkp go;lvwd qy;daap	1025
 庆祝会	qy;daap vu;dvkp hv;raa	2870
 庆祝活动	qy;daap vu;dvkp ho;upa ds;aavp	21570
@@ -306496,14 +306496,14 @@ sort: by_weight
 倾注了	qy;rav vu;uda le;vl	12500
 庆祝六一	qy;daap vu;dvkp lq;dapd yi;a	107
 请注明	qy;dvaa vu;uda my;oy	200350
-罄竹难穷	qy;tvpa vu;papa nj;vdrd qs;ddvp	1
-罄竹难书	qy;tvpa vu;papa nj;vdrd uu;vvld	2220
+罄竹难穷	qy;tvpa vu;z nj;vdrd qs;ddvp	1
+罄竹难书	qy;tvpa vu;z nj;vdrd uu;vvld	2220
 倾注全力	qy;rav vu;uda qr;rw li;vp	870
-青竹扇	qy;aay vu;papa uj;dvvd	1
+青竹扇	qy;aay vu;z uj;dvvd	1
 庆祝胜利	qy;daap vu;dvkp ug;ypa li;pall	1535
 庆祝生日	qy;daap vu;dvkp ug;paal ri;o	4490
 情逐事迁	qy;ddaa vu;apdv ui;alva qm;padv	1
-青竹丝	qy;aay vu;papa si;vva	140
+青竹丝	qy;aay vu;z si;vva	140
 青贮饲料	qy;aay vu;bdd si;pvva lc;dpdd	2475
 倾注太多	qy;rav vu;uda tl;apd do;pvpv	421
 庆祝晚会	qy;daap vu;dvkp wj;opv hv;raa	805
@@ -306786,7 +306786,7 @@ sort: by_weight
 琼州道	qs;wda vb;dpdl dk;dpdv	9
 琼州海峡	qs;wda vb;dpdl hl;upa xw;sad	3325
 琼州海峡轮渡运输管理规定	qs;wda vb;dpdl hl;upa xw;sad lp;avrp du;uda yp;aadv uu;avra gr;zdd li;wlv gv;aalv dy;ddal	1
-筇竹	qs;zgv vu;papa	1
+筇竹	qs;zgv vu;z	1
 穷追	qs;ddvp vv;pldv	3555
 穷追不舍	qs;ddvp vv;pldv bu;apld ue;raa	7380
 穷追猛打	qs;ddvp vv;pldv mg;qvl da;fal	3315
@@ -306918,7 +306918,7 @@ sort: by_weight
 秋分客尚在	qq;pah ff;pdvp ke;ddpv uh;ldlv zl;apt	1
 秋风	qq;pah fg;pvpd	65285
 球风	qq;wal fg;pvpd	3490
-秋风楚竹冷	qq;pah fg;pvpd iu;mmvl vu;papa lg;dard	1
+秋风楚竹冷	qq;pah fg;pvpd iu;mmvl vu;z lg;dard	1
 秋风吹	qq;pah fg;pvpd iv;kpv	1850
 秋风吹不尽	qq;pah fg;pvpd iv;kpv bu;apld jn;vadd	3
 秋风辞	qq;pah fg;pvpd ci;pada	255
@@ -311921,7 +311921,7 @@ sort: by_weight
 染坊	rj;upm fh;tda	3000
 燃放鞭炮	rj;hpv fh;dapa bm;alra pk;hpv	2405
 燃放烟花	rj;hpv fh;dapa yj;hlv hw;crp	8540
-燃放烟花爆竹	rj;hpv fh;dapa yj;hlv hw;crp bk;hoa vu;papa	119
+燃放烟花爆竹	rj;hpv fh;dapa yj;hlv hw;crp bk;hoa vu;z	119
 然否	rj;pvdd fb;apk	1305
 染缸	rj;upm gh;pag	2370
 冉高鸣	rj;lvla gk;dakl my;kpv	180
@@ -312036,7 +312036,7 @@ sort: by_weight
 冉冉	rj;lvla rj;lvla	14145
 苒苒	rj;clv rj;clv	1180
 冉冉不绝	rj;lvla rj;lvla bu;apld jt;vvpv	1
-冉冉孤生竹	rj;lvla rj;lvla gu;vlpp ug;paal vu;papa	2
+冉冉孤生竹	rj;lvla rj;lvla gu;vlpp ug;paal vu;z	2
 然然可可	rj;pvdd rj;pvdd ke;ak ke;ak	4
 冉冉上升	rj;lvla rj;lvla uh;laa ug;papl	940
 冉冉升起	rj;lvla rj;lvla ug;papl qi;tlva	9340
@@ -313817,7 +313817,7 @@ sort: by_weight
 任何组织	rf;rpa he;rak zu;vvlv vi;vvkp	9999
 人和组织	rf;r he;pak zu;vvlv vi;vvkp	111
 人很	rf;r hf;ppva	53085
-仁恒翠竹园	rf;raa hg;ddao cv;vdda vu;papa yr;lvaa	27
+仁恒翠竹园	rf;raa hg;ddao cv;vdda vu;z yr;lvaa	27
 仁恒国际公寓	rf;raa hg;ddao go;lvwd ji;vlaa gs;pdvd yu;ddlv	7
 仁恒玉兰山庄	rf;raa hg;ddao yu;wd lj;dpaa uj;s vd;dat	1
 仁恒置地	rf;raa hg;ddao vi;lvxl di;tvl	106
@@ -314117,7 +314117,7 @@ sort: by_weight
 人来了	rf;r ll;adpa le;vl	4280
 人来人往	rf;r ll;adpa rf;r wh;ppda	16260
 人来说	rf;r ll;adpa uo;dvdp	43755
-人籁则比竹是已	rf;r ll;zal ze;bll bi;avpv vu;papa ui;oal yi;vav	1
+人籁则比竹是已	rf;r ll;zal ze;bll bi;avpv vu;z ui;oal yi;vav	1
 人狼	rf;r lh;qdv	9999
 人浪	rf;r lh;udv	910
 人狼游戏	rf;r lh;qdv yb;uda xi;vdav	123
@@ -316488,7 +316488,7 @@ sort: by_weight
 日暮行人争渡急	ri;o mu;coo xy;ppaa rf;r vg;pvva du;uda ji;pvdv	1
 日暮荥阳驿中宿	ri;o mu;coo xy;cdu yh;vlo yi;vvvd vs;lval su;ddra	1
 日暮掩柴扉	ri;o mu;coo yj;fap il;lam fz;dvla	3
-日暮倚修竹	ri;o mu;coo yi;rap xq;rlp vu;papa	3
+日暮倚修竹	ri;o mu;coo yi;rap xq;rlp vu;z	3
 日暮之流	ri;o mu;coo vi;dvd lq;uda	136
 日南郡	ri;o nj;xlv jp;vavl	2
 日内	ri;o nz;lvpd	423770
@@ -317298,7 +317298,7 @@ sort: by_weight
 融液贯通	rs;aki ye;uda gr;vvb ts;vddv	1
 溶液剂	rs;udd ye;uda ji;dall	22
 溶液培养	rs;udd ye;uda pz;tda yh;dppl	5
-绒叶肖竹芋	rs;vvaa ye;kx xc;ldy vu;papa yu;caa	1
+绒叶肖竹芋	rs;vvaa ye;kx xc;ldy vu;z yu;caa	1
 容易	rs;ddpd yi;opv	500618
 绒衣	rs;vvaa yi;dapv	6105
 容仪	rs;ddpd yi;rdp	4000
@@ -317339,7 +317339,7 @@ sort: by_weight
 冗余	rs;dvpv yu;raa	43060
 溶于	rs;udd yu;aal	37085
 融于	rs;aki yu;aal	2222
-荣誉斑竹	rs;cdm yu;ddda bj;wda vu;papa	290
+荣誉斑竹	rs;cdm yu;ddda bj;wda vu;z	290
 荣誉榜	rs;cdm yu;ddda bh;mda	1765
 荣誉称号	rs;cdm yu;ddda ig;papv hk;kav	98960
 荣誉出品	rs;cdm yu;ddda iu;vllv pn;kkk	4920
@@ -317836,7 +317836,7 @@ sort: by_weight
 揉皱	rb;fvd vb;pvvp	955
 肉猪	rb;lvpd vu;qxa	5100
 肉柱	rb;lvpd vu;mda	13
-肉竹嘈杂	rb;lvpd vu;papa ck;kal za;pval	3
+肉竹嘈杂	rb;lvpd vu;z ck;kal za;pval	3
 肉抓饭	rb;lvpd vw;fpp fj;pvpp	15
 肉装	rb;lvpd vd;dada	111
 肉锥花	rb;lvpd vv;jrd hw;crp	1
@@ -318988,7 +318988,7 @@ sort: by_weight
 如衣绣夜行	ru;nk yi;dapv xq;vvpa ye;darp xy;ppaa	975
 如意延年	ru;nk yi;dadv yj;plvd nm;paal	1
 如意珠	ru;nk yi;dadv vu;wpa	1285
-如意竹荪	ru;nk yi;dadv vu;papa sp;cvl	3
+如意竹荪	ru;nk yi;dadv vu;z sp;cvl	3
 如意转神丹	ru;nk yi;dadv vr;avaa uf;dvlv dj;pvd	1
 如因	ru;nk yn;lvap	49210
 如银	ru;nk yn;jva	7810
@@ -319108,7 +319108,7 @@ sort: by_weight
 如猪的	ru;nk vu;qxa de;plpv	130
 入住率	ru;pd vu;rda lv;dax	8325
 入住人	ru;pd vu;rda rf;r	67
-入竹万竿斜	ru;pd vu;papa wj;avp gj;zaa xx;radd	3
+入竹万竿斜	ru;pd vu;z wj;avp gj;zaa xx;radd	3
 如珠未穿孔	ru;nk vu;wpa wz;aalp ir;ddav ks;vlv	1
 乳状	ru;pdv vd;daap	2485
 乳状物	ru;pdv vd;daap wu;papv	105
@@ -320235,7 +320235,7 @@ sort: by_weight
 弱智人	ro;vava vi;pao rf;r	345
 弱中性流	ro;vava vs;lval xy;ddpa lq;uda	15
 若住	ro;cap vu;rda	9999
-箬竹	ro;zca vu;papa	1
+箬竹	ro;zca vu;z	1
 若住在	ro;cap vu;rda zl;apt	9999
 弱转强	ro;vava vr;avaa qd;vaki	135
 弱子戏我侧	ro;vava zi;vla xi;vdav wo;pala ce;rbl	1
@@ -323203,7 +323203,7 @@ sort: by_weight
 三汤五割	sj;aaa th;uvp wu;alva ge;ddll	1
 三塘小区	sj;aaa th;tda xc;lpd qu;apdv	30
 三塘樱园	sj;aaa th;tda yy;mbb yr;lvaa	4
-三塘竹苑	sj;aaa th;tda vu;papa yr;cpv	30
+三塘竹苑	sj;aaa th;tda vu;z yr;cpv	30
 三套	sj;aaa tk;apal	22265
 伞套	sj;rdp tk;apal	111
 散套	sj;alpa tk;apal	1
@@ -325222,7 +325222,7 @@ sort: by_weight
 沙金	ua;ulp jn;j	2422
 砂金	ua;aplp jn;j	2315
 傻劲	ua;rpl jn;vdvp	1185
-纱巾草履竹疏衣	ua;vvlp jn;lvl ck;cox lv;vapp vu;papa uu;vlda yi;dapv	1
+纱巾草履竹疏衣	ua;vvlp jn;lvl ck;cox lv;vapp vu;z uu;vlda yi;dapv	1
 杀进程	ua;pdal jn;aadv ig;pakw	1059
 傻劲儿	ua;rpl jn;vdvp er;pv	135
 杀尽西村鸡	ua;pdal jn;vadd xi;alvp cp;mal ji;vdpv	1
@@ -325595,7 +325595,7 @@ sort: by_weight
 杀身出生	ua;pdal uf;plva iu;vllv ug;paal	2
 沙参麦冬汤	ua;ulp uf;vdpp ml;aapv ds;pvdd th;uvp	9
 沙参心肺汤	ua;ulp uf;vdpp xn;dvdd fz;yal th;uvp	2
-沙参玉竹老鸭汤	ua;ulp uf;vdpp yu;wd vu;papa lk;xapv ya;lvpv th;uvp	18
+沙参玉竹老鸭汤	ua;ulp uf;vdpp yu;wd vu;z lk;xapv ya;lvpv th;uvp	18
 杀身之祸	ua;pdal uf;plva vi;dvd ho;dvkl	6755
 沙参止咳汤散	ua;ulp uf;vdpp vi;lala ke;kda th;uvp sj;alpa	4
 杀生	ua;pdal ug;paal	17175
@@ -327749,7 +327749,7 @@ sort: by_weight
 善终正寝	uj;dpk vs;vvpv vg;ala qn;ddda	1
 山洲岭	uj;s vb;udp ly;srd	1
 膳粥一品	uj;ydp vb;vadp yi;a pn;kkk	11
-山竹	uj;s vu;papa	10171
+山竹	uj;s vu;z	10171
 山猪	uj;s vu;qxa	3365
 骟猪	uj;vvdv vu;qxa	212
 善住	uj;dpk vu;rda	4
@@ -329063,7 +329063,7 @@ sort: by_weight
 商君书	uh;dalv jp;vak uu;vvld	1400
 上军校	uh;laa jp;dvav xc;mda	133
 尚卡乡	uh;ldlv ka;lald xd;vvp	1
-上卡竹村	uh;laa ka;lald vu;papa cp;mal	1
+上卡竹村	uh;laa ka;lald vu;z cp;mal	1
 上看	uh;laa kj;palv	266595
 上刊登	uh;laa kj;aall dg;vdak	2786
 上龛乡	uh;laa kj;raap xd;vvp	49
@@ -332505,7 +332505,7 @@ sort: by_weight
 涉木	ue;ula mu;m	1
 蛇目菊	ue;idd mu;lvaa ju;cpv	6
 舍南舍北皆春水	ue;raa nj;xlv ue;raa bz;lapv jx;avpl ip;aao uv;u	6
-舍南有竹堪书字	ue;raa nj;xlv yb;apy vu;papa kj;tal uu;vvld zi;ddvl	1
+舍南有竹堪书字	ue;raa nj;xlv yb;apy vu;z kj;tal uu;vvld zi;ddvl	1
 射你	ue;plal ni;rpv	9999
 射你脸上	ue;plal ni;rpv lm;yra uh;laa	66
 射你胸上	ue;plal ni;rpv xs;ypv uh;laa	66
@@ -332875,12 +332875,12 @@ sort: by_weight
 麝香抗栓丸	ue;davl xd;pao kh;fda ur;mrw wj;pvd	7
 佘祥林案	ue;raa xd;dvdp ln;mm an;ddm	1029
 麝香猫咖啡	ue;davl xd;pao mk;qcl ka;kvp fz;kla	99
-麝香眠石竹	ue;davl xd;pao mm;lvva ui;apk vu;papa	1
+麝香眠石竹	ue;davl xd;pao mm;lvva ui;apk vu;z	1
 摄像枪	ue;fal xd;rpv qd;mrv	78
 麝香祛痛搽剂	ue;davl xd;pao qu;dvtv ts;davd ia;fcr ji;dall	1
 麝香祛痛气雾剂	ue;davl xd;pao qu;dvtv ts;davd qi;paav wu;adpv ji;dall	1
 摄像师	ue;fal xd;rpv ui;lpal	6625
-麝香石竹	ue;davl xd;pao ui;apk vu;papa	40
+麝香石竹	ue;davl xd;pao ui;apk vu;z	40
 摄像手机	ue;fal xd;rpv ub;f ji;mpv	965
 麝香舒活精	ue;davl xd;pao uu;ravd ho;upa jy;dpaa	2
 麝香酮	ue;davl xd;pao ts;allv	8
@@ -334943,7 +334943,7 @@ sort: by_weight
 申请	uf;lvaa qy;dvaa	501552
 神情	uf;dvlv qy;ddaa	184895
 深情	uf;udv qy;ddaa	124260
-申请斑竹	uf;lvaa qy;dvaa bj;wda vu;papa	913
+申请斑竹	uf;lvaa qy;dvaa bj;wda vu;z	913
 申请报告	uf;lvaa qy;dvaa bk;fvl gk;pak	38965
 神情毕肖	uf;dvlv qy;ddaa bi;avx xc;ldy	7
 申请表	uf;lvaa qy;dvaa bc;aapv	218235
@@ -336234,7 +336234,7 @@ sort: by_weight
 神主	uf;dvlv vu;dw	1211
 深注唇儿浅画眉	uf;udv vu;uda ip;apk er;pv qm;uaa hw;alv mz;vllv	1
 肾主伎巧	uf;lly vu;dw ji;rxv qc;gav	1
-参竹精颗粒	uf;vdpp vu;papa jy;dpaa ke;lvap li;dpda	1
+参竹精颗粒	uf;vdpp vu;z jy;dpaa ke;lvap li;dpda	1
 肾主恐	uf;lly vu;dw ks;gpdv	1
 肾主纳气	uf;lly vu;dw na;vvlv qi;paav	14
 肾主生殖	uf;lly vu;dw ug;paal vi;apxl	18
@@ -344456,8 +344456,8 @@ sort: by_weight
 视如己出	ui;dvlv ru;nk ji;vav iu;vllv	590
 势如累卵	ui;fpvp ru;nk lz;lvvv lr;pvvl	10
 视如陌路	ui;dvlv ru;nk mo;vlap lu;klpv	5
-势如劈竹	ui;fpvp ru;nk pi;vavp vu;papa	5
-势如破竹	ui;fpvp ru;nk po;apvp vu;papa	7420
+势如劈竹	ui;fpvp ru;nk pi;vavp vu;z	5
+势如破竹	ui;fpvp ru;nk po;apvp vu;z	7420
 势如水火	ui;fpvp ru;nk uv;u ho;h	315
 视乳头	ui;dvlv ru;pdv tb;ddap	1725
 视乳头水肿	ui;dvlv ru;pdv tb;ddap uv;u vs;ylv	17
@@ -345854,7 +345854,7 @@ sort: by_weight
 时闻下子声	ui;oal wf;dlal xw;ald zi;vla ug;tvl	1
 试问闲愁都几许	ui;dvaa wf;dlk xm;dlm ib;padv db;xavl ji;pv xu;dvpa	1
 匙吻鲟	ui;oapv wf;kpv xp;pvva	1
-时闻折竹声	ui;oal wf;dlal ve;fpp vu;papa ug;tvl	3
+时闻折竹声	ui;oal wf;dlal ve;fpp vu;z ug;tvl	3
 失温症	ui;paap wf;uol vg;daal	179
 石瓮	ui;apk wg;pdav	490
 是我	ui;oal wo;pala	500483
@@ -347956,16 +347956,16 @@ sort: by_weight
 失主	ui;paap vu;dw	14670
 事主	ui;alva vu;dw	13415
 施主	ui;dapa vu;dw	10257
-石竹	ui;apk vu;papa	6535
+石竹	ui;apk vu;z	6535
 是猪	ui;oal vu;qxa	2012
 施助	ui;dapa vu;lvvp	395
 石珠	ui;apk vu;wpa	5
-石竹茶	ui;apk vu;papa ia;cra	99
-石竹花	ui;apk vu;papa hw;crp	435
+石竹茶	ui;apk vu;z ia;cra	99
+石竹花	ui;apk vu;z hw;crp	435
 石柱黄水森林公园	ui;apk vu;mda hd;allv uv;u sf;mmm ln;mm gs;pdvd yr;lvaa	17
 失诸交臂	ui;paap vu;dvxa jc;dapd bi;vay	13
 室主任	ui;ddav vu;dw rf;rpa	18240
-石竹山	ui;apk vu;papa uj;s	143
+石竹山	ui;apk vu;z uj;s	143
 石柱头	ui;apk vu;mda tb;ddap	12
 湿柱头	ui;uol vu;mda tb;ddap	5
 石柱县	ui;apk vu;mda xm;lvvd	2300
@@ -352382,7 +352382,7 @@ sort: by_weight
 恕难	uu;nkdv nj;vdrd	520
 恕难从命	uu;nkdv nj;vdrd cs;rr my;rak	300
 恕难苟同	uu;nkdv nj;vdrd gb;cpv ts;lvak	15
-蜀南竹海	uu;lvpv nj;xlv vu;papa hl;upa	3370
+蜀南竹海	uu;lvpv nj;xlv vu;z hl;upa	3370
 书囊无底	uu;vvld nh;alkk wu;aapv di;dapv	1
 书内	uu;vvld nz;lvpd	5240
 数内	uu;dppa nz;lvpd	2130
@@ -355317,10 +355317,10 @@ sort: by_weight
 双轴向	ud;vdvd vb;avlv xd;plk	2
 双轴向织物	ud;vdvd vb;avlv xd;plk vi;vvkp wu;papv	2
 双柱	ud;vdvd vu;mda	2110
-双竹村	ud;vdvd vu;papa cp;mal	146
+双竹村	ud;vdvd vu;z cp;mal	146
 双主打	ud;vdvd vu;dw da;fal	115
 双珠淡蓝棕灰蝶	ud;vdvd vu;wpa dj;uhh lj;cll zs;mdd hv;aph dx;ial	1
-双竹林场	ud;vdvd vu;papa ln;mm ih;tvp	2
+双竹林场	ud;vdvd vu;z ln;mm ih;tvp	2
 霜状	ud;adml vd;daap	2780
 双子	ud;vdvd zi;vla	38935
 双字	ud;vdvd zi;ddvl	9940
@@ -357185,10 +357185,10 @@ sort: by_weight
 水珠	uv;u vu;wpa	26135
 水煮	uv;u vu;xadd	7725
 水柱	uv;u vu;mda	3475
-水竹	uv;u vu;papa	213
+水竹	uv;u vu;z	213
 水注	uv;u vu;uda	19
 水煮白扎肉	uv;u vu;xadd bl;plva va;fv rb;lvpd	3
-水竹村	uv;u vu;papa cp;mal	21
+水竹村	uv;u vu;z cp;mal	21
 水煮凤片	uv;u vu;xadd fg;pvvd pm;plav	1
 水煮回头鱼	uv;u vu;xadd hv;lvk tb;ddap yu;pvlv	2
 水煮开	uv;u vu;xadd kl;aapl	715
@@ -357201,7 +357201,7 @@ sort: by_weight
 水柱体	uv;u vu;mda ti;ral	5
 水煮蹄花	uv;u vu;xadd ti;klda hw;crp	12
 水煮田鸡	uv;u vu;xadd tm;lvx ji;vdpv	85
-水竹乡	uv;u vu;papa xd;vvp	11
+水竹乡	uv;u vu;z xd;vvp	11
 水煮羊肉	uv;u vu;xadd yh;dpaa rb;lvpd	83
 水煮鱼	uv;u vu;xadd yu;pvlv	20850
 水煮鱼家常菜	uv;u vu;xadd yu;pvlv jw;ddap ih;ldkl cl;cpd	91
@@ -361678,16 +361678,16 @@ sort: by_weight
 四周围	si;lvpv vb;pvtk wz;lvaa	3475
 泗州戏	si;ulv vb;dpdl xi;vdav	9999
 死猪	si;appv vu;qxa	6260
-丝竹	si;vva vu;papa	1167
+丝竹	si;vva vu;z	1167
 饲主	si;pvva vu;dw	424
 四柱	si;lvpv vu;mda	111
 死猪不怕开水烫	si;appv vu;qxa bu;apld pa;ddpl kl;aapl uv;u th;uvh	1665
 死诸葛能走生仲达	si;appv vu;dvxa ge;cop ng;vdpv zb;tla ug;paal vs;rlv da;apdv	4
 死诸葛吓走生仲达	si;appv vu;dvxa ge;cop xw;kal zb;tla ug;paal vs;rlv da;apdv	1
 死诸葛走生仲达	si;appv vu;dvxa ge;cop zb;tla ug;paal vs;rlv da;apdv	7
-丝竹管弦	si;vva vu;papa gr;zdd xm;vada	525
-丝竹空	si;vva vu;papa ks;ddg	395
-丝竹空穴	si;vva vu;papa ks;ddg xt;ddpd	9
+丝竹管弦	si;vva vu;z gr;zdd xm;vada	525
+丝竹空	si;vva vu;z ks;ddg	395
+丝竹空穴	si;vva vu;z ks;ddg xt;ddpd	9
 肆诸市朝	si;alva vu;dvxa ui;dalv ik;xoy	7
 四柱预测	si;lvpv vu;mda yu;vdap ce;ubl	1180
 丝柱鸢尾	si;vva vu;mda yr;avpv wz;vapa	1
@@ -361729,7 +361729,7 @@ sort: by_weight
 四坐楚囚悲	si;lvpv zo;rrt iu;mmvl qq;lvr bz;ladv	1
 四唑氮蓝	si;lvpv zo;krr dj;pahh lj;cll	30
 四座泪纵横	si;lvpv zo;darr lz;ulv zs;vvrr hg;mal	1
-四座无喧梧竹静	si;lvpv zo;darr wu;aapv xr;kdd wu;mal vu;papa jy;aapv	1
+四座无喧梧竹静	si;lvpv zo;darr wu;aapv xr;kdd wu;mal vu;z jy;aapv	1
 撕作业	si;fal zo;rpa ye;lldp	157
 宋蔼龄	ss;ddm ai;cdv ly;lard	26
 讼案	ss;dvpd an;ddm	880
@@ -362240,7 +362240,7 @@ sort: by_weight
 松毛虫小盾寄蝇	ss;mpd mk;paav is;i xc;lpd dp;ppxl ji;ddap yy;ikl	1
 松毛虫异足姬蜂	ss;mpd mk;paav is;i yi;vaap zu;kla ji;nal fg;ipv	1
 松茂村	ss;mpd mk;cap cp;mal	3
-松茂竹苞	ss;mpd mk;cap vu;papa bk;cpv	1
+松茂竹苞	ss;mpd mk;cap vu;z bk;cpv	1
 送煤	ss;dpdv mz;hal	1565
 送玫瑰花	ss;dpdv mz;wpa gv;wpl hw;crp	127
 宋美龄	ss;ddm mz;dpap ly;lard	7725
@@ -362406,7 +362406,7 @@ sort: by_weight
 松声晚窗里	ss;mpd ug;tvl wj;opv id;ddpl li;lvaa	1
 崧生岳降	ss;smp ug;paal yt;pls jd;vlpv	1
 嵩生岳降	ss;sda ug;paal yt;pls jd;vlpv	1
-松声竹韵	ss;mpd ug;tvl vu;papa yp;dapv	60
+松声竹韵	ss;mpd ug;tvl vu;z yp;dapv	60
 宋史	ss;ddm ui;lvap	9440
 松狮	ss;mpd ui;qlp	6666
 颂诗	ss;pdap ui;dvta	5999
@@ -362704,11 +362704,11 @@ sort: by_weight
 宋忠平	ss;ddm vs;lvdv py;adpa	185
 送终养老	ss;dpdv vs;vvpv yh;dppl lk;xapv	1
 松洲街道	ss;mpd vb;udp jx;pptt dk;dpdv	34
-松竹	ss;mpd vu;papa	6450
+松竹	ss;mpd vu;z	6450
 颂祝	ss;pdap vu;dvkp	155
 送祝福	ss;dpdv vu;dvkp fu;dvak	3780
-松竹梅	ss;mpd vu;papa mz;mpa	1290
-松竹梅共经寒岁	ss;mpd vu;papa mz;mpa gs;alpd jy;vvvd hj;dddd sv;spv	1180
+松竹梅	ss;mpd vu;z mz;mpa	1290
+松竹梅共经寒岁	ss;mpd vu;z mz;mpa gs;alpd jy;vvvd hj;dddd sv;spv	1180
 宋庄	ss;ddm vd;dat	7195
 送庄	ss;dpdv vd;dat	10
 松庄村	ss;mpd vd;dat cp;mal	12
@@ -365118,7 +365118,7 @@ sort: by_weight
 碎物	sv;apda wu;papv	425
 随物赋形	sv;vlap wu;papv fu;baa xy;aapp	28
 虽无粮而乃足	sv;ki wu;aapv ld;dpdv er;aplv nl;vp zu;kla	1
-虽无丝竹管弦之盛	sv;ki wu;aapv si;vva vu;papa gr;zdd xm;vada vi;dvd ug;aplv	4
+虽无丝竹管弦之盛	sv;ki wu;aapv si;vva vu;z gr;zdd xm;vada vi;dvd ug;aplv	4
 随物应机	sv;vlap wu;papv yy;dadd ji;mpv	1
 随喜	sv;vlap xi;tkk	12885
 濉溪	sv;ulv xi;upd	3920
@@ -371386,7 +371386,7 @@ sort: by_weight
 摊入	tj;fvd ru;pd	3480
 弹入	tj;vadp ru;pd	1005
 贪如饕餮	tj;rdb ru;nk tk;kard tx;aprd	1
-滩如竹节稠	tj;uvd ru;nk vu;papa jx;cvl ib;papv	1
+滩如竹节稠	tj;uvd ru;nk vu;z jx;cvl ib;papv	1
 瘫软	tj;davd rr;avpv	8705
 谭瑞松	tj;dval rv;wsa ss;mpd	105
 谈若悬河	tj;dvhh ro;cap xr;lvdv he;uak	1
@@ -371470,7 +371470,7 @@ sort: by_weight
 贪睡	tj;rdb uv;lvpa	5285
 碳水化合物	tj;apsa uv;u hw;rpv he;rak wu;papv	48140
 碳水化物	tj;apsa uv;u hw;rpv wu;papv	835
-弹丝吹竹	tj;vadp si;vva iv;kpv vu;papa	1
+弹丝吹竹	tj;vadp si;vva iv;kpv vu;z	1
 谭嗣同	tj;dval si;klva ts;lvak	6810
 碳四植物	tj;apsa si;lvpv vi;mxl wu;papv	30
 碳素	tj;apsa su;aavv	18835
@@ -371885,7 +371885,7 @@ sort: by_weight
 摊主	tj;fvd vu;dw	16785
 坛主	tj;taa vu;dw	4965
 谈助	tj;dvhh vu;lvvp	2
-谭竹青	tj;dval vu;papa qy;aay	840
+谭竹青	tj;dval vu;z qy;aay	840
 痰浊中阻	tj;dahh vo;ui vs;lval zu;vllv	4
 毯子	tj;pahh zi;vla	16260
 摊子	tj;fvd zi;vla	15125
@@ -378989,13 +378989,13 @@ sort: by_weight
 天柱东路	tm;aap vu;mda ds;avlp lu;klpv	1
 天柱峰	tm;aap vu;mda fg;spv	2260
 天竺佛国	tm;aap vu;zaa fo;rva go;lvwd	110
-天竹根	tm;aap vu;papa gf;mva	1
+天竹根	tm;aap vu;z gf;mva	1
 天竺供销社	tm;aap vu;zaa gs;ral xc;jld ue;dvt	5
 天竺公主	tm;aap vu;zaa gs;pdvd vu;dw	174
 天祝古柏线虫	tm;aap vu;dvkp gu;xk bl;mpl xm;vvaa is;i	1
 天竺国	tm;aap vu;zaa go;lvwd	1150
 天竺花园	tm;aap vu;zaa hw;crp yr;lvaa	9
-天竹黄	tm;aap vu;papa hd;allv	25
+天竹黄	tm;aap vu;z hd;allv	25
 天竺黄	tm;aap vu;zaa hd;allv	13
 天柱剑毫	tm;aap vu;mda jm;rall hk;dapa	35
 天主教	tm;aap vu;dw jc;xapa	35155
@@ -379026,7 +379026,7 @@ sort: by_weight
 天竺镇	tm;aap vu;zaa vf;jxl	106
 天竺中心小学	tm;aap vu;zaa vs;lval xn;dvdd xc;lpd xt;ddvl	314
 天竺中学	tm;aap vu;zaa vs;lval xt;ddvl	6
-天竹子	tm;aap vu;papa zi;vla	2
+天竹子	tm;aap vu;z zi;vla	2
 添砖加瓦	tm;uaa vr;apaa jw;vpk wa;avvd	11020
 填装	tm;txl vd;dada	1375
 田庄村委会	tm;lvx vd;dat cp;mal wz;pan hv;raa	2
@@ -379795,7 +379795,7 @@ sort: by_weight
 挑虾线	tc;fpd xw;ial xm;vvaa	154
 跳线	tc;klpd xm;vvaa	32660
 调弦	tc;dvpv xm;vada	1675
-调弦品竹	tc;dvpv xm;vada pn;kkk vu;papa	1
+调弦品竹	tc;dvpv xm;vada pn;kkk vu;z	1
 条线图	tc;pval xm;vvaa tu;lvpv	45
 跳箱	tc;klpd xd;zml	495
 调香师	tc;dvpv xd;pao ui;lpal	2090
@@ -385582,7 +385582,7 @@ sort: by_weight
 透支	tb;padv vi;xvd	44375
 投掷	tb;fpv vi;fdp	22070
 投置	tb;fpv vi;lvxl	495
-投掷爆竹	tb;fpv vi;fdp bk;hoa vu;papa	5
+投掷爆竹	tb;fpv vi;fdp bk;hoa vu;z	5
 透支额	tb;padv vi;xvd ee;ddap	760
 投掷斧	tb;fpv vi;fdp fu;pdpp	6
 透支了	tb;padv vi;xvd le;vl	3270
@@ -390018,7 +390018,7 @@ sort: by_weight
 挖着挖着	wa;fdd ve;dplv wa;fdd ve;dplv	1111
 洼冢洋介	wa;utt vs;dvap yh;udp jx;rpl	1
 瓦轴	wa;avvd vb;avlv	12
-挖竹笋	wa;fdd vu;papa sp;zva	110
+挖竹笋	wa;fdd vu;z sp;zva	110
 瓦状	wa;avvd vd;daap	810
 袜子	wa;dvaa zi;vla	84025
 娃子	wa;ntt zi;vla	8340
@@ -392606,7 +392606,7 @@ sort: by_weight
 玩手游	wj;waa ub;f yb;uda	172
 万兽之王	wj;avp ub;dpak vi;dvd wh;w	920
 万寿中路	wj;avp ub;aaal vs;lval lu;klpv	40
-万寿竹	wj;avp ub;aaal vu;papa	6
+万寿竹	wj;avp ub;aaal vu;z	6
 万寿庄	wj;avp ub;aaal vd;dat	36
 晚熟	wj;opv uu;dadd	8145
 万树	wj;avp uu;mvd	3355
@@ -395541,7 +395541,7 @@ sort: by_weight
 网易云会员	wh;lvpd yi;opv yp;aavd hv;raa yr;kb	133
 网易云课堂	wh;lvpd yi;opv yp;aavd ke;dvlv th;ldt	444
 网易云音乐	wh;lvpd yi;opv yp;aavd yn;dao yt;pvlp	721
-王艺竹	wh;w yi;cv vu;papa	179
+王艺竹	wh;w yi;cv vu;z	179
 网银	wh;lvpd yn;jva	35755
 网瘾	wh;lvpd yn;davl	18330
 王垠	wh;w yn;tva	52
@@ -402868,7 +402868,7 @@ sort: by_weight
 稳住	wf;papv vu;rda	21175
 问住	wf;dlk vu;rda	1670
 瘟猪	wf;daol vu;qxa	16
-文竹	wf;dapd vu;papa	2
+文竹	wf;dapd vu;z	2
 稳住了	wf;papv vu;rda le;vl	678
 问住了	wf;dlk vu;rda le;vl	134
 温渚然犀	wf;uol vu;uxa rj;pvdd xi;vald	1
@@ -402877,8 +402877,8 @@ sort: by_weight
 问住我了	wf;dlk vu;rda wo;pala le;vl	134
 稳住心态	wf;papv vu;rda xn;dvdd tl;apdv	180
 闻诛一夫纣矣	wf;dlal vu;dvpa yi;a fu;aapd vb;vval yi;vdpa	8
-文竹苑	wf;dapd vu;papa yr;cpv	123
-文竹园	wf;dapd vu;papa yr;lvaa	64
+文竹苑	wf;dapd vu;z yr;cpv	123
+文竹园	wf;dapd vu;z yr;lvaa	64
 稳住阵脚	wf;papv vu;rda vf;vlav jc;ytv	1680
 稳赚	wf;papv vr;bdp	2970
 稳赚不亏	wf;papv vr;bdp bu;apld kv;aav	200
@@ -404081,7 +404081,7 @@ sort: by_weight
 我花	wo;pala hw;crp	8090
 肟化反应	wo;yaa hw;rpv fj;ppvd yy;dadd	2
 我花了	wo;pala hw;crp le;vl	13620
-卧花竹芋	wo;alld hw;crp vu;papa yu;caa	1
+卧花竹芋	wo;alld hw;crp vu;z yu;caa	1
 我坏	wo;pala hy;tap	2465
 我怀疑	wo;pala hy;ddap yi;pvvd	20515
 我怀郁如焚	wo;pala hy;ddap yu;apvl ru;nk ff;mmh	1
@@ -408362,7 +408362,7 @@ sort: by_weight
 五九炮	wu;alva jq;pv pk;hpv	8
 武九铁路	wu;aala jq;pv tx;jpa lu;klpv	230
 无旧无新	wu;aapv jq;lo wu;aapv xn;dapp	1
-吴酒一杯春竹叶	wu;kaa jq;ual yi;a bz;map ip;aao vu;papa ye;kx	1
+吴酒一杯春竹叶	wu;kaa jq;ual yi;a bz;map ip;aao vu;z ye;kx	1
 舞剧	wu;papv ju;vall	13790
 无惧	wu;aapv ju;ddlv	8045
 五句	wu;alva ju;pvk	6750
@@ -410479,7 +410479,7 @@ sort: by_weight
 无私者无畏	wu;aapv si;pavd ve;xao wu;aapv wz;lvav	85
 无私之光	wu;aapv si;pavd vi;dvd gd;ldap	1
 吾斯之未能信	wu;alk si;alpp vi;dvd wz;aalp ng;vdpv xn;rda	2
-无丝竹之乱耳	wu;aapv si;vva vu;papa vi;dvd lr;pav er;alla	1180
+无丝竹之乱耳	wu;aapv si;vva vu;z vi;dvd lr;pav er;alla	1180
 雾凇	wu;adpv ss;damp	7005
 武松	wu;aala ss;mpd	2608
 雾松避难所	wu;adpv ss;mpd bi;vadv nj;vdrd so;pppp	1
@@ -412397,12 +412397,12 @@ sort: by_weight
 物主	wu;papv vu;dw	5590
 吾主	wu;alk vu;dw	1495
 五铢	wu;alva vu;jpa	1365
-吾竹村	wu;alk vu;papa cp;mal	1
+吾竹村	wu;alk vu;z cp;mal	1
 物主代词	wu;papv vu;dw dl;rav ci;dvva	1330
 捂住耳朵	wu;fal vu;rda er;alla do;pvm	3333
 无主荷花到处开	wu;aapv vu;dw he;cra hw;crp dk;avll iu;pvld kl;aapl	2
 捂住口鼻	wu;fal vu;rda kb;k bi;pllv	131
-无竹令人俗	wu;aapv vu;papa ly;rdv rf;r su;rpd	1180
+无竹令人俗	wu;aapv vu;z ly;rdv rf;r su;rpd	1180
 乌珠穆沁	wu;pvva vu;wpa mu;papl qn;udv	435
 乌珠穆沁旗	wu;pvva vu;wpa mu;papl qn;udv qi;dapa	60
 五铢钱	wu;alva vu;jpa qm;jaa	1400
@@ -413851,7 +413851,7 @@ sort: by_weight
 西红柿	xi;alvp hs;vvg ui;mda	142633
 西红柿菜花排骨汤	xi;alvp hs;vvg ui;mda cl;cpd hw;crp pl;fla gu;lvy th;uvp	1
 西红柿炒蛋	xi;alvp hs;vvg ui;mda ik;hlp dj;vli	1147
-西红柿腐竹汤	xi;alvp hs;vvg ui;mda fu;dalv vu;papa th;uvp	1
+西红柿腐竹汤	xi;alvp hs;vvg ui;mda fu;dalv vu;z th;uvp	1
 西红柿胡萝卜汁	xi;alvp hs;vvg ui;mda hu;xky lo;clv bo;ld vi;ux	1
 西红柿黄瓜沙拉	xi;alvp hs;vvg ui;mda hd;allv gw;ppvd ua;ulp la;fda	1
 西红柿煎蛋汤	xi;alvp hs;vvg ui;mda jm;dpdd dj;vli th;uvp	2
@@ -422092,8 +422092,8 @@ sort: by_weight
 显著成效	xm;oll vu;cxa ig;apv xc;dapa	21675
 显著的	xm;oll vu;cxa de;plpv	126605
 显著地位	xm;oll vu;cxa di;tvl wz;rda	505
-鲜竹沥	xm;pvdp vu;papa li;uap	365
-鲜竹牛肉	xm;pvdp vu;papa nq;paal rb;lvpd	4
+鲜竹沥	xm;pvdp vu;z li;uap	365
+鲜竹牛肉	xm;pvdp vu;z nq;paal rb;lvpd	4
 咸猪肉	xm;apak vu;qxa rb;lvpd	415
 咸猪手	xm;apak vu;qxa ub;f	1280
 显著特点	xm;oll vu;cxa te;pata dm;ladd	12600
@@ -422765,7 +422765,7 @@ sort: by_weight
 香妃烤鸡	xd;pao fz;nva kk;hxa ji;vdpv	3
 香妃墓	xd;pao fz;nva mu;cot	51
 香妃酥	xd;pao fz;nva su;alpa	1
-湘妃竹	xd;uml fz;nva vu;papa	1350
+湘妃竹	xd;uml fz;nva vu;z	1350
 香榧子	xd;pao fz;mal zi;vla	115
 香氛	xd;pao ff;papd	5555
 香粉	xd;pao ff;dppd	4690
@@ -422977,7 +422977,7 @@ sort: by_weight
 香菇西红柿蔬菜汤	xd;pao gu;cnx xi;alvp hs;vvg ui;mda uu;cvl cl;cpd th;uvp	1
 香菇西蓝花	xd;pao gu;cnx xi;alvp lj;cll hw;crp	11
 香菇蟹肉	xd;pao gu;cnx xx;pvi rb;lvpd	1
-香菇鱿鱼竹笋饭	xd;pao gu;cnx yb;pvap yu;pvlv vu;papa sp;zva fj;pvpp	1
+香菇鱿鱼竹笋饭	xd;pao gu;cnx yb;pvap yu;pvlv vu;z sp;zva fj;pvpp	1
 香菇玉米饼	xd;pao gu;cnx yu;wd mi;dpal by;pvdp	1
 香菇蒸排骨	xd;pao gu;cnx vg;cvl pl;fla gu;lvy	1
 香菇醉鸡	xd;pao gu;cnx zv;alda ji;vdpv	10
@@ -424331,8 +424331,8 @@ sort: by_weight
 相视一笑	xd;mlv ui;dvlv yi;a xc;zpa	7770
 相适应	xd;mlv ui;padv yy;dadd	189235
 相识者	xd;mlv ui;dvkp ve;xao	535
-香石竹	xd;pao ui;apk vu;papa	1505
-香石竹银纹夜蛾	xd;pao ui;apk vu;papa yn;jva wf;vvda ye;darp ee;ipa	1
+香石竹	xd;pao ui;apk vu;z	1505
+香石竹银纹夜蛾	xd;pao ui;apk vu;z yn;jva wf;vvda ye;darp ee;ipa	1
 享受	xd;dakv ub;pdvd	500676
 相守	xd;mlv ub;ddal	21735
 想瘦	xd;mldv ub;dapl	1995
@@ -424503,7 +424503,7 @@ sort: by_weight
 像素游戏	xd;rpv su;aavv yb;uda xi;vdav	130
 香苏正胃丸	xd;pao su;cvp vg;ala wz;lvy wj;pvd	2
 橡塑制品	xd;mpv su;dpt vi;pall pn;kkk	4125
-香酥竹荪鱼	xd;pao su;alpa vu;papa sp;cvl yu;pvlv	3
+香酥竹荪鱼	xd;pao su;alpa vu;z sp;cvl yu;pvlv	3
 香蒜	xd;pao sr;caa	2691
 香蒜面包	xd;pao sr;caa mm;aplv bk;pvva	156
 想算命	xd;mldv sr;zlv my;rak	45
@@ -425435,14 +425435,14 @@ sort: by_weight
 香珠	xd;pao vu;wpa	830
 详注	xd;dvdp vu;uda	625
 襄助	xd;dakk vu;lvvp	190
-湘竹	xd;uml vu;papa	129
+湘竹	xd;uml vu;z	129
 相嘱	xd;mlv vu;kva	115
 象箸	xd;pvlv vu;zxa	4
 香主	xd;pao vu;dw	2
-香竹饭	xd;pao vu;papa fj;pvpp	333
-香竹烤饭	xd;pao vu;papa kk;hxa fj;pvpp	22
+香竹饭	xd;pao vu;z fj;pvpp	333
+香竹烤饭	xd;pao vu;z kk;hxa fj;pvpp	22
 相逐晴空去不归	xd;mlv vu;apdv qy;oaa ks;ddg qu;tvd bu;apld gv;lpva	2
-镶竹荪	xd;jda vu;papa sp;cvl	1
+镶竹荪	xd;jda vu;z sp;cvl	1
 想抓住	xd;mldv vw;fpp vu;rda	3690
 想转	xd;mldv vr;avaa	4840
 想赚大钱	xd;mldv vr;bdp da;apd qm;jaa	500
@@ -427294,7 +427294,7 @@ sort: by_weight
 硝基漆	xc;apld ji;alt qi;umr	2
 小机枪	xc;lpd ji;mpv qd;mrv	140
 小技巧	xc;lpd ji;fxv qc;gav	23785
-晓汲清湘燃楚竹	xc;oav ji;upv qy;uaa xd;uml rj;hpv iu;mmvl vu;papa	1
+晓汲清湘燃楚竹	xc;oav ji;upv qy;uaa xd;uml rj;hpv iu;mmvl vu;z	1
 消极情绪	xc;uld ji;mpv qy;ddaa xu;vvxa	6670
 小几十	xc;lpd ji;pv ui;x	65
 消极思想	xc;uld ji;mpv si;lvdv xd;mldv	1360
@@ -427555,7 +427555,7 @@ sort: by_weight
 小看	xc;lpd kj;palv	28680
 笑看	xc;zpa kj;palv	13315
 校刊	xc;mda kj;aall	7225
-笑看儿童骑竹马	xc;zpa kj;palv er;pv ts;dalv qi;vvap vu;papa ma;vva	1
+笑看儿童骑竹马	xc;zpa kj;palv er;pv ts;dalv qi;vvap vu;z ma;vva	1
 笑看风云	xc;zpa kj;palv fg;pvpd yp;aavd	4110
 晓看红湿处	xc;oav kj;palv hs;vvg ui;uol iu;pvld	1180
 笑看人生	xc;zpa kj;palv rf;r ug;paal	3800
@@ -428117,7 +428117,7 @@ sort: by_weight
 小面积	xc;lpd mm;aplv ji;pakp	8675
 小绵羊	xc;lpd mm;vvpl yh;dpaa	5190
 鸮面鹦鹉	xc;kapv mm;aplv yy;bbpv wu;aapv	1
-宵眠竹阁间	xc;ddld mm;lvva vu;papa ge;dlpv jm;dlo	1
+宵眠竹阁间	xc;ddld mm;lvva vu;z ge;dlpv jm;dlo	1
 小喵	xc;lpd mc;kcl	99999
 小庙	xc;lpd mc;dalv	5750
 小苗	xc;lpd mc;clv	689
@@ -428389,7 +428389,7 @@ sort: by_weight
 小铺乡	xc;lpd pu;jal xd;vvp	113
 潇浦镇	xc;ucv pu;ual vf;jxl	66
 消浦镇	xc;uld pu;ual vf;jxl	8
-小普竹村	xc;lpd pu;dpo vu;papa cp;mal	1
+小普竹村	xc;lpd pu;dpo vu;z cp;mal	1
 小气	xc;lpd qi;paav	29410
 小憩	xc;lpd qi;padv	14700
 小七	xc;lpd qi;av	11710
@@ -430399,7 +430399,7 @@ sort: by_weight
 笑晕	xc;zpa yp;odv	3333
 小云	xc;lpd yp;aavd	3
 小云斑鳃金龟	xc;lpd yp;aavd bj;wda sl;pvlv jn;j gv;pvlv	1
-小云斑竹眼蝶	xc;lpd yp;aavd bj;wda vu;papa yj;lvva dx;ial	1
+小云斑竹眼蝶	xc;lpd yp;aavd bj;wda vu;z yj;lvva dx;ial	1
 萧云从	xc;cva yp;aavd cs;rr	6
 晓云村	xc;oav yp;aavd cp;mal	4
 硝云弹雨	xc;apld yp;aavd dj;vadp yu;alvl	1
@@ -430574,7 +430574,7 @@ sort: by_weight
 小驻	xc;lpd vu;vvda	8
 小主	xc;lpd vu;dw	3
 小诸葛	xc;lpd vu;dvxa ge;cop	850
-削竹简	xc;ldll vu;papa jm;zdl	115
+削竹简	xc;ldll vu;z jm;zdl	115
 小猪姐姐	xc;lpd vu;qxa jx;nlv jx;nlv	154
 小猪快跑	xc;lpd vu;qxa ky;ddva pk;klpv	71
 小珠帘胡同	xc;lpd vu;wpa lm;ddlv hu;xky ts;lvak	5
@@ -431859,7 +431859,7 @@ sort: by_weight
 歇歇	xx;oppv xx;oppv	8995
 泄泻	xx;ual xx;udv	279
 谢谢啊	xx;dvpl xx;dvpl aa;kvl	13095
-谢谢斑竹	xx;dvpl xx;dvpl bj;wda vu;papa	846
+谢谢斑竹	xx;dvpl xx;dvpl bj;wda vu;z	846
 谢谢大家	xx;dvpl xx;dvpl da;apd jw;ddap	94755
 斜斜地	xx;radd xx;radd de;tvl	642
 斜斜的	xx;radd xx;radd de;plpv	133
@@ -436321,7 +436321,7 @@ sort: by_weight
 信誉值	xn;rda yu;ddda vi;rxl	6570
 信誉至上	xn;rda yu;ddda vi;avt uh;laa	12960
 新余中院	xn;dapp yu;raa vs;lval yr;vldd	87
-心与竹俱空	xn;dvdd yu;ava vu;papa ju;rlv ks;ddg	1
+心与竹俱空	xn;dvdd yu;ava vu;z ju;rlv ks;ddg	1
 信誉卓著	xn;rda yu;ddda vo;laox vu;cxa	2460
 心愿	xn;dvdd yr;apdv	118795
 新元	xn;dapp yr;aapv	1461
@@ -436622,18 +436622,18 @@ sort: by_weight
 忻州中院	xn;ddpp vb;dpdl vs;lval yr;vldd	87
 新主	xn;dapp vu;dw	4410
 新著	xn;dapp vu;cxa	503
-新竹村	xn;dapp vu;papa cp;mal	6
-新竹贡丸	xn;dapp vu;papa gs;gb wj;pvd	60
+新竹村	xn;dapp vu;z cp;mal	6
+新竹贡丸	xn;dapp vu;z gs;gb wj;pvd	60
 新主机	xn;dapp vu;dw ji;mpv	150
-新竹路	xn;dapp vu;papa lu;klpv	121
-新竹路口	xn;dapp vu;papa lu;klpv kb;k	14
+新竹路	xn;dapp vu;z lu;klpv	121
+新竹路口	xn;dapp vu;z lu;klpv kb;k	14
 新主人	xn;dapp vu;dw rf;r	3665
-新竹人	xn;dapp vu;papa rf;r	45
-新竹肉圆	xn;dapp vu;papa rb;lvpd yr;lvkb	8
-新竹市	xn;dapp vu;papa ui;dalv	2215
+新竹人	xn;dapp vu;z rf;r	45
+新竹肉圆	xn;dapp vu;z rb;lvpd yr;lvkb	8
+新竹市	xn;dapp vu;z ui;dalv	2215
 新主题	xn;dapp vu;dw ti;oaap	142
 新诛仙	xn;dapp vu;dvpa xm;rs	2221
-新竹县	xn;dapp vu;papa xm;lvvd	1165
+新竹县	xn;dapp vu;z xm;lvvd	1165
 心主言	xn;dvdd vu;dw yj;dak	3
 新主张	xn;dapp vu;dw vh;vapa	5165
 新传	xn;dapp vr;raa	10130
@@ -439800,7 +439800,7 @@ sort: by_weight
 熊猫脸	xs;vddd mk;qcl lm;yra	3333
 熊猫牛	xs;vddd mk;qcl nq;paal	11
 熊猫牌	xs;vddd mk;qcl pl;plpl	570
-熊猫品竹	xs;vddd mk;qcl pn;kkk vu;papa	12
+熊猫品竹	xs;vddd mk;qcl pn;kkk vu;z	12
 熊猫犬	xs;vddd mk;qcl qr;apdd	94
 熊猫人	xs;vddd mk;qcl rf;r	1111
 熊猫烧香	xs;vddd mk;qcl uk;hav xd;pao	77
@@ -440049,7 +440049,7 @@ sort: by_weight
 汹涌	xs;upd ys;uvd	43305
 汹涌而来	xs;upd ys;uvd er;aplv ll;adpa	3025
 汹涌澎湃	xs;upd ys;uvd pg;utk pl;upa	8390
-胸有成竹	xs;ypv yb;apy ig;apv vu;papa	17685
+胸有成竹	xs;ypv yb;apy ig;apv vu;z	17685
 兄友弟恭	xs;kpv yb;apvd di;dpva gs;alld	495
 胸有鳞甲	xs;ypv yb;apy ln;pvdp jw;lvaa	1
 胸有丘壑	xs;ypv yb;apy qq;plal he;lat	5
@@ -440893,9 +440893,9 @@ sort: by_weight
 秀州中学	xq;pavp vb;dpdl vs;lval xt;ddvl	8
 宿州中院	xq;ddra vb;dpdl vs;lval yr;vldd	87
 修筑	xq;rlp vu;zgp	33505
-修竹	xq;rlp vu;papa	6745
+修竹	xq;rlp vu;z	6745
 绣珠宝螺	xq;vvpa vu;wpa bk;ddwd lo;ilv	1
-朽竹篙舟	xq;mav vu;papa gk;zda vb;ppvd	1
+朽竹篙舟	xq;mav vu;z gk;zda vb;ppvd	1
 修筑公路	xq;rlp vu;zgp gs;pdvd lu;klpv	460
 修筑工事	xq;rlp vu;zgp gs;g ui;alva	410
 羞逐乡人赛紫姑	xq;dpvl vu;apdv xd;vvp rf;r sl;ddb zi;lavv gu;nxk	1
@@ -442314,7 +442314,7 @@ sort: by_weight
 徐州市泉山区	xu;ppra vb;dpdl ui;dalv qr;plu uj;s qu;apdv	429
 徐州市委	xu;ppra vb;dpdl ui;dalv wz;pan	566
 徐州疫情	xu;ppra vb;dpdl yi;dapv qy;ddaa	137
-虚竹	xu;lall vu;papa	61
+虚竹	xu;lall vu;z	61
 徐柱	xu;ppra vu;mda	20
 徐铸成	xu;ppra vu;jaa ig;apv	23
 需注意	xu;adap vu;uda yi;dadv	14825
@@ -446758,7 +446758,7 @@ sort: by_weight
 压寨	ya;aptd vl;ddm	921
 压寨夫人	ya;aptd vl;ddm fu;aapd rf;r	1335
 押寨夫人	ya;flv vl;ddm fu;aapd rf;r	111
-衙斋卧听萧萧竹	ya;ppal vl;daap wo;alld ty;kpp xc;cva xc;cva vu;papa	1180
+衙斋卧听萧萧竹	ya;ppal vl;daap wo;alld ty;kpp xc;cva xc;cva vu;z	1180
 压栈	ya;aptd vj;maa	9025
 鸭掌	ya;lvpv vh;ldf	3530
 押账	ya;flv vh;bpa	20
@@ -447824,8 +447824,8 @@ sort: by_weight
 衍化	yj;ppua hw;rpv	2500
 盐花	yj;tllv hw;crp	505
 岩花	yj;sap hw;crp	7
-烟花爆竹	yj;hlv hw;crp bk;hoa vu;papa	60415
-烟花爆竹生产企业安全生产许可证实施办法	yj;hlv hw;crp bk;hoa vu;papa ug;paal ij;dap qi;rla ye;lldp an;ddn qr;rw ug;paal ij;dap xu;dvpa ke;ak vg;dval ui;dddd ui;dapa bj;vpdd fa;utv	32
+烟花爆竹	yj;hlv hw;crp bk;hoa vu;z	60415
+烟花爆竹生产企业安全生产许可证实施办法	yj;hlv hw;crp bk;hoa vu;z ug;paal ij;dap qi;rla ye;lldp an;ddn qr;rw ug;paal ij;dap xu;dvpa ke;ak vg;dval ui;dddd ui;dapa bj;vpdd fa;utv	32
 燕化北庄	yj;aldd hw;rpv bz;lapv vd;dat	3
 岩华波纹蛾	yj;sap hw;rpx bo;uvp wf;vvda ee;ipa	1
 烟花不堪剪	yj;hlv hw;crp bu;apld kj;tal jm;dpvp	1
@@ -447845,7 +447845,7 @@ sort: by_weight
 演化论	yj;udd hw;rpv lp;dvrp	370
 眼花落井水底眠	yj;lvva hw;crp lo;cup jy;aapl uv;u di;dapv mm;lvva	2
 演化模型	yj;udd hw;rpv mo;mco xy;aat	109
-烟花炮竹	yj;hlv hw;crp pk;hpv vu;papa	590
+烟花炮竹	yj;hlv hw;crp pk;hpv vu;z	590
 眼花雀乱	yj;lvva hw;crp qt;lprd lr;pav	1
 烟花三月	yj;hlv hw;crp sj;aaa yt;y	2155
 烟花三月下扬州	yj;hlv hw;crp sj;aaa yt;y xw;ald yh;fvp vb;dpdl	1180
@@ -448841,7 +448841,7 @@ sort: by_weight
 俨然是	yj;ral rj;pvdd ui;oal	6470
 燕然未勒归无计	yj;aldd rj;pvdd wz;aalp le;alvp gv;lpva wu;aapv ji;dvx	1180
 嫣然一笑	yj;nal rj;pvdd yi;a xc;zpa	10720
-嫣然一笑竹篱间	yj;nal rj;pvdd yi;a xc;zpa vu;papa li;zda jm;dlo	2
+嫣然一笑竹篱间	yj;nal rj;pvdd yi;a xc;zpa vu;z li;zda jm;dlo	2
 晏然自若	yj;odd rj;pvdd zi;plva ro;cap	111
 嫣然纵送游龙惊	yj;nal rj;pvdd zs;vvrr ss;dpdv yb;uda ls;apvp jy;ddda	1
 炎热	yj;hh re;fpdd	49880
@@ -450193,7 +450193,7 @@ sort: by_weight
 演主角	yj;udd vu;dw jt;pvpv	650
 阎主任	yj;dlpv vu;dw rf;rpa	12
 腌猪肉	yj;yap vu;qxa rb;lvpd	165
-烟竹乡	yj;hlv vu;papa xd;vvp	2
+烟竹乡	yj;hlv vu;z xd;vvp	2
 眼珠一转	yj;lvva vu;wpa yi;a vr;avaa	3470
 眼珠子	yj;lvva vu;wpa zi;vla	12210
 眼妆	yj;lvva vd;dan	8810
@@ -451670,7 +451670,7 @@ sort: by_weight
 央视八套	yh;lvap ui;dvlv ba;pd tk;apal	810
 央视版	yh;lvap ui;dvlv bj;plpp	1300
 样式表	yh;mdp ui;agv bc;aapv	22545
-杨氏齿臀竹节虫	yh;mvp ui;pvav ii;larv tp;vay vu;papa jx;cvl is;i	1
+杨氏齿臀竹节虫	yh;mvp ui;pvav ii;larv tp;vay vu;z jx;cvl is;i	1
 杨氏赤须盲蝽	yh;mvp ui;pvav ii;tpl xu;ppap mh;dalv ip;iaa	1
 央视春晚	yh;lvap ui;dvlv ip;aao wj;opv	4675
 仰世而来	yh;rpv ui;alla er;aplv ll;adpa	158
@@ -451702,7 +451702,7 @@ sort: by_weight
 仰视着	yh;rpv ui;dvlv ve;dplv	1120
 央视直播	yh;lvap ui;dvlv vi;xlv bo;fpd	129
 杨氏中华似鸟龙	yh;mvp ui;pvav vs;lval hw;rpx si;rvd nc;pvdv ls;apvp	1
-洋石竹	yh;udp ui;apk vu;papa	1
+洋石竹	yh;udp ui;apk vu;z	1
 央视主持人	yh;lvap ui;dvlv vu;dw ii;fta rf;r	113
 扬手	yh;fvp ub;f	7985
 仰首	yh;rpv ub;dppl	6720
@@ -452291,7 +452291,7 @@ sort: by_weight
 杨朱	yh;mvp vu;paal	25
 养猪场	yh;dppl vu;qxa ih;tvp	8765
 养猪厂	yh;dppl vu;qxa ih;ap	119
-杨竹村	yh;mvp vu;papa cp;mal	1
+杨竹村	yh;mvp vu;z cp;mal	1
 养猪户	yh;dppl vu;qxa hu;dvap	3915
 杨朱泣岐	yh;mvp vu;paal qi;uda qi;sxv	1
 养猪人	yh;dppl vu;qxa rf;r	185
@@ -454177,7 +454177,7 @@ sort: by_weight
 要约效力	yk;aln yt;vvpv xc;dapa li;vp	26
 要约邀请	yk;aln yt;vvpv yk;pldv qy;dvaa	5075
 摇匀	yk;fpd yp;pvda	8320
-姚芸竹	yk;npd yp;caa vu;papa	1
+姚芸竹	yk;npd yp;caa vu;z	1
 要在	yk;aln zl;apt	500293
 咬在	yk;kda zl;apt	300030
 要再	yk;aln zl;alv	69570
@@ -456445,7 +456445,7 @@ sort: by_weight
 冶铸	ye;davd vu;jaa	1365
 也住不起	ye;vlv vu;rda bu;apld qi;tlva	375
 业主撤销权	ye;lldp vu;dw ie;fda xc;jld qr;mvd	1
-野竹村	ye;lvvd vu;papa cp;mal	3
+野竹村	ye;lvvd vu;z cp;mal	3
 业主大会	ye;lldp vu;dw da;apd hv;raa	47690
 业主大会规程	ye;lldp vu;dw da;apd hv;raa gv;aalv ig;pakw	296
 业主大会议事规则	ye;lldp vu;dw da;apd hv;raa yi;dvdp ui;alva gv;aalv ze;bll	2985
@@ -461233,7 +461233,7 @@ sort: by_weight
 已经知道	yi;vav jy;vvvd vi;pak dk;dpdv	23880
 以静制动	yi;vdr jy;aapv vi;pall ds;aavp	3375
 已经中标	yi;vav jy;vvvd vs;lval bc;maa	1
-一茎竹篙剔船尾	yi;a jy;cvd vu;papa gk;zda ti;opll ir;pppv wz;vapa	2
+一茎竹篙剔船尾	yi;a jy;cvd vu;z gk;zda ti;opll ir;pppv wz;vapa	2
 已经注意	yi;vav jy;vvvd vu;uda yi;dadv	2715
 已经准备	yi;vav jy;vvvd vp;dard bz;pvlv	12445
 已经走了	yi;vav jy;vvvd zb;tla le;vl	8695
@@ -463901,7 +463901,7 @@ sort: by_weight
 一如既往	yi;a ru;nk ji;vaav wh;ppda	82265
 一如曩昔	yi;a ru;nk nh;oda xi;alo	1
 抑汝能之乎	yi;fpv ru;un ng;vdpv vi;dvd hu;pdpa	4
-易如破竹	yi;opv ru;nk po;apvp vu;papa	1
+易如破竹	yi;opv ru;nk po;apvp vu;z	1
 一入凄凉耳	yi;a ru;pd qi;daav ld;dada er;alla	1
 一如往常	yi;a ru;nk wh;ppda ih;ldkl	3800
 一如往昔	yi;a ru;nk wh;ppda xi;alo	1455
@@ -467925,9 +467925,9 @@ sort: by_weight
 已注册文件类型	yi;vav vu;uda ce;pvpv wf;dapd jm;rpa lz;dpap xy;aat	90
 以铢程镒	yi;vdr vu;jpa ig;pakw yi;jdp	26
 以铢称镒	yi;vdr vu;jpa ig;papv yi;jdp	14
-以竹代塑	yi;vdr vu;papa dl;rav su;dpt	141
+以竹代塑	yi;vdr vu;z dl;rav su;dpt	141
 以住的	yi;vdr vu;rda de;plpv	20
-一竹竿打到底	yi;a vu;papa gj;zaa da;fal dk;avll di;dapv	1
+一竹竿打到底	yi;a vu;z gj;zaa da;fal dk;avll di;dapv	1
 遗嘱继承	yi;lvdv vu;kva ji;vvdp ig;vlaa	3200
 遗嘱继承人	yi;lvdv vu;kva ji;vvdp ig;vlaa rf;r	1125
 一主六配	yi;a vu;dw lq;dapd pz;alva	2
@@ -467938,7 +467938,7 @@ sort: by_weight
 以珠弹雀	yi;vdr vu;wpa tj;vadp qt;lprd	15
 一主题	yi;a vu;dw ti;oaap	1300
 一炷香	yi;a vu;hda xd;pao	2115
-义竹乡	yi;dpd vu;papa xd;vvp	2
+义竹乡	yi;dpd vu;z xd;vvp	2
 一炷烟消火冷	yi;a vu;hda yj;hlv xc;uld ho;h lg;dard	1
 一炷烟中得意	yi;a vu;hda yj;hlv vs;lval de;ppoa yi;dadv	1
 一注意	yi;a vu;uda yi;dadv	200
@@ -468582,7 +468582,7 @@ sort: by_weight
 印度八拟杯水母	yn;pvvl du;daal ba;pd ni;fvd bz;map uv;u mu;vvda	1
 印度白背兀鹫	yn;pvvl du;daal bl;plva bz;lay wu;apv jq;dapv	3
 印度半岛	yn;pvvl du;daal bj;dpaa dk;pvs	875
-印度斑竹鲨	yn;pvvl du;daal bj;wda vu;papa ua;ulpv	1
+印度斑竹鲨	yn;pvvl du;daal bj;wda vu;z ua;ulpv	1
 印度宝螺	yn;pvvl du;daal bk;ddwd lo;ilv	1
 印度鳖	yn;pvvl du;daal bx;dppv	1
 印度波鱼	yn;pvvl du;daal bo;uvp yu;pvlv	1
@@ -469516,7 +469516,7 @@ sort: by_weight
 饮马镇	yn;pvpv ma;vva vf;jxl	129
 阴霾	yn;vly ml;adql	22985
 隐埋	yn;vlpv ml;tlv	999
-银脉爆竹花	yn;jva ml;ydv bk;hoa vu;papa hw;crp	1
+银脉爆竹花	yn;jva ml;ydv bk;hoa vu;z hw;crp	1
 银脉花	yn;jva ml;ydv hw;crp	1
 阴脉之海	yn;vly ml;ydv vi;dvd hl;upa	9
 隐瞒	yn;vlpv mj;lvca	106445
@@ -472337,7 +472337,7 @@ sort: by_weight
 郢人斤斧	yy;kwvl rf;r jn;ppal fu;pdpp	1
 郢人斤斫	yy;kwvl rf;r jn;ppal vo;appp	1
 郢人立不失容	yy;kwvl rf;r li;dadp bu;apld ui;paap rs;ddpd	3
-迎刃破竹	yy;pvdv rf;vpd po;apvp vu;papa	1
+迎刃破竹	yy;pvdv rf;vpd po;apvp vu;z	1
 硬任务	yy;apal rf;rpa wu;pvvp	1355
 郢人运斧	yy;kwvl rf;r yp;aadv fu;pdpp	1
 郢人斫垩	yy;kwvl rf;r vo;appp ee;alt	1
@@ -473535,8 +473535,8 @@ sort: by_weight
 楹柱	yy;mvp vu;mda	3
 应逐步	yy;dadd vu;apdv bu;lalp	347
 荧烛末光	yy;cdh vu;hi mo;aalp gd;ldap	1
-映竹水穿沙	yy;olv vu;papa uv;u ir;ddav ua;ulp	1
-映竹无人见	yy;olv vu;papa wu;aapv rf;r jm;lvpv	1
+映竹水穿沙	yy;olv vu;z uv;u ir;ddav ua;ulp	1
+映竹无人见	yy;olv vu;z wu;aapv rf;r jm;lvpv	1
 应注意	yy;dadd vu;uda yi;dadv	169540
 应注重	yy;dadd vu;uda vs;palv	10785
 鹰爪	yy;darr vw;ppld	6020
@@ -473773,7 +473773,7 @@ sort: by_weight
 用吹风机	ys;pvaa iv;kpv fg;pvpd ji;mpv	1870
 永垂千古	ys;dvvp iv;pala qm;pal gu;xk	17
 永垂青史	ys;dvvp iv;pala qy;aay ui;lvap	520
-永垂竹帛	ys;dvvp iv;pala vu;papa bo;pllv	1
+永垂竹帛	ys;dvvp iv;pala vu;z bo;pllv	1
 永春	ys;dvvp ip;aao	16645
 咏春	ys;kdv ip;aao	4210
 永春路	ys;dvvp ip;aao lu;klpv	23
@@ -475093,7 +475093,7 @@ sort: by_weight
 永州之野产异蛇	ys;dvvp vb;dpdl vi;dvd ye;lvvd ij;dap yi;vaap ue;idd	8
 永州中院	ys;dvvp vb;dpdl vs;lval yr;vldd	87
 永驻	ys;dvvp vu;vvda	5990
-咏竹	ys;kdv vu;papa	1180
+咏竹	ys;kdv vu;z	1180
 永洙	ys;dvvp vu;upa	140
 用注射器	ys;pvaa vu;uda ue;plal qi;kkap	1085
 用砖砌	ys;pvaa vr;apaa qi;apav	1205
@@ -477999,7 +477999,7 @@ sort: by_weight
 有两首	yb;apy ld;alvp ub;dppl	400
 有两台	yb;apy ld;alvp tl;vdk	2400
 有两天	yb;apy ld;alvp tm;aap	67
-有良田美池桑竹之属	yb;apy ld;dva tm;lvx mz;dpap ii;uvl sh;vdm vu;papa vi;dvd uu;vapl	44
+有良田美池桑竹之属	yb;apy ld;dva tm;lvx mz;dpap ii;uvl sh;vdm vu;z vi;dvd uu;vapl	44
 有两条	yb;apy ld;alvp tc;pval	69
 有两头	yb;apy ld;alvp tb;ddap	340
 有两位	yb;apy ld;alvp wz;rda	9190
@@ -478243,7 +478243,7 @@ sort: by_weight
 油焖鲜蘑	yb;ulv mf;hdl xm;pvdp mo;cda	9
 油门一踩	yb;ulv mf;dlv yi;a cl;klpd	99
 又闷又热	yb;vd mf;dldv yb;vd re;fpdd	1920
-油焖竹笋	yb;ulv mf;hdl vu;papa sp;zva	9
+油焖竹笋	yb;ulv mf;hdl vu;z sp;zva	9
 幽梦	yb;svv mg;mmpv	5185
 有梦	yb;apy mg;mmpv	4444
 又猛	yb;vd mg;qvl	3210
@@ -486058,29 +486058,29 @@ sort: by_weight
 宇宙中心	yu;ddaa vb;ddlv vs;lval xn;dvdd	109
 预祝	yu;vdap vu;dvkp	28355
 玉珠	yu;wd vu;wpa	11720
-玉竹	yu;wd vu;papa	7595
+玉竹	yu;wd vu;z	7595
 玉柱	yu;wd vu;mda	6110
 雨珠	yu;alvl vu;wpa	3965
-雨竹	yu;alvl vu;papa	3025
+雨竹	yu;alvl vu;z	3025
 语助	yu;dval vu;lvvp	111
-玉竹百合猪瘦肉汤	yu;wd vu;papa bl;apl he;rak vu;qxa ub;dapl rb;lvpd th;uvp	2
+玉竹百合猪瘦肉汤	yu;wd vu;z bl;apl he;rak vu;qxa ub;dapl rb;lvpd th;uvp	2
 语助词	yu;dval vu;lvvp ci;dvva	535
 玉珠粗皮鬘螺	yu;wd vu;wpa cu;dplv pi;vplv mj;alol lo;ilv	1
 玉柱村	yu;wd vu;mda cp;mal	1
 雨珠儿	yu;alvl vu;wpa er;pv	9999
 玉珠峰	yu;wd vu;wpa fg;spv	2815
-玉竹膏	yu;wd vu;papa gk;day	174
+玉竹膏	yu;wd vu;z gk;day	174
 与主机	yu;ava vu;dw ji;mpv	7770
 鱼珠街	yu;pvlv vu;wpa jx;pptt	39
 玉柱擎天	yu;wd vu;mda qy;cpf tm;aap	350
-玉竹沙参鹧鸪汤	yu;wd vu;papa ua;ulp uf;vdpp ve;dapv gu;xkpv th;uvp	1
+玉竹沙参鹧鸪汤	yu;wd vu;z ua;ulp uf;vdpp ve;dapv gu;xkpv th;uvp	1
 玉烛调和	yu;wd vu;hi tc;dvpv he;pak	1
 纡朱拖紫	yu;vvaa vu;paal to;fpa zi;lavv	1
-玉竹心子	yu;wd vu;papa xn;dvdd zi;vla	3
+玉竹心子	yu;wd vu;z xn;dvdd zi;vla	3
 纡朱曳紫	yu;vvaa vu;paal ye;lvaa zi;lavv	1
 欲诛有功之人	yu;pdpv vu;dvpa yb;apy gs;gvp vi;dvd rf;r	1
 与朱元思书	yu;ava vu;paal yr;aapv si;lvdv uu;vvld	6
-玉竹猪心	yu;wd vu;papa vu;qxa xn;dvdd	9
+玉竹猪心	yu;wd vu;z vu;qxa xn;dvdd	9
 与诸子登岘山	yu;ava vu;dvxa zi;vla dg;vdak xm;slv uj;s	2
 与专业	yu;ava vr;aavd ye;lldp	29725
 预装	yu;vdap vd;dada	28790
@@ -488366,7 +488366,7 @@ sort: by_weight
 圆珠	yr;lvkb vu;wpa	7360
 原住	yr;appl vu;rda	4460
 圆蛛	yr;lvkb vu;ipa	75
-远竹	yr;aadv vu;papa	10
+远竹	yr;aadv vu;z	10
 圆珠宝螺	yr;lvkb vu;wpa bk;ddwd lo;ilv	1
 圆珠笔	yr;lvkb vu;wpa bi;zpa	24840
 圆珠笔厂	yr;lvkb vu;wpa bi;zpa ih;ap	45
@@ -489913,7 +489913,7 @@ sort: by_weight
 越南长尾阔嘴鸟	yt;tlav nj;xlv ih;pavd wz;vapa ko;dlup zv;kla nc;pvdv	1
 越南刺毛虫	yt;tlav nj;xlv ci;alll mk;paav is;i	1
 越南刺鳑鲏	yt;tlav nj;xlv ci;alll ph;pvda pi;pvvp	1
-越南东亚竹叶青蛇	yt;tlav nj;xlv ds;avlp ya;alld vu;papa ye;kx qy;aay ue;idd	1
+越南东亚竹叶青蛇	yt;tlav nj;xlv ds;avlp ya;alld vu;z ye;kx qy;aay ue;idd	1
 越南队	yt;tlav nj;xlv dv;vlr	535
 越南古洁虾	yt;tlav nj;xlv gu;xk jx;utk xw;ial	1
 越南海洋法	yt;tlav nj;xlv hl;upa yh;udp fa;utv	11
@@ -490788,7 +490788,7 @@ sort: by_weight
 月洲围	yt;y vb;udp wz;lvaa	2
 越皱越紧	yt;tlav vb;pvvp yt;tlav jn;llvv	32
 月主	yt;y vu;dw	2965
-月竹村	yt;y vu;papa cp;mal	1
+月竹村	yt;y vu;z cp;mal	1
 越住越大	yt;tlav vu;rda yt;tlav da;apd	10
 越煮越嫩	yt;tlav vu;xadd yt;tlav nf;nal	25
 越抓越	yt;tlav vw;fpp yt;tlav	42
@@ -491581,7 +491581,7 @@ sort: by_weight
 芸娘	yp;caa nd;ndv	1
 酝酿着	yp;alaa nd;aldv ve;dplv	6835
 酝酿中	yp;alaa nd;aldv vs;lval	2620
-云弄竹溪月	yp;aavd ns;wap vu;papa xi;upd yt;y	1
+云弄竹溪月	yp;aavd ns;wap vu;z xi;upd yt;y	1
 愠怒	yp;ddol nu;nvdv	2755
 允诺	yp;vdpv no;dvca	13840
 允诺禁反言	yp;vdpv no;dvca jn;mmaa fj;ppvd yj;dak	14
@@ -491619,7 +491619,7 @@ sort: by_weight
 云起太华山	yp;aavd qi;tlva tl;apd hw;rpx uj;s	1
 云期雨信	yp;aavd qi;aly yu;alvl xn;rda	1
 运气值	yp;aadv qi;paav vi;rxl	174
-云栖竹径	yp;aavd qi;mal vu;papa jy;ppvd	89
+云栖竹径	yp;aavd qi;mal vu;z jy;ppvd	89
 孕前	yp;vpvl qm;dpyl	10780
 云浅月	yp;aavd qm;uaa yt;y	147
 运乔嘉园	yp;aadv qc;papl jw;tkvp yr;lvaa	5
@@ -496004,7 +496004,7 @@ sort: by_weight
 拶指	zj;fvv vi;fpv	2
 赞助	zj;pab vu;lvvp	151960
 暂住	zj;avo vu;rda	24115
-攒竹	zj;fpa vu;papa	25
+攒竹	zj;fpa vu;z	25
 赞助的	zj;pab vu;lvvp de;plpv	12115
 暂住地	zj;avo vu;rda di;tvl	5045
 赞助点	zj;pab vu;lvvp dm;ladd	12
@@ -496014,7 +496014,7 @@ sort: by_weight
 赞助人	zj;pab vu;lvvp rf;r	1605
 暂住人口	zj;avo vu;rda rf;r kb;k	9275
 赞助商	zj;pab vu;lvvp uh;dalv	85450
-攒竹穴	zj;fpa vu;papa xt;ddpd	60
+攒竹穴	zj;fpa vu;z xt;ddpd	60
 赞助者	zj;pab vu;lvvp ve;xao	2330
 暂住证	zj;avo vu;rda vg;dval	24030
 暂住制度	zj;avo vu;rda vi;pall du;daal	78
@@ -496898,7 +496898,7 @@ sort: by_weight
 枣园刘村	zk;aldd yr;lvaa lq;dall cp;mal	24
 枣园路口北	zk;aldd yr;lvaa lu;klpv kb;k bz;lapv	3
 枣园小区	zk;aldd yr;lvaa xc;lpd qu;apdv	53
-早园竹	zk;ox yr;lvaa vu;papa	725
+早园竹	zk;ox yr;lvaa vu;z	725
 造越位	zk;padv yt;tlav wz;rda	795
 早越主动	zk;ox yt;tlav vu;dw ds;aavp	105
 早孕	zk;ox yp;vpvl	10625
@@ -497729,7 +497729,7 @@ sort: by_weight
 增进团结	zg;tdp jn;aadv tr;lval jx;vvtk	183
 增进友谊	zg;tdp jn;aadv yb;apvd yi;dvdd	6485
 罾麖𬕂	zg;lvdp jy;davl ls;zgb	1
-赠君无语竹夫人	zg;bdp jp;vak wu;aapv yu;dval vu;papa fu;aapd rf;r	1
+赠君无语竹夫人	zg;bdp jp;vak wu;aapv yu;dval vu;z fu;aapd rf;r	1
 赠君一法决狐疑	zg;bdp jp;vak yi;a fa;utv jt;dava hu;qpp yi;pvvd	1
 增开	zg;tdp kl;aapl	10505
 增刊	zg;tdp kj;aall	13005
@@ -498522,9 +498522,9 @@ sort: by_weight
 炸脂盖	va;hpa vi;ypv gl;dplv	34
 榨汁机	va;mdd vi;ux ji;mpv	7405
 炸芝麻里脊	va;hpa vi;cdv ma;damm li;lvaa ji;day	1
-炸支竹	va;hpa vi;xvd vu;papa	21
+炸支竹	va;hpa vi;xvd vu;z	21
 炸猪排	va;hpa vu;qxa pl;fla	1174
-炸竹笋脆虾	va;hpa vu;papa sp;zva cv;ypv xw;ial	1
+炸竹笋脆虾	va;hpa vu;z sp;zva cv;ypv xw;ial	1
 炸庄	va;hpa vd;dat	1
 渣滓	va;umo zi;udd	5445
 渣子	va;umo zi;vla	3055
@@ -502876,7 +502876,7 @@ sort: by_weight
 朝闻游子唱离歌	vk;xoy wf;dlal yb;uda zi;vla ih;koo li;dalv ge;akpv	2
 赵文哲	vk;tlpd wf;dapd ve;fpk	18
 赵文忠	vk;tlpd wf;dapd vs;lvdv	343
-赵文竹	vk;tlpd wf;dapd vu;papa	108
+赵文竹	vk;tlpd wf;dapd vu;z	108
 赵文卓	vk;tlpd wf;dapd vo;laox	236
 招蚊子	vk;fvp wf;ida zi;vla	140
 找我	vk;fav wo;pala	118515
@@ -511493,7 +511493,7 @@ sort: by_weight
 枳花明驿墙	vi;mkp hw;crp my;oy yi;vvvd qd;ttd	1
 芝华士	vi;cdv hw;rpx ui;t	7235
 直话直说	vi;xlv hw;dvpa vi;xlv uo;dvdp	625
-栉花竹芋	vi;mcv hw;crp vu;papa yu;caa	1
+栉花竹芋	vi;mcv hw;crp vu;z yu;caa	1
 治淮	vi;uvd hy;urd	6105
 置换	vi;lvxl hr;fpv	97275
 指环	vi;fpv hr;wap	14395
@@ -515405,7 +515405,7 @@ sort: by_weight
 蜘蛛蟹	vi;ipa vu;ipa xx;pvi	90
 支柱性	vi;xvd vu;mda xy;ddpa	2250
 支柱型	vi;xvd vu;mda xy;aat	1000
-支竹羊腩煲	vi;xvd vu;papa yh;dpaa nj;yxl bk;rkh	3
+支竹羊腩煲	vi;xvd vu;z yh;dpaa nj;yxl bk;rkh	3
 蜘蛛咬伤	vi;ipa vu;ipa yk;kda uh;rpa	47
 只注意	vi;kpd vu;uda yi;dadv	8595
 智珠在握	vi;pao vu;wpa zl;apt wo;fva	265
@@ -519497,7 +519497,7 @@ sort: by_weight
 中苏关系	vs;lval su;cvp gr;dpaa xi;pvv	2475
 重酥烧饼	vs;palv su;alpa uk;hav by;pvdp	9
 终岁	vs;vvpv sv;spv	1465
-终岁不闻丝竹声	vs;vvpv sv;spv bu;apld wf;dlal si;vva vu;papa ug;tvl	1
+终岁不闻丝竹声	vs;vvpv sv;spv bu;apld wf;dlal si;vva vu;z ug;tvl	1
 终岁常端正	vs;vvpv sv;spv ih;ldkl dr;dasa vg;ala	2
 终岁得晏然	vs;vvpv sv;spv de;ppoa yj;odd rj;pvdd	1
 中岁贡旧乡	vs;lval sv;spv gs;gb jq;lo xd;vvp	1
@@ -522009,7 +522009,7 @@ sort: by_weight
 主啊	vu;dw aa;kvl	17480
 祝阿	vu;dvkp aa;vlak	7
 驻阿富汗	vu;vvda aa;vlak fu;ddak hj;uaa	1100
-竹阿觉乡	vu;papa aa;vlak jt;ddlv xd;vvp	1
+竹阿觉乡	vu;z aa;vlak jt;ddlv xd;vvp	1
 主案	vu;dw an;ddm	670
 煮鹌鹑蛋	vu;xadd an;appv ip;dapv dj;vli	42
 侏𩽾𩾌	vu;rpa an;pvdd kh;pvda	1
@@ -522021,18 +522021,18 @@ sort: by_weight
 猪粑粑	vu;qxa ba;dpvl ba;dpvl	359
 侏霸娇鹟	vu;rpa ba;adal jc;npa wg;pdpv	1
 猪八戒	vu;qxa ba;pd jx;aapv	29070
-竹巴龙	vu;papa ba;vlav ls;apvp	9
-竹巴龙乡	vu;papa ba;vlav ls;apvp xd;vvp	10
-竹笆篾	vu;papa ba;zvl mx;zlv	1
-竹笆市	vu;papa ba;zvl ui;dalv	115
-竹柏	vu;papa bl;mpl	1285
+竹巴龙	vu;z ba;vlav ls;apvp	9
+竹巴龙乡	vu;z ba;vlav ls;apvp xd;vvp	10
+竹笆篾	vu;z ba;zvl mx;zlv	1
+竹笆市	vu;z ba;zvl ui;dalv	115
+竹柏	vu;z bl;mpl	1285
 住白细胞原虫病	vu;rda bl;plva xi;vvlv bk;ypv yr;appl is;i by;daal	30
-竹柏异心	vu;papa bl;mpl yi;vaap xn;dvdd	1
+竹柏异心	vu;z bl;mpl yi;vaap xn;dvdd	1
 主办	vu;dw bj;vpdd	500255
 主板	vu;dw bj;mpp	490150
 诸般	vu;dvxa bj;pppv	7640
 主版	vu;dw bj;plpp	6080
-竹板	vu;papa bj;mpp	2725
+竹板	vu;z bj;mpp	2725
 铸版	vu;jaa bj;plpp	230
 主板厂商	vu;dw bj;mpp ih;ap uh;dalv	4980
 主办单位	vu;dw bj;vpdd dj;dplv wz;rda	234600
@@ -522048,7 +522048,7 @@ sort: by_weight
 主办权	vu;dw bj;vpdd qr;mvd	4135
 主办人	vu;dw bj;vpdd rf;r	2825
 主板市场	vu;dw bj;mpp ui;dalv ih;tvp	5765
-竹板书	vu;papa bj;mpp uu;vvld	95
+竹板书	vu;z bj;mpp uu;vvld	95
 主板芯片	vu;dw bj;mpp xn;cdv pm;plav	5110
 主办者	vu;dw bj;vpdd ve;xao	12870
 珠蚌	vu;wpa bh;iaa	970
@@ -522062,7 +522062,7 @@ sort: by_weight
 朱保华	vu;paal bk;rkm hw;rpx	183
 珠宝街	vu;wpa bk;ddwd jx;pptt	62
 珠宝丽鱼	vu;wpa bk;ddwd li;alv yu;pvlv	1
-竹报平安	vu;papa bk;fvl py;adpa an;ddn	695
+竹报平安	vu;z bk;fvl py;adpa an;ddn	695
 朱宝善	vu;paal bk;ddwd uj;dpk	1
 珠宝商	vu;wpa bk;ddwd uh;dalv	5730
 珠宝饰品	vu;wpa bk;ddwd ui;pvpa pn;kkk	3815
@@ -522097,12 +522097,12 @@ sort: by_weight
 驻秘鲁台北经济文化办事处	vu;vvda bi;padv lu;pvo tl;vdk bz;lapv jy;vvvd ji;uda wf;dapd hw;rpv bj;vpdd ui;alva iu;pvld	1
 朱庇特	vu;paal bi;daav te;pata	1312
 猪鼻子	vu;qxa bi;pllv zi;vla	1111
-竹箅子	vu;papa bi;zlv zi;vla	3
+竹箅子	vu;z bi;zlv zi;vla	3
 主编	vu;dw bm;vvdv	300255
-竹编	vu;papa bm;vvdv	8440
-竹鞭	vu;papa bm;alra	850
+竹编	vu;z bm;vvdv	8440
+竹鞭	vu;z bm;alra	850
 助边输财	vu;lvvp bm;vpdv uu;avra cl;bal	1
-竹边台榭水边亭	vu;papa bm;vpdv tl;vdk xx;mpl uv;u bm;vpdv ty;daal	1
+竹边台榭水边亭	vu;z bm;vpdv tl;vdk xx;mpl uv;u bm;vpdv ty;daal	1
 诸边协议	vu;dvxa bm;vpdv xx;xvp yi;dvdp	115
 主编者	vu;dw bm;vvdv ve;xao	410
 主表	vu;dw bc;aapv	4380
@@ -522119,13 +522119,13 @@ sort: by_weight
 诸病源候论	vu;dvxa by;daal yr;uap hb;rlv lp;dvrp	920
 主播	vu;dw bo;fpd	22725
 驻波	vu;vvda bo;uvp	4200
-竹帛	vu;papa bo;pllv	1105
+竹帛	vu;z bo;pllv	1105
 驻波比	vu;vvda bo;uvp bi;avpv	1595
 煮饽饽锅子	vu;xadd bo;pvxd bo;pvxd go;jkl zi;vla	17
 主播队	vu;dw bo;fpd dv;vlr	115
 住博会	vu;rda bo;xal hv;raa	2070
 筑波科学城	vu;zgp bo;uvp ke;padd xt;ddvl ig;tap	5
-竹帛名垂	vu;papa bo;pllv my;pvk iv;pala	1
+竹帛名垂	vu;z bo;pllv my;pvk iv;pala	1
 珠箔飘灯独自归	vu;wpa bo;zup pc;alpv dg;hal du;qi zi;plva gv;lpva	2
 主播赛	vu;dw bo;fpd sl;ddb	165
 筑波市	vu;zgp bo;uvp ui;dalv	4
@@ -522133,10 +522133,10 @@ sort: by_weight
 珠箔悬银钩	vu;wpa bo;zup xr;lvdv yn;jva gb;jpv	1
 珠箔银屏	vu;wpa bo;zup yn;jva py;vadp	14
 筑波站	vu;zgp bo;uvp vj;dala	1
-竹帛之功	vu;papa bo;pllv vi;dvd gs;gvp	5
+竹帛之功	vu;z bo;pllv vi;dvd gs;gvp	5
 逐步	vu;apdv bu;lalp	500373
 主簿	vu;dw bu;zua	8995
-竹布	vu;papa bu;aplv	260
+竹布	vu;z bu;aplv	260
 纻布	vu;vvdd bu;aplv	5
 逐步采用	vu;apdv bu;lalp cl;pdm ys;pvaa	1380
 逐步撤出	vu;apdv bu;lalp ie;fda iu;vllv	230
@@ -522181,7 +522181,7 @@ sort: by_weight
 住不住	vu;rda bu;apld vu;rda	390
 逐步走上	vu;apdv bu;lalp zb;tla uh;laa	6000
 主菜	vu;dw cl;cpd	12705
-竹材	vu;papa cl;mal	7245
+竹材	vu;z cl;mal	7245
 主裁	vu;dw cl;xada	2465
 煮菜	vu;xadd cl;cpd	2280
 朱采	vu;paal cl;pdm	10
@@ -522365,7 +522365,7 @@ sort: by_weight
 主程	vu;dw ig;pakw	9999
 筑城	vu;zgp ig;tap	9175
 筑成	vu;zgp ig;apv	7965
-竹蛏	vu;papa ig;ivd	1180
+竹蛏	vu;z ig;ivd	1180
 朱澄	vu;paal ig;uvd	20
 朱承	vu;paal ig;vlaa	3
 铢称寸量	vu;jpa ig;papv cp;ald ld;oalv	1
@@ -522418,7 +522418,7 @@ sort: by_weight
 逐出门去	vu;apdv iu;vllv mf;dlv qu;tvd	35
 珠串	vu;wpa ir;lval	3190
 主创	vu;dw id;rvll	19455
-竹床	vu;papa id;dam	1185
+竹床	vu;z id;dam	1185
 主窗口	vu;dw id;ddpl kb;k	12800
 主窗口的	vu;dw id;ddpl kb;k de;plpv	12
 主创人员	vu;dw id;rvll rf;r yr;kb	9999
@@ -522466,7 +522466,7 @@ sort: by_weight
 朱厝村	vu;paal co;apal cp;mal	1
 主打	vu;dw da;fal	81915
 朱耷	vu;paal da;apal	66
-竹达彩奈	vu;papa da;apdv cl;pdpp nl;apaa	138
+竹达彩奈	vu;z da;apdv cl;pdpp nl;apaa	138
 猪大肠	vu;qxa da;apd ih;yvp	3470
 主打歌	vu;dw da;fal ge;akpv	17980
 主打歌曲	vu;dw da;fal ge;akpv qu;lval	3820
@@ -522526,16 +522526,16 @@ sort: by_weight
 朱德润	vu;paal de;ppxl rp;udl	5
 住的是	vu;rda de;plpv ui;oal	9040
 住得像	vu;rda de;ppoa xd;rpv	15
-竹凳	vu;papa dg;vdpv	610
+竹凳	vu;z dg;vdpv	610
 驻地	vu;vvda di;tvl	59870
 住地	vu;rda di;tvl	54760
 朱棣	vu;paal di;mva	14215
 朱迪	vu;paal di;lvdv	6700
-竹笛	vu;papa di;zlv	5410
+竹笛	vu;z di;zlv	5410
 筑堤	vu;zgp di;toa	3090
 朱蒂	vu;paal di;cda	1120
 筑底	vu;zgp di;dapv	161
-竹地板	vu;papa di;tvl bj;mpp	9485
+竹地板	vu;z di;tvl bj;mpp	9485
 驻地办	vu;vvda di;tvl bj;vpdd	1310
 驻地查询	vu;vvda di;tvl ia;moa xp;dvpv	75
 朱地村	vu;paal di;tvl cp;mal	3
@@ -522560,11 +522560,11 @@ sort: by_weight
 注点意	vu;uda dm;ladd yi;dadv	1111
 祝典之歌	vu;dvkp dm;lvpd vi;dvd ge;akpv	1
 主调	vu;dw dc;dvpv	10030
-竹雕	vu;papa dc;pvrd	2725
+竹雕	vu;z dc;pvrd	2725
 注定	vu;uda dy;ddal	125945
 柱顶	vu;mda dy;alap	2070
 铸锭	vu;jaa dy;jdd	1320
-竹钉	vu;papa dy;jal	480
+竹钉	vu;z dy;jal	480
 注定了	vu;uda dy;ddal le;vl	28015
 注定失败	vu;uda dy;ddal ui;paap bl;bpa	665
 注定是要	vu;uda dy;ddal ui;oal yk;aln	2270
@@ -522572,7 +522572,7 @@ sort: by_weight
 注定要	vu;uda dy;ddal yk;aln	22930
 朱鼎玉	vu;paal dy;lvva yu;wd	7
 主动	vu;dw ds;aavp	500453
-竹东	vu;papa ds;avlp	465
+竹东	vu;z ds;avlp	465
 朱洞	vu;paal ds;ulv	14
 主动参与	vu;dw ds;aavp cj;vdpp yu;ava	18745
 主动查询	vu;dw ds;aavp ia;moa xp;dvpv	173
@@ -522632,7 +522632,7 @@ sort: by_weight
 主动运动	vu;dw ds;aavp yp;aadv ds;aavp	48
 主动运输	vu;dw ds;aavp yp;aadv uu;avra	3
 主动转运	vu;dw ds;aavp vr;avaa yp;aadv	3
-竹豆	vu;papa db;akdp	2
+竹豆	vu;z db;akdp	2
 煮豆持作羹	vu;xadd db;akdp ii;fta zo;rpa gg;dpdp	1180
 煮豆燃豆萁	vu;xadd db;akdp rj;hpv db;akdp qi;cal	220
 煮豆燃箕	vu;xadd db;akdp rj;hpv ji;zal	1
@@ -522642,7 +522642,7 @@ sort: by_weight
 助读	vu;lvvp du;dvxv	11
 猪肚包鸡	vu;qxa du;yt bk;pvva ji;vdpv	358
 猪肚煲咸菜	vu;qxa du;yt bk;rkh xm;apak cl;cpd	1
-竹蠹虫蛀末	vu;papa du;alii is;i vu;ida mo;aalp	1
+竹蠹虫蛀末	vu;z du;alii is;i vu;ida mo;aalp	1
 猪肚儿	vu;qxa du;yt er;pv	9999
 猪肚黄芪汤	vu;qxa du;yt hd;allv qi;cpv th;uvp	10
 住读生	vu;rda du;dvxv ug;paal	265
@@ -522652,7 +522652,7 @@ sort: by_weight
 主队	vu;dw dv;vlr	47620
 逐队	vu;apdv dv;vlr	320
 主对角线	vu;dw dv;vdal jc;pvpv xm;vvaa	190
-竹墩村	vu;papa dp;tda cp;mal	8
+竹墩村	vu;z dp;tda cp;mal	8
 朱敦儒	vu;paal dp;dapa ru;rad	8
 诸多	vu;dvxa do;pvpv	275670
 诸多弊端	vu;dvxa do;pvpv bi;dpap dr;dasa	1970
@@ -522675,7 +522675,7 @@ sort: by_weight
 猪耳朵面	vu;qxa er;alla do;pvm mm;aplv	2
 朱尔斯	vu;paal er;pvlp si;alpp	157
 诸法	vu;dvxa fa;utv	31920
-竹筏	vu;papa fa;zra	19175
+竹筏	vu;z fa;zra	19175
 主罚	vu;dw fa;lvdv	6755
 主阀	vu;dw fa;dlra	1965
 煮法	vu;xadd fa;utv	1675
@@ -522750,7 +522750,7 @@ sort: by_weight
 珠峰	vu;wpa fg;spv	42765
 主峰	vu;dw fg;spv	37690
 诸峰	vu;dvxa fg;spv	3220
-竹风	vu;papa fg;pvpd	2260
+竹风	vu;z fg;pvpd	2260
 朱凤标	vu;paal fg;pvvd bc;maa	2
 祝冯村	vu;dvkp fg;davv cp;mal	3
 祝丰村	vu;dvkp fg;aaal cp;mal	1
@@ -522790,29 +522790,29 @@ sort: by_weight
 祝福者	vu;dvkp fu;dvak ve;xao	90
 主干	vu;dw gj;aal	63030
 猪肝	vu;qxa gj;yaa	48176
-竹竿	vu;papa gj;zaa	20885
+竹竿	vu;z gj;zaa	20885
 主杆	vu;dw gj;maa	755
 猪肝菠菜汤	vu;qxa gj;yaa bo;cuv cl;cpd th;uvp	49
 主干道	vu;dw gj;aal dk;dpdv	29100
 猪肝枸杞子汤	vu;qxa gj;yaa gb;mpv qi;mva zi;vla th;uvp	1
-竹竿何袅袅	vu;papa gj;zaa he;rak nc;pvda nc;pvda	2
-竹杆胡同	vu;papa gj;maa hu;xky ts;lvak	1
+竹竿何袅袅	vu;z gj;zaa he;rak nc;pvda nc;pvda	2
+竹杆胡同	vu;z gj;maa hu;xky ts;lvak	1
 主干课程	vu;dw gj;aal ke;dvlv ig;pakw	14420
 侏橄榄绿鹮	vu;rpa gj;mva lj;mll lv;vvva hr;lvpv	1
 主干路	vu;dw gj;aal lu;klpv	2235
 主干路由器	vu;dw gj;aal lu;klpv yb;lval qi;kkap	155
 猪肝绿豆粥	vu;qxa gj;yaa lv;vvva db;akdp vb;vadp	69
 猪肝色	vu;qxa gj;yaa se;pvvl	1340
-竹杆社区	vu;papa gj;maa ue;dvt qu;apdv	24
+竹杆社区	vu;z gj;maa ue;dvt qu;apdv	24
 猪肝水	vu;qxa gj;yaa uv;u	36
 煮干丝	vu;xadd gj;aal si;vva	1038
 主干网	vu;dw gj;aal wh;lvpd	6655
 主干线	vu;dw gj;aal xm;vvaa	9650
-竹竿巷	vu;papa gj;zaa xd;alva	53
-竹杆巷	vu;papa gj;maa xd;alva	1
+竹竿巷	vu;z gj;zaa xd;alva	53
+竹杆巷	vu;z gj;maa xd;alva	1
 铸钢	vu;jaa gh;jlv	10160
 驻港	vu;vvda gh;ual	3735
-竹杠	vu;papa gh;mg	1435
+竹杠	vu;z gh;mg	1435
 主岗	vu;dw gh;slv	111
 驻港部队	vu;vvda gh;ual bu;davl dv;vlr	2085
 铸钢厂	vu;jaa gh;jlv ih;ap	520
@@ -522856,10 +522856,10 @@ sort: by_weight
 诸葛瞻	vu;dvxa ge;cop vj;lvpv	30
 朱阁镇	vu;paal ge;dlpv vf;jxl	182
 主根	vu;dw gf;mva	3090
-竹根	vu;papa gf;mva	5
-竹根村	vu;papa gf;mva cp;mal	7
-竹根鼠	vu;papa gf;mva uu;plvd	2
-竹根滩	vu;papa gf;mva tj;uvd	147
+竹根	vu;z gf;mva	5
+竹根村	vu;z gf;mva cp;mal	7
+竹根鼠	vu;z gf;mva uu;plvd	2
+竹根滩	vu;z gf;mva tj;uvd	147
 助耕	vu;lvvp gg;aaaa	575
 祝鲠祝噎	vu;dvkp gg;pval vu;dvkp ye;ktd	1
 助攻	vu;lvvp gs;gpa	50280
@@ -522882,15 +522882,15 @@ sort: by_weight
 主功能函数	vu;dw gs;gvp ng;vdpv hj;vlvl uu;dppa	21
 主攻手	vu;dw gs;gpa ub;f	1500
 朱拱樋	vu;paal gs;fal ts;mvd	1
-竹公溪	vu;papa gs;pdvd xi;upd	167
-竹工业区	vu;papa gs;g ye;lldp qu;apdv	1
+竹公溪	vu;z gs;pdvd xi;upd	167
+竹工业区	vu;z gs;g ye;lldp qu;apdv	1
 猪狗	vu;qxa gb;qpv	3360
-竹沟	vu;papa gb;upv	1895
+竹沟	vu;z gb;upv	1895
 注沟	vu;uda gb;upv	3
 猪狗不如	vu;qxa gb;qpv bu;apld ru;nk	2580
 主顾	vu;dw gu;apap	6315
 猪骨	vu;qxa gu;lvy	4665
-竹箍	vu;papa gu;zfa	35
+竹箍	vu;z gu;zfa	35
 猪骨煲	vu;qxa gu;lvy bk;rkh	357
 主骨架	vu;dw gu;lvy jw;vpm	2525
 朱古力	vu;paal gu;xk li;vp	7825
@@ -522906,7 +522906,7 @@ sort: by_weight
 贮罐	vu;bdd gr;pack	5590
 主官	vu;dw gr;ddlv	5055
 铸管	vu;jaa gr;zdd	3295
-竹管	vu;papa gr;zdd	3085
+竹管	vu;z gr;zdd	3085
 猪倌	vu;qxa gr;rdd	1060
 朱观	vu;paal gr;vdlv	1
 主管部门	vu;dw gr;zdd bu;davl mf;dlv	500482
@@ -522937,7 +522937,7 @@ sort: by_weight
 主管师	vu;dw gr;zdd ui;lpal	67
 主观世界	vu;dw gr;vdlv ui;alla jx;lvrp	10205
 主观说	vu;dw gr;vdlv uo;dvdp	235
-竹管寺镇	vu;papa gr;zdd si;tal vf;jxl	22
+竹管寺镇	vu;z gr;zdd si;tal vf;jxl	22
 主观题	vu;dw gr;vdlv ti;oaap	16300
 主管厅局	vu;dw gr;zdd ty;apal ju;vavl	295
 主观唯心主义	vu;dw gr;vdlv wz;krd xn;dvdd vu;dw yi;dpd	1650
@@ -522973,7 +522973,7 @@ sort: by_weight
 朱珪	vu;paal gv;wtt	1
 珠规玉矩	vu;wpa gv;aalv yu;wd ju;paav	1
 煮滚	vu;xadd gp;uda	4170
-竹棍	vu;papa gp;moa	1685
+竹棍	vu;z gp;moa	1685
 住过	vu;rda go;aldv	22215
 诸国	vu;dvxa go;lvwd	19390
 煮过	vu;xadd go;aldv	4135
@@ -522987,7 +522987,7 @@ sort: by_weight
 诸国议会	vu;dvxa go;lvwd yi;dvdp hv;raa	1
 诸国议会同盟	vu;dvxa go;lvwd yi;dvdp hv;raa ts;lvak mg;oylv	1
 珠海	vu;wpa hl;upa	255525
-竹海	vu;papa hl;upa	13880
+竹海	vu;z hl;upa	13880
 朱海	vu;paal hl;upa	5410
 珠海百货	vu;wpa hl;upa bl;apl ho;rpb	17
 珠海保税区	vu;wpa hl;upa bk;rkm uv;padp qu;apdv	69
@@ -523021,7 +523021,7 @@ sort: by_weight
 珠海市人民检察院	vu;wpa hl;upa ui;dalv rf;r mn;vava jm;mra ia;ddpv yr;vldd	164
 珠海市土地管理条例	vu;wpa hl;upa ui;dalv tu;t di;tvl gr;zdd li;wlv tc;pval li;rap	5
 珠海市相对集中行政处罚权条例	vu;wpa hl;upa ui;dalv xd;mlv dv;vdal ji;rdm vs;lval xy;ppaa vg;alpa iu;pvld fa;lvdv qr;mvd tc;pval li;rap	8
-竹海水韵	vu;papa hl;upa uv;u yp;dapv	11
+竹海水韵	vu;z hl;upa uv;u yp;dapv	11
 珠海天气	vu;wpa hl;upa tm;aap qi;paav	164
 珠海校区	vu;wpa hl;upa xc;mda qu;apdv	145
 珠海艺术学院	vu;wpa hl;upa yi;cv uu;md xt;ddvl yr;vldd	1
@@ -523079,14 +523079,14 @@ sort: by_weight
 逐户	vu;apdv hu;dvap	6850
 驻沪	vu;vvda hu;udv	6490
 主户	vu;dw hu;dvap	630
-竹湖	vu;papa hu;uxk	8
+竹湖	vu;z hu;uxk	8
 拄笏看山	vu;fda hu;zpv kj;palv uj;s	1
 拄笏西山	vu;fda hu;zpv xi;alvp uj;s	1
 珠湖乡	vu;wpa hu;uxk xd;vvp	4
 驻华	vu;vvda hw;rpx	24170
 珠花	vu;wpa hw;crp	9999
 朱华	vu;paal hw;rpx	4555
-竹花	vu;papa hw;crp	1240
+竹花	vu;z hw;crp	1240
 烛花	vu;hi hw;crp	685
 朱华春不荣	vu;paal hw;rpx ip;aao bu;apld rs;cdm	1
 驻华大使	vu;vvda hw;rpx da;apd ui;ral	8640
@@ -523105,7 +523105,7 @@ sort: by_weight
 珠环玉黍螺	vu;wpa hr;wap yu;wd uu;parl lo;ilv	1
 猪獾子	vu;qxa hr;qck zi;vla	65
 珠黄	vu;wpa hd;allv	525
-竹黄	vu;papa hd;allv	1
+竹黄	vu;z hd;allv	1
 逐回	vu;apdv hv;lvk	9999
 珠晖	vu;wpa hv;odv	1
 主会场	vu;dw hv;raa ih;tvp	16895
@@ -523123,7 +523123,7 @@ sort: by_weight
 逐级	vu;apdv ji;vvpv	54605
 筑基	vu;zgp ji;alt	49999
 助剂	vu;lvvp ji;dall	45500
-竹鸡	vu;papa ji;vdpv	14280
+竹鸡	vu;z ji;vdpv	14280
 主祭	vu;dw ji;pvaa	6305
 珠玑	vu;wpa ji;wpv	6205
 珠鸡	vu;wpa ji;vdpv	2641
@@ -523187,7 +523187,7 @@ sort: by_weight
 住家	vu;rda jw;ddap	16765
 猪价	vu;qxa jw;rrp	13145
 主家	vu;dw jw;ddap	7510
-竹架	vu;papa jw;vpm	900
+竹架	vu;z jw;vpm	900
 烛架	vu;hi jw;vpm	70
 朱家	vu;paal jw;ddap	2
 诸家	vu;dvxa jw;ddap	2
@@ -523229,9 +523229,9 @@ sort: by_weight
 逐渐	vu;apdv jm;uav	500389
 主键	vu;dw jm;jva	36266
 主见	vu;dw jm;lvpv	28030
-竹简	vu;papa jm;zdl	11480
+竹简	vu;z jm;zdl	11480
 铸剑	vu;jaa jm;rall	6070
-竹剑	vu;papa jm;rall	1930
+竹剑	vu;z jm;rall	1930
 铸件	vu;jaa jm;rpa	294
 驻监	vu;vvda jm;lllv	17
 助检	vu;lvvp jm;mra	2
@@ -523280,7 +523280,7 @@ sort: by_weight
 逐渐停止	vu;apdv jm;uav ty;rda vi;lala	895
 逐渐退出	vu;apdv jm;uav tv;vadv iu;vllv	2410
 铸剑为犁	vu;jaa jm;rall wz;dpvd li;papa	187
-竹简文档	vu;papa jm;zdl wf;dapd dh;mld	75
+竹简文档	vu;z jm;zdl wf;dapd dh;mld	75
 逐渐下降	vu;apdv jm;uav xw;ald jd;vlpv	8580
 逐渐陷入	vu;apdv jm;uav xm;vlpv ru;pd	565
 逐渐消失	vu;apdv jm;uav xc;uld ui;paap	10855
@@ -523305,11 +523305,11 @@ sort: by_weight
 注浆	vu;uda jd;dau	2690
 主将	vu;dw jd;dapv	1921
 诸将	vu;dvxa jd;dapv	886
-竹浆	vu;papa jd;dau	171
+竹浆	vu;z jd;dau	171
 珠江长臀𬶏	vu;wpa jd;ug ih;pavd tp;vay wz;pvpv	1
 珠江村	vu;wpa jd;ug cp;mal	56
 珠江道	vu;wpa jd;ug dk;dpdv	318
-竹江岛	vu;papa jd;ug dk;pvs	18
+竹江岛	vu;z jd;ug dk;pvs	18
 珠江帝景	vu;wpa jd;ug di;dalv jy;oda	333
 珠江发展中心	vu;wpa jd;ug fa;vpvd vj;vaal vs;lval xn;dvdd	196
 珠江虹彩光唇鱼	vu;wpa jd;ug hs;ig cl;pdpp gd;ldap ip;apk yu;pvlv	1
@@ -523323,7 +523323,7 @@ sort: by_weight
 珠江流域	vu;wpa jd;ug lq;uda yu;tal	4200
 珠江路	vu;wpa jd;ug lu;klpv	14865
 珠江卵形白甲鱼	vu;wpa jd;ug lr;pvvl xy;aapp bl;plva jw;lvaa yu;pvlv	1
-竹江码头	vu;papa jd;ug ma;apvv tb;ddap	31
+竹江码头	vu;z jd;ug ma;apvv tb;ddap	31
 珠江拟腹吸鳅	vu;wpa jd;ug ni;fvd fu;ypa xi;kpv qq;pvpa	1
 珠江啤酒	vu;wpa jd;ug pi;kpl jq;ual	4105
 主讲人	vu;dw jd;dvaa rf;r	31080
@@ -523344,10 +523344,10 @@ sort: by_weight
 主叫	vu;dw jc;kvl	2067
 注胶	vu;uda jc;yda	256
 驻剿	vu;vvda jc;vvll	15
-竹胶板	vu;papa jc;yda bj;mpp	1065
+竹胶板	vu;z jc;yda bj;mpp	1065
 主教大人	vu;dw jc;xapa da;apd rf;r	178
 猪脚粉	vu;qxa jc;ytv ff;dppd	8
-竹胶合板	vu;papa jc;yda he;rak bj;mpp	960
+竹胶合板	vu;z jc;yda he;rak bj;mpp	960
 住交会	vu;rda jc;dapd hv;raa	7170
 主教练	vu;dw jc;xapa lm;vvav	51920
 主焦煤	vu;dw jc;rddd mz;hal	815
@@ -523355,31 +523355,31 @@ sort: by_weight
 主教团	vu;dw jc;xapa tr;lval	635
 主叫用户	vu;dw jc;kvl ys;pvaa hu;dvap	1885
 注解	vu;uda jx;pvvp	37705
-竹节	vu;papa jx;cvl	8395
+竹节	vu;z jx;cvl	8395
 主街	vu;dw jx;pptt	4210
 祝捷	vu;dvkp jx;fav	13
 驻节	vu;vvda jx;cvl	2
-竹节杯	vu;papa jx;cvl bz;map	146
-竹节虫	vu;papa jx;cvl is;i	350
+竹节杯	vu;z jx;cvl bz;map	146
+竹节虫	vu;z jx;cvl is;i	350
 注解方式	vu;uda jx;pvvp fh;davp ui;agv	3830
 主结构	vu;dw jx;vvtk gb;mpv	630
-竹节鸡盅	vu;papa jx;cvl ji;vdpv vs;lvlv	1
+竹节鸡盅	vu;z jx;cvl ji;vdpv vs;lvlv	1
 注解开发	vu;uda jx;pvvp kl;aapl fa;vpvd	205
 主界面	vu;dw jx;lvrp mm;aplv	29190
 注解配置	vu;uda jx;pvvp pz;alva vi;lvxl	1675
-竹节纱	vu;papa jx;cvl ua;vvlp	1495
-竹节参	vu;papa jx;cvl uf;vdpp	2
+竹节纱	vu;z jx;cvl ua;vvlp	1495
+竹节参	vu;z jx;cvl uf;vdpp	2
 助桀为暴	vu;lvvp jx;pvm wz;dpvd bk;oal	1
 助桀为恶	vu;lvvp jx;pvm wz;dpvd ee;aldv	1
 助桀为虐	vu;lvvp jx;pvm wz;dpvd nt;laav	9999
-竹节虾	vu;papa jx;cvl xw;ial	480
+竹节虾	vu;z jx;cvl xw;ial	480
 主接线	vu;dw jx;fda xm;vvaa	420
 住进	vu;rda jn;aadv	46875
 铸金	vu;jaa jn;j	1205
 注进	vu;uda jn;aadv	970
 朱槿	vu;paal jn;mal	1
 烛尽光穷	vu;hi jn;vadd gd;ldap qs;ddvp	1
-竹金黄镰翅野螟	vu;papa jn;j hd;allv lm;jda ii;xvvd ye;lvvd my;idv	1
+竹金黄镰翅野螟	vu;z jn;j hd;allv lm;jda ii;xvvd ye;lvvd my;idv	1
 朱瑾慧	vu;paal jn;wal hv;aadv	166
 朱金兰	vu;paal jn;j lj;dpaa	3
 住近湓江地低湿	vu;rda jn;ppdv pf;upd jd;ug di;tvl di;rpv ui;uol	1
@@ -523390,9 +523390,9 @@ sort: by_weight
 驻京办	vu;vvda jy;dakl bj;vpdd	2100
 珠颈斑鸠	vu;wpa jy;vdap bj;wda jq;pvpv	129
 驻京办事处	vu;vvda jy;dakl bj;vpdd ui;alva iu;pvld	3205
-竹径茶语	vu;papa jy;ppvd ia;cra yu;dval	8
-竹径绕荷池	vu;papa jy;ppvd rk;vvav he;cra ii;uvl	1
-竹径通幽处	vu;papa jy;ppvd ts;vddv yb;svv iu;pvld	4
+竹径茶语	vu;z jy;ppvd ia;cra yu;dval	8
+竹径绕荷池	vu;z jy;ppvd rk;vvav he;cra ii;uvl	1
+竹径通幽处	vu;z jy;ppvd ts;vddv yb;svv iu;pvld	4
 朱婧汐	vu;paal jy;naa xi;upv	144
 铸就	vu;jaa jq;daap	17910
 祝酒	vu;dvkp jq;ual	3245
@@ -523437,7 +523437,7 @@ sort: by_weight
 住客	vu;rda ke;ddpv	9535
 主课	vu;dw ke;dvlv	4595
 主科	vu;dw ke;padd	3725
-竹刻	vu;papa ke;dall	2590
+竹刻	vu;z ke;dall	2590
 逐客	vu;apdv ke;ddpv	1255
 主客场	vu;dw ke;ddpv ih;tvp	3085
 主客颠倒	vu;dw ke;ddpv dm;xlap dk;rav	26
@@ -523453,7 +523453,7 @@ sort: by_weight
 逐客无消息	vu;apdv ke;ddpv wu;aapv xc;uld xi;pldv	1
 朱可欣	vu;paal ke;ak xn;pppv	5
 竺可桢	vu;zaa ke;ak vf;mla	3020
-竹坑	vu;papa kg;tda	72
+竹坑	vu;z kg;tda	72
 朱坑	vu;paal kg;tda	7
 朱坑镇	vu;paal kg;tda vf;jxl	4
 主控	vu;dw ks;fdd	30295
@@ -523463,29 +523463,29 @@ sort: by_weight
 主控制器	vu;dw ks;fdd vi;pall qi;kkap	2340
 住口	vu;rda kb;k	10425
 猪口	vu;qxa kb;k	111
-竹口村	vu;papa kb;k cp;mal	2
+竹口村	vu;z kb;k cp;mal	2
 主库	vu;dw ku;daav	405
 主跨	vu;dw kw;klap	1645
-竹筷	vu;papa ky;zdd	3685
+竹筷	vu;z ky;zdd	3685
 注会	vu;uda ky;raa	1852
 铸块	vu;jaa ky;tva	348
-竹筐	vu;papa kd;zaa	2475
+竹筐	vu;z kd;zaa	2475
 助困	vu;lvvp kp;lvm	4445
 朱昆田	vu;paal kp;oav tm;lvx	1
 朱拉隆功	vu;paal la;fda ls;vlpv gs;gvp	163
 煮烂	vu;xadd lj;hdp	6730
-竹篮	vu;papa lj;zll	6030
+竹篮	vu;z lj;zll	6030
 猪栏	vu;qxa lj;mdp	2620
 珠兰	vu;wpa lj;dpaa	999
 猪栏坂	vu;qxa lj;mdp bj;tpp	11
 珠兰大方	vu;wpa lj;dpaa da;apd fh;davp	13
-竹篮打水	vu;papa lj;zll da;fal uv;u	900
-竹篮打水一场空	vu;papa lj;zll da;fal uv;u yi;a ih;tvp ks;ddg	2175
-竹兰朵	vu;papa lj;dpaa do;pvm	1
+竹篮打水	vu;z lj;zll da;fal uv;u	900
+竹篮打水一场空	vu;z lj;zll da;fal uv;u yi;a ih;tvp ks;ddg	2175
+竹兰朵	vu;z lj;dpaa do;pvm	1
 珠兰花茶	vu;wpa lj;dpaa hw;crp ia;cra	211
 朱兰利	vu;paal lj;dpaa li;pall	385
 侏蓝仙鹟	vu;rpa lj;cll xm;rs wg;pdpv	1
-竹篮子打水一场空	vu;papa lj;zll zi;vla da;fal uv;u yi;a ih;tvp ks;ddg	1
+竹篮子打水一场空	vu;z lj;zll zi;vla da;fal uv;u yi;a ih;tvp ks;ddg	1
 柱廊	vu;mda lh;dadv	2255
 逐浪	vu;apdv lh;udv	1285
 主廊	vu;dw lh;dadv	5
@@ -523502,7 +523502,7 @@ sort: by_weight
 筑了	vu;zgp le;vl	197
 注了个博	vu;uda le;vl ge;rl bo;xal	249
 注了个册	vu;uda le;vl ge;rl ce;pvpv	24
-竹类	vu;papa lz;dpap	4420
+竹类	vu;z lz;dpap	4420
 珠泪	vu;wpa lz;ulv	3500
 筑垒	vu;zgp lz;vdt	1650
 烛泪	vu;hi lz;ulv	1195
@@ -523514,13 +523514,13 @@ sort: by_weight
 朱丽	vu;paal li;alv	13345
 主理	vu;dw li;wlv	7955
 逐利	vu;apdv li;pall	7620
-竹篱	vu;papa li;zda	2375
-竹笠	vu;papa li;zda	1290
+竹篱	vu;z li;zda	2375
+竹笠	vu;z li;zda	1290
 朱里	vu;paal li;lvaa	43
 朱理	vu;paal li;wlv	29
 朱利安	vu;paal li;pall an;ddn	2590
 朱利安尼	vu;paal li;pall an;ddn ni;vapv	171
-竹篱笆	vu;papa li;zda ba;zvl	1135
+竹篱笆	vu;z li;zda ba;zvl	1135
 助力榜	vu;lvvp li;vp bh;mda	173
 助力泵开关	vu;lvvp li;vp bg;apu kl;aapl gr;dpaa	5
 主力部队	vu;dw li;vp bu;davl dv;vlr	8185
@@ -523543,12 +523543,12 @@ sort: by_weight
 助力金	vu;lvvp li;vp jn;j	185
 主力军	vu;dw li;vp jp;dvav	35765
 助理会计师	vu;lvvp li;wlv ky;raa ji;dvx ui;lpal	1
-竹篱茅舍	vu;papa li;zda mk;cvd ue;raa	1040
+竹篱茅舍	vu;z li;zda mk;cvd ue;raa	1040
 助理门	vu;lvvp li;wlv mf;dlv	13
 助理秘书	vu;lvvp li;wlv mi;padv uu;vvld	595
 朱黎明	vu;paal li;parl my;oy	66
 助力器	vu;lvvp li;vp qi;kkap	2870
-竹里缲丝挑网车	vu;papa li;lvaa qc;vvkk si;vva tc;fpd wh;lvpd ie;aval	1
+竹里缲丝挑网车	vu;z li;lvaa qc;vvkk si;vva tc;fpd wh;lvpd ie;aval	1
 主力球员	vu;dw li;vp qq;wal yr;kb	5060
 助力券	vu;lvvp li;vp qr;dpvp	127
 助力群	vu;lvvp li;vp qp;vadp	160
@@ -523571,7 +523571,7 @@ sort: by_weight
 株连	vu;mpa lm;avdv	9999
 珠帘	vu;wpa lm;ddlv	9250
 猪脸	vu;qxa lm;yra	8888
-竹帘	vu;papa lm;ddlv	5240
+竹帘	vu;z lm;ddlv	5240
 珠联璧合	vu;wpa lm;aldp bi;vawd he;rak	4400
 珠帘不卷夜来霜	vu;wpa lm;ddlv bu;apld jr;dpvv ye;darp ll;adpa ud;adml	1
 驻联合国	vu;vvda lm;aldp he;rak go;lvwd	3125
@@ -523582,8 +523582,8 @@ sort: by_weight
 株连式拆迁	vu;mpa lm;avdv ui;agv il;fpp qm;padv	55
 祝联乡	vu;dvkp lm;aldp xd;vvp	1
 珠联玉映	vu;wpa lm;aldp yu;wd yy;olv	1
-竹帘镇	vu;papa lm;ddlv vf;jxl	1
-竹帘子	vu;papa lm;ddlv zi;vla	9999
+竹帘镇	vu;z lm;ddlv vf;jxl	1
+竹帘子	vu;z lm;ddlv zi;vla	9999
 主梁	vu;dw ld;uvm	3980
 贮量	vu;bdd ld;oalv	1850
 主粮	vu;dw ld;dpdv	975
@@ -523592,21 +523592,21 @@ sort: by_weight
 主料	vu;dw lc;dpdd	31380
 伫列	vu;rdd lx;apll	176
 猪鬣	vu;qxa lx;alvv	15
-竹林	vu;papa ln;mm	47745
+竹林	vu;z ln;mm	47745
 朱琳	vu;paal ln;wmm	2
-竹林村	vu;papa ln;mm cp;mal	160
+竹林村	vu;z ln;mm cp;mal	160
 朱林村	vu;paal ln;mm cp;mal	3
-竹林公路	vu;papa ln;mm gs;pdvd lu;klpv	2
-竹林精舍	vu;papa ln;mm jy;dpaa ue;raa	290
-竹林里	vu;papa ln;mm li;lvaa	2740
-竹林路	vu;papa ln;mm lu;klpv	155
+竹林公路	vu;z ln;mm gs;pdvd lu;klpv	2
+竹林精舍	vu;z ln;mm jy;dpaa ue;raa	290
+竹林里	vu;z ln;mm li;lvaa	2740
+竹林路	vu;z ln;mm lu;klpv	155
 珠林路	vu;wpa ln;mm lu;klpv	68
-竹林七贤	vu;papa ln;mm qi;av xm;llb	2380
+竹林七贤	vu;z ln;mm qi;av xm;llb	2380
 珠林桥	vu;wpa ln;mm qc;mpa	35
-竹林深处	vu;papa ln;mm uf;udv iu;pvld	1420
-竹林寺	vu;papa ln;mm si;tal	2110
-竹林巷	vu;papa ln;mm xd;alva	10
-竹林新村	vu;papa ln;mm xn;dapp cp;mal	3
+竹林深处	vu;z ln;mm uf;udv iu;pvld	1420
+竹林寺	vu;z ln;mm si;tal	2110
+竹林巷	vu;z ln;mm xd;alva	10
+竹林新村	vu;z ln;mm xn;dapp cp;mal	3
 朱令	vu;paal ly;rdv	5555
 猪苓	vu;qxa ly;crd	3335
 朱岭	vu;paal ly;srd	2
@@ -523630,19 +523630,19 @@ sort: by_weight
 主流配置	vu;dw lq;uda pz;alva vi;lvxl	4115
 主流社会	vu;dw lq;uda ue;dvt hv;raa	7540
 朱刘算法	vu;paal lq;dall sr;zlv fa;utv	130
-竹笼	vu;papa ls;zap	1835
+竹笼	vu;z ls;zap	1835
 猪笼	vu;qxa ls;zap	1560
 烛龙	vu;hi ls;apvp	175
 猪笼草	vu;qxa ls;zap ck;cox	1295
 潴龙河	vu;uqx ls;apvp he;uak	145
 猪笼入水	vu;qxa ls;zap ru;pd uv;u	146
 主楼	vu;dw lb;mdp	35245
-竹楼	vu;papa lb;mdp	7555
-竹篓	vu;papa lb;zdp	2805
+竹楼	vu;z lb;mdp	7555
+竹篓	vu;z lb;zdp	2805
 朱楼	vu;paal lb;mdp	48
 住楼房	vu;rda lb;mdp fh;dvda	164
 朱楼绮户	vu;paal lb;mdp qi;vvap hu;dvap	1
-竹楼缘岸上	vu;papa lb;mdp yr;vvvv an;sap uh;laa	1
+竹楼缘岸上	vu;z lb;mdp yr;vvvv an;sap uh;laa	1
 主路	vu;dw lu;klpv	12995
 逐鹿	vu;apdv lu;davl	11430
 著录	vu;cxa lu;vald	2453
@@ -523650,23 +523650,23 @@ sort: by_weight
 诛戮	vu;dvpa lu;vdav	485
 舳舻	vu;pplv lu;ppla	410
 筑路	vu;zgp lu;klpv	365
-竹炉	vu;papa lu;hdv	6
+竹炉	vu;z lu;hdv	6
 朱鹭	vu;paal lu;klpv	1
-竹露滴清响	vu;papa lu;adkl di;uda qy;uaa xd;kpl	3
+竹露滴清响	vu;z lu;adkl di;uda qy;uaa xd;kpl	3
 筑路队	vu;zgp lu;klpv dv;vlr	60
 筑路工	vu;zgp lu;klpv gs;g	295
 筑路工程	vu;zgp lu;klpv gs;g ig;pakw	355
-竹露荷风	vu;papa lu;adkl he;cra fg;pvpd	6
+竹露荷风	vu;z lu;adkl he;cra fg;pvpd	6
 侏露脊鲸	vu;rpa lu;adkl ji;day jy;pvda	1
 筑路机械	vu;zgp lu;klpv ji;mpv xx;maa	1530
 著录事项	vu;cxa lu;vald ui;alva xd;gap	1145
-竹露夕微微	vu;papa lu;adkl xi;pvd wz;ppsa wz;ppsa	1
+竹露夕微微	vu;z lu;adkl xi;pvd wz;ppsa wz;ppsa	1
 朱芦镇	vu;paal lu;cdv vf;jxl	117
 逐鹿中原	vu;apdv lu;davl vs;lval yr;appl	3765
 朱伦瀚	vu;paal lp;rrp hj;uxo	1
 侏罗	vu;rpa lo;lvpv	1905
 猪猡	vu;qxa lo;qlv	1300
-竹箩	vu;papa lo;zlv	890
+竹箩	vu;z lo;zlv	890
 侏罗纪	vu;rpa lo;lvpv ji;vvva	12215
 侏罗兽	vu;rpa lo;lvpv ub;dpak	1
 侏罗系	vu;rpa lo;lvpv xi;pvv	1035
@@ -523679,7 +523679,7 @@ sort: by_weight
 珠履三千	vu;wpa lv;vapp sj;aaa qm;pal	9
 侏绿鱼狗	vu;rpa lv;vvva yu;pvlv gb;qpv	1
 猪吗	vu;qxa ma;kvv	9999
-竹马	vu;papa ma;vva	3690
+竹马	vu;z ma;vva	3690
 苎麻	vu;cdd ma;damm	132
 主麻	vu;dw ma;damm	1
 猪麻坝	vu;qxa ma;damm ba;tb	1
@@ -523691,7 +523691,7 @@ sort: by_weight
 驻马店正虹	vu;vvda ma;vva dm;dala vg;ala hs;ig	10
 苎麻根	vu;cdd ma;damm gf;mva	120
 主麻日	vu;dw ma;damm ri;o	1111
-竹马塘	vu;papa ma;vva th;tda	21
+竹马塘	vu;z ma;vva th;tda	21
 驻马庄	vu;vvda ma;vva vd;dat	1
 主脉	vu;dw ml;ydv	2560
 朱买臣	vu;paal ml;vdd if;alvv	1525
@@ -523721,7 +523721,7 @@ sort: by_weight
 逐梦前行	vu;apdv mg;mmpv qm;dpyl xy;ppaa	174
 逐梦新征程	vu;apdv mg;mmpv xn;dapp vg;ppal ig;pakw	114
 煮米	vu;xadd mi;dpal	5555
-竹米	vu;papa mi;dpal	5
+竹米	vu;z mi;dpal	5
 珠米桂薪	vu;wpa mi;dpal gv;mtt xn;cda	1
 主密钥	vu;dw mi;dds yk;jy	950
 主密钥	vu;dw mi;dds yt;jy	950
@@ -523731,7 +523731,7 @@ sort: by_weight
 主面板	vu;dw mm;aplv bj;mpp	84
 柱面坐标	vu;mda mm;aplv zo;rrt bc;maa	18
 猪苗	vu;qxa mc;clv	1130
-竹篾	vu;papa mx;zlv	2635
+竹篾	vu;z mx;zlv	2635
 诛灭	vu;dvpa mx;ah	2025
 住民	vu;rda mn;vava	3105
 朱敏	vu;paal mn;papa	1800
@@ -523781,7 +523781,7 @@ sort: by_weight
 著名作家	vu;cxa my;pvk zo;rpa jw;ddap	18620
 注魔	vu;uda mo;damm	6666
 诛魔	vu;dvpa mo;damm	585
-竹膜	vu;papa mo;yco	111
+竹膜	vu;z mo;yco	111
 注墨机	vu;uda mo;lvt ji;mpv	3
 主模块	vu;dw mo;mco ky;tva	635
 逐末弃本	vu;apdv mo;aalp qi;daap bf;alpd	1
@@ -523791,7 +523791,7 @@ sort: by_weight
 朱谋	vu;paal mb;dval	3
 瞩目	vu;lvva mu;lvaa	69715
 注目	vu;uda mu;lvaa	31290
-竹木	vu;papa mu;m	23955
+竹木	vu;z mu;m	23955
 主母	vu;dw mu;vvda	4195
 铸模	vu;jaa mu;mco	3945
 珠母	vu;wpa mu;vvda	955
@@ -523803,24 +523803,24 @@ sort: by_weight
 铸木镂冰	vu;jaa mu;m lb;jdp by;dau	1
 主目录	vu;dw mu;lvaa lu;vald	13483
 株木桥	vu;mpa mu;m qc;mpa	2
-竹木制品	vu;papa mu;m vi;pall pn;kkk	2340
+竹木制品	vu;z mu;m vi;pall pn;kkk	2340
 住那	vu;rda na;vavl	9999
 住哪	vu;rda na;kva	8888
 住那儿	vu;rda na;vavl er;pv	9999
 住哪儿	vu;rda na;kva er;pv	8888
-竹南	vu;papa nj;xlv	460
+竹南	vu;z nj;xlv	460
 驻南使馆	vu;vvda nj;xlv ui;ral gr;pvdd	690
 住囊虫属	vu;rda nh;alkk is;i uu;vapl	1
 主脑	vu;dw nk;yda	6265
 猪脑	vu;qxa nk;yda	3325
 猪脑壳	vu;qxa nk;yda ke;tdpv	13
-竹内爱	vu;papa nz;lvpd ai;pdap	6666
-竹内结子	vu;papa nz;lvpd jx;vvtk zi;vla	8
-竹内亮	vu;papa nz;lvpd ld;dapv	173
-竹内乃爱	vu;papa nz;lvpd nl;vp ai;pdap	6666
+竹内爱	vu;z nz;lvpd ai;pdap	6666
+竹内结子	vu;z nz;lvpd jx;vvtk zi;vla	8
+竹内亮	vu;z nz;lvpd ld;dapv	173
+竹内乃爱	vu;z nz;lvpd nl;vp ai;pdap	6666
 主内平安	vu;dw nz;lvpd py;adpa an;ddn	165
-竹内顺子	vu;papa nz;lvpd up;plap zi;vla	1
-竹内有纪	vu;papa nz;lvpd yb;apy ji;vvva	6666
+竹内顺子	vu;z nz;lvpd up;plap zi;vla	1
+竹内有纪	vu;z nz;lvpd yb;apy ji;vvva	6666
 朱能	vu;paal ng;vdpv	8
 祝你	vu;dvkp ni;rpv	72860
 助你	vu;lvvp ni;rpv	26645
@@ -523862,13 +523862,13 @@ sort: by_weight
 煮弩为粮	vu;xadd nu;nvva wz;dpvd ld;dpdv	10
 朱诺	vu;paal no;dvca	111
 猪扒	vu;qxa pa;fpd	2705
-竹耙	vu;papa pa;aavl	5
-竹耙子	vu;papa pa;aavl zi;vla	5
+竹耙	vu;z pa;aavl	5
+竹耙子	vu;z pa;aavl zi;vla	5
 猪排	vu;qxa pl;fla	9999
-竹排	vu;papa pl;fla	6430
+竹排	vu;z pl;fla	6430
 主拍	vu;dw pl;fpl	2222
 主牌	vu;dw pl;plpl	2115
-竹牌	vu;papa pl;plpl	815
+竹牌	vu;z pl;plpl	815
 侏派矛丽鱼	vu;rpa pl;upp mk;vdvl li;alv yu;pvlv	1
 主盘	vu;dw pj;pplv	2810
 朱攀	vu;paal pj;mpf	8
@@ -523883,18 +523883,18 @@ sort: by_weight
 猪皮革	vu;qxa pi;vplv ge;allv	345
 煮啤酒	vu;xadd pi;kpl jq;ual	122
 猪皮萝卜	vu;qxa pi;vplv lo;clv bo;ld	4
-竹批双耳	vu;papa pi;fav ud;vdvd er;alla	3
-竹批双耳峻	vu;papa pi;fav ud;vdvd er;alla jp;svd	4
+竹批双耳	vu;z pi;fav ud;vdvd er;alla	3
+竹批双耳峻	vu;z pi;fav ud;vdvd er;alla jp;svd	4
 侏䴙䴘	vu;rpa pi;vapv ti;pppv	1
 朱批谕旨	vu;paal pi;fav yu;dvra vi;pvo	145
 猪脾枣米粥	vu;qxa pi;ypl zk;aldd mi;dpal vb;vadp	2
-竹片	vu;papa pm;plav	7190
+竹片	vu;z pm;plav	7190
 珠片	vu;wpa pm;plav	4415
-竹片炭	vu;papa pm;plav tj;sap	1
+竹片炭	vu;z pm;plav tj;sap	1
 主频	vu;dw pn;laap	69815
 助贫	vu;lvvp pn;pdb	815
 主屏	vu;dw py;vadp	35260
-竹坪村	vu;papa py;tad cp;mal	30
+竹坪村	vu;z py;tad cp;mal	30
 主屏默认	vu;dw py;vadp mo;lvap rf;dvr	75
 猪婆	vu;qxa po;uvn	765
 猪婆龙	vu;qxa po;uvn ls;apvp	205
@@ -523902,12 +523902,12 @@ sort: by_weight
 主仆	vu;dw pu;rld	6420
 主仆关系	vu;dw pu;rld gr;dpaa xi;pvv	755
 筑起	vu;zgp qi;tlva	16050
-竹器	vu;papa qi;kkap	2890
+竹器	vu;z qi;kkap	2890
 朱漆	vu;paal qi;umr	2480
 煮器	vu;xadd qi;kkap	310
 朱淇	vu;paal qi;ual	8
 朱祺	vu;paal qi;dval	3
-竹崎埃利茧蜂	vu;papa qi;sap ai;tvd li;pall jm;ci fg;ipv	1
+竹崎埃利茧蜂	vu;z qi;sap ai;tvd li;pall jm;ci fg;ipv	1
 贮气罐	vu;bdd qi;paav gr;pack	340
 朱启连	vu;paal qi;dvk lm;avdv	1
 朱启南	vu;paal qi;dvk nj;xlv	189
@@ -523916,27 +523916,27 @@ sort: by_weight
 朱奇伟	vu;paal qi;apak wz;raa	1
 朱祁钰	vu;paal qi;dvvl yu;jwd	28
 朱祁镇	vu;paal qi;dvvl vf;jxl	53
-竹签	vu;papa qm;zra	8890
+竹签	vu;z qm;zra	8890
 烛扦	vu;hi qm;fpa	2
-竹千代	vu;papa qm;pal dl;rav	13
-竹签儿	vu;papa qm;zra er;pv	9999
+竹千代	vu;z qm;pal dl;rav	13
+竹签儿	vu;z qm;zra er;pv	9999
 筑墙	vu;zgp qd;ttd	2060
 诸强	vu;dvxa qd;vaki	1810
 主墙	vu;dw qd;ttd	1290
 主桥	vu;dw qc;mpa	3185
-竹桥	vu;papa qc;mpa	1085
+竹桥	vu;z qc;mpa	1085
 筑桥	vu;zgp qc;mpa	630
 朱桥	vu;paal qc;mpa	222
 朱桥镇	vu;paal qc;mpa vf;jxl	103
-竹琴	vu;papa qn;wwrd	490
+竹琴	vu;z qn;wwrd	490
 煮芹烧笋饷春耕	vu;xadd qn;cpp uk;hav sp;zva xd;pvpl ip;aao gg;aaaa	1
 助情	vu;lvvp qy;ddaa	3480
-竹青	vu;papa qy;aay	2805
+竹青	vu;z qy;aay	2805
 祝卿好	vu;dvkp qy;pvva hk;nvl	117
 住清华	vu;rda qy;uaa hw;rpx	12
 渚清沙白鸟飞回	vu;uxa qy;uaa ua;ulp bl;plva nc;pvdv fz;vpd hv;lvk	1180
 朱清时	vu;paal qy;uaa ui;oal	1677
-竹庆乡	vu;papa qy;daap xd;vvp	5
+竹庆乡	vu;z qy;daap xd;vvp	5
 朱庆元	vu;paal qy;daap yr;aapv	1
 主球	vu;dw qq;wal	1675
 诛求	vu;dvpa qq;alda	500
@@ -524128,16 +524128,16 @@ sort: by_weight
 朱砂莲	vu;paal ua;aplp lm;cav	7
 朱砂一点	vu;paal ua;aplp yi;a dm;ladd	1
 朱砂痣	vu;paal ua;aplp vi;datd	1445
-竹扇	vu;papa uj;dvvd	1111
+竹扇	vu;z uj;dvvd	1111
 珠山	vu;wpa uj;s	440
 珠山茶	vu;wpa uj;s ia;cra	85
-竹山路	vu;papa uj;s lu;klpv	202
+竹山路	vu;z uj;s lu;klpv	202
 珠山路	vu;wpa uj;s lu;klpv	110
 珠山区	vu;wpa uj;s qu;apdv	765
-竹山下	vu;papa uj;s xw;ald	4
-竹山县	vu;papa uj;s xm;lvvd	5025
-竹山园	vu;papa uj;s yr;lvaa	36
-竹山中学	vu;papa uj;s vs;lval xt;ddvl	126
+竹山下	vu;z uj;s xw;ald	4
+竹山县	vu;z uj;s xm;lvvd	5025
+竹山园	vu;z uj;s yr;lvaa	36
+竹山中学	vu;z uj;s vs;lval xt;ddvl	126
 住上	vu;rda uh;laa	15770
 主上	vu;dw uh;laa	7945
 注上	vu;uda uh;laa	3145
@@ -524147,7 +524147,7 @@ sort: by_weight
 朱绍侯	vu;paal uk;vvvp hb;rva	133
 朱绍良	vu;paal uk;vvvp ld;dva	31
 朱少屏	vu;paal uk;lpdp py;vadp	15
-竹梢微动觉风生	vu;papa uk;mld wz;ppsa ds;aavp jt;ddlv fg;pvpd ug;paal	1
+竹梢微动觉风生	vu;z uk;mld wz;ppsa ds;aavp jt;ddlv fg;pvpd ug;paal	1
 祝绍周	vu;dvkp uk;vvvp vb;pvtk	4
 注射	vu;uda ue;plal	189910
 主摄	vu;dw ue;fal	1111
@@ -524281,7 +524281,7 @@ sort: by_weight
 主胜	vu;dw ug;ypa	9205
 诸生	vu;dvxa ug;paal	6360
 主绳	vu;dw ug;vvkl	1855
-竹笙	vu;papa ug;zpa	32
+竹笙	vu;z ug;zpa	32
 朱升	vu;paal ug;papl	10
 主圣臣良	vu;dw ug;vdt if;alvv ld;dva	1
 主圣臣直	vu;dw ug;vdt if;alvv vi;xlv	5
@@ -524299,7 +524299,7 @@ sort: by_weight
 柱石	vu;mda ui;apk	5380
 猪食	vu;qxa ui;rdv	5233
 主使	vu;dw ui;ral	3470
-竹石	vu;papa ui;apk	2920
+竹石	vu;z ui;apk	2920
 珠饰	vu;wpa ui;pvpa	1665
 铸石	vu;jaa ui;apk	1120
 蛀蚀	vu;ida ui;pvi	825
@@ -524356,25 +524356,25 @@ sort: by_weight
 朱守道	vu;paal ub;ddal dk;dpdv	3
 煮熟的饭	vu;xadd ub;dadd de;plpv fj;pvpp	3333
 猪瘦肉	vu;qxa ub;dapl rb;lvpd	4205
-竹寿镇	vu;papa ub;aaal vf;jxl	7
+竹寿镇	vu;z ub;aaal vf;jxl	7
 主守自盗	vu;dw ub;ddal zi;plva dk;dalv	2
 煮熟	vu;xadd uu;dadd	51330
 著书	vu;cxa uu;vvld	1028
 注疏	vu;uda uu;vlda	453
 著述	vu;cxa uu;mddv	310
-竹书	vu;papa uu;vvld	43
-竹鼠	vu;papa uu;plvd	11
+竹书	vu;z uu;vvld	43
+竹鼠	vu;z uu;plvd	11
 煮熟的饭	vu;xadd uu;dadd de;plpv fj;pvpp	3333
 朱术桂	vu;paal uu;md gv;mtt	3
-竹书纪年	vu;papa uu;vvld ji;vvva nm;paal	161
+竹书纪年	vu;z uu;vvld ji;vvva nm;paal	161
 主数据	vu;dw uu;dppa ju;fva	1565
 著书立说	vu;cxa uu;vvld li;dadp uo;dvdp	5300
 著书立言	vu;cxa uu;vvld li;dadp yj;dak	5
 主枢纽	vu;dw uu;map nq;vvvl	2040
 株树桥	vu;mpa uu;mvd qc;mpa	172
 珠树坞	vu;wpa uu;mvd wu;tpv	146
-竹树下	vu;papa uu;mvd xw;ald	4
-竹树下社区	vu;papa uu;mvd xw;ald ue;dvt qu;apdv	6
+竹树下	vu;z uu;mvd xw;ald	4
+竹树下社区	vu;z uu;mvd xw;ald ue;dvt qu;apdv	6
 主属性	vu;dw uu;vapl xy;ddpa	975
 株数诸恶	vu;mpa uu;dppa vu;dvxa ee;aldv	1
 主刷图	vu;dw uw;vall tu;lvpv	180
@@ -524394,12 +524394,12 @@ sort: by_weight
 珠水夜韵	vu;wpa uv;u ye;darp yp;dapv	16
 蛛丝	vu;ipa si;vva	7040
 主司	vu;dw si;vak	4333
-竹丝	vu;papa si;vva	3830
+竹丝	vu;z si;vva	3830
 珠斯花街道	vu;wpa si;alpp hw;crp jx;pptt dk;dpdv	1
 猪饲料	vu;qxa si;pvva lc;dpdd	4710
 蛛丝马迹	vu;ipa si;vva ma;vva ji;dadv	16735
 朱斯特	vu;paal si;alpp te;pata	1
-竹斯维蚜	vu;papa si;alpp wz;vvrd ya;iav	1
+竹斯维蚜	vu;z si;alpp wz;vvrd ya;iav	1
 洙泗之风	vu;upa si;ulv vi;dvd fg;pvpd	1
 主送	vu;dw ss;dpdv	4790
 祝颂	vu;dvkp ss;pdap	1155
@@ -524429,13 +524429,13 @@ sort: by_weight
 住宿者	vu;rda su;ddra ve;xao	780
 珠算	vu;wpa sr;zlv	8900
 驻穗	vu;vvda sv;paal	2655
-竹笋	vu;papa sp;zva	24540
-竹荪	vu;papa sp;cvl	7236
-竹荪鹅	vu;papa sp;cvl ee;papv	25
-竹笋凤凰螺	vu;papa sp;zva fg;pvvd hd;pvpl lo;ilv	1
-竹笋汤	vu;papa sp;zva th;uvp	120
-竹笋西瓜皮鲤鱼汤	vu;papa sp;zva xi;alvp gw;ppvd pi;vplv li;pvlv yu;pvlv th;uvp	1
-竹笋香菇汤	vu;papa sp;zva xd;pao gu;cnx th;uvp	7
+竹笋	vu;z sp;zva	24540
+竹荪	vu;z sp;cvl	7236
+竹荪鹅	vu;z sp;cvl ee;papv	25
+竹笋凤凰螺	vu;z sp;zva fg;pvvd hd;pvpl lo;ilv	1
+竹笋汤	vu;z sp;zva th;uvp	120
+竹笋西瓜皮鲤鱼汤	vu;z sp;zva xi;alvp gw;ppvd pi;vplv li;pvlv yu;pvlv th;uvp	1
+竹笋香菇汤	vu;z sp;zva xd;pao gu;cnx th;uvp	7
 住所	vu;rda so;pppp	144265
 住所地	vu;rda so;pppp di;tvl	29370
 住所地法	vu;rda so;pppp di;tvl fa;utv	405
@@ -524445,30 +524445,30 @@ sort: by_weight
 祝她	vu;dvkp ta;nvl	7777
 助他	vu;lvvp ta;rvl	5555
 助她	vu;lvvp ta;nvl	3333
-竹榻	vu;papa ta;mov	111
+竹榻	vu;z ta;mov	111
 祝她好运	vu;dvkp ta;nvl hk;nvl yp;aadv	43
 祝她幸福	vu;dvkp ta;nvl xy;tdp fu;dvak	193
 烛台	vu;hi tl;vdk	15960
 主台	vu;dw tl;vdk	695
 珠胎暗结	vu;wpa tl;yvd an;oda jx;vvtk	510
 烛台底下最暗	vu;hi tl;vdk di;dapv xw;ald zv;oal an;oda	75
-竹炭	vu;papa tj;sap	25220
+竹炭	vu;z tj;sap	25220
 麈谈	vu;davl tj;dvhh	2
-竹炭床垫	vu;papa tj;sap id;dam dm;fpt	335
-竹炭颗粒	vu;papa tj;sap ke;lvap li;dpda	23
-竹炭片	vu;papa tj;sap pm;plav	8
-竹炭纱	vu;papa tj;sap ua;vvlp	2
-竹炭筒	vu;papa tj;sap ts;zlv	1
-竹炭袜	vu;papa tj;sap wa;dvaa	5
-竹碳一洗白	vu;papa tj;apsa yi;a xi;upa bl;plva	1
-竹炭枕头	vu;papa tj;sap vf;mdv tb;ddap	165
+竹炭床垫	vu;z tj;sap id;dam dm;fpt	335
+竹炭颗粒	vu;z tj;sap ke;lvap li;dpda	23
+竹炭片	vu;z tj;sap pm;plav	8
+竹炭纱	vu;z tj;sap ua;vvlp	2
+竹炭筒	vu;z tj;sap ts;zlv	1
+竹炭袜	vu;z tj;sap wa;dvaa	5
+竹碳一洗白	vu;z tj;apsa yi;a xi;upa bl;plva	1
+竹炭枕头	vu;z tj;sap vf;mdv tb;ddap	165
 煮汤	vu;xadd th;uvp	7410
 祝塘	vu;dvkp th;tda	815
 珠塘	vu;wpa th;tda	4
 朱堂村	vu;paal th;ldt cp;mal	1
-竹塘路	vu;papa th;tda lu;klpv	44
-竹桃霉素	vu;papa tk;mpd mz;adpa su;aavv	155
-竹滕	vu;papa tg;ydp	10
+竹塘路	vu;z th;tda lu;klpv	44
+竹桃霉素	vu;z tk;mpd mz;adpa su;aavv	155
+竹滕	vu;z tg;ydp	10
 主题	vu;dw ti;oaap	501909
 主体	vu;dw ti;ral	500389
 猪蹄	vu;qxa ti;klda	22595
@@ -524540,13 +524540,13 @@ sort: by_weight
 朱田村	vu;paal tm;lvx cp;mal	6
 珠田村	vu;wpa tm;lvx cp;mal	1
 诸天尽头	vu;dvxa tm;aap jn;vadd tb;ddap	190
-竹田梦	vu;papa tm;lvx mg;mmpv	6666
+竹田梦	vu;z tm;lvx mg;mmpv	6666
 朱天然	vu;paal tm;aap rj;pvdd	187
 柱天踏地	vu;mda tm;aap ta;kluo di;tvl	1
 祝天下	vu;dvkp tm;aap xw;ald	2570
 助天下人爱其所爱	vu;lvvp tm;aap xw;ald rf;r ai;pdap qi;alpd so;pppp ai;pdap	17
 逐条	vu;apdv tc;pval	13715
-竹条	vu;papa tc;pval	2235
+竹条	vu;z tc;pval	2235
 逐条转发	vu;apdv tc;pval vr;avaa fa;vpvd	185
 铸铁	vu;jaa tx;jpa	40760
 主帖	vu;dw tx;lvla	12225
@@ -524555,31 +524555,31 @@ sort: by_weight
 铸铁量具	vu;jaa tx;jpa ld;oalv ju;lvpd	60
 铸铁平板	vu;jaa tx;jpa py;adpa bj;mpp	1565
 主厅	vu;dw ty;apal	1195
-竹亭	vu;papa ty;daal	1180
+竹亭	vu;z ty;daal	1180
 朱婷	vu;paal ty;nda	2
 朱廷刚	vu;paal ty;pavd gh;lvll	3
 助听器	vu;lvvp ty;kpp qi;kkap	15725
-竹筒	vu;papa ts;zlv	12760
+竹筒	vu;z ts;zlv	12760
 铸铜	vu;jaa ts;jlv	4120
 朱同	vu;paal ts;lvak	54
-竹筒茶	vu;papa ts;zlv ia;cra	338
+竹筒茶	vu;z ts;zlv ia;cra	338
 住筒虫	vu;rda ts;zlv is;i	1
 住筒虫属	vu;rda ts;zlv is;i uu;vapl	1
 主通道	vu;dw ts;vddv dk;dpdv	4285
-竹筒倒豆子	vu;papa ts;zlv dk;rav db;akdp zi;vla	440
-竹筒饭	vu;papa ts;zlv fj;pvpp	2529
-竹筒粉蒸肠	vu;papa ts;zlv ff;dppd vg;cvl ih;yvp	13
-竹筒鸡	vu;papa ts;zlv ji;vdpv	169
-竹筒炭	vu;papa ts;zlv tj;sap	1
+竹筒倒豆子	vu;z ts;zlv dk;rav db;akdp zi;vla	440
+竹筒饭	vu;z ts;zlv fj;pvpp	2529
+竹筒粉蒸肠	vu;z ts;zlv ff;dppd vg;cvl ih;yvp	13
+竹筒鸡	vu;z ts;zlv ji;vdpv	169
+竹筒炭	vu;z ts;zlv tj;sap	1
 主通信	vu;dw ts;vddv xn;rda	64
-竹筒煮汤	vu;papa ts;zlv vu;xadd th;uvp	13
-竹桶粽子	vu;papa ts;mvd zs;dpdd zi;vla	2
+竹筒煮汤	vu;z ts;zlv vu;xadd th;uvp	13
+竹桶粽子	vu;z ts;mvd zs;dpdd zi;vla	2
 猪头	vu;qxa tb;ddap	49470
 柱头	vu;mda tb;ddap	7305
 煮透	vu;xadd tb;padv	4340
-竹头	vu;papa tb;ddap	1565
+竹头	vu;z tb;ddap	1565
 猪头啊	vu;qxa tb;ddap aa;kvl	410
-竹头背	vu;papa tb;ddap bz;lay	4
+竹头背	vu;z tb;ddap bz;lay	4
 珠投璧抵	vu;wpa tb;fpv bi;vawd di;fpv	1
 柱头虫	vu;mda tb;ddap is;i	1
 猪头方肉	vu;qxa tb;ddap fh;davp rb;lvpd	2
@@ -524597,17 +524597,17 @@ sort: by_weight
 驻屯	vu;vvda tp;avlv	525
 驻屯军	vu;vvda tp;avlv jp;dvav	890
 嘱托	vu;kva to;fpa	11740
-竹箨	vu;papa to;zfv	5
+竹箨	vu;z to;zfv	5
 猪娃	vu;qxa wa;ntt	1350
-竹瓦	vu;papa wa;avvd	21
-竹瓦根镇	vu;papa wa;avvd gf;mva vf;jxl	26
+竹瓦	vu;z wa;avvd	21
+竹瓦根镇	vu;z wa;avvd gf;mva vf;jxl	26
 驻外	vu;vvda wl;pvld	60660
 主外	vu;dw wl;pvld	3940
 驻外机构	vu;vvda wl;pvld ji;mpv gb;mpv	5915
 主外键	vu;dw wl;pvld jm;jva	12
 驻外使	vu;vvda wl;pvld ui;ral	1354
 驻外使馆	vu;vvda wl;pvld ui;ral gr;pvdd	3105
-竹外桃花三两枝	vu;papa wl;pvld tk;mpd hw;crp sj;aaa ld;alvp vi;mxv	10000
+竹外桃花三两枝	vu;z wl;pvld tk;mpd hw;crp sj;aaa ld;alvp vi;mxv	10000
 朱湾村	vu;paal wj;uda cp;mal	7
 诸王	vu;dvxa wh;w	9880
 蛛网	vu;ipa wh;lvpd	7920
@@ -524620,7 +524620,7 @@ sort: by_weight
 蛛网膜囊肿	vu;ipa wh;lvpd mo;yco nh;alkk vs;ylv	40
 蛛网膜下腔	vu;ipa wh;lvpd mo;yco xw;ald qd;ydd	158
 蛛网膜炎	vu;ipa wh;lvpd mo;yco yj;hh	4
-竹望山	vu;papa wh;daw uj;s	6
+竹望山	vu;z wh;daw uj;s	6
 诸王峡谷	vu;dvxa wh;w xw;sad gu;pdrk	172
 蛛网小径	vu;ipa wh;lvpd xc;lpd jy;ppvd	1
 朱王庄	vu;paal wh;w vd;dat	147
@@ -524631,7 +524631,7 @@ sort: by_weight
 主卫	vu;dw wz;vla	2595
 猪尾	vu;qxa wz;vapa	1865
 主桅	vu;dw wz;mpv	950
-竹围	vu;papa wz;lvaa	420
+竹围	vu;z wz;lvaa	420
 筑圩	vu;zgp wz;taa	2
 麈尾	vu;davl wz;vapa	2
 猪尾巴	vu;qxa wz;vapa ba;vlav	1825
@@ -524681,23 +524681,23 @@ sort: by_weight
 筑屋	vu;zgp wu;vaav	845
 逐物不还	vu;apdv wu;papv bu;apld hr;apdv	1
 猪悟能	vu;qxa wu;ddal ng;vdpv	145
-竹坞无尘水槛清	vu;papa wu;tpv wu;aapv if;lpt uv;u jm;mll qy;uaa	12
-竹雾晓笼衔岭月	vu;papa wu;adpv xc;oav ls;zap xm;ppja ly;srd yt;y	1
+竹坞无尘水槛清	vu;z wu;tpv wu;aapv if;lpt uv;u jm;mll qy;uaa	12
+竹雾晓笼衔岭月	vu;z wu;adpv xc;oav ls;zap xm;ppja ly;srd yt;y	1
 主席	vu;dw xi;daal	478947
 朱熹	vu;paal xi;tkdd	31770
-竹席	vu;papa xi;daal	2850
+竹席	vu;z xi;daal	2850
 株系	vu;mpa xi;pvv	1855
 主细胞	vu;dw xi;vvlv bk;ypv	305
 助细胞	vu;lvvp xi;vvlv bk;ypv	5
-竹溪茶楼	vu;papa xi;upd ia;cra lb;mdp	3
-竹溪村	vu;papa xi;upd cp;mal	19
+竹溪茶楼	vu;z xi;upd ia;cra lb;mdp	3
+竹溪村	vu;z xi;upd cp;mal	19
 株溪村	vu;mpa xi;upd cp;mal	1
-竹溪村路板桥斜	vu;papa xi;upd cp;mal lu;klpv bj;mpp qc;mpa xx;radd	1
+竹溪村路板桥斜	vu;z xi;upd cp;mal lu;klpv bj;mpp qc;mpa xx;radd	1
 驻锡地	vu;vvda xi;jop di;tvl	1405
 主席法	vu;dw xi;daal fa;utv	55
 主席国	vu;dw xi;daal go;lvwd	3720
 主席红烧肉	vu;dw xi;daal hs;vvg uk;hav rb;lvpd	9
-竹西花草弄春柔	vu;papa xi;alvp hw;crp ck;cox ns;wap ip;aao rb;vdm	1
+竹西花草弄春柔	vu;z xi;alvp hw;crp ck;cox ns;wap ip;aao rb;vdm	1
 祝希娟	vu;dvkp xi;pdap jr;nky	49
 主席令	vu;dw xi;daal ly;rdv	19415
 主席女士	vu;dw xi;daal nv;n ui;t	63
@@ -524706,8 +524706,8 @@ sort: by_weight
 主系统	vu;dw xi;pvv ts;vvda	2800
 主席团	vu;dw xi;daal tr;lval	34475
 主席位	vu;dw xi;daal wz;rda	175
-竹溪县	vu;papa xi;upd xm;lvvd	2925
-竹细野池幽	vu;papa xi;vvlv ye;lvvd ii;uvl yb;svv	1
+竹溪县	vu;z xi;upd xm;lvvd	2925
+竹细野池幽	vu;z xi;vvlv ye;lvvd ii;uvl yb;svv	1
 主席站	vu;dw xi;daal vj;dala	5
 主席职位	vu;dw xi;daal vi;alkp wz;rda	565
 住下	vu;rda xw;ald	18365
@@ -524716,17 +524716,17 @@ sort: by_weight
 疰夏	vu;dada xw;appv	73
 注下	vu;uda xw;ald	7
 朱夏	vu;paal xw;appv	2
-竹下登	vu;papa xw;ald dg;vdak	275
+竹下登	vu;z xw;ald dg;vdak	275
 住下来	vu;rda xw;ald ll;adpa	4285
 住下去	vu;rda xw;ald qu;tvd	2015
 柱下史	vu;mda xw;ald ui;lvap	12
-竹下忘言对紫茶	vu;papa xw;ald wh;dadv yj;dak dv;vdal zi;lavv ia;cra	1
+竹下忘言对紫茶	vu;z xw;ald wh;dadv yj;dak dv;vdal zi;lavv ia;cra	1
 主线	vu;dw xm;vvaa	76055
 诛仙	vu;dvpa xm;rs	12350
 诸仙	vu;dvxa xm;rs	1165
 朱弦	vu;paal xm;vada	995
 主线程	vu;dw xm;vvaa ig;pakw	46091
-竹仙洞	vu;papa xm;rs ds;ulv	28
+竹仙洞	vu;z xm;rs ds;ulv	28
 诛仙恋	vu;dvpa xm;rs lm;dadv	22
 主线任务	vu;dw xm;vvaa rf;rpa wu;pvvp	5555
 主线人物	vu;dw xm;vvaa rf;r wu;papv	55
@@ -524734,22 +524734,22 @@ sort: by_weight
 煮咸肉	vu;xadd xm;apak rb;lvpd	285
 朱弦三叹	vu;paal xm;vada sj;aaa tj;kvd	1
 诛仙世界	vu;dvpa xm;rs ui;alla jx;lvrp	145
-竹纤维	vu;papa xm;vvpa wz;vvrd	5845
-竹纤维制品	vu;papa xm;vvpa wz;vvrd vi;pall pn;kkk	4
-竹贤乡	vu;papa xm;llb xd;vvp	7
+竹纤维	vu;z xm;vvpa wz;vvrd	5845
+竹纤维制品	vu;z xm;vvpa wz;vvrd vi;pall pn;kkk	4
+竹贤乡	vu;z xm;llb xd;vvp	7
 朱仙镇	vu;paal xm;rs vf;jxl	2870
 逐项	vu;apdv xd;gap	30470
 主项	vu;dw xd;gap	4860
-竹乡	vu;papa xd;vvp	4170
+竹乡	vu;z xd;vvp	4170
 诸相	vu;dvxa xd;mlv	3425
 诸项	vu;dvxa xd;gap	2795
-竹箱	vu;papa xd;zml	215
+竹箱	vu;z xd;zml	215
 主项变换	vu;dw xd;gap bm;davd hr;fpv	5
-竹香村	vu;papa xd;pao cp;mal	2
+竹香村	vu;z xd;pao cp;mal	2
 主巷道	vu;dw xd;alva dk;dpdv	87
 驻香港	vu;vvda xd;pao gh;ual	4020
-竹乡鸡	vu;papa xd;vvp ji;vdpv	6
-竹乡人家	vu;papa xd;vvp rf;r jw;ddap	13
+竹乡鸡	vu;z xd;vvp ji;vdpv	6
+竹乡人家	vu;z xd;vvp rf;r jw;ddap	13
 朱象贤	vu;paal xd;pvlv xm;llb	1
 朱相宇	vu;paal xd;mlv yu;ddaa	3
 注销	vu;uda xc;jld	190060
@@ -524792,7 +524792,7 @@ sort: by_weight
 蛀心虫	vu;ida xn;dvdd is;i	46
 住心碘泡虫	vu;rda xn;dvdd dm;aplv pk;upv is;i	1
 主心骨	vu;dw xn;dvdd gu;lvy	6420
-竹芯翎翅野螟	vu;papa xn;cdv ly;rdvd ii;xvvd ye;lvvd my;idv	1
+竹芯翎翅野螟	vu;z xn;cdv ly;rdvd ii;xvvd ye;lvvd my;idv	1
 逐新趣异	vu;apdv xn;dapp qu;tlal yi;vaap	1
 珠心算	vu;wpa xn;dvdd sr;zlv	6050
 铸新淘旧	vu;jaa xn;dapp tk;upv jq;lo	1
@@ -524830,7 +524830,7 @@ sort: by_weight
 助选	vu;lvvp xr;padv	1615
 株选	vu;mpa xr;padv	205
 主选单	vu;dw xr;padv dj;dplv	2000
-竹喧归浣女	vu;papa xr;kdd gv;lpva hr;udd nv;n	9
+竹喧归浣女	vu;z xr;kdd gv;lpva hr;udd nv;n	9
 主旋律	vu;dw xr;dapa lv;ppva	45815
 注玄尚白	vu;uda xr;davv uh;ldlv bl;plva	1
 助学	vu;lvvp xt;ddvl	110415
@@ -524860,15 +524860,15 @@ sort: by_weight
 筑岩钓渭	vu;zgp yj;sap dc;jpv wz;ulv	1
 主演角色	vu;dw yj;udd jt;pvpv se;pvvl	95
 朱彦霖	vu;paal yj;dapp ln;admm	120
-竹宴天下	vu;papa yj;ddon tm;aap xw;ald	10
+竹宴天下	vu;z yj;ddon tm;aap xw;ald	10
 驻颜有术	vu;vvda yj;daap yb;apy uu;md	475
 祝咽祝哽	vu;dvkp yj;klv vu;dvkp gg;kal	1
 助养	vu;lvvp yh;dppl	1111
 朱杨村	vu;paal yh;mvp cp;mal	3
 珠洋村	vu;wpa yh;udp cp;mal	2
-竹阳村	vu;papa yh;vlo cp;mal	2
+竹阳村	vu;z yh;vlo cp;mal	2
 煮羊肉	vu;xadd yh;dpaa rb;lvpd	196
-竹垟乡	vu;papa yh;tdp xd;vvp	2
+竹垟乡	vu;z yh;tdp xd;vvp	2
 猪殃殃	vu;qxa yh;aplv yh;aplv	345
 主要	vu;dw yk;aln	502167
 猪腰	vu;qxa yk;yal	4810
@@ -524990,22 +524990,22 @@ sort: by_weight
 主要做	vu;dw yk;aln zo;rxk	88
 主页	vu;dw ye;apb	475205
 主业	vu;dw ye;lldp	46040
-竹叶	vu;papa ye;kx	14650
+竹叶	vu;z ye;kx	14650
 逐页	vu;apdv ye;apb	7152
-竹业	vu;papa ye;lldp	5
-竹叶柴胡	vu;papa ye;kx il;lam hu;xky	2
+竹业	vu;z ye;lldp	5
+竹叶柴胡	vu;z ye;kx il;lam hu;xky	2
 主页地址	vu;dw ye;apb di;tvl vi;tla	14550
 株冶集团	vu;mpa ye;davd ji;rdm tr;lval	20
 主也就	vu;dw ye;vlv jq;daap	10
-竹叶抗氧化物	vu;papa ye;kx kh;fda yh;padp hw;rpv wu;papv	14
+竹叶抗氧化物	vu;z ye;kx kh;fda yh;padp hw;rpv wu;papv	14
 主页空间	vu;dw ye;apb ks;ddg jm;dlo	13470
-竹叶兰	vu;papa ye;kx lj;dpaa	13
-竹野内丰	vu;papa ye;lvvd nz;lvpd fg;aaal	11
-竹叶坪乡	vu;papa ye;kx py;tad xd;vvp	35
-竹叶青	vu;papa ye;kx qy;aay	5305
+竹叶兰	vu;z ye;kx lj;dpaa	13
+竹野内丰	vu;z ye;lvvd nz;lvpd fg;aaal	11
+竹叶坪乡	vu;z ye;kx py;tad xd;vvp	35
+竹叶青	vu;z ye;kx qy;aay	5305
 住也如何住	vu;rda ye;vlv ru;nk he;rak vu;rda	2
-竹叶山	vu;papa ye;kx uj;s	1280
-竹叶石膏汤	vu;papa ye;kx ui;apk gk;day th;uvp	7
+竹叶山	vu;z ye;kx uj;s	1280
+竹叶石膏汤	vu;z ye;kx ui;apk gk;day th;uvp	7
 侏夜鹰	vu;rpa ye;darp yy;darr	1
 主页制作	vu;dw ye;apb vi;pall zo;rpa	5245
 注意	vu;uda yi;dadv	501084
@@ -525013,7 +525013,7 @@ sort: by_weight
 逐一	vu;apdv yi;a	90435
 主义	vu;dw yi;dpd	36305
 助益	vu;lvvp yi;dplv	8888
-竹椅	vu;papa yi;map	2725
+竹椅	vu;z yi;map	2725
 注译	vu;uda yi;dvvd	745
 属意	vu;vapl yi;dadv	1
 注意安全	vu;uda yi;dadv an;ddn qr;rw	21955
@@ -525091,7 +525091,7 @@ sort: by_weight
 主音箱	vu;dw yn;dao xd;zml	2140
 注音字母	vu;uda yn;dao zi;ddvl mu;vvda	375
 主营	vu;dw yy;cdkk	223015
-竹影	vu;papa yy;odpp	8415
+竹影	vu;z yy;odpp	8415
 烛影	vu;hi yy;odpp	1475
 珠影	vu;wpa yy;odpp	1215
 朱缨	vu;paal yy;vvbb	13
@@ -525099,9 +525099,9 @@ sort: by_weight
 主营产品	vu;dw yy;cdkk ij;dap pn;kkk	207710
 朱樱斗帐掩流苏	vu;paal yy;mbb db;ddx vh;lvpa yj;fap lq;uda su;cvp	1
 烛影斧声	vu;hi yy;odpp fu;pdpp ug;tvl	125
-竹影海参	vu;papa yy;odpp hl;upa uf;vdpp	1
+竹影海参	vu;z yy;odpp hl;upa uf;vdpp	1
 煮硬了的蛋	vu;xadd yy;apal le;vl de;plpv dj;vli	1
-竹影清风	vu;papa yy;odpp qy;uaa fg;pvpd	93
+竹影清风	vu;z yy;odpp qy;uaa fg;pvpd	93
 主营收入	vu;dw yy;cdkk ub;vlpa ru;pd	8275
 朱樱司	vu;paal yy;mbb si;vak	178
 祝英台	vu;dvkp yy;clv tl;vdk	7180
@@ -525167,10 +525167,10 @@ sort: by_weight
 主域	vu;dw yu;tal	1840
 注语	vu;uda yu;dval	1567
 祝语	vu;dvkp yu;dval	980
-竹芋	vu;papa yu;caa	960
+竹芋	vu;z yu;caa	960
 助语	vu;lvvp yu;dval	196
-竹舆	vu;papa yu;plpd	2
-竹鱼坊	vu;papa yu;pvlv fh;tda	1
+竹舆	vu;z yu;plpd	2
+竹鱼坊	vu;z yu;pvlv fh;tda	1
 逐瘀固本	vu;apdv yu;dada gu;lvxk bf;alpd	106
 逐瘀化痰	vu;apdv yu;dada hw;rpv tj;dahh	135
 朱聿键	vu;paal yu;vaaa jm;jva	8
@@ -525179,7 +525179,7 @@ sort: by_weight
 珠玉满堂	vu;wpa yu;wd mj;uca th;ldt	3
 逐瘀片	vu;apdv yu;dada pm;plav	3
 助浴师	vu;lvvp yu;upd ui;lpal	160
-竹语堂	vu;papa yu;dval th;ldt	74
+竹语堂	vu;z yu;dval th;ldt	74
 逐瘀汤	vu;apdv yu;dada th;uvp	62
 主语言	vu;dw yu;dval yj;dak	157
 珠玉在前	vu;wpa yu;wd zl;apt qm;dpyl	935
@@ -525189,27 +525189,27 @@ sort: by_weight
 属予作文以记之	vu;vapl yu;vdvl zo;rpa wf;dapd yi;vdr ji;dvva vi;dvd	3
 住院	vu;rda yr;vldd	196185
 祝愿	vu;dvkp yr;apdv	99950
-竹园背	vu;papa yr;lvaa bz;lay	2
+竹园背	vu;z yr;lvaa bz;lay	2
 住院病人	vu;rda yr;vldd by;daal rf;r	7905
 住院部	vu;rda yr;vldd bu;davl	8375
 住院处	vu;rda yr;vldd iu;pvld	1155
-竹园村	vu;papa yr;lvaa cp;mal	157
+竹园村	vu;z yr;lvaa cp;mal	157
 祝愿大家	vu;dvkp yr;apdv da;apd jw;ddap	5985
 住院费	vu;rda yr;vldd fz;vab	7365
 住院费用	vu;rda yr;vldd fz;vab ys;pvaa	8515
 祝愿各位	vu;dvkp yr;apdv ge;pvk wz;rda	1560
 住院伙食补助费	vu;rda yr;vldd ho;rh ui;rdv bu;dvld vu;lvvp fz;vab	2134
-竹园路	vu;papa yr;lvaa lu;klpv	61
-竹苑路	vu;papa yr;cpv lu;klpv	19
+竹园路	vu;z yr;lvaa lu;klpv	61
+竹苑路	vu;z yr;cpv lu;klpv	19
 祝愿你	vu;dvkp yr;apdv ni;rpv	4980
 主元素	vu;dw yr;aapv su;aavv	271
-竹园下	vu;papa yr;lvaa xw;ald	1
+竹园下	vu;z yr;lvaa xw;ald	1
 朱元乡	vu;paal yr;aapv xd;vvp	4
-竹院乡	vu;papa yr;vldd xd;vvp	4
-竹园小区	vu;papa yr;lvaa xc;lpd qu;apdv	115
-竹苑小区	vu;papa yr;cpv xc;lpd qu;apdv	25
-竹园小学	vu;papa yr;lvaa xc;lpd xt;ddvl	182
-竹园新村	vu;papa yr;lvaa xn;dapp cp;mal	11
+竹院乡	vu;z yr;vldd xd;vvp	4
+竹园小区	vu;z yr;lvaa xc;lpd qu;apdv	115
+竹苑小区	vu;z yr;cpv xc;lpd qu;apdv	25
+竹园小学	vu;z yr;lvaa xc;lpd xt;ddvl	182
+竹园新村	vu;z yr;lvaa xn;dapp cp;mal	11
 住院医生	vu;rda yr;vldd yi;apav ug;paal	1805
 住院医师	vu;rda yr;vldd yi;apav ui;lpal	8750
 属垣有耳	vu;vapl yr;tao yb;apy er;alla	9999
@@ -525222,7 +525222,7 @@ sort: by_weight
 逐月	vu;apdv yt;y	16080
 助孕	vu;lvvp yp;vpvl	9999
 贮运	vu;bdd yp;aadv	9385
-竹韵	vu;papa yp;dapv	2365
+竹韵	vu;z yp;dapv	2365
 朱云辉	vu;paal yp;aavd hv;lddv	5
 朱云慧	vu;paal yp;aavd hv;aadv	1
 祝允明	vu;dvkp yp;vdpv my;oy	39
@@ -525237,7 +525237,7 @@ sort: by_weight
 住在附近	vu;rda zl;apt fu;vlra jn;ppdv	2235
 驻在国	vu;vvda zl;apt go;lvwd	3860
 朱载垕	vu;paal zl;xaav hb;ppt	5
-竹仔坑水库	vu;papa zl;rvl kg;tda uv;u ku;daav	1
+竹仔坑水库	vu;z zl;rvl kg;tda uv;u ku;daav	1
 猪仔论坛	vu;qxa zl;rvl lp;dvrp tj;taa	3
 主宰世界	vu;dw zl;ddda ui;alla jx;lvrp	1275
 住在一起	vu;rda zl;apt yi;a qi;tlva	20340
@@ -525272,7 +525272,7 @@ sort: by_weight
 住宅	vu;rda vl;ddpa	500314
 主宅	vu;dw vl;ddpa	885
 主债	vu;dw vl;raa	285
-竹斋	vu;papa vl;daap	72
+竹斋	vu;z vl;daap	72
 朱寨	vu;paal vl;ddm	24
 朱宅	vu;paal vl;ddpa	2
 诸宅	vu;dvxa vl;ddpa	1
@@ -525280,7 +525280,7 @@ sort: by_weight
 住宅布局	vu;rda vl;ddpa bu;aplv ju;vavl	360
 住宅补助	vu;rda vl;ddpa bu;dvld vu;lvvp	10
 住宅产业	vu;rda vl;ddpa ij;dap ye;lldp	10420
-竹窄翅舟蛾	vu;papa vl;ddpa ii;xvvd vb;ppvd ee;ipa	1
+竹窄翅舟蛾	vu;z vl;ddpa ii;xvvd vb;ppvd ee;ipa	1
 住宅地	vu;rda vl;ddpa di;tvl	625
 住宅电话	vu;rda vl;ddpa dm;lvaa hw;dvpa	5910
 住宅房	vu;rda vl;ddpa fh;dvda	4680
@@ -525293,7 +525293,7 @@ sort: by_weight
 主债权	vu;dw vl;raa qr;mvd	5395
 住宅权	vu;rda vl;ddpa qr;mvd	589
 住宅商品化	vu;rda vl;ddpa uh;dalv pn;kkk hw;rpv	860
-竹斋烧药灶	vu;papa vl;daap uk;hav yk;cvv zk;ht	1
+竹斋烧药灶	vu;z vl;daap uk;hav yk;cvv zk;ht	1
 住宅设计	vu;rda vl;ddpa ue;dvpv ji;dvx	12610
 住宅设计标准	vu;rda vl;ddpa ue;dvpv ji;dvx bc;maa vp;dard	87
 住宅市场	vu;rda vl;ddpa ui;dalv ih;tvp	9740
@@ -525324,10 +525324,10 @@ sort: by_weight
 拄杖东家分社肉	vu;fda vh;map ds;avlp jw;ddap ff;pdvp ue;dvt rb;lvpd	2
 朱张渡	vu;paal vh;vapa du;uda	18
 主账号	vu;dw vh;bpa hk;kav	66
-竹杖化龙	vu;papa vh;map hw;rpv ls;apvp	1
+竹杖化龙	vu;z vh;map hw;rpv ls;apvp	1
 柱杖落手心茫然	vu;mda vh;map lo;cup ub;f xn;dvdd mh;cud rj;pvdd	1180
 拄杖落手心茫然	vu;fda vh;map lo;cup ub;f xn;dvdd mh;cud rj;pvdd	2
-竹杖芒鞋轻胜马	vu;papa vh;map mh;cda xx;altt qy;avvd ug;ypa ma;vva	1180
+竹杖芒鞋轻胜马	vu;z vh;map mh;cda xx;altt qy;avvd ug;ypa ma;vva	1180
 主张权利	vu;dw vh;vapa qr;mvd li;pall	8355
 助长声势	vu;lvvp vh;pavd ug;tvl ui;fpvp	10
 拄杖无时夜叩门	vu;fda vh;map wu;aapv ui;oal ye;darp kb;kvl mf;dlv	1180
@@ -525342,7 +525342,7 @@ sort: by_weight
 著者	vu;cxa ve;xao	15415
 拄着	vu;fda ve;dplv	11385
 煮着	vu;xadd ve;dplv	2600
-竹蔗	vu;papa ve;cda	715
+竹蔗	vu;z ve;cda	715
 主者	vu;dw ve;xao	356
 著者的	vu;cxa ve;xao de;plpv	675
 著者目录	vu;cxa ve;xao mu;lvaa lu;vald	115
@@ -525352,7 +525352,7 @@ sort: by_weight
 助阵	vu;lvvp vf;vlav	16585
 逐帧	vu;apdv vf;lvla	9999
 主震	vu;dw vf;adap	460
-竹枕	vu;papa vf;mdv	2
+竹枕	vu;z vf;mdv	2
 主阵地	vu;dw vf;vlav di;tvl	8790
 逐帧动画	vu;apdv vf;lvla ds;aavp hw;alv	850
 朱真芳	vu;paal vf;xlpd fh;cda	74
@@ -525362,18 +525362,18 @@ sort: by_weight
 住址	vu;rda vi;tla	75860
 主旨	vu;dw vi;pvo	52365
 主治	vu;dw vi;uvd	49205
-竹制	vu;papa vi;pall	6610
-竹枝	vu;papa vi;mxv	5415
-竹纸	vu;papa vi;vvpv	810
+竹制	vu;z vi;pall	6610
+竹枝	vu;z vi;mxv	5415
+竹纸	vu;z vi;vvpv	810
 煮制	vu;xadd vi;pall	555
 主值	vu;dw vi;rxl	23
 主枝	vu;dw vi;mxv	2
 主支持	vu;dw vi;xvd ii;fta	75
-竹枝词	vu;papa vi;mxv ci;dvva	3860
+竹枝词	vu;z vi;mxv ci;dvva	3860
 主治大夫	vu;dw vi;uvd dl;apd fu;aapd	1205
 朱之蕃	vu;paal vi;dvd fj;cpd	7
-竹枝歌送菊花杯	vu;papa vi;mxv ge;akpv ss;dpdv ju;cpv hw;crp bz;map	1
-竹制品	vu;papa vi;pall pn;kkk	4585
+竹枝歌送菊花杯	vu;z vi;mxv ge;akpv ss;dpdv ju;cpv hw;crp bz;map	1
+竹制品	vu;z vi;pall pn;kkk	4585
 主值区间	vu;dw vi;rxl qu;apdv jm;dlo	5
 祝枝山	vu;dvkp vi;mxv uj;s	60
 烛之武退秦师	vu;hi vi;dvd wu;aala tv;vadv qn;aapa ui;lpal	345
@@ -525384,11 +525384,11 @@ sort: by_weight
 主治医师	vu;dw vi;uvd yi;apav ui;lpal	30250
 朱志英	vu;paal vi;tdv yy;clv	12
 朱之瑜	vu;paal vi;dvd yu;wra	2
-竹直锥大象虫	vu;papa vi;xlv vv;jrd da;apd xd;pvlv is;i	1
+竹直锥大象虫	vu;z vi;xlv vv;jrd da;apd xd;pvlv is;i	1
 注重	vu;uda vs;palv	500348
 铸钟	vu;jaa vs;jlv	1000
 朱钟	vu;paal vs;jlv	3
-竹中半兵卫	vu;papa vs;lval bj;dpaa by;plpd wz;vla	1
+竹中半兵卫	vu;z vs;lval bj;dpaa by;plpd wz;vla	1
 注重产品	vu;uda vs;palv ij;dap pn;kkk	8040
 铸钟厂	vu;jaa vs;jlv ih;ap	7
 注重感情	vu;uda vs;palv gj;apdv qy;ddaa	3333
@@ -525407,14 +525407,14 @@ sort: by_weight
 注重研究	vu;uda vs;palv yj;apaa jq;ddpv	3215
 注重眼前	vu;uda vs;palv yj;lvva qm;dpyl	905
 注重质量	vu;uda vs;palv vi;ppxb ld;oalv	5105
-竹中直人	vu;papa vs;lval vi;xlv rf;r	7
+竹中直人	vu;z vs;lval vi;xlv rf;r	7
 注重自己	vu;uda vs;palv zi;plva ji;vav	4870
 煮粥	vu;xadd vb;vadp	14800
 猪肘	vu;qxa vb;yal	4444
 主轴	vu;dw vb;avlv	3798
 诸州	vu;dvxa vb;dpdl	391
 株洲	vu;mpa vb;udp	2
-竹舟江苗族乡	vu;papa vb;ppvd jd;ug mc;clv zu;dapa xd;vvp	3
+竹舟江苗族乡	vu;z vb;ppvd jd;ug mc;clv zu;dapa xd;vvp	3
 株洲市	vu;mpa vb;udp ui;dalv	22585
 株洲市第一医院	vu;mpa vb;udp ui;dalv di;zva yi;a yi;apav yr;vldd	1
 株洲什锦菜	vu;mpa vb;udp ui;rx jn;jpl cl;cpd	11
@@ -525442,7 +525442,7 @@ sort: by_weight
 柱状四胞藻	vu;mda vd;daap si;lvpv bk;ypv zk;cuk	1
 柱状图	vu;mda vd;daap tu;lvpv	4265
 主着陆场	vu;dw vo;dplv lu;vlaa ih;tvp	485
-竹子	vu;papa zi;vla	49010
+竹子	vu;z zi;vla	49010
 柱子	vu;mda zi;vla	41130
 珠子	vu;wpa zi;vla	31335
 主子	vu;dw zi;vla	25970
@@ -525458,14 +525458,14 @@ sort: by_weight
 祝自己	vu;dvkp zi;plva ji;vav	1285
 住自己	vu;rda zi;plva ji;vav	655
 诸子阶	vu;dvxa zi;vla jx;vlrp	29
-竹子林	vu;papa zi;vla ln;mm	2455
-竹子桥	vu;papa zi;vla qc;mpa	1
+竹子林	vu;z zi;vla ln;mm	2455
+竹子桥	vu;z zi;vla qc;mpa	1
 朱自清	vu;paal zi;plva qy;uaa	15580
 珠子参	vu;wpa zi;vla uf;vdpp	1
-竹字头	vu;papa zi;ddvl tb;ddap	1111
+竹字头	vu;z zi;ddvl tb;ddap	1111
 朱紫有别	vu;paal zi;lavv yb;apy bx;kvll	1
 朱子语类	vu;paal zi;vla yu;dval lz;dpap	1640
-竹子园	vu;papa zi;vla yr;lvaa	1
+竹子园	vu;z zi;vla yr;lvaa	1
 逐字阅读	vu;apdv zi;ddvl yt;dldp du;dvxv	185
 逐字逐句	vu;apdv zi;ddvl vu;apdv ju;pvk	4875
 朱总	vu;paal zs;dpdv	4855
@@ -528903,7 +528903,7 @@ sort: by_weight
 子版块	zi;vla bj;plpp ky;tva	356
 紫斑牡丹	zi;lavv bj;wda mu;pat dj;pvd	139
 紫斑小灰蝶	zi;lavv bj;wda xc;lpd hv;aph dx;ial	1
-紫斑竹眼蝶	zi;lavv bj;wda vu;papa yj;lvva dx;ial	1
+紫斑竹眼蝶	zi;lavv bj;wda vu;z yj;lvva dx;ial	1
 自保	zi;plva bk;rkm	17950
 自报	zi;plva bk;fvl	6960
 自爆	zi;plva bk;hoa	270
@@ -532314,11 +532314,11 @@ sort: by_weight
 自助	zi;plva vu;lvvp	174650
 仔猪	zi;rvl vu;qxa	40100
 自住	zi;plva vu;rda	24860
-紫竹	zi;lavv vu;papa	19830
+紫竹	zi;lavv vu;z	19830
 锱铢	zi;jvv vu;jpa	875
 自主安全	zi;plva vu;dw an;ddn qr;rw	12
-紫竹半岛	zi;lavv vu;papa bj;dpaa dk;pvs	163
-紫竹北街	zi;lavv vu;papa bz;lapv jx;pptt	21
+紫竹半岛	zi;lavv vu;z bj;dpaa dk;pvs	163
+紫竹北街	zi;lavv vu;z bz;lapv jx;pptt	21
 锱铢必较	zi;jvv vu;jpa bi;dvdp jc;avda	1640
 自助餐	zi;plva vu;lvvp cj;lard	30950
 自助餐馆	zi;plva vu;lvvp cj;lard gr;pvdd	370
@@ -532326,7 +532326,7 @@ sort: by_weight
 自主创新	zi;plva vu;dw id;rvll xn;dapp	164335
 自主创新能力	zi;plva vu;dw id;rvll xn;dapp ng;vdpv li;vp	56205
 自主创业	zi;plva vu;dw id;rvll ye;lldp	35435
-紫竹调	zi;lavv vu;papa dc;dvpv	500
+紫竹调	zi;lavv vu;z dc;dvpv	500
 自主调动	zi;plva vu;dw dc;dvpv ds;aavp	87
 自住房	zi;plva vu;rda fh;dvda	3110
 自主访问控制	zi;plva vu;dw fh;dvda wf;dlk ks;fdd vi;pall	159
@@ -532334,14 +532334,14 @@ sort: by_weight
 自主复习	zi;plva vu;dw fu;papv xi;vda	119
 自主复制序列	zi;plva vu;dw fu;papv vi;pall xu;davd lx;apll	10
 自主管理	zi;plva vu;dw gr;zdd li;wlv	14505
-紫竹护腕	zi;lavv vu;papa hu;fdv wj;ydd	1
+紫竹护腕	zi;lavv vu;z hu;fdv wj;ydd	1
 自主化	zi;plva vu;dw hw;rpv	4885
-紫竹花	zi;lavv vu;papa hw;crp	1165
+紫竹花	zi;lavv vu;z hw;crp	1165
 自主划线	zi;plva vu;dw hw;avll xm;vvaa	192
 资助基金	zi;dab vu;lvvp ji;alt jn;j	800
 自主建设	zi;plva vu;dw jm;vavd ue;dvpv	189
 自助建站	zi;plva vu;lvvp jm;vavd vj;dala	21615
-紫竹戒指	zi;lavv vu;papa jx;aapv vi;fpv	1
+紫竹戒指	zi;lavv vu;z jx;aapv vi;fpv	1
 资助金	zi;dab vu;lvvp jn;j	4095
 自主经营	zi;plva vu;dw jy;vvvd yy;cdkk	16220
 自主开发	zi;plva vu;dw kl;aapl fa;vpvd	40690
@@ -532349,15 +532349,15 @@ sort: by_weight
 资助恐怖活动罪	zi;dab vu;lvvp ks;gpdv bu;ddap ho;upa ds;aavp zv;lvla	29
 自助链	zi;plva vu;lvvp lm;jav	85
 自助链接	zi;plva vu;lvvp lm;jav jx;fda	1980
-紫竹林	zi;lavv vu;papa ln;mm	6859
+紫竹林	zi;lavv vu;z ln;mm	6859
 自助旅行	zi;plva vu;lvvp lv;dapa xy;ppaa	6555
 自助旅游	zi;plva vu;lvvp lv;dapa yb;uda	11600
 自主命题	zi;plva vu;dw my;rak ti;oaap	112
 资助贫困	zi;dab vu;lvvp pn;pdb kp;lvm	7765
 自主品牌	zi;plva vu;dw pn;kkk pl;plpl	78775
-紫竹桥	zi;lavv vu;papa qc;mpa	3245
-紫竹桥北	zi;lavv vu;papa qc;mpa bz;lapv	4
-紫竹桥南	zi;lavv vu;papa qc;mpa nj;xlv	10
+紫竹桥	zi;lavv vu;z qc;mpa	3245
+紫竹桥北	zi;lavv vu;z qc;mpa bz;lapv	4
+紫竹桥南	zi;lavv vu;z qc;mpa nj;xlv	10
 自主权	zi;plva vu;dw qr;mvd	40680
 资助人	zi;dab vu;lvvp rf;r	5130
 自主神经	zi;plva vu;dw uf;dvlv jy;vvvd	1755
@@ -532375,8 +532375,8 @@ sort: by_weight
 自助洗车	zi;plva vu;lvvp xi;upa ie;aval	122
 自主系统	zi;plva vu;dw xi;pvv ts;vvda	38
 资助下	zi;dab vu;lvvp xw;ald	5870
-紫竹仙姬	zi;lavv vu;papa xm;rs ji;nal	1
-紫竹项链	zi;lavv vu;papa xd;gap lm;jav	1
+紫竹仙姬	zi;lavv vu;z xm;rs ji;nal	1
+紫竹项链	zi;lavv vu;z xd;gap lm;jav	1
 资助项目	zi;dab vu;lvvp xd;gap mu;lvaa	12890
 仔猪信息	zi;rvl vu;qxa xn;rda xi;pldv	3
 自主性	zi;plva vu;dw xy;ddpa	32415
@@ -532386,18 +532386,18 @@ sort: by_weight
 自主选择权	zi;plva vu;dw xr;padv ze;fvd qr;mvd	1730
 自主学习	zi;plva vu;dw xt;ddvl xi;vda	39050
 自主研发	zi;plva vu;dw yj;apaa fa;vpvd	55040
-紫竹腰带	zi;lavv vu;papa yk;yal dl;allv	1
+紫竹腰带	zi;lavv vu;z yk;yal dl;allv	1
 自助银行	zi;plva vu;lvvp yn;jva hh;ppaa	1
 自助游	zi;plva vu;lvvp yb;uda	34995
 自主预习	zi;plva vu;dw yu;vdap xi;vda	175
-紫竹院	zi;lavv vu;papa yr;vldd	5700
-紫竹苑	zi;lavv vu;papa yr;cpv	59
-紫竹园	zi;lavv vu;papa yr;lvaa	58
-紫竹院公园	zi;lavv vu;papa yr;vldd gs;pdvd yr;lvaa	449
-紫竹园公园	zi;lavv vu;papa yr;lvaa gs;pdvd yr;lvaa	2
-紫竹院路	zi;lavv vu;papa yr;vldd lu;klpv	4070
-紫竹院南门	zi;lavv vu;papa yr;vldd nj;xlv mf;dlv	11
-紫竹院社区	zi;lavv vu;papa yr;vldd ue;dvt qu;apdv	2
+紫竹院	zi;lavv vu;z yr;vldd	5700
+紫竹苑	zi;lavv vu;z yr;cpv	59
+紫竹园	zi;lavv vu;z yr;lvaa	58
+紫竹院公园	zi;lavv vu;z yr;vldd gs;pdvd yr;lvaa	449
+紫竹园公园	zi;lavv vu;z yr;lvaa gs;pdvd yr;lvaa	2
+紫竹院路	zi;lavv vu;z yr;vldd lu;klpv	4070
+紫竹院南门	zi;lavv vu;z yr;vldd nj;xlv mf;dlv	11
+紫竹院社区	zi;lavv vu;z yr;vldd ue;dvt qu;apdv	2
 自主运动	zi;plva vu;dw yp;aadv ds;aavp	90
 自主择业	zi;plva vu;dw ze;fvd ye;lldp	19295
 自主招生	zi;plva vu;dw vk;fvp ug;paal	29830
@@ -532497,7 +532497,7 @@ sort: by_weight
 总办事处	zs;dpdv bj;vpdd ui;alva iu;pvld	915
 棕斑尾鳝	zs;mdd bj;wda wz;vapa uj;pvdp	1
 总版主	zs;dpdv bj;plpp vu;dw	138635
-总斑竹	zs;dpdv bj;wda vu;papa	985
+总斑竹	zs;dpdv bj;wda vu;z	985
 总榜	zs;dpdv bh;mda	1111
 总包	zs;dpdv bk;pvva	3333
 总苞	zs;dpdv bk;cpv	9
@@ -533557,7 +533557,7 @@ sort: by_weight
 纵向垄断协议	zs;vvrr xd;plk ls;apt dr;dppp xx;xvp yi;dvdp	77
 纵向排列	zs;vvrr xd;plk pl;fla lx;apll	835
 纵向扫描	zs;vvrr xd;plk sk;fva mc;fcl	21
-粽香筒竹嫩	zs;dpdd xd;pao ts;zlv vu;papa nf;nal	1
+粽香筒竹嫩	zs;dpdd xd;pao ts;zlv vu;z nf;nal	1
 总相宜	zs;dpdv xd;mlv yi;ddlv	1320
 总想找	zs;dpdv xd;mldv vk;fav	1085
 总想着	zs;dpdv xd;mldv ve;dplv	6090
@@ -533728,7 +533728,7 @@ sort: by_weight
 宗周	zs;ddaa vb;pvtk	3595
 总周转	zs;dpdv vb;pvtk vr;avaa	1495
 宗主	zs;ddaa vu;dw	18265
-棕竹	zs;mdd vu;papa	1540
+棕竹	zs;mdd vu;z	1540
 总主编	zs;dpdv vu;dw bm;vvdv	1365
 宗主国	zs;ddaa vu;dw go;lvwd	2015
 总主教	zs;dpdv vu;dw jc;xapa	385
@@ -537048,7 +537048,7 @@ sort: by_weight
 左半结肠切除术	zo;apg bj;dpaa jx;vvtk ih;yvp qx;avvp iu;vlra uu;md	2
 做伴娘	zo;rxk bj;rdp nd;ndv	660
 左半球	zo;apg bj;dpaa qq;wal	1075
-做斑竹	zo;rxk bj;wda vu;papa	379
+做斑竹	zo;rxk bj;wda vu;z	379
 做班主任	zo;rxk bj;wdp vu;dw rf;rpa	116
 做榜样	zo;rxk bh;mda yh;mdp	1445
 左膀右臂	zo;apg bh;yda yb;apk bi;vay	2600
@@ -537642,7 +537642,7 @@ sort: by_weight
 左卡尼汀	zo;apg ka;lald ni;vapv ty;ual	9
 左卡尼汀口服液	zo;apg ka;lald ni;vapv ty;ual kb;k fu;yvl ye;uda	1
 坐看牵牛织女星	zo;rrt kj;palv qm;appa nq;paal vi;vvkp nv;n xy;opa	1180
-坐看青竹变琼枝	zo;rrt kj;palv qy;aay vu;papa bm;davd qs;wda vi;mxv	161
+坐看青竹变琼枝	zo;rrt kj;palv qy;aay vu;z bm;davd qs;wda vi;mxv	161
 坐看水色移	zo;rrt kj;palv uv;u se;pvvl yi;papv	1
 左看右看	zo;apg kj;palv yb;apk kj;palv	4970
 坐看云起时	zo;rrt kj;palv yp;aavd qi;tlva ui;oal	3915
