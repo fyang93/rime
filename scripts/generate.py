@@ -97,8 +97,6 @@ predefined = """---
 name: zrm
 version: "1.0"
 sort: by_weight  
-use_preset_vocabulary: true
-min_phrase_weight: 100
 import_tables:
   - ./dicts/custom
   - ./dicts/base

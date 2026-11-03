@@ -2,8 +2,6 @@
 name: pinyin
 version: "1.0"
 sort: by_weight  
-use_preset_vocabulary: true
-min_phrase_weight: 100
 import_tables:
   - ./scripts/dicts/8105
   - ./scripts/dicts/41448

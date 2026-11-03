@@ -266,6 +266,8 @@ class JD6Tests(unittest.TestCase):
             finally:
                 os.chdir(previous)
             generated = (Path(folder) / 'zrm.dict.yaml').read_text()
+            self.assertNotIn('use_preset_vocabulary:', generated)
+            self.assertNotIn('min_phrase_weight:', generated)
             expected = {f'甲\tjw;{"".join(keys)}\t577'
                         for keys in product(*(self.parts[root] for root in shape))}
             expected.update({'乙\tyi;\t100', '乙\tye;\t50'})
