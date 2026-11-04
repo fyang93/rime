@@ -6,8 +6,9 @@ os.chdir(ROOT / 'scripts')
 # --- former notebook cell 1 ---
 import re
 from collections import defaultdict
-from itertools import chain, product
+from itertools import product
 
+from jd6 import dictionary_characters, load_table
 from zrm_pinyin import to_double
 
 
@@ -20,74 +21,32 @@ def split_zh_en(text):
     pattern = re.compile(r'[^a-zA-Z]|[a-zA-Z]+')
     return pattern.findall(text)
 # --- former notebook cell 3 ---
-# 是否使用41448大字表
-enable_40k = False
+# 字表与词库均取万象 Lite（无调全拼），见 scripts/dicts/wanxiang
+CHARS = 'dicts/wanxiang/zi.lite.dict.yaml'
+WORDS = ('jichu', 'cuoyin', 'duoyin', 'diming', 'mingren', 'yiren')
 
+targets = dictionary_characters()
 standard = set()
 
-with open('dicts/8105.dict.yaml', encoding='utf-8') as f:
+with open(CHARS, encoding='utf-8') as f:
     for line in f:
         line = line.rstrip()
         if re.match(r'^.\t\w+(\t\d+)?$', line):
             standard.add(line.split('\t')[0])
 
-if enable_40k:
-    with open('dicts/41448.dict.yaml', encoding='utf-8') as f:
-        for line in f:
-            line = line.rstrip()
-            if re.match(r'^.\t\w+(\t\d+)?$', line):
-                standard.add(line.split('\t')[0])
-
-# 键道6
+# 拼好字17组字根；别名只在形码中展开，词库使用首个规范码。
 parts = {
-    '一': 'a', # jd6默认 v
-    '贝': 'b', # jd6默认 ao
-    '草': 'c', # jd6默认 ii
-    '丶': 'd',
-    # e
-    '手': 'f', # jd6默认 iu
-    # g
-    '火': 'h',
-    '犭': 'q',
-    '豸': 'q',
-    '虫': 'i', # i=ch
-    '金': 'j', # jd6默认 io
-    '口': 'k', # jd6默认 o
-    '丨': 'l',
-    '木': 'm', # jd6默认 v
-    '女': 'n',
-    '竹': 'z',
-    '⺮': 'z',
-    '山': 's',
-    '王': 'w',
-    '工': 'g',
-    '日': ('o', 'e'), # 两码均可表达日
-    '丿': 'p',
-    # q
-    '人': 'r', # jd6默认 i
-    '土': 't', # jd6默认 vo
-    '士': 't', # jd6默认 vo
-    # u=sh
-    '水': 'u', # jd6默认 a
-    '十': 'x', # jd6默认 uo
-    '乛': 'v',
-    '月': 'y', # jd6默认 u
+    '一': 'a', '丨': 'l', '丿': ('p', 'n'), '丶': 'd', '乛': 'v',
+    '日': ('o', 'e'), '月': 'y', '金': 'j', '木': 'm', '水': 'u',
+    '火': 'h', '土': 't', '士': 't', '人': 'r', '手': 'f',
+    '口': 'k', '十': 'x', '草': 'c',
 }
 
 def get_chaizi(path):
-    with open(path, 'r', encoding='utf-8') as f:
-        chaizi = {}
-        for line in f:
-            line = line.rstrip()
-            if not line or line.startswith('#'):
-                continue
-            char, decomposition, status, _ = line.split('\t', 3)
-            if char not in standard or status == '待补':
-                continue
-            chaizi[char] = decomposition
-        return chaizi
+    return {char: shape for char, (shape, status, _) in load_table(Path(path)).items()
+            if char in targets and char in standard and status != '待补'}
 
-chaizi_jd6 = get_chaizi('./dicts/chaizi_jd6_v2.txt')
+chaizi_jd6 = get_chaizi('./dicts/chaizi_phz.txt')
 xcodes = {key: [''.join(code) for code in product(*(parts[c] if isinstance(parts[c], tuple) else (parts[c],) for c in value))] for key, value in chaizi_jd6.items()}
 
 missing = set()
@@ -99,16 +58,13 @@ version: "1.0"
 sort: by_weight  
 import_tables:
   - ./dicts/custom
-  - ./dicts/base
-  - ./dicts/ext
-...
+""" + ''.join(f'  - ./dicts/{name}.lite\n' for name in WORDS) + """...
 
 """
 
-with open('../zrm.dict.yaml', 'w', encoding='utf-8') as f1, open('dicts/8105.dict.yaml', encoding='utf-8') as f2, open('dicts/41448.dict.yaml', encoding='utf-8') as f3:
+with open('../zrm.dict.yaml', 'w', encoding='utf-8') as f1, open(CHARS, encoding='utf-8') as f2:
     f1.write(predefined)
-    lines = chain(f2, f3) if enable_40k else f2
-    for line in lines:
+    for line in f2:
         line = line.rstrip()
         if re.match(r'^.\t\w+(\t\d+)?$', line):
             fields = line.split('\t')
@@ -126,8 +82,8 @@ with open('../zrm.dict.yaml', 'w', encoding='utf-8') as f1, open('dicts/8105.dic
                 missing.add(char)
                 f1.write(f"{char}\t{to_double(pinyin)};\t{freq}\n")
 
-print(f"{len(missing)}个字的辅助码缺失：{missing}")
-print(f"{len(multiple)}个字存在多个辅助码：{multiple}")
+print(f"{len(missing)}个字无形码（仅纯音）")
+print(f"{len(xcodes.keys() & standard)}个字有形码，其中{len(multiple)}个有多个（日 o/e、丿 p/n）")
 # --- former notebook cell 7 ---
 zrm_phones = defaultdict(list)
 zrm_codes = {}
@@ -140,7 +96,7 @@ with open(zrm_path, encoding='utf-8') as f:
     char, code = line.rstrip().split('\t')[:2]
     yin, xing = code.split(';')
     zrm_phones[char].append(yin)
-    zrm_codes.setdefault(char, xing) # 多个日别码中保留首个 o 码作为词库规范码
+    zrm_codes.setdefault(char, xing) # 别名中保留首个 o/p 码作为词库规范码
 
 def convert_pinyin(infile, outfile, override_freq=None):
   with open(infile, encoding='utf-8') as f1, open(outfile, 'w', encoding='utf-8') as f2:
@@ -178,5 +134,5 @@ def convert_pinyin(infile, outfile, override_freq=None):
 convert_pinyin('./dicts/custom.dict.yaml', '../dicts/custom.dict.yaml', override_freq=10000)
 
 # --- former notebook cell 11 ---
-convert_pinyin('./dicts/base.dict.yaml', '../dicts/base.dict.yaml')
-convert_pinyin('./dicts/ext.dict.yaml', '../dicts/ext.dict.yaml')
+for name in WORDS:
+  convert_pinyin(f'./dicts/wanxiang/{name}.lite.dict.yaml', f'../dicts/{name}.lite.dict.yaml')

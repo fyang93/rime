@@ -13,3 +13,16 @@ lua/jiangen_bridge.so
 __pycache__/
 /models/jiangen/*.pt
 /models/jiangen/*.json
+*.gram.part
+
+# 形码重建的中间产物：只保留批次、输出、逐字台账和问答报告
+scripts/dicts/recode/*
+!scripts/dicts/recode/batches/
+!scripts/dicts/recode/out/
+!scripts/dicts/recode/reviews/
+!scripts/dicts/recode/ANSWERS.md
+!scripts/dicts/recode/QUESTIONS.md
+!scripts/dicts/recode/REPORT.md
+scripts/dicts/recode/reviews/*
+!scripts/dicts/recode/reviews/round4-*.tsv
+scripts/dicts/recode/out/*/

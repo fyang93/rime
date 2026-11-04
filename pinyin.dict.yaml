@@ -1,11 +1,14 @@
 ---
 name: pinyin
 version: "1.0"
-sort: by_weight  
+sort: by_weight
 import_tables:
-  - ./scripts/dicts/8105
-  - ./scripts/dicts/41448
   - ./scripts/dicts/custom
-  - ./scripts/dicts/base
-  - ./scripts/dicts/ext
+  - ./scripts/dicts/wanxiang/zi.lite
+  - ./scripts/dicts/wanxiang/jichu.lite
+  - ./scripts/dicts/wanxiang/cuoyin.lite
+  - ./scripts/dicts/wanxiang/duoyin.lite
+  - ./scripts/dicts/wanxiang/diming.lite
+  - ./scripts/dicts/wanxiang/mingren.lite
+  - ./scripts/dicts/wanxiang/yiren.lite
 ...

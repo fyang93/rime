@@ -15,7 +15,7 @@ class NaturalCodeTests(unittest.TestCase):
             if len(fields) >= 2 and len(fields[0]) == 1 and ';' in fields[1]:
                 generated.setdefault(fields[0], set()).add(fields[1].split(';')[0])
         count = 0
-        for line in (ROOT / 'scripts/dicts/8105.dict.yaml').read_text(encoding='utf-8').splitlines():
+        for line in (ROOT / 'scripts/dicts/wanxiang/zi.lite.dict.yaml').read_text(encoding='utf-8').splitlines():
             fields = line.split('\t')
             if len(fields) >= 2 and len(fields[0]) == 1 and re.fullmatch('[a-z]+', fields[1]):
                 self.assertIn(to_double(fields[1]), generated[fields[0]], line)

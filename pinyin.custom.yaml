@@ -3,6 +3,10 @@ patch:
     language: wanxiang-lts-zh-hans
     collocation_max_length: 5
     collocation_min_length: 2
+    collocation_penalty: -14
+    non_collocation_penalty: -6
+    weak_collocation_penalty: -100
+    rear_penalty: -18
   translator/contextual_suggestions: false
   translator/max_homophones: 7
   translator/max_homographs: 7

@@ -28,9 +28,13 @@ switches:
   - name: full_shape
     states: [半角, 全角]
     reset: 0
+  - name: context_reorder # 上下文调序，见 lua/wanxiang/context_reorder.lua
+    states: [上下文关, 上下文开]
+    reset: 1
 
 engine:
   processors:
+    - lua_processor@*wanxiang.context_reorder*P # 上下文调序：记录上屏、退格回滚
     - ascii_composer
     - recognizer
     - key_binder
@@ -48,11 +52,12 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - table_translator@top_single_char # 固顶单字
     - table_translator@custom_phrase # 自定义短语
     - table_translator@latex # 数学符号输入
+    - script_translator@user_dict_set # 自动造出的词
   filters:
-    - simplifier
+    - lua_filter@*wanxiang.context_reorder*F
+    - lua_filter@*wanxiang.auto_phrase # 自动造词，并格式化注释
     - simplifier@emoji
     - simplifier@traditionalize
     - uniquifier
@@ -61,16 +66,26 @@ speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;\'
   delimiter: " '"
   algebra:
+    # 日根 o/e 两键通用：词组只存 o，逐位派生 e（只有日用这两个键）
+    - derive/^(\w+;)o/$1e/
+    - derive/^(\w+;\w)o/$1e/
+    - derive/^(\w+;\w{2})o/$1e/
+    - derive/^(\w+;\w{3})o/$1e/
+    # 丿 p/n 两键通用：码表只存 p，逐位派生 n（只有丿用这两个键）
+    - derive/^(\w+;)p/$1n/
+    - derive/^(\w+;\w)p/$1n/
+    - derive/^(\w+;\w{2})p/$1n/
+    - derive/^(\w+;\w{3})p/$1n/
     - derive/^(\w+);\w*$/$1/ # 未补形码的字也能用纯音码输入
     - derive/^(\w+);\w*$/$1;/ # 解除注释可能会把形码作为音码识别
-    - derive/^(\w+);(\w{1})\w+$/$1;$2/
+    - derive/^(\w+);(\w{1})\w+$/$1;$2/ # 形码前缀；完整命中的字由 auto_phrase.lua 排前
     - derive/^(\w+);(\w{2})\w+$/$1;$2/
     - derive/^(\w+);(\w{3})\w+$/$1;$2/
     - derive/^(\w+);(\w+)$/jj;$2/ # 不知道读音只知道写法的时候用
 
 translator:
   dictionary: zrm
-  enable_sentence: false # 自动造句
+  enable_sentence: true # 自动造句，配合语法模型
   enable_encoder: false # 自动造词
   enable_user_dict: false # 禁用用户词典，rime的调频算法真尼玛垃圾，不如不要
   # enable_user_dict: true
@@ -78,12 +93,37 @@ translator:
   #   - ^[a-z]{1,2}$
   #   - ^[a-z]{2};[a-z]+$
   spelling_hints: 8 # 设置多少字以内候选标注完整编码
+  always_show_comments: true # 自动造词要读完整编码；显示格式见 auto_phrase/comment_format
+
+# 只装自动造出的词；主翻译器仍不调频
+user_dict_set:
+  dictionary: zrm
+  prism: zrm
+  initial_quality: -1.5 # 低于主翻译器，同词时保留主翻译器候选
+  enable_completion: false
+  enable_sentence: false
+  max_homophones: 7
+  spelling_hints: 8
+  always_show_comments: true
+  enable_user_dict: true
+  user_dict: zrm_zc
+
+# auto_phrase.lua 写入 zrm_zc 用（不挂翻译器、无造词前缀）
+add_user_dict:
+  dictionary: zrm
+  prism: zrm
+  enable_user_dict: true
+  enable_auto_phrase: true
+  user_dict: zrm_zc
+
+auto_phrase:
   comment_format: # 自定义提示码
     - xform/^.*[a-z]{2};//
 
 key_binder:
   import_preset: default
   bindings:
+    - { accept: Tab, send: Right, when: composing } # Tab 按音节右移；rime-prelude 2025-12 起默认改为切换候选
     - { accept: "Shift+ISO_Left_Tab", send: Left, when: composing }
 
 recognizer:
@@ -99,14 +139,6 @@ custom_phrase:
   enable_completion: false # 提前显示尚未输入完整码的字
   enable_sentence: false # 是否开启自动造句
   initial_quality: 10 # 优先级，如果想要自定义的词排在前面，这个值尽量设大一点
-
-top_single_char:
-  dictionary: ""
-  user_dict: ./dicts/top_single_char
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
 
 latex:
   dictionary: latex
