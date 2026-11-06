@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1060" height="460" viewBox="0 0 1060 460" role="img" aria-labelledby="title description">
 <title id="title">拼好字17组字根键位图</title>
 <desc id="description">QWERTY字母键盘。e：日；r：人/亻；t：土士；y：月；u：水/氵/氺；h：火；o：日；p：丿；s：丿；a：一；d：丶；f：手；j：金；k：口；l：丨；x：十；c：草；v：乛；n：不用；m：木。日支持o和e，e不是另一个字根；虚线着色键为笔画键；q、w、i、g、z、b不用；艹在码表中规范写草。</desc>
-<style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif}.letter{font-size:15px;font-weight:700;fill:#52617b}.root{font-size:34px;font-weight:500;fill:#142d4e}.note{font-size:11px;fill:#61718b}.stroke-key rect{fill:#fff0e8;stroke:#c77c5a;stroke-dasharray:5 3}</style>
+<style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif}.letter{font-size:15px;font-weight:700;fill:#52617b}.root{font-size:34px;font-weight:500;fill:#142d4e}.alias{font-size:12px;fill:#61718b}.note{font-size:11px;fill:#61718b}.stroke-key rect{fill:#fff0e8;stroke:#c77c5a;stroke-dasharray:5 3}</style>
 <rect x="1" y="1" width="1058" height="458" rx="20" fill="#f7f9fc" stroke="#d6dfeb"/>
 <text x="45" y="47" font-size="26" font-weight="700" fill="#142d4e">拼好字 · 字根键位</text>
 <text x="45" y="72" font-size="14" fill="#61718b">17组字根 · 日 o/e、丿 p/s 双码 · 笔画键用虚线区分 · QWERTY 布局</text>
@@ -24,12 +24,14 @@
 <g data-key="r" data-roots="人" data-alias="false" transform="translate(339 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">R</text>
-<text class="root" style="font-size:25px" x="44" y="57" text-anchor="middle">人 / 亻</text>
+<text class="root" x="44" y="60" text-anchor="middle">人</text>
+<text class="alias" x="78" y="77" text-anchor="end">亻</text>
 </g>
 <g data-key="t" data-roots="土士" data-alias="false" transform="translate(437 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">T</text>
-<text class="root" style="font-size:25px" x="44" y="57" text-anchor="middle">土 / 士</text>
+<text class="root" x="44" y="60" text-anchor="middle">土</text>
+<text class="alias" x="78" y="77" text-anchor="end">士</text>
 </g>
 <g data-key="y" data-roots="月" data-alias="false" transform="translate(535 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
@@ -39,7 +41,8 @@
 <g data-key="u" data-roots="水" data-alias="false" transform="translate(633 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">U</text>
-<text class="root" style="font-size:22px" x="44" y="57" text-anchor="middle">水 / 氵 / 氺</text>
+<text class="root" x="44" y="60" text-anchor="middle">水</text>
+<text class="alias" x="78" y="77" text-anchor="end">氵 / 氺</text>
 </g>
 <g data-key="i" data-roots="" data-alias="false" transform="translate(731 100)">
 <rect width="88" height="88" rx="10" fill="#f2f4f7" stroke="#e1e6ee"/>
@@ -76,7 +79,8 @@
 <g data-key="f" data-roots="手扌" data-alias="false" transform="translate(388 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">F</text>
-<text class="root" style="font-size:25px" x="44" y="57" text-anchor="middle">手 / 扌</text>
+<text class="root" x="44" y="60" text-anchor="middle">手</text>
+<text class="alias" x="78" y="77" text-anchor="end">扌</text>
 </g>
 <g data-key="g" data-roots="" data-alias="false" transform="translate(486 199)">
 <rect width="88" height="88" rx="10" fill="#f2f4f7" stroke="#e1e6ee"/>
@@ -90,7 +94,8 @@
 <g data-key="j" data-roots="金钅" data-alias="false" transform="translate(682 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">J</text>
-<text class="root" style="font-size:25px" x="44" y="57" text-anchor="middle">金 / 钅</text>
+<text class="root" x="44" y="60" text-anchor="middle">金</text>
+<text class="alias" x="78" y="77" text-anchor="end">钅</text>
 </g>
 <g data-key="k" data-roots="口" data-alias="false" transform="translate(780 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
@@ -133,6 +138,7 @@
 <g data-key="m" data-roots="木" data-alias="false" transform="translate(731 298)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">M</text>
-<text class="root" x="44" y="57" text-anchor="middle">木</text>
+<text class="root" x="44" y="60" text-anchor="middle">木</text>
+<text class="alias" x="78" y="77" text-anchor="end">朩</text>
 </g>
 </svg>
