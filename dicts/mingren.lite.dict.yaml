@@ -1754,7 +1754,7 @@ sort: by_weight
 瓦特	wa;avvd te;pat	917
 婉容	wj;vpdd rs;ddpd	141
 完颜	wj;ddaa yj;daap	769
-王贲	wh;aala bf;xlv	163
+王贲	wh;aala bf;xclv	163
 王弼	wh;aala bi;vaap	308
 王勃	wh;aala bo;xvp	178
 王粲	wh;aala cj;ladp	530
@@ -2353,7 +2353,7 @@ sort: by_weight
 曾子	zg;dpo zi;vla	873
 查理	va;mo li;aalv	3473
 扎西	va;fv xi;alvp	314
-展堂	vj;vaal th;ldt	795
+展堂	vj;vaal th;ldkt	795
 张敖	vh;vapa ao;aapa	122
 张宝	vh;vapa bk;ddaa	178
 张斌	vh;vapa bn;daaa	4206
@@ -2833,9 +2833,9 @@ sort: by_weight
 白吟霜	bl;plva yn;kr ud;adm	230
 白永祥	bl;plva ys;dvvp xd;dvdp	50
 白玉蟾	bl;plva yu;aala ij;lvpv	468
-白玉堂	bl;plva yu;aala th;ldt	57
+白玉堂	bl;plva yu;aala th;ldkt	57
 白月初	bl;plva yt;y iu;dvvp	320
-白展堂	bl;plva vj;vaal th;ldt	1586
+白展堂	bl;plva vj;vaal th;ldkt	1586
 白芝浩	bl;plva vi;cdv hk;upa	328
 白志伟	bl;plva vi;tdv wz;raa	73
 白重恩	bl;plva vs;palv en;lvdv	19
@@ -3416,7 +3416,7 @@ sort: by_weight
 陈忠实	if;vlav vs;lvdv ui;dddd	414
 陈仲子	if;vlav vs;rlv zi;vla	52
 陈子昂	if;vlav zi;vla ah;opv	349
-成步堂	ig;apvv bu;lalp th;ldt	742
+成步堂	ig;apvv bu;lalp th;ldkt	742
 成得臣	ig;apvv de;ppo if;alva	369
 程端礼	ig;pak dr;dalv li;dvv	207
 成仿吾	ig;apvv fh;rda wu;alk	63
@@ -3938,7 +3938,7 @@ sort: by_weight
 丁小柔	dy;al xc;lpd rb;vdm	50
 丁义珍	dy;al yi;dpd vf;aar	110
 碇元渡	dy;apdd yr;aapv du;uda	320
-碇源堂	dy;apdd yr;uap th;ldt	1206
+碇源堂	dy;apdd yr;uap th;ldkt	1206
 丁元英	dy;al yr;aapv yy;clv	248
 丁肇中	dy;al vk;dvva vs;lval	148
 碇真嗣	dy;apdd vf;xpd si;kva	1460
@@ -4077,7 +4077,7 @@ sort: by_weight
 董云虎	ds;cpa yp;aavd hu;lapv	342
 董占林	ds;cpa vj;lak ln;mm	234
 董昭仪	ds;cpa vk;ovp yi;rdp	238
-董振堂	ds;cpa vf;fap th;ldt	38
+董振堂	ds;cpa vf;fap th;ldkt	38
 董政国	ds;cpa vg;alpa go;lvaa	274
 董枝明	ds;cpa vi;mx my;oy	464
 董志强	ds;cpa vi;tdv qd;vak	364
@@ -4674,7 +4674,7 @@ sort: by_weight
 傅子纯	fu;ral zi;vla ip;vvav	342
 傅自得	fu;ral zi;plva de;ppo	162
 宓子贱	fu;dddv zi;vla jm;lvaa	279
-付子堂	fu;ral zi;vla th;ldt	255
+付子堂	fu;ral zi;vla th;ldkt	255
 傅自应	fu;ral zi;plva yy;dadd	423
 傅宗龙	fu;ral zs;ddaa ls;apvp	608
 傅作义	fu;ral zo;rpa yi;dpd	659
@@ -4776,7 +4776,7 @@ sort: by_weight
 高陵君	gk;dak ly;vlt jp;vak	306
 高隆之	gk;dak ls;vlpv vi;dvd	369
 高罗佩	gk;dak lo;lvpv pz;rpv	28
-高满堂	gk;dak mj;uc th;ldt	504
+高满堂	gk;dak mj;uc th;ldkt	504
 高美男	gk;dak mz;dpap nj;lvvp	207
 高梦旦	gk;dak mg;mmpv dj;oa	243
 高名衡	gk;dak my;pvk hg;pppv	540
@@ -4822,8 +4822,8 @@ sort: by_weight
 高太后	gk;dak tl;apdd hb;ppk	558
 高太尉	gk;dak tl;apdd wz;vaal	151
 高昙晟	gk;dak tj;oaa ig;oap	288
-高堂隆	gk;dak th;ldt ls;vlpv	351
-高堂生	gk;dak th;ldt ug;paal	279
+高堂隆	gk;dak th;ldkt ls;vlpv	351
+高堂生	gk;dak th;ldkt ug;paal	279
 高滔滔	gk;dak tk;upd tk;upd	302
 高畑勋	gk;dak tm;hlv xp;kvp	612
 高天尊	gk;dak tm;aapd zp;dpal	60
@@ -5253,7 +5253,7 @@ sort: by_weight
 郭凡生	go;davl fj;pvd ug;paal	41
 郭奉孝	go;davl fg;aaaa xc;xvl	72
 郭芙蓉	go;davl fu;caa rs;cdd	570
-郭刚堂	go;davl gh;lvll th;ldt	756
+郭刚堂	go;davl gh;lvll th;ldkt	756
 果戈里	go;lvaa ge;avpd li;lvaa	154
 果戈理	go;lvaa ge;avpd li;aalv	139
 郭广昌	go;davl gd;dap ih;oo	742
@@ -5334,7 +5334,7 @@ sort: by_weight
 海森堡	hl;upa sf;mmm bk;rkt	1589
 海森伯	hl;upa sf;mmm bo;rpl	66
 海什木	hl;upa ui;rx mu;m	432
-海堂薰	hl;upa th;ldt xp;cpa	306
+海堂薰	hl;upa th;ldkt xp;cpa	306
 海廷加	hl;upa ty;pavd jw;vpk	22
 海沃德	hl;upa wo;upa de;ppx	543
 海西公	hl;upa xi;alvp gs;pdvd	9
@@ -5961,7 +5961,7 @@ sort: by_weight
 胡玉兰	hu;xky yu;aala lj;dpaa	486
 户愚吕	hu;dvap yu;lvdv lv;kk	500
 胡煜清	hu;xky yu;ho qy;uaa	315
-胡玉堂	hu;xky yu;aala th;ldt	284
+胡玉堂	hu;xky yu;aala th;ldkt	284
 胡玉亭	hu;xky yu;aala ty;dak	400
 胡俞越	hu;xky yu;ray yt;tav	279
 胡愈之	hu;xky yu;rdv vi;dvd	25
@@ -6213,7 +6213,7 @@ sort: by_weight
 黄明端	hd;allv my;oy dr;dalv	72
 黄鸣俊	hd;allv my;kpv jp;rvd	171
 黄鸣龙	hd;allv my;kpv ls;apvp	25
-黄明堂	hd;allv my;oy th;ldt	396
+黄明堂	hd;allv my;oy th;ldkt	396
 黄明正	hd;allv my;oy vg;alal	220
 黄明宗	hd;allv my;oy zs;ddaa	252
 黄牧甫	hd;allv mu;papa fu;alva	53
@@ -6627,7 +6627,7 @@ sort: by_weight
 贾斯瓦	jw;allv si;alpp wa;avvd	189
 贾思勰	jw;allv si;lvdv xx;vplv	113
 加索尔	jw;vpk so;xvv er;pvlp	1579
-贾锁堂	jw;allv so;jld th;ldt	256
+贾锁堂	jw;allv so;jld th;ldkt	256
 贾所学	jw;allv so;pppp xt;ddvl	4
 加藤断	jw;vpk tg;cy dr;dppp	57
 加藤惠	jw;vpk tg;cy hv;aldv	239
@@ -7902,7 +7902,7 @@ sort: by_weight
 林希妤	ln;mm xi;pdap yu;vpvd	3
 林下樗	ln;mm xw;ald iu;mad	4
 林仙儿	ln;mm xm;rlv er;pv	598
-林献堂	ln;mm xm;xap th;ldt	657
+林献堂	ln;mm xm;xap th;ldkt	657
 林贤治	ln;mm xm;lllv vi;uvd	405
 林祥谦	ln;mm xd;dvdp qm;dvdp	450
 蔺相如	ln;cdl xd;mlv ru;vpk	625
@@ -7922,7 +7922,7 @@ sort: by_weight
 林玉芬	ln;mm yu;aala ff;cpd	387
 林育南	ln;mm yu;day nj;xlv	441
 林毓生	ln;mm yu;pada ug;paal	236
-林语堂	ln;mm yu;dval th;ldt	1718
+林语堂	ln;mm yu;dval th;ldkt	1718
 林育英	ln;mm yu;day yy;clv	508
 林远图	ln;mm yr;aadv tu;lvpv	60
 林岳平	ln;mm yt;pllv py;adpa	396
@@ -8086,14 +8086,14 @@ sort: by_weight
 陆步轩	lu;vlaa bu;lalp xr;avaa	60
 陆长源	lu;vlaa ih;pavd yr;uap	292
 陆乘风	lu;vlaa ig;pala fg;pvpd	13
-鹿传霖	lu;daav ir;raa ln;admm	3
+鹿传霖	lu;davl ir;raa ln;admm	3
 陆春龄	lu;vlaa ip;aao ly;lar	288
 陆次云	lu;vlaa ci;dapv yp;aavd	194
 陆大有	lu;vlaa da;apd yb;apy	69
 陆丹林	lu;vlaa dj;pvda ln;mm	207
 陆德明	lu;vlaa de;ppx my;oy	41
 卢德铭	lu;lava de;ppx my;jpv	37
-鹿地亘	lu;daav di;tvl gf;aoa	364
+鹿地亘	lu;davl di;tvl gf;aoa	364
 鲁涤平	lu;pvo di;upv py;adpa	13
 陆定一	lu;vlaa dy;ddal yi;a	31
 陆东福	lu;vlaa ds;avlp fu;dvak	3
@@ -8137,7 +8137,7 @@ sort: by_weight
 陆侃如	lu;vlaa kj;rk ru;vpk	418
 陆克文	lu;vlaa ke;xkpv wf;dapd	47
 卢克肖	lu;lava ke;xkpv xc;ldy	716
-陆肯堂	lu;vlaa kf;lay th;ldt	238
+陆肯堂	lu;vlaa kf;lay th;ldkt	238
 陆兰秀	lu;vlaa lj;dpaa xq;pavp	284
 卢楞伽	lu;lava lg;mlv jw;rvp	212
 陆励成	lu;vlaa li;apvp ig;apvv	567
@@ -8154,13 +8154,13 @@ sort: by_weight
 路明非	lu;kpv my;oy fz;lala	824
 路鸣泽	lu;kpv my;kpv ze;uvd	261
 鲁穆公	lu;pvo mu;papl gs;pdvd	38
-鹿目圆	lu;daav mu;lvaa yr;lvkl	41
+鹿目圆	lu;davl mu;lvaa yr;lvkl	41
 卢慕贞	lu;lava mu;cold vf;lalv	6
 露娜拉	lu;adk na;vpva la;fda	19
 卢南樵	lu;lava nj;xlv qc;mr	3
 陆平原	lu;vlaa py;adpa yr;appl	508
 露琪亚	lu;adk qi;aaal ya;alld	958
-鹿虔扆	lu;daav qm;lada yi;dvda	162
+鹿虔扆	lu;davl qm;lada yi;dvda	162
 陆桥山	lu;vlaa qc;mpa uj;lvl	310
 卢芹斋	lu;lava qn;cpp vl;daap	486
 陆刃波	lu;vlaa rf;vpd bo;uvp	392
@@ -8171,7 +8171,7 @@ sort: by_weight
 陆三金	lu;vlaa sj;aaa jn;j	82
 卢瑟福	lu;lava se;aadv fu;dvak	584
 卢沙野	lu;lava ua;ulp ye;lvvd	25
-鹿善继	lu;daav uj;dpk ji;vvdp	279
+鹿善继	lu;davl uj;dpk ji;vvdp	279
 卢师谛	lu;lava ui;lpal di;dvda	464
 陆士谔	lu;vlaa ui;t ee;dvkk	356
 陆士衡	lu;vlaa ui;t hg;pppv	252
@@ -8209,7 +8209,7 @@ sort: by_weight
 陆小千	lu;vlaa xc;lpd qm;pal	3
 卢小鱼	lu;lava xc;lpd yu;pvlv	25
 卢新宁	lu;lava xn;dapp ny;ddal	315
-鹿心社	lu;daav xn;dvdd ue;dvt	3
+鹿心社	lu;davl xn;dvdd ue;dvt	3
 陆心源	lu;vlaa xn;dvdd yr;uap	28
 卢兴邦	lu;lava xy;ddpd bh;aavl	418
 陆星儿	lu;vlaa xy;opa er;pv	518
@@ -8222,7 +8222,7 @@ sort: by_weight
 陆雪琪	lu;vlaa xt;adva qi;aaal	72
 陆学艺	lu;vlaa xt;ddvl yi;cv	3
 路学长	lu;kpv xt;ddvl vh;pavd	85
-鹿晏弘	lu;daav yj;odd hs;vavd	279
+鹿晏弘	lu;davl yj;odd hs;vavd	279
 陆俨少	lu;vlaa yj;ral uk;lpdp	44
 陆焉识	lu;vlaa yj;alav ui;dvk	471
 卢彦勋	lu;lava yj;dapp xp;kvp	526
@@ -8243,9 +8243,9 @@ sort: by_weight
 陆展博	lu;vlaa vj;vaal bo;xal	369
 卢展工	lu;lava vj;vaal gs;ala	3
 陆展元	lu;vlaa vj;vaal yr;aapv	19
-鹿杖客	lu;daav vh;map ke;ddpv	107
+鹿杖客	lu;davl vh;map ke;ddpv	107
 鲁昭公	lu;pvo vk;ovp gs;pdvd	31
-鹿兆海	lu;daav vk;pdav hl;upa	3
+鹿兆海	lu;davl vk;pdav hl;upa	3
 卢照邻	lu;lava vk;odd ln;rvl	94
 陆兆禧	lu;vlaa vk;pdav xi;dvtk	122
 陆振华	lu;vlaa vf;fap hw;rx	464
@@ -8262,7 +8262,7 @@ sort: by_weight
 陆治原	lu;vlaa vi;uvd yr;appl	208
 路志正	lu;kpv vi;tdv vg;alal	410
 陆仲亨	lu;vlaa vs;rlv hg;dak	320
-鹿钟麟	lu;daav vs;jlv ln;dadp	47
+鹿钟麟	lu;davl vs;jlv ln;dadp	47
 卢中南	lu;lava vs;lval nj;xlv	536
 鲁庄公	lu;pvo vd;dat gs;pdvd	229
 陆子刚	lu;vlaa zi;vla gh;lvll	418
@@ -8881,7 +8881,7 @@ sort: by_weight
 敏昂莱	mn;papa ah;opv ll;cad	558
 闵采尔	mn;dlda cl;pdm er;pvlp	9
 民粹派	mn;vava cv;dpda pl;upp	9
-闵鹿蕾	mn;dlda lu;daav lz;cad	41
+闵鹿蕾	mn;dlda lu;davl lz;cad	41
 闵升镐	mn;dlda ug;papl gk;jda	297
 闵嗣鹤	mn;dlda si;kva he;dvpv	252
 闵子骞	mn;dlda zi;vla qm;ddvv	558
@@ -9397,7 +9397,7 @@ sort: by_weight
 潘金莲	pj;upd jn;j lm;cav	1831
 潘静淑	pj;upd jy;aapv uu;ula	189
 潘景寅	pj;upd jy;oda yn;ddal	324
-潘九堂	pj;upd jq;pv th;ldt	490
+潘九堂	pj;upd jq;pv th;ldkt	490
 潘矩楹	pj;upd ju;paav yy;mvp	297
 潘乐陶	pj;upd le;pvlp tk;vlpv	328
 潘勒韦	pj;upd le;alvp wz;aavl	338
@@ -10039,7 +10039,7 @@ sort: by_weight
 裘锦秋	qq;alda jn;jpl qq;pah	405
 丘力居	qq;plal li;vp ju;vaxk	16
 裘丽琳	qq;alda li;alv ln;aamm	252
-仇鹿鸣	qq;rpv lu;daav my;kpv	374
+仇鹿鸣	qq;rpv lu;davl my;kpv	374
 邱莫言	qq;plvl mo;co yj;daaa	306
 裘千尺	qq;alda qm;pal ii;vapd	66
 裘千仞	qq;alda qm;pal rf;rvp	405
@@ -10596,7 +10596,7 @@ sort: by_weight
 石青璇	ui;apk qy;aay xr;aada	698
 施人诚	ui;dapa rf;r ig;dvap	446
 辻仁成	ui;xdv rf;raa ig;apvv	266
-师任堂	ui;lpal rf;rpa th;ldt	3
+师任堂	ui;lpal rf;rpa th;ldkt	3
 施荣怀	ui;dapa rs;cm hy;ddap	369
 施闰章	ui;dapa rp;dlaa vh;dax	320
 师尚父	ui;lpal uh;ldlv fu;pdpd	387
@@ -11243,7 +11243,7 @@ sort: by_weight
 谭作钧	tj;dval zo;rpa jp;jpv	279
 谭作人	tj;dval zo;rpa rf;r	351
 唐哀帝	th;dava ai;dak di;dalv	22
-堂安律	th;ldt an;ddvp lv;ppva	414
+堂安律	th;ldkt an;ddvp lv;ppva	414
 唐敖庆	th;dava ao;aapa qy;daap	35
 唐宝林	th;dava bk;ddaa ln;mm	274
 唐碧娥	th;dava bi;aaap ee;vppa	270
@@ -11403,7 +11403,7 @@ sort: by_weight
 唐尧客	th;dava yk;avap ke;ddpv	45
 汤曜明	th;uvp yk;ovd my;oy	374
 汤贻汾	th;uvp yi;lvvd ff;upd	238
-堂邑父	th;ldt yi;kvl fu;pdpd	51
+堂邑父	th;ldkt yi;kvl fu;pdpd	51
 汤一介	th;uvp yi;a jx;rpl	63
 唐一军	th;dava yi;a jp;dvav	423
 唐翼明	th;dava yi;vdlv my;oy	243
@@ -11496,7 +11496,7 @@ sort: by_weight
 滕尼斯	tg;ydp ni;vapv si;alpp	369
 藤崎龙	tg;cy qi;lvap ls;apvp	324
 藤四郎	tg;cy si;lvpv lh;dvvl	57
-藤堂静	tg;cy th;ldt jy;aapv	270
+藤堂静	tg;cy th;ldkt jy;aapv	270
 藤田诚	tg;cy tm;lval ig;dvap	248
 藤田茂	tg;cy tm;lval mk;cap	266
 滕卫平	tg;ydp wz;vla py;adpa	9
@@ -11527,7 +11527,7 @@ sort: by_weight
 田承嗣	tm;lval ig;vlaa si;kva	247
 田范江	tm;lval fj;cu jd;ual	418
 田凤山	tm;lval fg;pvvd uj;lvl	369
-田福堂	tm;lval fu;dvak th;ldt	261
+田福堂	tm;lval fu;dvak th;ldkt	261
 田耕莘	tm;lval gg;aaaa uf;cda	387
 田贵妃	tm;lval gv;lvlv fz;vpva	450
 田国立	tm;lval go;lvaa li;dadp	426
@@ -11866,7 +11866,7 @@ sort: by_weight
 王凯歆	wh;aala kl;lvpv xn;dapv	185
 汪康年	wh;uaa kh;dava nm;paal	3
 王昆仑	wh;aala kp;oav lp;rpv	594
-王澜堂	wh;aala lj;udl th;ldt	200
+王澜堂	wh;aala lj;udl th;ldkt	200
 王利芬	wh;aala li;pall ff;cpd	38
 王立军	wh;aala li;dadp jp;dvav	31
 王俪桥	wh;aala li;ral qc;mpa	58
@@ -12559,8 +12559,8 @@ sort: by_weight
 席慕蓉	xi;dalv mu;cold rs;cdd	436
 席慕容	xi;dalv mu;cold rs;ddpd	392
 西涅克	xi;alvp nx;uot ke;xkpv	328
-犀牛精	xi;vald nq;paal jy;dpaa	284
-犀牛人	xi;vald nq;paal rf;r	364
+犀牛精	xi;vau nq;paal jy;dpaa	284
+犀牛人	xi;vau nq;paal rf;r	364
 细奴逻	xi;vvlv nu;vpvd lo;lvdv	261
 西潘王	xi;alvp pj;upd wh;aala	180
 席佩兰	xi;dalv pz;rpv lj;dpaa	194
@@ -13144,7 +13144,7 @@ sort: by_weight
 辛志平	xn;dax vi;tdv py;adpa	374
 新之助	xn;dapp vi;dvd vu;lvvp	160
 辛子陵	xn;dax zi;vla ly;vlt	256
-邢贲思	xy;aavl bf;xlv si;lvdv	369
+邢贲思	xy;aavl bf;xclv si;lvdv	369
 邢秉懿	xy;aavl by;pava yi;tda	252
 邢慈静	xy;aavl ci;dpdv jy;aapv	248
 幸村诚	xy;tdp cp;mal ig;dvap	288
@@ -13220,7 +13220,7 @@ sort: by_weight
 熊晓鸽	xs;vddd xc;oav ge;rpv	44
 熊选国	xs;vddd xr;padv go;lvaa	315
 匈雅提	xs;pvpd ya;avr ti;fo	495
-熊应堂	xs;vddd yy;dadd th;ldt	274
+熊应堂	xs;vddd yy;dadd th;ldkt	274
 熊召政	xs;vddd vk;vpk vg;alpa	13
 熊争艳	xs;vddd vg;pvva yj;aapv	436
 熊子默	xs;vddd zi;vla mo;lvap	45
@@ -13552,7 +13552,7 @@ sort: by_weight
 杨不悔	yh;mvp bu;apld hv;ddpa	352
 杨步伟	yh;mvp bu;lalp wz;raa	75
 杨成武	yh;mvp ig;apvv wu;aala	63
-杨传堂	yh;mvp ir;raa th;ldt	621
+杨传堂	yh;mvp ir;raa th;ldkt	621
 杨春霞	yh;mvp ip;aao xw;adva	432
 阳岱钢	yh;vlo dl;rlv gh;jlv	360
 杨德昌	yh;mvp de;ppx ih;oo	783
@@ -15958,7 +15958,7 @@ sort: by_weight
 百济法王	bl;apl ji;uda fa;ut wh;aala	153
 柏佳俊长	bl;mpl jw;rtt jp;rvd ih;pavd	50
 柏佳俊因	bl;mpl jw;rtt jp;rvd yn;lvap	76
-百剑堂主	bl;apl jm;rll th;ldt vu;daal	320
+百剑堂主	bl;apl jm;rll th;ldkt vu;daal	320
 白金之星	bl;plva jn;j vi;dvd xy;opa	41
 白井黑子	bl;plva jy;aapl hz;lvdd zi;vla	513
 白蜡明经	bl;plva la;lval my;oy jy;vvvd	4
@@ -16280,8 +16280,8 @@ sort: by_weight
 本尼迪克	bf;alpd ni;vapv di;lvdv ke;xkpv	810
 本撒切尔	bf;alpd sa;fal qx;avvp er;pvlp	117
 本坦库尔	bf;alpd tj;to ku;daav er;pvlp	94
-本堂瑛海	bf;alpd th;ldt yy;aac hl;upa	243
-本堂瑛佑	bf;alpd th;ldt yy;aac yb;rap	360
+本堂瑛海	bf;alpd th;ldkt yy;aac hl;upa	243
+本堂瑛佑	bf;alpd th;ldkt yy;aac yb;rap	360
 本田圭佑	bf;alpd tm;lval gv;tt yb;rap	104
 本田真凛	bf;alpd tm;lval vf;xpd ln;dada	6
 本韦努托	bf;alpd wz;aavl nu;vpvp to;fpa	328
@@ -17048,7 +17048,7 @@ sort: by_weight
 二代土影	er;aa dl;rav tu;t yy;opp	324
 二代蚁人	er;aa dl;rav yi;lvdp rf;r	279
 二阶俊博	er;aa jx;vlr jp;rvd bo;xal	436
-二阶堂进	er;aa jx;vlr th;ldt jn;aadv	274
+二阶堂进	er;aa jx;vlr th;ldkt jn;aadv	274
 二世胡亥	er;aa ui;alla hu;xky hl;davp	405
 尔朱度律	er;pvlp vu;paal du;davd lv;ppva	288
 尔朱世隆	er;pvlp vu;paal ui;alla ls;vlpv	477
@@ -18633,7 +18633,7 @@ sort: by_weight
 令狐德棻	ly;rdv hu;pvpp de;ppx ff;cm	41
 灵魂守卫	ly;vah hp;aapl ub;ddal wz;vla	266
 绫濑千早	ly;vvt ll;ual qm;pal zk;ox	207
-铃鹿御前	ly;jr lu;daav yu;pppa qm;dpy	279
+铃鹿御前	ly;jr lu;davl yu;pppa qm;dpy	279
 铃木辰也	ly;jr mu;m if;apaa ye;vlv	50
 铃木敏夫	ly;jr mu;m mn;papa fu;aapd	644
 铃木善幸	ly;jr mu;m uj;dpk xy;tdp	14
@@ -18704,7 +18704,7 @@ sort: by_weight
 卢博米尔	lu;lava bo;xal mi;dpal er;pvlp	436
 鲁布寥夫	lu;pvo bu;aplv lc;ddvd fu;aapd	194
 鲁布列夫	lu;pvo bu;aplv lx;apll fu;aapd	369
-鹿岛丈博	lu;daav dk;pvlv vh;apd bo;xal	144
+鹿岛丈博	lu;davl dk;pvlv vh;apd bo;xal	144
 露德米拉	lu;adk de;ppx mi;dpal la;fda	130
 路德维希	lu;kpv de;ppx wz;vvr xi;pdap	487
 鲁登道夫	lu;pvo dg;vdak dk;dpdv fu;aapd	598
@@ -18712,7 +18712,7 @@ sort: by_weight
 鲁菲努斯	lu;pvo fz;cla nu;vpvp si;alpp	279
 鲁侯伯禽	lu;pvo hb;rva bo;rpl qn;rda	99
 卢克莱修	lu;lava ke;xkpv ll;cad xq;rlp	44
-鹿力大仙	lu;daav li;vp da;apd xm;rlv	6
+鹿力大仙	lu;davl li;vp da;apd xm;rlv	6
 甪里先生	lu;ppva li;lvaa xm;papv ug;paal	212
 鲁梅尼格	lu;pvo mz;mpa ni;vapv ge;mpv	392
 卢米埃尔	lu;lava mi;dpal ai;tvd er;pvlp	608
@@ -18732,7 +18732,7 @@ sort: by_weight
 卢西亚诺	lu;lava xi;alvp ya;alld no;dvc	35
 陆逊伯言	lu;vlaa xp;vldv bo;rpl yj;daaa	189
 鲁迅先生	lu;pvo xp;vadv xm;papv ug;paal	2512
-鹿野道彦	lu;daav ye;lvvd dk;dpdv yj;dapp	220
+鹿野道彦	lu;davl ye;lvvd dk;dpdv yj;dapp	220
 路易勃朗	lu;kpv yi;opv bo;xvp lh;dvy	144
 路易二世	lu;kpv yi;opv er;aa ui;alla	621
 路易二十	lu;kpv yi;opv er;aa ui;x	129
@@ -19211,7 +19211,7 @@ sort: by_weight
 姆拉迪奇	mu;vpvv la;fda di;lvdv qi;apak	38
 穆拉托里	mu;papl la;fda to;fpa li;lvaa	243
 穆里尼奥	mu;papl li;lvaa ni;vapv ao;plap	12007
-木鹿大王	mu;m lu;daav da;apd wh;aala	16
+木鹿大王	mu;m lu;davl da;apd wh;aala	16
 幕末大名	mu;colv mo;aalp da;apd my;pvk	130
 木暮公延	mu;m mu;coo gs;pdvd yj;plvd	400
 目暮警官	mu;lvaa mu;coo jy;cda gr;ddlv	176
@@ -19277,7 +19277,7 @@ sort: by_weight
 乃儿不花	nl;vp er;pv bu;apld hw;cr	53
 奈芙蒂丝	nl;apaa fu;caa di;cda si;vva	130
 奈奎斯特	nl;apaa kv;aptt si;alpp te;pat	52
-奈良鹿丸	nl;apaa ld;dvaa lu;daav wj;pvd	69
+奈良鹿丸	nl;apaa ld;dvaa lu;davl wj;pvd	69
 奈良美智	nl;apaa ld;dvaa mz;dpap vi;pao	657
 乃马真后	nl;vp ma;vva vf;xpd hb;ppk	396
 乃美宗胜	nl;vp mz;dpap zs;ddaa ug;ypa	256
@@ -19938,7 +19938,7 @@ sort: by_weight
 山县有朋	uj;lvl xm;lvvd yb;apy pg;yy	576
 杉原盛重	uj;mpp yr;appl ug;aplv vs;palv	238
 山中亥一	uj;lvl vs;lval hl;davp yi;a	13
-山中鹿介	uj;lvl vs;lval lu;daav jx;rpl	288
+山中鹿介	uj;lvl vs;lval lu;davl jx;rpl	288
 山中伸弥	uj;lvl vs;lval uf;rlv mi;vapv	35
 山中幸盛	uj;lvl vs;lval xy;tdp ug;aplv	346
 殇帝刘玢	uh;appa di;dalv lq;dall bn;aapd	238
@@ -20288,7 +20288,7 @@ sort: by_weight
 司徒慧敏	si;vak tu;ppt hv;aadv mn;papa	320
 司徒雷登	si;vak tu;ppt lz;adlv dg;vdak	63
 斯图里奇	si;alpp tu;lvpv li;lvaa qi;apak	774
-司徒美堂	si;vak tu;ppt mz;dpap th;ldt	410
+司徒美堂	si;vak tu;ppt mz;dpap th;ldkt	410
 司徒王允	si;vak tu;ppt wh;aala yp;vdpv	50
 斯图亚尼	si;alpp tu;lvpv ya;alld ni;vapv	324
 斯图亚特	si;alpp tu;lvpv ya;alld te;pat	154
@@ -20359,7 +20359,7 @@ sort: by_weight
 苏特亚金	su;cvp te;pat ya;alld jn;j	130
 肃王赵枢	su;vaal wh;aala vk;tpd uu;map	171
 苏沃洛夫	su;cvp wo;upa lo;upv fu;aapd	648
-苏我入鹿	su;cvp wo;pala ru;pd lu;daav	351
+苏我入鹿	su;cvp wo;pala ru;pd lu;davl	351
 苏我虾夷	su;cvp wo;pala xw;lval yi;avav	306
 苏亚雷斯	su;cvp ya;alld lz;adlv si;alpp	3586
 苏亚雷兹	su;cvp ya;alld lz;adlv zi;dpvv	256
@@ -20462,7 +20462,7 @@ sort: by_weight
 汤川秀树	th;uvp ir;pll xq;pavp uu;mvd	47
 唐代李白	th;dava dl;rav li;mvl bl;plva	400
 唐东杰布	th;dava ds;avlp jx;mdd bu;aplv	356
-堂吉诃德	th;ldt ji;tk he;dvak de;ppx	2123
+堂吉诃德	th;ldkt ji;tk he;dvak de;ppx	2123
 唐家三少	th;dava jw;ddap sj;aaa uk;lpdp	770
 唐骏欧铃	th;dava jp;vvvd ou;appv ly;jr	252
 唐括德温	th;dava ko;fpa de;ppx wf;uo	180
@@ -20525,7 +20525,7 @@ sort: by_weight
 提姆冈恩	ti;fo mu;vpvv gh;lvpd en;lvdv	252
 提姆华兹	ti;fo mu;vpvv hw;rx zi;dpvv	180
 提婆达多	ti;fo po;uvp da;apdv do;pvpv	567
-鹈堂刃卫	ti;dppv th;ldt rf;vpd wz;vla	180
+鹈堂刃卫	ti;dppv th;ldkt rf;vpd wz;vla	180
 提西福涅	ti;fo xi;alvp fu;dvak nx;uot	225
 天蚕土豆	tm;aapd cj;aalv tu;t db;akdp	576
 天草时贞	tm;aapd ck;cox ui;oal vf;lalv	99
@@ -21026,7 +21026,7 @@ sort: by_weight
 希斯洛普	xi;pdap si;alpp lo;upv pu;dpo	482
 西斯塔尼	xi;alvp si;alpp ta;tcr ni;vapv	3
 希丝缇娜	xi;pdap si;vva ti;vvo na;vpva	202
-西堂智藏	xi;alvp th;ldt vi;pao ch;cap	207
+西堂智藏	xi;alvp th;ldkt vi;pao ch;cap	207
 西田龙雄	xi;alvp tm;lval ls;apvp xs;apr	270
 细田善彦	xi;vvlv tm;lval uj;dpk yj;dapp	302
 细田雅弘	xi;vvlv tm;lval ya;avr hs;vavd	189
@@ -21164,7 +21164,7 @@ sort: by_weight
 小力水手	xc;lpd li;vp uv;u ub;f	90
 小李探花	xc;lpd li;mvl tj;fdv hw;cr	382
 孝灵皇帝	xc;xvl ly;vah hd;plaa di;dalv	189
-小鹿蓝蓝	xc;lpd lu;daav lj;cll lj;cll	99
+小鹿蓝蓝	xc;lpd lu;davl lj;cll lj;cll	99
 小萝卜头	xc;lpd lo;clv bo;ld tb;ddap	198
 肖洛霍夫	xc;ldy lo;upv ho;adr fu;aapd	173
 小曼奇尼	xc;lpd mj;olv qi;apak ni;vapv	288
@@ -21332,7 +21332,7 @@ sort: by_weight
 穴山信君	xt;ddpd uj;lvl xn;rda jp;vak	328
 雪山银燕	xt;adva uj;lvl yn;jva yj;aldd	180
 血腥男爵	xt;plvl xy;yo nj;lvvp jt;pdva	328
-驯鹿乔巴	xp;vvpl lu;daav qc;papl ba;vlav	99
+驯鹿乔巴	xp;vvpl lu;davl qc;papl ba;vlav	99
 寻阳公主	xp;vaal yh;vlo gs;pdvd vu;daal	315
 荀攸公达	xp;cpv yb;rlp gs;pdvd da;apdv	76
 荀彧文若	xp;cpv yu;akav wf;dapd ro;cap	99

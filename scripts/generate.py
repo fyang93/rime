@@ -36,7 +36,7 @@ with open(CHARS, encoding='utf-8') as f:
 
 # 拼好字17组字根；别名只在形码中展开，词库使用首个规范码。
 parts = {
-    '一': 'a', '丨': 'l', '丿': ('p', 'n'), '丶': 'd', '乛': 'v',
+    '一': 'a', '丨': 'l', '丿': ('p', 's'), '丶': 'd', '乛': 'v',
     '日': ('o', 'e'), '月': 'y', '金': 'j', '木': 'm', '水': 'u',
     '火': 'h', '土': 't', '士': 't', '人': 'r', '手': 'f',
     '口': 'k', '十': 'x', '草': 'c',
@@ -83,7 +83,7 @@ with open('../zrm.dict.yaml', 'w', encoding='utf-8') as f1, open(CHARS, encoding
                 f1.write(f"{char}\t{to_double(pinyin)};\t{freq}\n")
 
 print(f"{len(missing)}个字无形码（仅纯音）")
-print(f"{len(xcodes.keys() & standard)}个字有形码，其中{len(multiple)}个有多个（日 o/e、丿 p/n）")
+print(f"{len(xcodes.keys() & standard)}个字有形码，其中{len(multiple)}个有多个（日 o/e、丿 p/s）")
 # --- former notebook cell 7 ---
 zrm_phones = defaultdict(list)
 zrm_codes = {}

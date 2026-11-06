@@ -69,13 +69,14 @@ def build_index(rows):
     lines = ['# 拼好字形码索引（JD6 衍生）', '',
              '自动生成：`uv run python scripts/jd6.py`。只编辑 `chaizi_phz.txt`。', '',
              f'共 {len(rows)} 字：' + '，'.join(f'{s} {counts[s]}' for s in ('已核对', '沿用', '待补')) + '。', '',
-             '**规则不清或冲突须先问用户，未决候选不入表。**', '',
+             '**规则不清或冲突须先问用户，未决候选不入表。形码齐备和维护表“已核对”状态不代表逐字审计全部定案。**', '',
              f'phz_targets.txt 补码目标共 {len(target)} 个不同字：已有形码 {len(target) - len(pending)}，待补 {len(pending)}。', '',
              '目标集以外的字不补形码，保留纯音输入。', '',
-             f'当前采用 {len(ROOT_GROUPS)} 个字根组，日支持 o/e、丿支持 p/n 别名；合体字两部各最多两码，按天然笔顺输出，两部取完即结束，不满四码不补；穿插字、独体字按整字书写顺序取前四单位。', '',
-             '审核范围与验证见 [本轮报告](recode/REPORT.md)，规则问答见 [问题清单](recode/QUESTIONS.md) 和 [用户答复](recode/ANSWERS.md)。', '']
+             f'当前采用 {len(ROOT_GROUPS)} 个字根组，日支持 o/e、丿支持 p/s 别名；合体字两部各最多两码，按天然笔顺输出，两部取完即结束，不满四码不补；穿插字、独体字按整字书写顺序取前四单位。', '',
+             '非根部按前两个单位顺取，紧接且不与周围笔画相连的独立完整字根可整取；白中日形不独立，仍取笔画。龠为用户指定整字例外：人／其余整体→人一口口，不推广到龢、瀹、爚、籥。', '',
+             '最新裁定同步见 [裁定记录](jd6_audit/rulings-sync.md)；历史审核范围与验证见 [前轮报告](recode/REPORT.md)，规则问答见 [问题清单](recode/QUESTIONS.md) 和 [用户答复](recode/ANSWERS.md)。', '']
     for group in ROOT_GROUPS:
-        keys = {'日': 'o/e', '丿': 'p/n'}.get(group, ROOT_KEYS[group[0]])
+        keys = {'日': 'o/e', '丿': 'p/s'}.get(group, ROOT_KEYS[group[0]])
         matches = [(char, shape, status) for char, (shape, status, _) in rows.items()
                    if set(group) & set(shape)]
         lines.extend([f'## {group} · {keys} · {len(matches)} 字', '', '```text', '字\t拆码\t状态'])
@@ -97,4 +98,4 @@ if __name__ == '__main__':
     if list(rows) != sorted(rows):
         raise ValueError('总表须按Unicode码位排序')
     INDEX.write_text(build_index(rows), encoding='utf-8')
-    print(f'拼好字：{len(target)} 个目标字，全部已有形码，无存疑候选。')
+    print(f'拼好字：{len(target)} 个目标字，全部已有形码；形码齐备不代表逐字审计全部定案。')

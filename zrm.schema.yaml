@@ -71,11 +71,11 @@ speller:
     - derive/^(\w+;\w)o/$1e/
     - derive/^(\w+;\w{2})o/$1e/
     - derive/^(\w+;\w{3})o/$1e/
-    # 丿 p/n 两键通用：码表只存 p，逐位派生 n（只有丿用这两个键）
-    - derive/^(\w+;)p/$1n/
-    - derive/^(\w+;\w)p/$1n/
-    - derive/^(\w+;\w{2})p/$1n/
-    - derive/^(\w+;\w{3})p/$1n/
+    # 丿 p/s 两键通用：码表只存 p，逐位派生 s（只有丿用这两个键）
+    - derive/^(\w+;)p/$1s/
+    - derive/^(\w+;\w)p/$1s/
+    - derive/^(\w+;\w{2})p/$1s/
+    - derive/^(\w+;\w{3})p/$1s/
     - derive/^(\w+);\w*$/$1/ # 未补形码的字也能用纯音码输入
     - derive/^(\w+);\w*$/$1;/ # 解除注释可能会把形码作为音码识别
     - derive/^(\w+);(\w{1})\w+$/$1;$2/ # 形码前缀；完整命中的字由 auto_phrase.lua 排前

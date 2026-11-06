@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1060" height="460" viewBox="0 0 1060 460" role="img" aria-labelledby="title description">
 <title id="title">拼好字17组字根键位图</title>
-<desc id="description">QWERTY字母键盘。e：日；r：人；t：土士；y：月；u：水；h：火；o：日；p：丿；a：一；d：丶；f：手；j：金；k：口；l：丨；x：十；c：草；v：乛；n：丿；m：木。日支持o和e，丿支持p和n，e、n不是另一个字根；q、w、i、s、g、z、b不用；艹在码表中规范写草。</desc>
-<style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif}.letter{font-size:15px;font-weight:700;fill:#52617b}.root{font-size:34px;font-weight:500;fill:#142d4e}.note{font-size:11px;fill:#61718b}</style>
+<desc id="description">QWERTY字母键盘。e：日；r：人/亻；t：土士；y：月；u：水/氵/氺；h：火；o：日；p：丿；s：丿；a：一；d：丶；f：手；j：金；k：口；l：丨；x：十；c：草；v：乛；n：不用；m：木。日支持o和e，e不是另一个字根；虚线着色键为笔画键；q、w、i、g、z、b不用；艹在码表中规范写草。</desc>
+<style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif}.letter{font-size:15px;font-weight:700;fill:#52617b}.root{font-size:34px;font-weight:500;fill:#142d4e}.note{font-size:11px;fill:#61718b}.stroke-key rect{fill:#fff0e8;stroke:#c77c5a;stroke-dasharray:5 3}</style>
 <rect x="1" y="1" width="1058" height="458" rx="20" fill="#f7f9fc" stroke="#d6dfeb"/>
 <text x="45" y="47" font-size="26" font-weight="700" fill="#142d4e">拼好字 · 字根键位</text>
-<text x="45" y="72" font-size="14" fill="#61718b">17组字根 · 日 o/e、丿 p/n 双码 · QWERTY 布局</text>
+<text x="45" y="72" font-size="14" fill="#61718b">17组字根 · 日 o/e、丿 p/s 双码 · 笔画键用虚线区分 · QWERTY 布局</text>
 <rect x="846" y="28" width="169" height="33" rx="16" fill="#e7eef9"/>
 <text x="930" y="50" text-anchor="middle" font-size="13" fill="#385374">17组 / 19个字母键</text>
 <g data-key="q" data-roots="" data-alias="false" transform="translate(45 100)">
@@ -24,8 +24,7 @@
 <g data-key="r" data-roots="人" data-alias="false" transform="translate(339 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">R</text>
-<text class="root" x="44" y="57" text-anchor="middle">人</text>
-<text class="note" x="44" y="77" text-anchor="middle">含亻</text>
+<text class="root" style="font-size:25px" x="44" y="57" text-anchor="middle">人 / 亻</text>
 </g>
 <g data-key="t" data-roots="土士" data-alias="false" transform="translate(437 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
@@ -40,8 +39,7 @@
 <g data-key="u" data-roots="水" data-alias="false" transform="translate(633 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">U</text>
-<text class="root" x="44" y="57" text-anchor="middle">水</text>
-<text class="note" x="44" y="77" text-anchor="middle">含氵</text>
+<text class="root" style="font-size:22px" x="44" y="57" text-anchor="middle">水 / 氵 / 氺</text>
 </g>
 <g data-key="i" data-roots="" data-alias="false" transform="translate(731 100)">
 <rect width="88" height="88" rx="10" fill="#f2f4f7" stroke="#e1e6ee"/>
@@ -53,22 +51,24 @@
 <text class="root" x="44" y="57" text-anchor="middle">日</text>
 <text class="note" x="44" y="77" text-anchor="middle">日的主码</text>
 </g>
-<g data-key="p" data-roots="丿" data-alias="false" transform="translate(927 100)">
+<g class="stroke-key" data-key="p" data-roots="丿" data-alias="false" transform="translate(927 100)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">P</text>
 <text class="root" x="44" y="57" text-anchor="middle">丿</text>
 <text class="note" x="44" y="77" text-anchor="middle">丿的主码</text>
 </g>
-<g data-key="a" data-roots="一" data-alias="false" transform="translate(94 199)">
+<g class="stroke-key" data-key="a" data-roots="一" data-alias="false" transform="translate(94 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">A</text>
 <text class="root" x="44" y="57" text-anchor="middle">一</text>
 </g>
-<g data-key="s" data-roots="" data-alias="false" transform="translate(192 199)">
-<rect width="88" height="88" rx="10" fill="#f2f4f7" stroke="#e1e6ee"/>
-<text class="letter" x="12" y="22" style="fill:#a7b1c2">S</text>
+<g class="stroke-key" data-key="s" data-roots="丿" data-alias="true" transform="translate(192 199)">
+<rect width="88" height="88" rx="10" fill="#fff2d8" stroke="#dfbd74"/>
+<text class="letter" x="12" y="22">S</text>
+<text class="root" x="44" y="57" text-anchor="middle">丿</text>
+<text class="note" x="44" y="77" text-anchor="middle">丿的别名</text>
 </g>
-<g data-key="d" data-roots="丶" data-alias="false" transform="translate(290 199)">
+<g class="stroke-key" data-key="d" data-roots="丶" data-alias="false" transform="translate(290 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">D</text>
 <text class="root" x="44" y="57" text-anchor="middle">丶</text>
@@ -97,7 +97,7 @@
 <text class="letter" x="12" y="22">K</text>
 <text class="root" x="44" y="57" text-anchor="middle">口</text>
 </g>
-<g data-key="l" data-roots="丨" data-alias="false" transform="translate(878 199)">
+<g class="stroke-key" data-key="l" data-roots="丨" data-alias="false" transform="translate(878 199)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">L</text>
 <text class="root" x="44" y="57" text-anchor="middle">丨</text>
@@ -117,7 +117,7 @@
 <text class="root" x="44" y="57" text-anchor="middle">艹</text>
 <text class="note" x="44" y="77" text-anchor="middle">草头</text>
 </g>
-<g data-key="v" data-roots="乛" data-alias="false" transform="translate(437 298)">
+<g class="stroke-key" data-key="v" data-roots="乛" data-alias="false" transform="translate(437 298)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>
 <text class="letter" x="12" y="22">V</text>
 <text class="root" x="44" y="57" text-anchor="middle">乛</text>
@@ -126,11 +126,9 @@
 <rect width="88" height="88" rx="10" fill="#f2f4f7" stroke="#e1e6ee"/>
 <text class="letter" x="12" y="22" style="fill:#a7b1c2">B</text>
 </g>
-<g data-key="n" data-roots="丿" data-alias="true" transform="translate(633 298)">
-<rect width="88" height="88" rx="10" fill="#fff2d8" stroke="#dfbd74"/>
-<text class="letter" x="12" y="22">N</text>
-<text class="root" x="44" y="57" text-anchor="middle">丿</text>
-<text class="note" x="44" y="77" text-anchor="middle">丿的别名</text>
+<g data-key="n" data-roots="" data-alias="false" transform="translate(633 298)">
+<rect width="88" height="88" rx="10" fill="#f2f4f7" stroke="#e1e6ee"/>
+<text class="letter" x="12" y="22" style="fill:#a7b1c2">N</text>
 </g>
 <g data-key="m" data-roots="木" data-alias="false" transform="translate(731 298)">
 <rect width="88" height="88" rx="10" fill="#eaf1fc" stroke="#c7d7ed"/>

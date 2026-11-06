@@ -582,8 +582,8 @@ sort: by_weight
 五行	wu;alva xy;ppaa	3367
 相称	xd;mlv if;papv	827
 相称	xd;mlv ig;papv	217
-血晕	xx;plvl yp;odv	725
-血晕	xt;plvl yp;odv	1769
+血晕	xx;plvl yp;oav	725
+血晕	xt;plvl yp;oav	1769
 一行	yi;a hh;ppaa	170
 一通	yi;a ts;vddv	2205
 一通	yi;a ts;vddv	2175
@@ -868,7 +868,7 @@ sort: by_weight
 这摊	vz;dadv tj;fvd	320
 这趟	vz;dadv th;tld	520
 这汤	vz;dadv th;uvp	450
-这堂	vz;dadv th;ldt	360
+这堂	vz;dadv th;ldkt	360
 这套	vz;dadv tk;apal	700
 这题	vz;dadv ti;oap	600
 这天	vz;dadv tm;aapd	620
@@ -2121,7 +2121,7 @@ sort: by_weight
 这台风	vz;dadv tl;vdk fg;pvpd	230
 这台机	vz;dadv tl;vdk ji;mpv	350
 这太阳	vz;dadv tl;apdd yh;vlo	230
-这堂课	vz;dadv th;ldt ke;dvlv	420
+这堂课	vz;dadv th;ldkt ke;dvlv	420
 这套房	vz;dadv tk;apal fh;dvda	420
 这套书	vz;dadv tk;apal uu;vvld	660
 这体格	vz;dadv ti;ral ge;mpv	240
@@ -3935,7 +3935,7 @@ sort: by_weight
 可谁知道	ke;akl uz;dvr vi;pak dk;dpdv	42
 离不开谁	li;dalv bu;apld kl;aapl uz;dvr	1
 帘影谁摇	lm;ddlv yy;opp uz;dvr yk;fpd	6
-鹿死谁手	lu;daav si;appv uz;dvr ub;f	296
+鹿死谁手	lu;davl si;appv uz;dvr ub;f	296
 卖给了谁	ml;xdd gz;vvr le;vl uz;dvr	30
 卖给谁了	ml;xdd gz;vvr uz;dvr le;vl	1
 满庭谁扫	mj;uc ty;dapa uz;dvr sk;fva	1
@@ -4213,7 +4213,7 @@ sort: by_weight
 谁说的清	uz;dvr uo;dvdp de;plpv qy;uaa	1
 谁说的呀	uz;dvr uo;dvdp de;plpv ya;kav	13
 谁说谎了	uz;dvr uo;dvdp hd;dvc le;vl	4
-谁死鹿手	uz;dvr si;appv lu;daav ub;f	1
+谁死鹿手	uz;dvr si;appv lu;davl ub;f	1
 谁死谁活	uz;dvr si;appv uz;dvr ho;upa	17
 谁送过来	uz;dvr ss;dpdv go;aldv ll;adpa	1
 谁算计谁	uz;dvr sr;palv ji;dvx uz;dvr	16
@@ -4608,7 +4608,7 @@ sort: by_weight
 三个立	sj;aaa ge;rl li;dadp	0
 三个林	sj;aaa ge;rl ln;mm	1
 三个龍	sj;aaa ge;rl ls;	1
-三个鹿	sj;aaa ge;rl lu;daav	588
+三个鹿	sj;aaa ge;rl lu;davl	588
 三个圥	sj;aaa ge;rl lu;	558
 三个马	sj;aaa ge;rl ma;vva	538
 三个亇	sj;aaa ge;rl ma;	508

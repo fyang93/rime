@@ -70,7 +70,7 @@ class JD6Tests(unittest.TestCase):
     def test_specified_special_cases(self):
         rows = load_table()
         for char, shape in {'〇': '乛乛', '卍': '乛乛', '区': '一丿丶乛',
-                            '匼': '一人一', '匜': '一乛丨乛', '𬸘': '一丨丿乛',
+                            '匼': '一人一口', '匜': '一乛丨乛', '𬸘': '一丨丿乛',
                             '戴': '十丨乛', '可': '一口丨', '何': '人一口',
                             '国': '丨乛一一', '式': '一一丨一', '丁': '一丨',
                             '咸': '一丿一口', '囚': '丨乛人一', '困': '丨乛木一',
@@ -78,7 +78,7 @@ class JD6Tests(unittest.TestCase):
                             '威': '一丿一乛', '本': '一丨丿丶', '果': '丨乛一一',
                             '夹': '一丶丿一', '内': '丨乛丿丶', '告': '丿一口',
                             '伯': '人丿丨', '㳚': '水一丿', '㙦': '人土',
-                            '傕': '人丶乛', '偾': '人十', '丞': '乛丨乛丿',
+                            '傕': '人丶乛', '偾': '人十草', '丞': '乛丨乛丿',
                             '隺': '丶乛丿丨', '相': '木丨乛', '湘': '水木',
                             '河': '水一口', '萤': '草丨乛', '营': '草口口',
                             '劳': '草乛丿', '荣': '草木'}.items():
@@ -119,11 +119,32 @@ class JD6Tests(unittest.TestCase):
             with self.subTest(char=char):
                 self.assertEqual(rows[char][0], shape)
 
+    def test_latest_user_rulings(self):
+        rows = load_table()
+        expected = {
+            '偾': '人十草', '喷': '口十草', '愤': '丶丶十草',
+            '豮': '一丿十草', '贲': '十草丨乛', '鲼': '丿乛十草', '𣸣': '水十草',
+            '啬': '十丨乛', '墙': '土十', '嫱': '乛丿十',
+            '樯': '木十', '穑': '丿一十', '蔷': '草十',
+            '或': '一口一乛', '哥': '一口一口', '白': '丿丨乛一', '伯': '人丿丨',
+            '揠': '手一日', '棫': '木一口', '笸': '丿一一口', '蜮': '丨乛一口',
+            '蝘': '丨乛一日', '郾': '一日乛丨', '钷': '金一口', '阈': '丶丨一口',
+            '严': '一丨丨丶', '产': '丶一丶丿', '截': '十一人丶', '栽': '十一木乛',
+            '斗': '丶丶十', '犀': '乛一水', '堂': '丨丶口土', '晕': '日一乛',
+            '牚': '丨丶口', '燊': '火火木', '量': '日丨乛', '孽': '草丿丨',
+            '赢': '丶一口月', '嬴': '丶一口月', '疐': '十丨乛', '鹿': '丶一乛丨',
+            '龠': '人一口口', '𠅤': '丶一丨乛',
+            '龢': '人丿一', '瀹': '水人', '爚': '火人', '籥': '丿一人',
+            '墀': '土乛一', '樨': '木乛一',
+        }
+        for char, shape in expected.items():
+            with self.subTest(char=char):
+                self.assertEqual(rows[char][0], shape)
+        self.assertIn('特裁', rows['龠'][2])
+
     def test_round_four_part_ledger_matches_table(self):
         folder = TABLE.parent / 'recode/reviews'
         rows = load_table()
-        with (folder / 'round4-before-codes.tsv').open(encoding='utf-8', newline='') as file:
-            before = dict(csv.reader(file, delimiter='\t'))
         files = sorted(path for path in folder.glob('round4-*.tsv')
                        if re.fullmatch(r'round4-\d{3}-\d{3}\.tsv', path.name))
         self.assertEqual(len(files), 8)
@@ -149,7 +170,6 @@ class JD6Tests(unittest.TestCase):
                                     self.assertNotIn(code[1], '一丨丿丶乛')
                         else:
                             self.assertEqual((second, code2), ('', ''))
-                            self.assertEqual(shape, before[char])
                         combined[char] = shape
         self.assertEqual(combined.keys(), rows.keys())
 
@@ -187,17 +207,19 @@ class JD6Tests(unittest.TestCase):
         pending_section = index.split('## 目标字待补清单', 1)[1]
         self.assertEqual(pending_section.split('```text', 1)[1].split('```', 1)[0].split(), [])
         self.assertIn('phz_targets.txt', index)
-        self.assertIn('丿支持 p/n', index)
+        self.assertIn('丿支持 p/s', index)
         self.assertNotIn('chaizi_jd6_v2.txt', index)
         self.assertIn('两部取完即结束，不满四码不补', index)
         self.assertNotIn('沿后续笔顺补取', index)
+        self.assertIn('龠', index)
+        self.assertIn('不代表逐字审计全部定案', index)
 
     def test_root_mapping_and_shape_aliases(self):
         self.assertEqual(len(ROOT_GROUPS), 17)
         self.assertEqual(set(''.join(ROOT_GROUPS)), ROOT_KEYS.keys())
         self.assertEqual(self.parts.keys(), ROOT_KEYS.keys())
         self.assertEqual(self.parts['日'], ('o', 'e'))
-        self.assertEqual(self.parts['丿'], ('p', 'n'))
+        self.assertEqual(self.parts['丿'], ('p', 's'))
         self.assertEqual(self.parts['火'], 'h')
         with patch('jd6.ROOT_GROUPS', ROOT_GROUPS + ('?',)):
             with self.assertRaises(ValueError):
@@ -256,7 +278,7 @@ class JD6Tests(unittest.TestCase):
                     f'---\nname: {name}.lite\n...\n甲乙\tjia yi\t9\n甲丙\tjia bing\t9\n', encoding='utf-8')
             namespace = self.run_generator(scripts)
             generated = (output / 'zrm.dict.yaml').read_text()
-            expected = {f'甲\tjw;{a}{b}\t577' for a, b in product(('o', 'e'), ('p', 'n'))}
+            expected = {f'甲\tjw;{a}{b}\t577' for a, b in product(('o', 'e'), ('p', 's'))}
             expected.update({'乙\tyi;\t100', '乙\tye;\t50'})
             entries = [line for line in generated.splitlines() if '\t' in line]
             self.assertEqual(set(entries), expected)
