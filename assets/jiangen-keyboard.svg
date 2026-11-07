@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1060" height="460" viewBox="0 0 1060 460" role="img" aria-labelledby="title description">
 <title id="title">拼好字17组字根键位图</title>
 <desc id="description">QWERTY字母键盘。e：日；r：人/亻；t：土士；y：月；u：水/氵/氺；h：火；o：日；p：丿；s：丿；a：一；d：丶；f：手；j：金；k：口；l：丨；x：十；c：草；v：乛；n：不用；m：木。日支持o和e，e不是另一个字根；虚线着色键为笔画键；q、w、i、g、z、b不用；艹在码表中规范写草。</desc>
-<style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif}.letter{font-size:15px;font-weight:700;fill:#52617b}.root{font-size:34px;font-weight:500;fill:#142d4e}.alias{font-size:12px;fill:#61718b}.note{font-size:11px;fill:#61718b}.stroke-key rect{fill:#fff0e8;stroke:#c77c5a;stroke-dasharray:5 3}</style>
+<style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif}.letter{font-size:15px;font-weight:700;fill:#52617b}.root{font-size:34px;font-weight:500;fill:#142d4e}.alias{font-size:12px;fill:#142d4e}.note{font-size:11px;fill:#61718b}.stroke-key rect{fill:#fff0e8;stroke:#c77c5a;stroke-dasharray:5 3}.stroke-key[data-alias="true"] rect{fill:#fff2d8;stroke:#dfbd74}</style>
 <rect x="1" y="1" width="1058" height="458" rx="20" fill="#f7f9fc" stroke="#d6dfeb"/>
 <text x="45" y="47" font-size="26" font-weight="700" fill="#142d4e">拼好字 · 字根键位</text>
 <text x="45" y="72" font-size="14" fill="#61718b">17组字根 · 日 o/e、丿 p/s 双码 · 笔画键用虚线区分 · QWERTY 布局</text>
