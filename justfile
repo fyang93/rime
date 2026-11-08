@@ -8,7 +8,7 @@ alias d := download
 download:
     #!/usr/bin/env bash
     set -euo pipefail
-    curl -fL --retry 3 'https://github.com/amzxyz/rime-wanxiang-data/releases/download/LTS/wanxiang-lts-zh-hans.gram' -o wanxiang-lts-zh-hans.gram.part
+    wget -t 5 -O wanxiang-lts-zh-hans.gram.part 'https://github.com/amzxyz/rime-wanxiang-data/releases/download/LTS/wanxiang-lts-zh-hans.gram'
     mv wanxiang-lts-zh-hans.gram.part wanxiang-lts-zh-hans.gram
 
 # 更新万象 Lite 字表与词库，并重新生成自然码词库
