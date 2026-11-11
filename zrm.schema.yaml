@@ -123,7 +123,7 @@ auto_phrase:
 key_binder:
   import_preset: default
   bindings:
-    - { accept: Tab, send: Right, when: composing } # Tab 按音节右移；rime-prelude 2025-12 起默认改为切换候选
+    - { accept: Tab, send: "Shift+Right", when: composing } # Tab 按音节右移；rime-prelude 2025-12 起默认改为切换候选
     - { accept: "Shift+ISO_Left_Tab", send: Left, when: composing }
 
 recognizer:
