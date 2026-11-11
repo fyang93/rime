@@ -76,8 +76,8 @@ with open('../zrm.dict.yaml', 'w', encoding='utf-8') as f1, open(CHARS, encoding
             if char in xcodes:
                 if len(xcodes[char]) > 1:
                     multiple.add(char)
-                for code in xcodes[char]:
-                    f1.write(f"{char}\t{to_double(pinyin)};{code}\t{freq}\n")
+                # 只写规范码（o、p）；e、s 由 schema 的 derive 派生，否则提示码会显示成别名
+                f1.write(f"{char}\t{to_double(pinyin)};{xcodes[char][0]}\t{freq}\n")
             else:
                 missing.add(char)
                 f1.write(f"{char}\t{to_double(pinyin)};\t{freq}\n")

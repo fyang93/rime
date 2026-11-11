@@ -73,7 +73,7 @@ def build_index(rows):
              f'phz_targets.txt 补码目标共 {len(target)} 个不同字：已有形码 {len(target) - len(pending)}，待补 {len(pending)}。', '',
              '目标集以外的字不补形码，保留纯音输入。', '',
              f'当前采用 {len(ROOT_GROUPS)} 个字根组，日支持 o/e、丿支持 p/s 别名；合体字两部各最多两码，按天然笔顺输出，两部取完即结束，不满四码不补；穿插字、独体字按整字书写顺序取前四单位。', '',
-             '非根部按前两个单位顺取，紧接且不与周围笔画相连的独立完整字根可整取；白中日形不独立，仍取笔画。龠为用户指定整字例外：人／其余整体→人一口口，不推广到龢、瀹、爚、籥。', '',
+             '非根部按前两个单位顺取，紧接且不与周围笔画相连的独立完整字根可整取；白中日形不独立，仍取笔画。人下一横归下部，不以亼作上盖：合、命、龠均为人／其余→人一口。', '',
              '最新裁定同步见 [裁定记录](jd6_audit/rulings-sync.md)；历史审核范围与验证见 [前轮报告](recode/REPORT.md)，规则问答见 [问题清单](recode/QUESTIONS.md) 和 [用户答复](recode/ANSWERS.md)。', '']
     for group in ROOT_GROUPS:
         keys = {'日': 'o/e', '丿': 'p/s'}.get(group, ROOT_KEYS[group[0]])

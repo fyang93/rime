@@ -561,8 +561,8 @@ sort: by_weight
 掠夺	lt;fda do;apal	958
 略长	lt;lvpv vh;pavd	180
 美的	mz;dpap di;plpv	20709
-命中	my;rk vs;lval	6999
-命中	my;rk vs;lval	5760
+命中	my;rak vs;lval	6999
+命中	my;rak vs;lval	5760
 年长	nm;paal ih;pavd	1450
 年长	nm;paal vh;pavd	2520
 便宜	pm;ral yi;ddlv	3423
@@ -1122,7 +1122,7 @@ sort: by_weight
 没这店	mz;upv vz;dadv dm;dala	300
 没这个	mz;upv vz;dadv ge;rl	530
 美这里	mz;dpap vz;dadv li;lvaa	190
-没这命	mz;upv vz;dadv my;rk	140
+没这命	mz;upv vz;dadv my;rak	140
 没这样	mz;upv vz;dadv yh;mdp	330
 没这种	mz;upv vz;dadv vs;palv	400
 莫这样	mo;co vz;dadv yh;mdp	110
@@ -1708,7 +1708,7 @@ sort: by_weight
 这好事	vz;dadv hk;vpvl ui;alva	350
 这好像	vz;dadv hk;vpvl xd;rpv	480
 这和爱	vz;dadv he;pak ai;pdap	140
-这合理	vz;dadv he;rk li;aalv	260
+这合理	vz;dadv he;rak li;aalv	260
 这和你	vz;dadv he;pak ni;rpv	370
 这黑人	vz;dadv hz;lvdd rf;r	200
 这黑夜	vz;dadv hz;lvdd ye;dar	160
@@ -2067,7 +2067,7 @@ sort: by_weight
 这是嘛	vz;dadv ui;oal ma;kda	230
 这是没	vz;dadv ui;oal mz;upv	400
 这是梦	vz;dadv ui;oal mg;mmpv	280
-这是命	vz;dadv ui;oal my;rk	300
+这是命	vz;dadv ui;oal my;rak	300
 这是哪	vz;dadv ui;oal na;kva	440
 这时你	vz;dadv ui;oal ni;rpv	560
 这是你	vz;dadv ui;oal ni;rpv	560
@@ -2138,7 +2138,7 @@ sort: by_weight
 这条街	vz;dadv tc;pvm jx;pptt	560
 这条龙	vz;dadv tc;pvm ls;apvp	340
 这条路	vz;dadv tc;pvm lu;kpv	650
-这条命	vz;dadv tc;pvm my;rk	410
+这条命	vz;dadv tc;pvm my;rak	410
 这条线	vz;dadv tc;pvm xm;vvaa	540
 这挺好	vz;dadv ty;fpa hk;vpvl	250
 这头猪	vz;dadv tb;ddap vu;pvx	350
@@ -2253,7 +2253,7 @@ sort: by_weight
 这样搞	vz;dadv yh;mdp gk;fda	430
 这样怪	vz;dadv yh;mdp gy;ddvd	230
 这样和	vz;dadv yh;mdp he;pak	450
-这样合	vz;dadv yh;mdp he;rk	210
+这样合	vz;dadv yh;mdp he;rak	210
 这样很	vz;dadv yh;mdp hf;ppva	490
 这样会	vz;dadv yh;mdp hv;raa	600
 这样叫	vz;dadv yh;mdp jc;kvl	410
@@ -3246,7 +3246,7 @@ sort: by_weight
 人问谁	rf;r wf;dlk uz;dvr	160
 杀了谁	ua;pdm le;vl uz;dvr	250
 是个谁	ui;oal ge;rl uz;dvr	180
-适合谁	ui;padv he;rk uz;dvr	280
+适合谁	ui;padv he;rak uz;dvr	280
 是谁啊	ui;oal uz;dvr aa;kvl	500
 是谁吧	ui;oal uz;dvr ba;kvl	360
 是谁的	ui;oal uz;dvr de;plpv	560
@@ -4098,11 +4098,11 @@ sort: by_weight
 谁更出色	uz;dvr gg;alva iu;vllv se;pvvl	29
 谁更聪明	uz;dvr gg;alva cs;aldp my;oy	34
 谁更好看	uz;dvr gg;alva hk;vpvl kj;palv	34
-谁更合适	uz;dvr gg;alva he;rk ui;padv	29
+谁更合适	uz;dvr gg;alva he;rak ui;padv	29
 谁更可爱	uz;dvr gg;alva ke;akl ai;pdap	23
 谁更漂亮	uz;dvr gg;alva pc;ual ld;dak	36
 谁更容易	uz;dvr gg;alva rs;ddpd yi;opv	34
-谁更适合	uz;dvr gg;alva ui;padv he;rk	47
+谁更适合	uz;dvr gg;alva ui;padv he;rak	47
 谁更帅呢	uz;dvr gg;alva uy;lplv ne;kva	6
 谁更伟大	uz;dvr gg;alva wz;raa da;apd	41
 谁更无聊	uz;dvr gg;alva wu;aapv lc;alpv	4

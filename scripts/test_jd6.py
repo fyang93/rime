@@ -133,14 +133,14 @@ class JD6Tests(unittest.TestCase):
             '斗': '丶丶十', '犀': '乛一水', '堂': '丨丶口土', '晕': '日一乛',
             '牚': '丨丶口', '燊': '火火木', '量': '日丨乛', '孽': '草丿丨',
             '赢': '丶一口月', '嬴': '丶一口月', '疐': '十丨乛', '鹿': '丶一乛丨',
-            '龠': '人一口口', '𠅤': '丶一丨乛',
+            '龠': '人一口', '合': '人一口', '命': '人一口', '𠅤': '丶一丨乛',
             '龢': '人丿一', '瀹': '水人', '爚': '火人', '籥': '丿一人',
             '墀': '土乛一', '樨': '木乛一',
         }
         for char, shape in expected.items():
             with self.subTest(char=char):
                 self.assertEqual(rows[char][0], shape)
-        self.assertIn('特裁', rows['龠'][2])
+        self.assertNotIn('【特裁取码', rows['龠'][2])
 
     def test_round_four_part_ledger_matches_table(self):
         folder = TABLE.parent / 'recode/reviews'
@@ -278,7 +278,7 @@ class JD6Tests(unittest.TestCase):
                     f'---\nname: {name}.lite\n...\n甲乙\tjia yi\t9\n甲丙\tjia bing\t9\n', encoding='utf-8')
             namespace = self.run_generator(scripts)
             generated = (output / 'zrm.dict.yaml').read_text()
-            expected = {f'甲\tjw;{a}{b}\t577' for a, b in product(('o', 'e'), ('p', 's'))}
+            expected = {'甲\tjw;op\t577'}  # 只写规范码，e、s 由 schema 派生
             expected.update({'乙\tyi;\t100', '乙\tye;\t50'})
             entries = [line for line in generated.splitlines() if '\t' in line]
             self.assertEqual(set(entries), expected)

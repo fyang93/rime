@@ -1302,15 +1302,15 @@ sort: by_weight
 白鹤村	bl;plva he;dvpv cp;mal	240
 白河区	bl;plva he;uak qu;apdv	583
 白河县	bl;plva he;uak xm;lvvd	286
-百合乡	bl;apl he;rk xd;vvp	596
+百合乡	bl;apl he;rak xd;vvp	596
 白鹤乡	bl;plva he;dvpv xd;vvp	566
 白河乡	bl;plva he;uak xd;vvp	536
 百和乡	bl;apl he;pak xd;vvp	506
 白河站	bl;plva he;uak vj;dala	446
 白鹤镇	bl;plva he;dvpv vf;jx	326
 白河镇	bl;plva he;uak vf;jx	315
-白合镇	bl;plva he;rk vf;jx	236
-百合镇	bl;apl he;rk vf;jx	10
+白合镇	bl;plva he;rak vf;jx	236
+百合镇	bl;apl he;rak vf;jx	10
 百和镇	bl;apl he;pak vf;jx	10
 百侯镇	bl;apl hb;rva vf;jx	10
 白湖镇	bl;plva hu;uxk vf;jx	276
@@ -1699,7 +1699,7 @@ sort: by_weight
 枹罕镇	bk;mpv hj;dvaa vf;jx	10
 包河区	bk;pvva he;uak qu;apdv	394
 保和乡	bk;rkm he;pak xd;vvp	10
-保合镇	bk;rkm he;rk vf;jx	10
+保合镇	bk;rkm he;rak vf;jx	10
 保和镇	bk;rkm he;pak vf;jx	10
 宝华寺	bk;ddaa hw;rx si;tal	392
 保华乡	bk;rkm hw;rx xd;vvp	10
@@ -6001,7 +6001,7 @@ sort: by_weight
 丰谷镇	fg;aaal gu;pdk vf;jx	10
 奉国寺	fg;aaaa go;lvaa si;tal	19
 丰禾镇	fg;aaal he;palp vf;jx	480
-凤合镇	fg;pvvd he;rk vf;jx	450
+凤合镇	fg;pvvd he;rak vf;jx	450
 奉化区	fg;aaaa hw;rpv qu;apdv	408
 奉化市	fg;aaaa hw;rpv ui;dalv	312
 奉化县	fg;aaaa hw;rpv xm;lvvd	170
@@ -6999,7 +6999,7 @@ sort: by_weight
 耿车镇	gg;alh ie;aval vf;jx	10
 耿城镇	gg;alh ig;tap vf;jx	10
 耿达镇	gg;alh da;apdv vf;jx	10
-更合镇	gg;alva he;rk vf;jx	222
+更合镇	gg;alva he;rak vf;jx	222
 耿黄镇	gg;alh hd;allv vf;jx	10
 更戛乡	gg;alva jw;apav xd;vvp	218
 更刻镇	gg;alva ke;dall vf;jx	10
@@ -7049,7 +7049,7 @@ sort: by_weight
 共和县	gs;alpd he;pak xm;lvvd	172
 共和乡	gs;alpd he;pak xd;vvp	10
 共和镇	gs;alpd he;pak vf;jx	10
-共合镇	gs;alpd he;rk vf;jx	10
+共合镇	gs;alpd he;rak vf;jx	10
 宫河镇	gs;ddkk he;uak vf;jx	10
 共华镇	gs;alpd hw;rx vf;jx	10
 公会镇	gs;pdvd hv;raa vf;jx	10
@@ -8143,28 +8143,28 @@ sort: by_weight
 河边镇	he;uak bm;vpdv vf;jx	10
 河伯乡	he;uak bo;rpl xd;vvp	10
 河埠乡	he;uak bu;tpl xd;vvp	10
-合陈镇	he;rk if;vlav vf;jx	10
+合陈镇	he;rak if;vlav vf;jx	10
 鹤城区	he;dvpv ig;tap qu;apdv	163
 鹤城乡	he;dvpv ig;tap xd;vvp	10
 鹤城镇	he;dvpv ig;tap vf;jx	10
 河池市	he;uak ii;uvl ui;dalv	25
 河池县	he;uak ii;uvl xm;lvvd	74
 河池镇	he;uak ii;uvl vf;jx	10
-合川区	he;rk ir;pll qu;apdv	212
-合川市	he;rk ir;pll ui;dalv	374
-合川县	he;rk ir;pll xm;lvvd	147
+合川区	he;rak ir;pll qu;apdv	212
+合川市	he;rak ir;pll ui;dalv	374
+合川县	he;rak ir;pll xm;lvvd	147
 河川乡	he;uak ir;pll xd;vvp	10
-合川站	he;rk ir;pll vj;dala	234
+合川站	he;rak ir;pll vj;dala	234
 和川镇	he;pak ir;pll vf;jx	10
 禾川镇	he;palp ir;pll vf;jx	10
 河唇镇	he;uak ip;apk vf;jx	10
-合村乡	he;rk cp;mal xd;vvp	10
+合村乡	he;rak cp;mal xd;vvp	10
 何村乡	he;rak cp;mal xd;vvp	10
 和村镇	he;pak cp;mal vf;jx	10
 贺村镇	he;vplv cp;mal vf;jx	10
 鹤岛市	he;dvpv dk;pvlv ui;dalv	230
-合道镇	he;rk dk;dpdv vf;jx	10
-合德镇	he;rk de;ppx vf;jx	10
+合道镇	he;rak dk;dpdv vf;jx	10
+合德镇	he;rak de;ppx vf;jx	10
 河堤乡	he;uak di;to xd;vvp	10
 河底镇	he;uak di;dapv vf;jx	10
 荷地镇	he;cr di;tvl vf;jx	10
@@ -8181,8 +8181,8 @@ sort: by_weight
 河东站	he;uak ds;avlp vj;dala	428
 河东镇	he;uak ds;avlp vf;jx	10
 禾洞镇	he;palp ds;ulv vf;jx	10
-合肥市	he;rk fz;yvl ui;dalv	295
-合肥站	he;rk fz;yvl vj;dala	28
+合肥市	he;rak fz;yvl ui;dalv	295
+合肥站	he;rak fz;yvl vj;dala	28
 鹤峰县	he;dvpv fg;lvpv xm;lvvd	232
 和丰县	he;pak fg;aaal xm;lvvd	94
 鹤峰乡	he;dvpv fg;lvpv xd;vvp	10
@@ -8196,12 +8196,12 @@ sort: by_weight
 何各庄	he;rak ge;pvk vd;dat	256
 贺根堡	he;vplv gf;mva bk;rkt	304
 何埂镇	he;rak gg;tal vf;jx	10
-合工大	he;rk gs;ala da;apd	346
-合沟镇	he;rk gb;upv vf;jx	10
+合工大	he;rak gs;ala da;apd	346
+合沟镇	he;rak gb;upv vf;jx	10
 何官镇	he;rak gr;ddlv vf;jx	10
 河郭镇	he;uak go;davl vf;jx	10
-和合乡	he;pak he;rk xd;vvp	10
-合河乡	he;rk he;uak xd;vvp	10
+和合乡	he;pak he;rak xd;vvp	10
+合河乡	he;rak he;uak xd;vvp	10
 荷湖乡	he;cr hu;uxk xd;vvp	10
 荷花池	he;cr hw;cr ii;uvl	364
 荷花镇	he;cr hw;cr vf;jx	10
@@ -8221,9 +8221,9 @@ sort: by_weight
 河间市	he;uak jm;dlo ui;dalv	10
 鹤见市	he;dvpv jm;lvpv ui;dalv	2
 河间县	he;uak jm;dlo xm;lvvd	142
-合涧镇	he;rk jm;udl vf;jx	10
-合江县	he;rk jd;ual xm;lvvd	234
-合江镇	he;rk jd;ual vf;jx	10
+合涧镇	he;rak jm;udl vf;jx	10
+合江县	he;rak jd;ual xm;lvvd	234
+合江镇	he;rak jd;ual vf;jx	10
 河街乡	he;uak jx;pptt xd;vvp	10
 贺街镇	he;vplv jx;pptt vf;jx	10
 河津市	he;uak jn;uva ui;dalv	7
@@ -8231,7 +8231,7 @@ sort: by_weight
 河津站	he;uak jn;uva vj;dala	243
 贺进镇	he;vplv jn;aadv vf;jx	10
 和静县	he;pak jy;aapv xm;lvvd	174
-合井站	he;rk jy;aapl vj;dala	279
+合井站	he;rak jy;aapl vj;dala	279
 和静镇	he;pak jy;aapv vf;jx	10
 河卡镇	he;uak ka;lald vf;jx	10
 河口区	he;uak kb;k qu;apdv	192
@@ -8239,7 +8239,7 @@ sort: by_weight
 河口乡	he;uak kb;k xd;vvp	10
 河口站	he;uak kb;k vj;dala	423
 河口镇	he;uak kb;k vf;jx	361
-合口镇	he;rk kb;k vf;jx	10
+合口镇	he;rak kb;k vf;jx	10
 禾库镇	he;palp ku;daav vf;jx	10
 贺兰县	he;vplv lj;dpaa xm;lvvd	178
 荷兰站	he;cr lj;dpaa vj;dala	302
@@ -8248,8 +8248,8 @@ sort: by_weight
 和乐镇	he;pak le;pvlp vf;jx	10
 鹤立镇	he;dvpv li;dadp vf;jx	10
 河里镇	he;uak li;lvaa vf;jx	10
-合黎镇	he;rk li;paru vf;jx	10
-合力镇	he;rk li;vp vf;jx	10
+合黎镇	he;rak li;paru vf;jx	10
+合力镇	he;rak li;vp vf;jx	10
 和寮镇	he;pak lc;ddap vf;jx	10
 鹤林寺	he;dvpv ln;mm si;tal	356
 和林县	he;pak ln;mm xm;lvvd	148
@@ -8259,17 +8259,17 @@ sort: by_weight
 鹤龄镇	he;dvpv ly;lar vf;jx	10
 河溜镇	he;uak lq;upv vf;jx	10
 河流镇	he;uak lq;uda vf;jx	10
-合流镇	he;rk lq;uda vf;jx	10
+合流镇	he;rak lq;uda vf;jx	10
 和龙市	he;pak ls;apvp ui;dalv	511
 和龙县	he;pak ls;apvp xm;lvvd	122
 河龙乡	he;uak ls;apvp xd;vvp	10
-合隆镇	he;rk ls;vlpv vf;jx	10
+合隆镇	he;rak ls;vlpv vf;jx	10
 赫伦堡	he;tt lp;rr bk;rkt	331
 河洛镇	he;uak lo;upv vf;jx	10
-合马镇	he;rk ma;vva vf;jx	10
+合马镇	he;rak ma;vva vf;jx	10
 鹤毛镇	he;dvpv mk;paav vf;jx	10
 和美镇	he;pak mz;dpap vf;jx	10
-合面镇	he;rk mm;aplv vf;jx	10
+合面镇	he;rak mm;aplv vf;jx	10
 鹤鸣镇	he;dvpv my;kpv vf;jx	10
 和睦镇	he;pak mu;lvt vf;jx	10
 河南省	he;uak nj;xlv ug;lplv	932
@@ -8290,7 +8290,7 @@ sort: by_weight
 和平乡	he;pak py;adpa xd;vvp	358
 和平镇	he;pak py;adpa vf;jx	10
 河坡镇	he;uak po;tvp vf;jx	10
-合浦县	he;rk pu;ual xm;lvvd	190
+合浦县	he;rak pu;ual xm;lvvd	190
 荷浦乡	he;cr pu;ual xd;vvp	10
 鹤浦镇	he;dvpv pu;ual vf;jx	10
 河铺镇	he;uak pu;jal vf;jx	10
@@ -8300,7 +8300,7 @@ sort: by_weight
 河桥镇	he;uak qc;mpa vf;jx	10
 何清湖	he;rak qy;uaa hu;uxk	117
 鹤庆县	he;dvpv qy;daap xm;lvvd	163
-合庆镇	he;rk qy;daap vf;jx	664
+合庆镇	he;rak qy;daap vf;jx	664
 禾青镇	he;palp qy;aay vf;jx	634
 和庆镇	he;pak qy;daap vf;jx	604
 河清镇	he;uak qy;uaa vf;jx	574
@@ -8313,13 +8313,13 @@ sort: by_weight
 河沙镇	he;uak ua;ulp vf;jx	10
 赫山区	he;tt uj;lvl qu;apdv	244
 鹤山区	he;dvpv uj;lvl qu;apdv	102
-合山市	he;rk uj;lvl ui;dalv	10
+合山市	he;rak uj;lvl ui;dalv	10
 鹤山市	he;dvpv uj;lvl ui;dalv	7
 鹤山县	he;dvpv uj;lvl xm;lvvd	102
 鹤山站	he;dvpv uj;lvl vj;dala	274
 河山镇	he;uak uj;lvl vf;jx	10
 鹤山镇	he;dvpv uj;lvl vf;jx	10
-合山镇	he;rk uj;lvl vf;jx	10
+合山镇	he;rak uj;lvl vf;jx	10
 河上镇	he;uak uh;laa vf;jx	10
 鹤上镇	he;dvpv uh;laa vf;jx	10
 和舍镇	he;pak ue;raa vf;jx	10
@@ -8332,18 +8332,18 @@ sort: by_weight
 河失镇	he;uak ui;paap vf;jx	10
 河市镇	he;uak ui;dalv vf;jx	10
 何市镇	he;rak ui;dalv vf;jx	10
-合市镇	he;rk ui;dalv vf;jx	10
-合什镇	he;rk ui;rx vf;jx	10
+合市镇	he;rak ui;dalv vf;jx	10
+合什镇	he;rak ui;rx vf;jx	10
 禾市镇	he;palp ui;dalv vf;jx	10
 鹤市镇	he;dvpv ui;dalv vf;jx	10
 河舒镇	he;uak uu;rvd vf;jx	10
-合水县	he;rk uv;u xm;lvvd	154
-合水镇	he;rk uv;u vf;jx	10
+合水县	he;rak uv;u xm;lvvd	154
+合水镇	he;rak uv;u vf;jx	10
 和顺县	he;pak up;plap xm;lvvd	167
 河顺镇	he;uak up;plap vf;jx	10
 和顺镇	he;pak up;plap vf;jx	10
 和硕县	he;pak uo;apap xm;lvvd	157
-合索镇	he;rk so;xvv vf;jx	10
+合索镇	he;rak so;xvv vf;jx	10
 河塌乡	he;uak ta;to xd;vvp	10
 河台镇	he;uak tl;vdk vf;jx	10
 河潭镇	he;uak tj;ual vf;jx	10
@@ -8372,29 +8372,29 @@ sort: by_weight
 河西村	he;uak xi;alvp cp;mal	303
 河西区	he;uak xi;alvp qu;apdv	248
 河西乡	he;uak xi;alvp xd;vvp	242
-合溪乡	he;rk xi;upd xd;vvp	10
+合溪乡	he;rak xi;upd xd;vvp	10
 河西站	he;uak xi;alvp vj;dala	418
 河西镇	he;uak xi;alvp vf;jx	291
 和溪镇	he;pak xi;upd vf;jx	10
 河溪镇	he;uak xi;upd vf;jx	10
-合溪镇	he;rk xi;upd vf;jx	10
+合溪镇	he;rak xi;upd vf;jx	10
 河下镇	he;uak xw;ald vf;jx	10
 河仙镇	he;uak xm;rlv vf;jx	274
 和孝镇	he;pak xc;xvl vf;jx	10
-合心村	he;rk xn;dvdd cp;mal	52
+合心村	he;rak xn;dvdd cp;mal	52
 河心村	he;uak xn;dvdd cp;mal	52
-合心镇	he;rk xn;dvdd vf;jx	10
+合心镇	he;rak xn;dvdd vf;jx	10
 和新镇	he;pak xn;dapp vf;jx	10
 和兴镇	he;pak xy;ddpd vf;jx	10
-合兴镇	he;rk xy;ddpd vf;jx	10
+合兴镇	he;rak xy;ddpd vf;jx	10
 河堰镇	he;uak yj;tao vf;jx	10
-合阳县	he;rk yh;vlo xm;lvvd	176
+合阳县	he;rak yh;vlo xm;lvvd	176
 和阳镇	he;pak yh;vlo vf;jx	10
 荷尧镇	he;cr yk;avap vf;jx	10
 荷叶乡	he;cr ye;kx xd;vvp	488
 贺野站	he;vplv ye;lvvd vj;dala	274
 荷叶镇	he;cr ye;kx vf;jx	10
-合义乡	he;rk yi;dpd xd;vvp	10
+合义乡	he;rak yi;dpd xd;vvp	10
 河阴镇	he;uak yn;vly vf;jx	10
 何营乡	he;rak yy;ckk xd;vvp	10
 贺营镇	he;vplv yy;ckk vf;jx	10
@@ -8402,7 +8402,7 @@ sort: by_weight
 河峪村	he;uak yu;lvpd cp;mal	52
 河峪乡	he;uak yu;lvpd xd;vvp	10
 河鱼乡	he;uak yu;pvlv xd;vvp	10
-合峪镇	he;rk yu;lvpd vf;jx	10
+合峪镇	he;rak yu;lvpd vf;jx	10
 河源市	he;uak yr;uap ui;dalv	182
 河源县	he;uak yr;uap xm;lvvd	72
 荷源乡	he;cr yr;uap xd;vvp	10
@@ -8416,7 +8416,7 @@ sort: by_weight
 菏泽站	he;cu ze;uvd vj;dala	346
 何寨村	he;rak vl;ddm cp;mal	163
 赫章县	he;tt vh;dax xm;lvvd	174
-合漳乡	he;rk vh;uda xd;vvp	10
+合漳乡	he;rak vh;uda xd;vvp	10
 贺钊镇	he;vplv vk;jll vf;jx	10
 和政县	he;pak vg;alpa xm;lvvd	151
 贺职乡	he;vplv vi;alk xd;vvp	10
@@ -8428,8 +8428,8 @@ sort: by_weight
 和庄镇	he;pak vd;dat vf;jx	10
 鹤子镇	he;dvpv zi;vla vf;jx	606
 河嘴乡	he;uak zv;kla xd;vvp	10
-合作市	he;rk zo;rpa ui;dalv	549
-合作镇	he;rk zo;rpa vf;jx	10
+合作市	he;rak zo;rpa ui;dalv	549
+合作镇	he;rak zo;rpa vf;jx	10
 黑堡乡	hz;lvdd bk;rkt xd;vvp	10
 黑部市	hz;lvdd bu;davl ui;dalv	436
 黑城堡	hz;lvdd ig;tap bk;rkt	322
@@ -8592,7 +8592,7 @@ sort: by_weight
 红河乡	hs;vval he;uak xd;vvp	10
 洪河站	hs;ual he;uak vj;dala	180
 宏河镇	hs;ddap he;uak vf;jx	10
-洪合镇	hs;ual he;rk vf;jx	10
+洪合镇	hs;ual he;rak vf;jx	10
 红河镇	hs;vval he;uak vf;jx	10
 洪湖市	hs;ual hu;uxk ui;dalv	10
 洪湖县	hs;ual hu;uxk xm;lvvd	94
@@ -11467,9 +11467,9 @@ sort: by_weight
 鸠谷市	jq;pvpv gu;pdk ui;dalv	239
 九姑乡	jq;pv gu;vpxk xd;vvp	10
 九和乡	jq;pv he;pak xd;vvp	10
-九合乡	jq;pv he;rk xd;vvp	10
+九合乡	jq;pv he;rak xd;vvp	10
 九和镇	jq;pv he;pak vf;jx	10
-九合镇	jq;pv he;rk vf;jx	10
+九合镇	jq;pv he;rak vf;jx	10
 九洪乡	jq;pv hs;ual xd;vvp	10
 酒后镇	jq;ual hb;ppk vf;jx	10
 九湖镇	jq;pv hu;uxk vf;jx	10
@@ -12829,10 +12829,10 @@ sort: by_weight
 连福镇	lm;avdv fu;dvak vf;jx	10
 连岗乡	lm;avdv gh;lvlv xd;vvp	10
 镰谷市	lm;jda gu;pdk ui;dalv	351
-联合县	lm;aldp he;rk xm;lvvd	394
-联合乡	lm;aldp he;rk xd;vvp	10
+联合县	lm;aldp he;rak xm;lvvd	394
+联合乡	lm;aldp he;rak xd;vvp	10
 莲荷乡	lm;cav he;cr xd;vvp	10
-联合镇	lm;aldp he;rk vf;jx	10
+联合镇	lm;aldp he;rak vf;jx	10
 联湖村	lm;aldp hu;uxk cp;mal	52
 莲湖区	lm;cav hu;uxk qu;apdv	222
 莲湖乡	lm;cav hu;uxk xd;vvp	10
@@ -13466,11 +13466,11 @@ sort: by_weight
 柳壕镇	lq;mpv hk;tda vf;jx	10
 刘河村	lq;dall he;uak cp;mal	10
 柳河县	lq;mpv he;uak xm;lvvd	547
-六合县	lq;dapd he;rk xm;lvvd	517
+六合县	lq;dapd he;rak xm;lvvd	517
 六河乡	lq;dapd he;uak xd;vvp	10
 浏河镇	lq;uda he;uak vf;jx	236
 流河镇	lq;uda he;uak vf;jx	10
-六合镇	lq;dapd he;rk vf;jx	10
+六合镇	lq;dapd he;rak vf;jx	10
 刘河镇	lq;dall he;uak vf;jx	10
 柳河镇	lq;mpv he;uak vf;jx	10
 六横镇	lq;dapd hg;mal vf;jx	10
@@ -13724,7 +13724,7 @@ sort: by_weight
 龙海站	ls;apvp hl;upa vj;dala	194
 龙海镇	ls;apvp hl;upa vf;jx	10
 龙河镇	ls;apvp he;uak vf;jx	10
-龙合镇	ls;apvp he;rk vf;jx	10
+龙合镇	ls;apvp he;rak vf;jx	10
 龙湖区	ls;apvp hu;uxk qu;apdv	180
 龙虎乡	ls;apvp hu;lapv xd;vvp	10
 龙湖镇	ls;apvp hu;uxk vf;jx	10
@@ -14027,7 +14027,7 @@ sort: by_weight
 潞灌镇	lu;uk gr;uck vf;jx	10
 炉观镇	lu;hdv gr;vdlv vf;jx	10
 鲁河村	lu;pvo he;uak cp;mal	103
-六合区	lu;dapd he;rk qu;apdv	214
+六合区	lu;dapd he;rak qu;apdv	214
 陆河县	lu;vlaa he;uak xm;lvvd	166
 鲁河乡	lu;pvo he;uak xd;vvp	167
 芦河镇	lu;cdv he;uak vf;jx	10
@@ -14323,7 +14323,7 @@ sort: by_weight
 罗汉镇	lo;lvpv hj;uvd vf;jx	188
 罗河村	lo;lvpv he;uak cp;mal	31
 漯河市	lo;ulv he;uak ui;dalv	13
-落合站	lo;cu he;rk vj;dala	454
+落合站	lo;cu he;rak vj;dala	454
 罗河镇	lo;lvpv he;uak vf;jx	221
 洛河镇	lo;upv he;uak vf;jx	10
 罗洪村	lo;lvpv hs;ual cp;mal	139
@@ -14556,7 +14556,7 @@ sort: by_weight
 吕河村	lv;kk he;uak cp;mal	10
 闾河乡	lv;dlkk he;uak xd;vvp	10
 吕河镇	lv;kk he;uak vf;jx	150
-吕合镇	lv;kk he;rk vf;jx	145
+吕合镇	lv;kk he;rak vf;jx	145
 绿华镇	lv;vvva hw;rx vf;jx	10
 吕集村	lv;kk ji;rm cp;mal	10
 吕家村	lv;kk jw;ddap cp;mal	222
@@ -14744,7 +14744,7 @@ sort: by_weight
 马河乡	ma;vva he;uak xd;vvp	286
 马河镇	ma;vva he;uak vf;jx	167
 麻河镇	ma;damm he;uak vf;jx	10
-马合镇	ma;vva he;rk vf;jx	10
+马合镇	ma;vva he;rak vf;jx	10
 马湖村	ma;vva hu;uxk cp;mal	120
 马湖乡	ma;vva hu;uxk xd;vvp	181
 麻虎镇	ma;damm hu;lapv vf;jx	10
@@ -15757,7 +15757,7 @@ sort: by_weight
 明久乡	my;oy jq;pvd xd;vvp	10
 鸣鹫镇	my;kpv jq;dapv vf;jx	10
 名口镇	my;pvk kb;k vf;jx	10
-命莲寺	my;rk lm;cav si;tal	346
+命莲寺	my;rak lm;cav si;tal	346
 明亮镇	my;oy ld;dak vf;jx	10
 鸣龙镇	my;kpv ls;apvp vf;jx	10
 鸣鹿乡	my;kpv lu;davl xd;vvp	10
@@ -18594,14 +18594,14 @@ sort: by_weight
 三官镇	sj;aaa gr;ddlv vf;jx	10
 三锅镇	sj;aaa go;jk vf;jx	10
 三号乡	sj;aaa hk;kav xd;vvp	10
-三合村	sj;aaa he;rk cp;mal	100
+三合村	sj;aaa he;rak cp;mal	100
 三和村	sj;aaa he;pak cp;mal	80
 三河村	sj;aaa he;uak cp;mal	64
 三河市	sj;aaa he;uak ui;dalv	11
 三河县	sj;aaa he;uak xm;lvvd	1446
-三合乡	sj;aaa he;rk xd;vvp	100
+三合乡	sj;aaa he;rak xd;vvp	100
 三河镇	sj;aaa he;uak vf;jx	300
-三合镇	sj;aaa he;rk vf;jx	270
+三合镇	sj;aaa he;rak vf;jx	270
 三和镇	sj;aaa he;pak vf;jx	240
 三胡乡	sj;aaa hu;xky xd;vvp	10
 三湖镇	sj;aaa hu;uxk vf;jx	10
@@ -20084,7 +20084,7 @@ sort: by_weight
 双鹤乡	ud;vdvd he;dvpv xd;vvp	10
 双河乡	ud;vdvd he;uak xd;vvp	10
 双河镇	ud;vdvd he;uak vf;jx	426
-双合镇	ud;vdvd he;rk vf;jx	396
+双合镇	ud;vdvd he;rak vf;jx	396
 双堠镇	ud;vdvd hb;tr vf;jx	10
 双湖县	ud;vdvd hu;uxk xm;lvvd	149
 双华镇	ud;vdvd hw;rx vf;jx	10
@@ -20349,9 +20349,9 @@ sort: by_weight
 寺沟镇	si;tal gb;upv vf;jx	10
 四姑镇	si;lvpv gu;vpxk vf;jx	10
 四海镇	si;lvpv hl;upa vf;jx	10
-四合乡	si;lvpv he;rk xd;vvp	97
+四合乡	si;lvpv he;rak xd;vvp	97
 寺河乡	si;tal he;uak xd;vvp	67
-四合镇	si;lvpv he;rk vf;jx	10
+四合镇	si;lvpv he;rak vf;jx	10
 泗河镇	si;ulv he;uak vf;jx	10
 四河镇	si;lvpv he;uak vf;jx	10
 思贺镇	si;lvdv he;vplv vf;jx	10
@@ -20623,7 +20623,7 @@ sort: by_weight
 苏河村	su;cvp he;uak cp;mal	10
 苏河乡	su;cvp he;uak xd;vvp	26
 苏河镇	su;cvp he;uak vf;jx	10
-苏合镇	su;cvp he;rk vf;jx	10
+苏合镇	su;cvp he;rak vf;jx	10
 苏红村	su;cvp hs;vval cp;mal	188
 苏计村	su;cvp ji;dvx cp;mal	10
 苏集村	su;cvp ji;rm cp;mal	10
@@ -22078,7 +22078,7 @@ sort: by_weight
 湾沟镇	wj;uda gb;upv vf;jx	10
 万固寺	wj;avp gu;lvxk si;tal	200
 万古镇	wj;avp gu;xk vf;jx	100
-万合镇	wj;avp he;rk vf;jx	10
+万合镇	wj;avp he;rak vf;jx	10
 万和镇	wj;avp he;pak vf;jx	10
 万户镇	wj;avp hu;dvap vf;jx	10
 万华区	wj;avp hw;rx qu;apdv	39
@@ -22998,10 +22998,10 @@ sort: by_weight
 舞鹤市	wu;papv he;dvpv ui;dalv	500
 五河县	wu;alva he;uak xm;lvvd	376
 吴河乡	wu;kaa he;uak xd;vvp	155
-五合乡	wu;alva he;rk xd;vvp	10
+五合乡	wu;alva he;rak xd;vvp	10
 五河镇	wu;alva he;uak vf;jx	10
 五和镇	wu;alva he;pak vf;jx	10
-五合镇	wu;alva he;rk vf;jx	10
+五合镇	wu;alva he;rak vf;jx	10
 五横乡	wu;alva hg;mal xd;vvp	10
 武侯祠	wu;aala hb;rva ci;dvva	486
 武侯区	wu;aala hb;rva qu;apdv	242
@@ -24402,7 +24402,7 @@ sort: by_weight
 谢斐道	xx;dvpl fz;lada dk;dpdv	464
 谢岗镇	xx;dvpl gh;lvlv vf;jx	10
 斜沟乡	xx;rdd gb;upv xd;vvp	10
-协合乡	xx;xvp he;rk xd;vvp	10
+协合乡	xx;xvp he;rak xd;vvp	10
 谢河镇	xx;dvpl he;uak vf;jx	10
 协和镇	xx;xvp he;pak vf;jx	10
 洩湖镇	xx; hu;uxk vf;jx	10
@@ -24553,11 +24553,11 @@ sort: by_weight
 新杭镇	xn;dapp hh;mda vf;jx	10
 新河县	xn;dapp he;uak xm;lvvd	43
 新和县	xn;dapp he;pak xm;lvvd	13
-新合乡	xn;dapp he;rk xd;vvp	10
+新合乡	xn;dapp he;rak xd;vvp	10
 新河乡	xn;dapp he;uak xd;vvp	10
 新河站	xn;dapp he;uak vj;dala	243
 新河镇	xn;dapp he;uak vf;jx	328
-新合镇	xn;dapp he;rk vf;jx	10
+新合镇	xn;dapp he;rak vf;jx	10
 新和镇	xn;dapp he;pak vf;jx	10
 新亨镇	xn;dapp hg;dak vf;jx	10
 新湖镇	xn;dapp hu;uxk vf;jx	10
@@ -26205,7 +26205,7 @@ sort: by_weight
 彝海镇	yi;vvap hl;upa vf;jx	10
 颐和园	yi;alap he;pak yr;lvaa	630
 义和镇	yi;dpd he;pak vf;jx	10
-义合镇	yi;dpd he;rk vf;jx	10
+义合镇	yi;dpd he;rak vf;jx	10
 义和庄	yi;dpd he;pak vd;dat	265
 宜黄县	yi;ddlv hd;allv xm;lvvd	176
 议会站	yi;dvdp hv;raa vj;dala	333
@@ -27298,7 +27298,7 @@ sort: by_weight
 运河区	yp;aadv he;uak qu;apdv	174
 云和县	yp;aavd he;pak xm;lvvd	171
 运河镇	yp;aadv he;uak vf;jx	172
-云合镇	yp;aavd he;rk vf;jx	10
+云合镇	yp;aavd he;rak vf;jx	10
 云鹤镇	yp;aavd he;dvpv vf;jx	10
 云集镇	yp;aavd ji;rm vf;jx	10
 运江镇	yp;aadv jd;ual vf;jx	10
@@ -29323,11 +29323,11 @@ sort: by_weight
 阿尕什镇	aa;vlak ga;vplp ui;rx vf;jx	10
 阿古拉镇	aa;vlak gu;xk la;fda vf;jx	10
 阿姑泉村	aa;vlak gu;vpxk qr;plu cp;mal	10
-阿合奇县	aa;vlak he;rk qi;apak xm;lvvd	10
-阿合奇镇	aa;vlak he;rk qi;apak vf;jx	10
-阿合亚乡	aa;vlak he;rk ya;alld xd;vvp	10
-阿合雅乡	aa;vlak he;rk ya;avr xd;vvp	10
-阿合雅镇	aa;vlak he;rk ya;avr vf;jx	10
+阿合奇县	aa;vlak he;rak qi;apak xm;lvvd	10
+阿合奇镇	aa;vlak he;rak qi;apak vf;jx	10
+阿合亚乡	aa;vlak he;rak ya;alld xd;vvp	10
+阿合雅乡	aa;vlak he;rak ya;avr xd;vvp	10
+阿合雅镇	aa;vlak he;rak ya;avr vf;jx	10
 阿乎恩堡	aa;vlak hu;pdpa en;lvdv bk;rkt	10
 阿兼城庄	aa;vlak jm;dpav ig;tap vd;dat	10
 阿科里乡	aa;vlak ke;padd li;lvaa xd;vvp	10
@@ -29518,7 +29518,7 @@ sort: by_weight
 安徽固镇	an;ddvp hv;pplv gu;lvxk vf;jx	10
 安徽涡阳	an;ddvp hv;pplv go;uk yh;vlo	394
 安徽含山	an;ddvp hv;pplv hj;rk uj;lvl	372
-安徽合肥	an;ddvp hv;pplv he;rk fz;yvl	10
+安徽合肥	an;ddvp hv;pplv he;rak fz;yvl	10
 安徽和县	an;ddvp hv;pplv he;pak xm;lvvd	10
 安徽淮北	an;ddvp hv;pplv hy;ur bz;lapv	10
 安徽淮南	an;ddvp hv;pplv hy;ur nj;xlv	10
@@ -29832,7 +29832,7 @@ sort: by_weight
 耙谷峁村	ba;aavl gu;pdk mk;lvpv cp;mal	10
 巴哈拜村	ba;vlav ha;kr bl;paaa cp;mal	10
 八河川镇	ba;pd he;uak ir;pll vf;jx	10
-巴合齐乡	ba;vlav he;rk qi;dapl xd;vvp	10
+巴合齐乡	ba;vlav he;rak qi;dapl xd;vvp	10
 巴吉垒镇	ba;vlav ji;tk lz;vdt vf;jx	10
 巴吉亚县	ba;vlav ji;tk ya;alld xm;lvvd	10
 八家户村	ba;pd jw;ddap hu;dvap cp;mal	10
@@ -30061,12 +30061,12 @@ sort: by_weight
 白河北村	bl;plva he;uak bz;lapv cp;mal	10
 白鹤洞站	bl;plva he;dvpv ds;ulv vj;dala	4
 白河公园	bl;plva he;uak gs;pdvd yr;lvaa	274
-百合公园	bl;apl he;rk gs;pdvd yr;lvaa	163
+百合公园	bl;apl he;rak gs;pdvd yr;lvaa	163
 百荷公园	bl;apl he;cr gs;pdvd yr;lvaa	99
 白鹤公园	bl;plva he;dvpv gs;pdvd yr;lvaa	70
 柏鹤集乡	bl;mpl he;dvpv ji;rm xd;vvp	10
-柏合街道	bl;mpl he;rk jx;pptt dk;dpdv	10
-百合街道	bl;apl he;rk jx;pptt dk;dpdv	10
+柏合街道	bl;mpl he;rak jx;pptt dk;dpdv	10
+百合街道	bl;apl he;rak jx;pptt dk;dpdv	10
 白河街道	bl;plva he;uak jx;pptt dk;dpdv	10
 白鹤街道	bl;plva he;dvpv jx;pptt dk;dpdv	10
 白河牧场	bl;plva he;uak mu;papa ih;tvp	10
@@ -30076,7 +30076,7 @@ sort: by_weight
 白河社区	bl;plva he;uak ue;dvt qu;apdv	38
 白鹤滩镇	bl;plva he;dvpv tj;uvd vf;jx	10
 白鹤新村	bl;plva he;dvpv xn;dapp cp;mal	10
-百合园村	bl;apl he;rk yr;lvaa cp;mal	10
+百合园村	bl;apl he;rak yr;lvaa cp;mal	10
 白湖农场	bl;plva hu;uxk ns;dvpv ih;tvp	194
 百虎围村	bl;apl hu;lapv wz;lvaa cp;mal	10
 百户寨村	bl;apl hu;dvap vl;ddm cp;mal	10
@@ -30642,11 +30642,11 @@ sort: by_weight
 保河堤镇	bk;rkm he;uak di;to vf;jx	10
 包河公园	bk;pvva he;uak gs;pdvd yr;lvaa	279
 保和街道	bk;rkm he;pak jx;pptt dk;dpdv	10
-保合少乡	bk;rkm he;rk uk;lpdp xd;vvp	10
-保合少镇	bk;rkm he;rk uk;lpdp vf;jx	10
-保合堂村	bk;rkm he;rk th;ldkt cp;mal	10
-保合寨村	bk;rkm he;rk vl;ddm cp;mal	10
-保合庄村	bk;rkm he;rk vd;dat cp;mal	10
+保合少乡	bk;rkm he;rak uk;lpdp xd;vvp	10
+保合少镇	bk;rkm he;rak uk;lpdp vf;jx	10
+保合堂村	bk;rkm he;rak th;ldkt cp;mal	10
+保合寨村	bk;rkm he;rak vl;ddm cp;mal	10
+保合庄村	bk;rkm he;rak vd;dat cp;mal	10
 宝湖公园	bk;ddaa hu;uxk gs;pdvd yr;lvaa	76
 豹虎山村	bk;pdpv hu;lapv uj;lvl cp;mal	10
 宝湖山庄	bk;ddaa hu;uxk uj;lvl vd;dat	10
@@ -30827,7 +30827,7 @@ sort: by_weight
 北安公园	bz;lapv an;ddvp gs;pdvd yr;lvaa	171
 北岸公园	bz;lapv an;lvap gs;pdvd yr;lvaa	122
 北安谷村	bz;lapv an;ddvp gu;pdk cp;mal	10
-北安合村	bz;lapv an;ddvp he;rk cp;mal	10
+北安合村	bz;lapv an;ddvp he;rak cp;mal	10
 北安河村	bz;lapv an;ddvp he;uak cp;mal	10
 北安河乡	bz;lapv an;ddvp he;uak xd;vvp	10
 北安街道	bz;lapv an;ddvp jx;pptt dk;dpdv	10
@@ -31047,7 +31047,7 @@ sort: by_weight
 北郭庄村	bz;lapv go;davl vd;dat cp;mal	10
 北海公园	bz;lapv hl;upa gs;pdvd yr;lvaa	232
 北海海城	bz;lapv hl;upa hl;upa ig;tap	10
-北海合浦	bz;lapv hl;upa he;rk pu;ual	10
+北海合浦	bz;lapv hl;upa he;rak pu;ual	10
 北海街道	bz;lapv hl;upa jx;pptt dk;dpdv	10
 北海银海	bz;lapv hl;upa yn;jva hl;upa	10
 北海子村	bz;lapv hl;upa zi;vla cp;mal	10
@@ -31068,7 +31068,7 @@ sort: by_weight
 北河照村	bz;lapv he;uak vk;odd cp;mal	10
 北何庄村	bz;lapv he;rak vd;dat cp;mal	10
 北河庄村	bz;lapv he;uak vd;dat cp;mal	10
-北合庄村	bz;lapv he;rk vd;dat cp;mal	10
+北合庄村	bz;lapv he;rak vd;dat cp;mal	10
 北河庄镇	bz;lapv he;uak vd;dat vf;jx	10
 北黑池村	bz;lapv hz;lvdd ii;uvl cp;mal	10
 北横沟村	bz;lapv hg;mal gb;upv cp;mal	10
@@ -31652,7 +31652,7 @@ sort: by_weight
 北雪泾寺	bz;lapv xt;adva jy;uvd si;tal	4
 北薛庄村	bz;lapv xt;cpl vd;dat cp;mal	10
 北崖底村	bz;lapv ya;lvap di;dapv cp;mal	10
-碑垭合村	bz;appl ya;tal he;rk cp;mal	10
+碑垭合村	bz;appl ya;tal he;rak cp;mal	10
 碑垭口村	bz;appl ya;tal kb;k cp;mal	10
 北崖头村	bz;lapv ya;lvap tb;ddap cp;mal	10
 北雅握村	bz;lapv ya;avr wo;fva cp;mal	10
@@ -31730,7 +31730,7 @@ sort: by_weight
 北院庄村	bz;lapv yr;vldd vd;dat cp;mal	10
 北苑庄村	bz;lapv yr;cpv vd;dat cp;mal	10
 北园子村	bz;lapv yr;lvaa zi;vla cp;mal	10
-北月合村	bz;lapv yt;y he;rk cp;mal	10
+北月合村	bz;lapv yt;y he;rak cp;mal	10
 北岳庙村	bz;lapv yt;pllv mc;dalv cp;mal	10
 北岳庄村	bz;lapv yt;pllv vd;dat cp;mal	10
 北越庄村	bz;lapv yt;tav vd;dat cp;mal	10
@@ -32918,9 +32918,9 @@ sort: by_weight
 长茅岭乡	ih;pavd mk;cvd ly;lvr xd;vvp	10
 厂门口村	ih;ap mf;dlv kb;k cp;mal	10
 长苗代村	ih;pavd mc;clv dl;rav cp;mal	10
-长命山村	ih;pavd my;rk uj;lvl cp;mal	10
-长命水村	ih;pavd my;rk uv;u cp;mal	10
-长命寺村	ih;pavd my;rk si;tal cp;mal	10
+长命山村	ih;pavd my;rak uj;lvl cp;mal	10
+长命水村	ih;pavd my;rak uv;u cp;mal	10
+长命寺村	ih;pavd my;rak si;tal cp;mal	10
 长泥坡村	ih;pavd ni;uva po;tvp cp;mal	10
 长宁街道	ih;pavd ny;ddal jx;pptt dk;dpdv	10
 长排寮村	ih;pavd pl;fla lc;ddap cp;mal	10
@@ -33757,7 +33757,7 @@ sort: by_weight
 重庆奉节	is;palv qy;daap fg;aaaa jx;cvl	10
 重庆涪陵	is;palv qy;daap fu;uda ly;vlt	10
 重庆公园	is;palv qy;daap gs;pdvd yr;lvaa	144
-重庆合川	is;palv qy;daap he;rk ir;pll	10
+重庆合川	is;palv qy;daap he;rak ir;pll	10
 重庆江津	is;palv qy;daap jd;ual jn;uva	10
 重庆郊县	is;palv qy;daap jc;davl xm;lvvd	10
 重庆街道	is;palv qy;daap jx;pptt dk;dpdv	10
@@ -34623,7 +34623,7 @@ sort: by_weight
 大和睦村	da;apd he;pak mu;lvt cp;mal	10
 大河南村	da;apd he;uak nj;xlv cp;mal	10
 大河南镇	da;apd he;uak nj;xlv vf;jx	10
-大合坪乡	da;apd he;rk py;tad xd;vvp	10
+大合坪乡	da;apd he;rak py;tad xd;vvp	10
 大河社区	da;apd he;uak ue;dvt qu;apdv	130
 大河塔乡	da;apd he;uak ta;tcr xd;vvp	10
 大河塔镇	da;apd he;uak ta;tcr vf;jx	10
@@ -36630,19 +36630,19 @@ sort: by_weight
 东壕堑村	ds;avlp hk;tda qm;avt cp;mal	10
 东郝庄村	ds;avlp hk;tvl vd;dat cp;mal	10
 东和店镇	ds;avlp he;pak dm;dala vf;jx	10
-东合发村	ds;avlp he;rk fa;vpvd cp;mal	10
+东合发村	ds;avlp he;rak fa;vpvd cp;mal	10
 东河公园	ds;avlp he;uak gs;pdvd yr;lvaa	171
 东河沽村	ds;avlp he;uak gu;uxk cp;mal	10
 东何家村	ds;avlp he;rak jw;ddap cp;mal	10
-东合角村	ds;avlp he;rk jc;pvpv cp;mal	10
+东合角村	ds;avlp he;rak jc;pvpv cp;mal	10
 峒河街道	ds;lvlv he;uak jx;pptt dk;dpdv	10
 东河街道	ds;avlp he;uak jx;pptt dk;dpdv	10
 东河口村	ds;avlp he;uak kb;k cp;mal	10
 东河口镇	ds;avlp he;uak kb;k vf;jx	10
-东合流村	ds;avlp he;rk lq;uda cp;mal	10
+东合流村	ds;avlp he;rak lq;uda cp;mal	10
 东河流村	ds;avlp he;uak lq;uda cp;mal	10
 东河南镇	ds;avlp he;uak nj;xlv vf;jx	10
-东合盛村	ds;avlp he;rk ug;aplv cp;mal	10
+东合盛村	ds;avlp he;rak ug;aplv cp;mal	10
 东贺水村	ds;avlp he;vplv uv;u cp;mal	10
 东河套村	ds;avlp he;uak tk;apal cp;mal	10
 东河筒村	ds;avlp he;uak ts;palv cp;mal	10
@@ -37027,7 +37027,7 @@ sort: by_weight
 东马各庄	ds;avlp ma;vva ge;pvk vd;dat	10
 东马沟村	ds;avlp ma;vva gb;upv cp;mal	10
 东马固村	ds;avlp ma;vva gu;lvxk cp;mal	10
-东马合村	ds;avlp ma;vva he;rk cp;mal	10
+东马合村	ds;avlp ma;vva he;rak cp;mal	10
 东马家村	ds;avlp ma;vva jw;ddap cp;mal	10
 东马圈村	ds;avlp ma;vva jr;lvdp cp;mal	10
 东马圈镇	ds;avlp ma;vva jr;lvdp vf;jx	10
@@ -37150,7 +37150,7 @@ sort: by_weight
 东坪墕村	ds;avlp py;tad yj;tal cp;mal	10
 东平原村	ds;avlp py;adpa yr;appl cp;mal	10
 东坡底乡	ds;avlp po;tvp di;dapv xd;vvp	10
-东婆合村	ds;avlp po;uvp he;rk cp;mal	10
+东婆合村	ds;avlp po;uvp he;rak cp;mal	10
 东坡杨村	ds;avlp po;tvp yh;mvp cp;mal	10
 东坡庄村	ds;avlp po;tvp vd;dat cp;mal	10
 东泊子村	ds;avlp po;upl zi;vla cp;mal	10
@@ -38321,7 +38321,7 @@ sort: by_weight
 洱海渔村	er;ual hl;upa yu;upv cp;mal	10
 二号卜乡	er;aa hk;kav bo;ld xd;vvp	10
 二号桥站	er;aa hk;kav qc;mpa vj;dala	225
-二合庄村	er;aa he;rk vd;dat cp;mal	10
+二合庄村	er;aa he;rak vd;dat cp;mal	10
 二化社区	er;aa hw;rpv ue;dvt qu;apdv	4
 二化新村	er;aa hw;rpv xn;dapp cp;mal	10
 二甲张村	er;aa jw;lvaa vh;vapa cp;mal	10
@@ -39534,7 +39534,7 @@ sort: by_weight
 干嘛要站	gj;aal ma;kda yk;alvp vj;dala	76
 甘孟咀村	gj;alla mg;vllv ju;klv cp;mal	10
 甘南迭部	gj;alla nj;xlv dx;padv bu;davl	10
-甘南合作	gj;alla nj;xlv he;rk zo;rpa	10
+甘南合作	gj;alla nj;xlv he;rak zo;rpa	10
 甘南临潭	gj;alla nj;xlv ln;llpa tj;ual	10
 甘南碌曲	gj;alla nj;xlv lu;apva qu;lval	10
 甘南玛曲	gj;alla nj;xlv ma;aavv qu;lval	10
@@ -40281,7 +40281,7 @@ sort: by_weight
 格瓦尼乡	ge;mpv wa;avvd ni;vapv xd;vvp	10
 格溪沈村	ge;mpv xi;upd uf;udv cp;mal	10
 隔溪张村	ge;vlak xi;upd vh;vapa cp;mal	10
-个贤合庄	ge;rl xm;lllv he;rk vd;dat	10
+个贤合庄	ge;rl xm;lllv he;rak vd;dat	10
 葛仙山镇	ge;co xm;rlv uj;lvl vf;jx	10
 葛仙庄镇	ge;co xm;rlv vd;dat vf;jx	10
 各乡镇村	ge;pvk xd;vvp vf;jx cp;mal	10
@@ -42146,7 +42146,7 @@ sort: by_weight
 鹤城街道	he;dvpv ig;tap jx;pptt dk;dpdv	10
 荷城街道	he;cr ig;tap jx;pptt dk;dpdv	10
 河城街镇	he;uak ig;tap jx;pptt vf;jx	10
-合成利村	he;rk ig;apvv li;pall cp;mal	10
+合成利村	he;rak ig;apvv li;pall cp;mal	10
 贺丞社区	he;vplv ig;vlvp ue;dvt qu;apdv	4
 贺丞新村	he;vplv ig;vlvp xn;dapp cp;mal	10
 河池巴马	he;uak ii;uvl ba;vlav ma;vva	10
@@ -42161,7 +42161,7 @@ sort: by_weight
 河池宜州	he;uak ii;uvl yi;ddlv vb;dpdl	10
 河池寨村	he;uak ii;uvl vl;ddm cp;mal	10
 河川口村	he;uak ir;pll kb;k cp;mal	10
-合村并镇	he;rk cp;mal by;dpaa vf;jx	10
+合村并镇	he;rak cp;mal by;dpaa vf;jx	10
 河岛公园	he;uak dk;pvlv gs;pdvd yr;lvaa	76
 河堤口村	he;uak di;to kb;k cp;mal	10
 和甸营村	he;pak dm;pvlv yy;ckk cp;mal	10
@@ -42183,17 +42183,17 @@ sort: by_weight
 赫尔辛堡	he;tt er;pvlp xn;dax bk;rkt	10
 何坊街道	he;rak fh;tda jx;pptt dk;dpdv	10
 河防口村	he;uak fh;vlda kb;k cp;mal	10
-合肥北站	he;rk fz;yvl bz;lapv vj;dala	220
-合肥长丰	he;rk fz;yvl ih;pavd fg;aaal	10
-合肥巢湖	he;rk fz;yvl ik;vvlv hu;uxk	10
-合肥肥东	he;rk fz;yvl fz;yvl ds;avlp	10
-合肥肥西	he;rk fz;yvl fz;yvl xi;alvp	10
-合肥公园	he;rk fz;yvl gs;pdvd yr;lvaa	99
-合肥庐江	he;rk fz;yvl lu;dadv jd;ual	10
-合肥庐阳	he;rk fz;yvl lu;dadv yh;vlo	10
-合肥蜀山	he;rk fz;yvl uu;lvpv uj;lvl	10
-合肥瑶海	he;rk fz;yvl yk;aapd hl;upa	10
-合丰店村	he;rk fg;aaal dm;dala cp;mal	10
+合肥北站	he;rak fz;yvl bz;lapv vj;dala	220
+合肥长丰	he;rak fz;yvl ih;pavd fg;aaal	10
+合肥巢湖	he;rak fz;yvl ik;vvlv hu;uxk	10
+合肥肥东	he;rak fz;yvl fz;yvl ds;avlp	10
+合肥肥西	he;rak fz;yvl fz;yvl xi;alvp	10
+合肥公园	he;rak fz;yvl gs;pdvd yr;lvaa	99
+合肥庐江	he;rak fz;yvl lu;dadv jd;ual	10
+合肥庐阳	he;rak fz;yvl lu;dadv yh;vlo	10
+合肥蜀山	he;rak fz;yvl uu;lvpv uj;lvl	10
+合肥瑶海	he;rak fz;yvl yk;aapd hl;upa	10
+合丰店村	he;rak fg;aaal dm;dala cp;mal	10
 河凤桥乡	he;uak fg;pvvd qc;mpa xd;vvp	10
 河风桥乡	he;uak fg;pvpd qc;mpa xd;vvp	10
 鹤峰社区	he;dvpv fg;lvpv ue;dvt qu;apdv	50
@@ -42213,12 +42213,12 @@ sort: by_weight
 何各庄村	he;rak ge;pvk vd;dat cp;mal	10
 贺沟口村	he;vplv gb;upv kb;k cp;mal	10
 河沟张村	he;uak gb;upv vh;vapa cp;mal	10
-合姑洛乡	he;rk gu;vpxk lo;upv xd;vvp	10
+合姑洛乡	he;rak gu;vpxk lo;upv xd;vvp	10
 河古庙镇	he;uak gu;xk mc;dalv vf;jx	10
 何官屯镇	he;rak gr;ddlv tp;avlv vf;jx	10
 和光胡同	he;pak gd;ldpv hu;xky ts;lvak	207
 赫含珠村	he;tt hj;rk vu;aapa cp;mal	10
-合河口乡	he;rk he;uak kb;k xd;vvp	10
+合河口乡	he;rak he;uak kb;k xd;vvp	10
 荷花池村	he;cr hw;cr ii;uvl cp;mal	10
 荷花店村	he;cr hw;cr dm;dala cp;mal	10
 荷花街道	he;cr hw;cr jx;pptt dk;dpdv	10
@@ -42254,7 +42254,7 @@ sort: by_weight
 贺家会乡	he;vplv jw;ddap hv;raa xd;vvp	10
 何家集镇	he;rak jw;ddap ji;rm vf;jx	10
 贺家硷村	he;vplv jw;ddap jm; cp;mal	10
-合家硷村	he;rk jw;ddap jm; cp;mal	10
+合家硷村	he;rak jw;ddap jm; cp;mal	10
 何家梁村	he;rak jw;ddap ld;um cp;mal	10
 贺家梁村	he;vplv jw;ddap ld;um cp;mal	10
 河夹流村	he;uak jw;adpa lq;uda cp;mal	10
@@ -42302,14 +42302,14 @@ sort: by_weight
 贺家寨村	he;vplv jw;ddap vl;ddm cp;mal	10
 何家庄村	he;rak jw;ddap vd;dat cp;mal	10
 贺家庄村	he;vplv jw;ddap vd;dat cp;mal	10
-合家庄村	he;rk jw;ddap vd;dat cp;mal	10
+合家庄村	he;rak jw;ddap vd;dat cp;mal	10
 和家庄村	he;pak jw;ddap vd;dat cp;mal	10
 贺家庄乡	he;vplv jw;ddap vd;dat xd;vvp	10
 何家庄乡	he;rak jw;ddap vd;dat xd;vvp	10
 和家庄镇	he;pak jw;ddap vd;dat vf;jx	10
 和家卓村	he;pak jw;ddap vo;laox cp;mal	10
 贺家嘴村	he;vplv jw;ddap zv;kla cp;mal	10
-合江街道	he;rk jd;ual jx;pptt dk;dpdv	10
+合江街道	he;rak jd;ual jx;pptt dk;dpdv	10
 河街社区	he;uak jx;pptt ue;dvt qu;apdv	243
 河津营村	he;uak jn;uva yy;ckk cp;mal	10
 河坎子村	he;uak kj;tpv zi;vla cp;mal	10
@@ -42389,7 +42389,7 @@ sort: by_weight
 河南庄村	he;uak nj;xlv vd;dat cp;mal	10
 河内温县	he;uak nz;lvpd wf;uo xm;lvvd	10
 鹤盘山村	he;dvpv pj;pplv uj;lvl cp;mal	10
-合朋溪镇	he;rk pg;yy xi;upd vf;jx	10
+合朋溪镇	he;rak pg;yy xi;upd vf;jx	10
 河坪沟村	he;uak py;tad gb;upv cp;mal	10
 和平街道	he;pak py;adpa jx;pptt dk;dpdv	10
 和平农场	he;pak py;adpa ns;dvpv ih;tvp	10
@@ -42428,17 +42428,17 @@ sort: by_weight
 河深沟村	he;uak uf;udv gb;upv cp;mal	10
 河神庙乡	he;uak uf;dvlv mc;dalv xd;vvp	10
 河深桥村	he;uak uf;udv qc;mpa cp;mal	10
-合盛堡乡	he;rk ug;aplv bk;rkt xd;vvp	10
+合盛堡乡	he;rak ug;aplv bk;rkt xd;vvp	10
 贺胜桥镇	he;vplv ug;ypa qc;mpa vf;jx	10
 贺生屯村	he;vplv ug;paal tp;avlv cp;mal	10
 褐石公园	he;dvo ui;apk gs;pdvd yr;lvaa	230
-合石沟村	he;rk ui;apk gb;upv cp;mal	10
+合石沟村	he;rak ui;apk gb;upv cp;mal	10
 和石家庄	he;pak ui;apk jw;ddap vd;dat	10
 贺石畔村	he;vplv ui;apk pj;lvdp cp;mal	10
 贺石桥村	he;vplv ui;apk qc;mpa cp;mal	10
 河水坝村	he;uak uv;u ba;tlv cp;mal	10
-合水店村	he;rk uv;u dm;dala cp;mal	10
-合水口村	he;rk uv;u kb;k cp;mal	10
+合水店村	he;rak uv;u dm;dala cp;mal	10
+合水口村	he;rak uv;u kb;k cp;mal	10
 和顺街道	he;pak up;plap jx;pptt dk;dpdv	10
 和顺上村	he;pak up;plap uh;laa cp;mal	10
 河朔三镇	he;uak uo;dpy sj;aaa vf;jx	10
@@ -42513,7 +42513,7 @@ sort: by_weight
 禾欣社区	he;palp xn;pppv ue;dvt qu;apdv	45
 河心洲村	he;uak xn;dvdd vb;udp cp;mal	10
 和兴街道	he;pak xy;ddpd jx;pptt dk;dpdv	10
-合兴街道	he;rk xy;ddpd jx;pptt dk;dpdv	10
+合兴街道	he;rak xy;ddpd jx;pptt dk;dpdv	10
 鹤兴街道	he;dvpv xy;ddpd jx;pptt dk;dpdv	10
 贺杏峁村	he;vplv xy;mk mk;lvpv cp;mal	10
 禾秀寨村	he;palp xq;pavp vl;ddm cp;mal	10
@@ -42525,7 +42525,7 @@ sort: by_weight
 贺阳畔村	he;vplv yh;vlo pj;lvdp cp;mal	10
 贺尧科村	he;vplv yk;avap ke;padd cp;mal	10
 荷叶坪乡	he;cr ye;kx py;tad xd;vvp	10
-和宜合村	he;pak yi;ddlv he;rk cp;mal	10
+和宜合村	he;pak yi;ddlv he;rak cp;mal	10
 和义街道	he;pak yi;dpd jx;pptt dk;dpdv	10
 和义南站	he;pak yi;dpd nj;xlv vj;dala	189
 河雍街道	he;uak ys;davv jx;pptt dk;dpdv	10
@@ -42561,13 +42561,13 @@ sort: by_weight
 河庄街道	he;uak vd;dat jx;pptt dk;dpdv	10
 河庄坪村	he;uak vd;dat py;tad cp;mal	10
 河庄坪镇	he;uak vd;dat py;tad vf;jx	10
-合子坳村	he;rk zi;vla ao;tvv cp;mal	10
+合子坳村	he;rak zi;vla ao;tvv cp;mal	10
 禾子涧村	he;palp zi;vla jm;udl cp;mal	10
 河子西村	he;uak zi;vla xi;alvp cp;mal	10
 河子西乡	he;uak zi;vla xi;alvp xd;vvp	10
 河子西镇	he;uak zi;vla xi;alvp vf;jx	10
-合作街道	he;rk zo;rpa jx;pptt dk;dpdv	10
-合作桥乡	he;rk zo;rpa qc;mpa xd;vvp	10
+合作街道	he;rak zo;rpa jx;pptt dk;dpdv	10
+合作桥乡	he;rak zo;rpa qc;mpa xd;vvp	10
 黑柏沟村	hz;lvdd bl;mpl gb;upv cp;mal	10
 黑宝山镇	hz;lvdd bk;ddaa uj;lvl vf;jx	10
 黑埠子村	hz;lvdd bu;tpl zi;vla cp;mal	10
@@ -43178,7 +43178,7 @@ sort: by_weight
 红星社区	hs;vval xy;opa ue;dvt qu;apdv	292
 宏兴社区	hs;ddap xy;ddpd ue;dvt qu;apdv	4
 红崖底村	hs;vval ya;lvap di;dapv cp;mal	10
-红牙合村	hs;vval ya;avlp he;rk cp;mal	10
+红牙合村	hs;vval ya;avlp he;rak cp;mal	10
 红崖头村	hs;vval ya;lvap tb;ddap cp;mal	10
 红崖洼村	hs;vval ya;lvap wa;utt cp;mal	10
 红崖湾村	hs;vval ya;lvap wj;uda cp;mal	10
@@ -43481,7 +43481,7 @@ sort: by_weight
 呼和浩特	hu;kpd he;pak hk;upa te;pat	10
 呼和马场	hu;kpd he;pak ma;vva ih;tvp	10
 呼和木独	hu;kpd he;pak mu;m du;pvlv	153
-胡合营村	hu;xky he;rk yy;ckk cp;mal	10
+胡合营村	hu;xky he;rak yy;ckk cp;mal	10
 胡黄岭村	hu;xky hd;allv ly;lvr cp;mal	10
 胡伙场村	hu;xky ho;rh ih;tvp cp;mal	10
 忽鸡沟乡	hu;pvdv ji;vdpv gb;upv xd;vvp	10
@@ -44330,8 +44330,8 @@ sort: by_weight
 黄河街道	hd;allv he;uak jx;pptt dk;dpdv	10
 黄河口镇	hd;allv he;uak kb;k vf;jx	10
 黄鹤楼站	hd;allv he;dvpv lb;mdp vj;dala	171
-黄合峁村	hd;allv he;rk mk;lvpv cp;mal	10
-黄合少镇	hd;allv he;rk uk;lpdp vf;jx	10
+黄合峁村	hd;allv he;rak mk;lvpv cp;mal	10
+黄合少镇	hd;allv he;rak uk;lpdp vf;jx	10
 黄河涯村	hd;allv he;uak ya;uap cp;mal	10
 黄河涯镇	hd;allv he;uak ya;uap vf;jx	10
 黄河营村	hd;allv he;uak yy;ckk cp;mal	10
@@ -47092,7 +47092,7 @@ sort: by_weight
 旧馆街道	jq;lo gr;pvdd jx;pptt dk;dpdv	10
 旧孩岭村	jq;lo hl;vlda ly;lvr cp;mal	10
 酒河坪村	jq;ual he;uak py;tad cp;mal	10
-久合垸乡	jq;pvd he;rk yr;tdd xd;vvp	10
+久合垸乡	jq;pvd he;rak yr;tdd xd;vvp	10
 旧户东村	jq;lo hu;dvap ds;avlp cp;mal	10
 旧户西村	jq;lo hu;dvap xi;alvp cp;mal	10
 旧户泽村	jq;lo hu;dvap ze;uvd cp;mal	10
@@ -47248,7 +47248,7 @@ sort: by_weight
 鞠官屯村	ju;alpv gr;ddlv tp;avlv cp;mal	10
 居国寺村	ju;vaxk go;lvaa si;tal cp;mal	10
 沮河社区	ju;ulv he;uak ue;dvt qu;apdv	4
-聚合庄村	ju;alpl he;rk vd;dat cp;mal	10
+聚合庄村	ju;alpl he;rak vd;dat cp;mal	10
 菊花岛乡	ju;cpv hw;cr dk;pvlv xd;vvp	10
 菊花街道	ju;cpv hw;cr jx;pptt dk;dpdv	10
 居集坳村	ju;vaxk ji;rm ao;tvv cp;mal	10
@@ -47274,7 +47274,7 @@ sort: by_weight
 巨木塬村	ju;avav mu;m yr;tap cp;mal	10
 聚泉岭村	ju;alpl qr;plu ly;lvr cp;mal	10
 居仁街道	ju;vaxk rf;raa jx;pptt dk;dpdv	10
-巨日合镇	ju;avav ri;o he;rk vf;jx	10
+巨日合镇	ju;avav ri;o he;rak vf;jx	10
 巨山沟村	ju;avav uj;lvl gb;upv cp;mal	10
 桔山街道	ju;mtk uj;lvl jx;pptt dk;dpdv	10
 巨山农场	ju;avav uj;lvl ns;dvpv ih;tvp	220
@@ -47901,7 +47901,7 @@ sort: by_weight
 砬子山村	la;apda zi;vla uj;lvl cp;mal	10
 来安街道	ll;adpa an;ddvp jx;pptt dk;dpdv	10
 赉北街道	ll;adlv bz;lapv jx;pptt dk;dpdv	10
-来宾合山	ll;adpa bn;ddpl he;rk uj;lvl	10
+来宾合山	ll;adpa bn;ddpl he;rak uj;lvl	10
 来宾街道	ll;adpa bn;ddpl jx;pptt dk;dpdv	10
 来宾金秀	ll;adpa bn;ddpl jn;j xq;pavp	10
 来宾武宣	ll;adpa bn;ddpl wu;aala xr;ddao	10
@@ -48484,13 +48484,13 @@ sort: by_weight
 溧河店村	li;ual he;uak dm;dala cp;mal	10
 李河沟村	li;mvl he;uak gb;upv cp;mal	10
 溧河街道	li;ual he;uak jx;pptt dk;dpdv	10
-黎合李村	li;paru he;rk li;mvl cp;mal	10
+黎合李村	li;paru he;rak li;mvl cp;mal	10
 溧河铺镇	li;ual he;uak pu;jal vf;jx	10
 李河滩村	li;mvl he;uak tj;uvd cp;mal	10
-理合务乡	li;aalv he;rk wu;pvvp xd;vvp	10
-理合务镇	li;aalv he;rk wu;pvvp vf;jx	10
+理合务乡	li;aalv he;rak wu;pvvp xd;vvp	10
+理合务镇	li;aalv he;rak wu;pvvp vf;jx	10
 里河新村	li;lvaa he;uak xn;dapp cp;mal	10
-里合庄村	li;lvaa he;rk vd;dat cp;mal	10
+里合庄村	li;lvaa he;rak vd;dat cp;mal	10
 李洪河村	li;mvl hs;ual he;uak cp;mal	10
 李洪庄村	li;mvl hs;ual vd;dat cp;mal	10
 里后山村	li;lvaa hb;ppk uj;lvl cp;mal	10
@@ -49092,15 +49092,15 @@ sort: by_weight
 莲峰社区	lm;cav fg;lvpv ue;dvt qu;apdv	99
 联丰新村	lm;aldp fg;aaal xn;dapp cp;mal	10
 连福新村	lm;avdv fu;dvak xn;dapp cp;mal	10
-联合车站	lm;aldp he;rk ie;aval vj;dala	711
-联合关村	lm;aldp he;rk gr;dpaa cp;mal	10
-联合街道	lm;aldp he;rk jx;pptt dk;dpdv	10
+联合车站	lm;aldp he;rak ie;aval vj;dala	711
+联合关村	lm;aldp he;rak gr;dpaa cp;mal	10
+联合街道	lm;aldp he;rak jx;pptt dk;dpdv	10
 联和街道	lm;aldp he;pak jx;pptt dk;dpdv	10
-联合社区	lm;aldp he;rk ue;dvt qu;apdv	436
+联合社区	lm;aldp he;rak ue;dvt qu;apdv	436
 莲河社区	lm;cav he;uak ue;dvt qu;apdv	42
 联和新村	lm;aldp he;pak xn;dapp cp;mal	10
-联合新村	lm;aldp he;rk xn;dapp cp;mal	10
-联合总站	lm;aldp he;rk zs;dpdv vj;dala	117
+联合新村	lm;aldp he;rak xn;dapp cp;mal	10
+联合总站	lm;aldp he;rak zs;dpdv vj;dala	117
 廉湖洞村	lm;dadp hu;uxk ds;ulv cp;mal	10
 莲湖街道	lm;cav hu;uxk jx;pptt dk;dpdv	10
 莲湖农场	lm;cav hu;uxk ns;dvpv ih;tvp	76
@@ -49535,7 +49535,7 @@ sort: by_weight
 临河街道	ln;llpa he;uak jx;pptt dk;dpdv	10
 林和街道	ln;mm he;pak jx;pptt dk;dpdv	10
 临河里站	ln;llpa he;uak li;lvaa vj;dala	279
-林合山村	ln;mm he;rk uj;lvl cp;mal	10
+林合山村	ln;mm he;rak uj;lvl cp;mal	10
 林和西站	ln;mm he;pak xi;alvp vj;dala	346
 临湖社区	ln;llpa hu;uxk ue;dvt qu;apdv	10
 临淮岗乡	ln;llpa hy;ur gh;lvlv xd;vvp	10
@@ -49870,18 +49870,18 @@ sort: by_weight
 柳杭头村	lq;mpv hh;mda tb;ddap cp;mal	10
 六号街道	lq;dapd hk;kav jx;pptt dk;dpdv	10
 刘浩营村	lq;dall hk;upa yy;ckk cp;mal	10
-六合北站	lq;dapd he;rk bz;lapv vj;dala	144
-六合店村	lq;dapd he;rk dm;dala cp;mal	10
+六合北站	lq;dapd he;rak bz;lapv vj;dala	144
+六合店村	lq;dapd he;rak dm;dala cp;mal	10
 流河沟村	lq;uda he;uak gb;upv cp;mal	10
 柳河沟镇	lq;mpv he;uak gb;upv vf;jx	10
-六合街道	lq;dapd he;rk jx;pptt dk;dpdv	10
+六合街道	lq;dapd he;rak jx;pptt dk;dpdv	10
 柳河口村	lq;mpv he;uak kb;k cp;mal	10
 刘河口村	lq;dall he;uak kb;k cp;mal	10
 柳河农场	lq;mpv he;uak ns;dvpv ih;tvp	99
 刘贺山村	lq;dall he;vplv uj;lvl cp;mal	10
-六合社区	lq;dapd he;rk ue;dvt qu;apdv	230
+六合社区	lq;dapd he;rak ue;dvt qu;apdv	230
 柳河社区	lq;mpv he;uak ue;dvt qu;apdv	4
-六合堂村	lq;dapd he;rk th;ldkt cp;mal	10
+六合堂村	lq;dapd he;rak th;ldkt cp;mal	10
 刘河湾村	lq;dall he;uak wj;uda cp;mal	10
 刘河崖村	lq;dall he;uak ya;lvap cp;mal	10
 柳河营村	lq;mpv he;uak yy;ckk cp;mal	10
@@ -50548,7 +50548,7 @@ sort: by_weight
 龙山头村	ls;apvp uj;lvl tb;ddap cp;mal	10
 龙山院村	ls;apvp uj;lvl yr;vldd cp;mal	10
 龙山寨村	ls;apvp uj;lvl vl;ddm cp;mal	10
-隆盛合镇	ls;vlpv ug;aplv he;rk vf;jx	10
+隆盛合镇	ls;vlpv ug;aplv he;rak vf;jx	10
 隆盛庄村	ls;vlpv ug;aplv vd;dat cp;mal	10
 隆盛庄镇	ls;vlpv ug;aplv vd;dat vf;jx	10
 龙石口村	ls;apvp ui;apk kb;k cp;mal	10
@@ -51032,7 +51032,7 @@ sort: by_weight
 甪直古镇	lu;ppva vi;xlv gu;xk vf;jx	10
 路终点站	lu;kpv vs;vvpv dm;ladd vj;dala	698
 泸州古蔺	lu;ula vb;dpdl gu;xk ln;cdl	10
-泸州合江	lu;ula vb;dpdl he;rk jd;ual	10
+泸州合江	lu;ula vb;dpdl he;rak jd;ual	10
 泸州江阳	lu;ula vb;dpdl jd;ual yh;vlo	10
 泸州泸县	lu;ula vb;dpdl lu;ula xm;lvvd	10
 泸州纳溪	lu;ula vb;dpdl na;vvlv xi;upd	10
@@ -51603,7 +51603,7 @@ sort: by_weight
 马濠公园	ma;vva hk;uda gs;pdvd yr;lvaa	117
 麻豪口镇	ma;damm hk;daap kb;k vf;jx	10
 马号社区	ma;vva hk;kav ue;dvt qu;apdv	4
-马合店村	ma;vva he;rk dm;dala cp;mal	10
+马合店村	ma;vva he;rak dm;dala cp;mal	10
 马河沟村	ma;vva he;uak gb;upv cp;mal	10
 马河口村	ma;vva he;uak kb;k cp;mal	10
 麻河口镇	ma;damm he;uak kb;k vf;jx	10
@@ -52238,7 +52238,7 @@ sort: by_weight
 毛固堆镇	mk;paav gu;lvxk dv;tr vf;jx	10
 毛官营村	mk;paav gr;ddlv yy;ckk cp;mal	10
 毛官庄村	mk;paav gr;ddlv vd;dat cp;mal	10
-帽合公园	mk;lvlv he;rk gs;pdvd yr;lvaa	99
+帽合公园	mk;lvlv he;rak gs;pdvd yr;lvaa	99
 毛虎沟村	mk;paav hu;lapv gb;upv cp;mal	10
 茅湖仔村	mk;cvd hu;uxk zl;rvl cp;mal	10
 茅镬新村	mk;cvd ho;jcr xn;dapp cp;mal	10
@@ -53182,7 +53182,7 @@ sort: by_weight
 木王林厂	mu;m wh;aala ln;mm ih;ap	10
 木圩孜村	mu;m wz;taa zi;vlpa cp;mal	10
 木屋平村	mu;m wu;vaav py;adpa cp;mal	10
-木西合乡	mu;m xi;alvp he;rk xd;vvp	10
+木西合乡	mu;m xi;alvp he;rak xd;vvp	10
 慕西尼村	mu;cold xi;alvp ni;vapv cp;mal	10
 木匣沟村	mu;m xw;alva gb;upv cp;mal	10
 木锨刘村	mu;m xm;jpp lq;dall cp;mal	10
@@ -53673,7 +53673,7 @@ sort: by_weight
 南京江宁	nj;xlv jy;dak jd;ual ny;ddal	10
 南京街道	nj;xlv jy;dak jx;pptt dk;dpdv	10
 南京溧水	nj;xlv jy;dak li;ual uv;u	10
-南京六合	nj;xlv jy;dak lu;dapd he;rk	10
+南京六合	nj;xlv jy;dak lu;dapd he;rak	10
 南京南站	nj;xlv jy;dak nj;xlv vj;dala	810
 南京浦口	nj;xlv jy;dak pu;ual kb;k	10
 南京栖霞	nj;xlv jy;dak qi;mal xw;adva	10
@@ -54041,7 +54041,7 @@ sort: by_weight
 南塔庄村	nj;xlv ta;tcr vd;dat cp;mal	10
 南台堡村	nj;xlv tl;vdk bk;rkt cp;mal	10
 南太册村	nj;xlv tl;apdd ce;pvpv cp;mal	10
-南太合村	nj;xlv tl;apdd he;rk cp;mal	10
+南太合村	nj;xlv tl;apdd he;rak cp;mal	10
 南太湖村	nj;xlv tl;apdd hu;uxk cp;mal	10
 南台街道	nj;xlv tl;vdk jx;pptt dk;dpdv	10
 南太平村	nj;xlv tl;apdd py;adpa cp;mal	10
@@ -54363,7 +54363,7 @@ sort: by_weight
 南院庄村	nj;xlv yr;vldd vd;dat cp;mal	10
 南园子村	nj;xlv yr;lvaa zi;vla cp;mal	10
 南月堤村	nj;xlv yt;y di;to cp;mal	10
-南月合村	nj;xlv yt;y he;rk cp;mal	10
+南月合村	nj;xlv yt;y he;rak cp;mal	10
 南岳庙村	nj;xlv yt;pllv mc;dalv cp;mal	10
 南岳庙乡	nj;xlv yt;pllv mc;dalv xd;vvp	10
 南岳庙镇	nj;xlv yt;pllv mc;dalv vf;jx	10
@@ -55504,8 +55504,8 @@ sort: by_weight
 葡峰山庄	pu;cpv fg;lvpv uj;lvl vd;dat	10
 普各洛村	pu;dpo ge;pvk lo;upv cp;mal	10
 普光寺村	pu;dpo gd;ldpv si;tal cp;mal	10
-铺合岔村	pu;jal he;rk ia;pdlv cp;mal	10
-铺合沟村	pu;jal he;rk gb;upv cp;mal	10
+铺合岔村	pu;jal he;rak ia;pdlv cp;mal	10
+铺合沟村	pu;jal he;rak gb;upv cp;mal	10
 蒲黄榆站	pu;cu hd;allv yu;mr vj;dala	346
 普会寺乡	pu;dpo hv;raa si;tal xd;vvp	10
 普会寺镇	pu;dpo hv;raa si;tal vf;jx	10
@@ -55893,7 +55893,7 @@ sort: by_weight
 恰尔隆乡	qw;ddr er;pvlp ls;vlpv xd;vvp	10
 恰尔隆镇	qw;ddr er;pvlp ls;vlpv vf;jx	10
 恰戈扬村	qw;ddr ge;avpd yh;fvp cp;mal	10
-恰合玛村	qw;ddr he;rk ma;aavv cp;mal	10
+恰合玛村	qw;ddr he;rak ma;aavv cp;mal	10
 恰科日乡	qw;ddr ke;padd ri;o xd;vvp	10
 恰勒坎村	qw;ddr le;alvp kj;tpv cp;mal	10
 恰诺沃村	qw;ddr no;dvc wo;upa cp;mal	10
@@ -56038,7 +56038,7 @@ sort: by_weight
 前河西村	qm;dpy he;uak xi;alvp cp;mal	10
 前河崖村	qm;dpy he;uak ya;lvap cp;mal	10
 前贺庄村	qm;dpy he;vplv vd;dat cp;mal	10
-前合庄村	qm;dpy he;rk vd;dat cp;mal	10
+前合庄村	qm;dpy he;rak vd;dat cp;mal	10
 前后娄村	qm;dpy hb;ppk lb;dpvp cp;mal	10
 前后辛庄	qm;dpy hb;ppk xn;dax vd;dat	10
 前湖公园	qm;dpy hu;uxk gs;pdvd yr;lvaa	144
@@ -57049,7 +57049,7 @@ sort: by_weight
 青阳川村	qy;aay yh;vlo ir;pll cp;mal	10
 青阳古村	qy;aay yh;vlo gu;xk cp;mal	10
 青杨杭村	qy;aay yh;mvp hh;mda cp;mal	10
-庆阳合水	qy;daap yh;vlo he;rk uv;u	10
+庆阳合水	qy;daap yh;vlo he;rak uv;u	10
 庆阳湖乡	qy;daap yh;vlo hu;uxk xd;vvp	10
 庆阳华池	qy;daap yh;vlo hw;rx ii;uvl	10
 庆阳环县	qy;daap yh;vlo hr;aaap xm;lvvd	10
@@ -57487,7 +57487,7 @@ sort: by_weight
 仁河口镇	rf;raa he;uak kb;k vf;jx	10
 仁和坪镇	rf;raa he;pak py;tad vf;jx	10
 仁和新村	rf;raa he;pak xn;dapp cp;mal	10
-仁合庄村	rf;raa he;rk vd;dat cp;mal	10
+仁合庄村	rf;raa he;rak vd;dat cp;mal	10
 仁厚里村	rf;raa hb;apo li;lvaa cp;mal	10
 仁厚社区	rf;raa hb;apo ue;dvt qu;apdv	4
 仁皇山庄	rf;raa hd;plaa uj;lvl vd;dat	10
@@ -57791,24 +57791,24 @@ sort: by_weight
 三河坝乡	sj;aaa he;uak ba;tlv xd;vvp	10
 三河坝镇	sj;aaa he;uak ba;tlv vf;jx	10
 三河场镇	sj;aaa he;uak ih;tvp vf;jx	10
-三合城村	sj;aaa he;rk ig;tap cp;mal	10
+三合城村	sj;aaa he;rak ig;tap cp;mal	10
 三河古镇	sj;aaa he;uak gu;xk vf;jx	10
 三河湖镇	sj;aaa he;uak hu;uxk vf;jx	10
 三和集镇	sj;aaa he;pak ji;rm vf;jx	10
 三河尖乡	sj;aaa he;uak jm;lpap xd;vvp	10
 三河尖镇	sj;aaa he;uak jm;lpap vf;jx	10
 三河街道	sj;aaa he;uak jx;pptt dk;dpdv	10
-三合街道	sj;aaa he;rk jx;pptt dk;dpdv	10
+三合街道	sj;aaa he;rak jx;pptt dk;dpdv	10
 三和街道	sj;aaa he;pak jx;pptt dk;dpdv	10
 三河口村	sj;aaa he;uak kb;k cp;mal	10
-三合口乡	sj;aaa he;rk kb;k xd;vvp	10
+三合口乡	sj;aaa he;rak kb;k xd;vvp	10
 三河口乡	sj;aaa he;uak kb;k xd;vvp	10
 三河口镇	sj;aaa he;uak kb;k vf;jx	10
 三河农场	sj;aaa he;uak ns;dvpv ih;tvp	10
 三和社区	sj;aaa he;pak ue;dvt qu;apdv	207
-三合堂村	sj;aaa he;rk th;ldkt cp;mal	10
+三合堂村	sj;aaa he;rak th;ldkt cp;mal	10
 三和鱼庄	sj;aaa he;pak yu;pvlv vd;dat	10
-三合庄村	sj;aaa he;rk vd;dat cp;mal	10
+三合庄村	sj;aaa he;rak vd;dat cp;mal	10
 三河庄村	sj;aaa he;uak vd;dat cp;mal	10
 三河总站	sj;aaa he;uak zs;dpdv vj;dala	4
 三湖农场	sj;aaa hu;uxk ns;dvpv ih;tvp	117
@@ -59642,13 +59642,13 @@ sort: by_weight
 十号渠村	ui;x hk;kav qu;um cp;mal	10
 石河岸村	ui;apk he;uak an;lvap cp;mal	10
 石河北村	ui;apk he;uak bz;lapv cp;mal	10
-石合场村	ui;apk he;rk ih;tvp cp;mal	10
+石合场村	ui;apk he;rak ih;tvp cp;mal	10
 石河店村	ui;apk he;uak dm;dala cp;mal	10
 浉河港镇	ui;ulp he;uak gh;ual vf;jx	10
 浉河公园	ui;ulp he;uak gs;pdvd yr;lvaa	194
 石河街道	ui;apk he;uak jx;pptt dk;dpdv	10
 史河街道	ui;lvap he;uak jx;pptt dk;dpdv	10
-石合铺村	ui;apk he;rk pu;jal cp;mal	10
+石合铺村	ui;apk he;rak pu;jal cp;mal	10
 市和区县	ui;dalv he;pak qu;apdv xm;lvvd	10
 石河头村	ui;apk he;uak tb;ddap cp;mal	10
 石河湾村	ui;apk he;uak wj;uda cp;mal	10
@@ -60625,8 +60625,8 @@ sort: by_weight
 双河口镇	ud;vdvd he;uak kb;k vf;jx	10
 双河社区	ud;vdvd he;uak ue;dvt qu;apdv	153
 双河新村	ud;vdvd he;uak xn;dapp cp;mal	10
-双合兴村	ud;vdvd he;rk xy;ddpd cp;mal	10
-双合义村	ud;vdvd he;rk yi;dpd cp;mal	10
+双合兴村	ud;vdvd he;rak xy;ddpd cp;mal	10
+双合义村	ud;vdvd he;rak yi;dpd cp;mal	10
 双河垸村	ud;vdvd he;uak yr;tdd cp;mal	10
 双河镇村	ud;vdvd he;uak vf;jx cp;mal	10
 双湖峪村	ud;vdvd hu;uxk yu;lvpd cp;mal	10
@@ -61121,21 +61121,21 @@ sort: by_weight
 四号碉堡	si;lvpv hk;kav dc;appv bk;rkt	10
 四皓街道	si;lvpv hk;plpa jx;pptt dk;dpdv	10
 四号渠村	si;lvpv hk;kav qu;um cp;mal	10
-四合城乡	si;lvpv he;rk ig;tap xd;vvp	10
-四合城镇	si;lvpv he;rk ig;tap vf;jx	10
-四合当镇	si;lvpv he;rk dh;ldva vf;jx	10
-四合吉村	si;lvpv he;rk ji;tk cp;mal	10
+四合城乡	si;lvpv he;rak ig;tap xd;vvp	10
+四合城镇	si;lvpv he;rak ig;tap vf;jx	10
+四合当镇	si;lvpv he;rak dh;ldva vf;jx	10
+四合吉村	si;lvpv he;rak ji;tk cp;mal	10
 四鹤街道	si;lvpv he;dvpv jx;pptt dk;dpdv	10
 泗河街道	si;ulv he;uak jx;pptt dk;dpdv	10
 泗河口村	si;ulv he;uak kb;k cp;mal	10
 寺河南村	si;tal he;uak nj;xlv cp;mal	10
-四合堂村	si;lvpv he;rk th;ldkt cp;mal	10
-四合堂乡	si;lvpv he;rk th;ldkt xd;vvp	10
-四合新村	si;lvpv he;rk xn;dapp cp;mal	10
-四合永站	si;lvpv he;rk ys;dvvp vj;dala	189
-四合永镇	si;lvpv he;rk ys;dvvp vf;jx	10
-四合原乡	si;lvpv he;rk yr;appl xd;vvp	10
-四合庄村	si;lvpv he;rk vd;dat cp;mal	10
+四合堂村	si;lvpv he;rak th;ldkt cp;mal	10
+四合堂乡	si;lvpv he;rak th;ldkt xd;vvp	10
+四合新村	si;lvpv he;rak xn;dapp cp;mal	10
+四合永站	si;lvpv he;rak ys;dvvp vj;dala	189
+四合永镇	si;lvpv he;rak ys;dvvp vf;jx	10
+四合原乡	si;lvpv he;rak yr;appl xd;vvp	10
+四合庄村	si;lvpv he;rak vd;dat cp;mal	10
 泗湖山镇	si;ulv hu;uxk uj;lvl vf;jx	10
 四惠东站	si;lvpv hv;aldv ds;avlp vj;dala	414
 寺伙沟村	si;tal ho;rh gb;upv cp;mal	10
@@ -61913,9 +61913,9 @@ sort: by_weight
 塔哈其乡	ta;tcr ha;kr qi;alpd xd;vvp	10
 塔哈其镇	ta;tcr ha;kr qi;alpd vf;jx	10
 塔海瓦乡	ta;tcr hl;upa wa;avvd xd;vvp	10
-塔合尔村	ta;tcr he;rk er;pvlp cp;mal	10
-塔合曼乡	ta;tcr he;rk mj;olv xd;vvp	10
-塔合其乡	ta;tcr he;rk qi;alpd xd;vvp	10
+塔合尔村	ta;tcr he;rak er;pvlp cp;mal	10
+塔合曼乡	ta;tcr he;rak mj;olv xd;vvp	10
+塔合其乡	ta;tcr he;rak qi;alpd xd;vvp	10
 踏箭山庄	ta;kuo jm;padp uj;lvl vd;dat	10
 踏剑山庄	ta;kuo jm;rll uj;lvl vd;dat	10
 塔克什肯	ta;tcr ke;xkpv ui;rx kf;lay	207
@@ -62036,7 +62036,7 @@ sort: by_weight
 泰国公园	tl;aau go;lvaa gs;pdvd yr;lvaa	76
 泰国街道	tl;aau go;lvaa jx;pptt dk;dpdv	10
 太行街道	tl;apdd hh;ppaa jx;pptt dk;dpdv	10
-太合昌村	tl;apdd he;rk ih;oo cp;mal	10
+太合昌村	tl;apdd he;rak ih;oo cp;mal	10
 太和街道	tl;apdd he;pak jx;pptt dk;dpdv	10
 太河庙村	tl;apdd he;uak mc;dalv cp;mal	10
 泰和社区	tl;aau he;pak ue;dvt qu;apdv	162
@@ -62761,7 +62761,7 @@ sort: by_weight
 套子里村	tk;apal zi;vla li;lvaa cp;mal	10
 特布洛乡	te;pat bu;aplv lo;upv xd;vvp	10
 特尔果乡	te;pat er;pvlp go;lvaa xd;vvp	10
-特合土乡	te;pat he;rk tu;t xd;vvp	10
+特合土乡	te;pat he;rak tu;t xd;vvp	10
 特喀勒乡	te;pat ka;kdd le;alvp xd;vvp	10
 特克斯县	te;pat ke;xkpv si;alpp xm;lvvd	10
 特克斯镇	te;pat ke;xkpv si;alpp vf;jx	10
@@ -63933,7 +63933,7 @@ sort: by_weight
 万古塘村	wj;avp gu;xk th;tda cp;mal	10
 万国公园	wj;avp go;lvaa gs;pdvd yr;lvaa	410
 皖河农场	wj;pldd he;uak ns;dvpv ih;tvp	10
-万合永镇	wj;avp he;rk ys;dvvp vf;jx	10
+万合永镇	wj;avp he;rak ys;dvvp vf;jx	10
 万户侯村	wj;avp hu;dvap hb;rva cp;mal	10
 万花堡村	wj;avp hw;cr bk;rkt cp;mal	10
 万华埠村	wj;avp hw;rx bu;tpl cp;mal	10
@@ -64213,7 +64213,7 @@ sort: by_weight
 王浩屯镇	wh;aala hk;upa tp;avlv vf;jx	10
 王河南村	wh;aala he;uak nj;xlv cp;mal	10
 王鹤农庄	wh;aala he;dvpv ns;dvpv vd;dat	10
-王合铺村	wh;aala he;rk pu;jal cp;mal	10
+王合铺村	wh;aala he;rak pu;jal cp;mal	10
 王河渠村	wh;aala he;uak qu;um cp;mal	10
 王禾庄村	wh;aala he;palp vd;dat cp;mal	10
 王后公园	wh;aala hb;ppk gs;pdvd yr;lvaa	117
@@ -64878,7 +64878,7 @@ sort: by_weight
 渭南富平	wz;ulv nj;xlv fu;ddak py;adpa	10
 韦南戈县	wz;aavl nj;xlv ge;avpd xm;lvvd	10
 渭南韩城	wz;ulv nj;xlv hj;xoaa ig;tap	10
-渭南合阳	wz;ulv nj;xlv he;rk yh;vlo	10
+渭南合阳	wz;ulv nj;xlv he;rak yh;vlo	10
 渭南华阴	wz;ulv nj;xlv hw;rx yn;vly	10
 渭南华州	wz;ulv nj;xlv hw;rx vb;dpdl	10
 渭南临渭	wz;ulv nj;xlv ln;llpa wz;ulv	10
@@ -65380,7 +65380,7 @@ sort: by_weight
 武汉新洲	wu;aala hj;uvd xn;dapp vb;udp	10
 吴航街道	wu;kaa hh;ppda jx;pptt dk;dpdv	10
 五号渠乡	wu;alva hk;kav qu;um xd;vvp	10
-无合表县	wu;aapv he;rk bc;aapv xm;lvvd	10
+无合表县	wu;aapv he;rak bc;aapv xm;lvvd	10
 五河新村	wu;alva he;uak xn;dapp cp;mal	10
 无何有乡	wu;aapv he;rak yb;apy xd;vvp	10
 武侯祠站	wu;aala hb;rva ci;dvva vj;dala	153
@@ -66415,12 +66415,12 @@ sort: by_weight
 西河套村	xi;alvp he;uak tk;apal cp;mal	10
 西河头村	xi;alvp he;uak tb;ddap cp;mal	10
 西河西村	xi;alvp he;uak xi;alvp cp;mal	10
-西合休乡	xi;alvp he;rk xq;rm xd;vvp	10
+西合休乡	xi;alvp he;rak xq;rm xd;vvp	10
 西河崖村	xi;alvp he;uak ya;lvap cp;mal	10
 西河阳村	xi;alvp he;uak yh;vlo cp;mal	10
 西河驿村	xi;alvp he;uak yi;vvvd cp;mal	10
 西河营村	xi;alvp he;uak yy;ckk cp;mal	10
-西合营镇	xi;alvp he;rk yy;ckk vf;jx	10
+西合营镇	xi;alvp he;rak yy;ckk vf;jx	10
 西河寨村	xi;alvp he;uak vl;ddm cp;mal	10
 西贺庄村	xi;alvp he;vplv vd;dat cp;mal	10
 西河庄村	xi;alvp he;uak vd;dat cp;mal	10
@@ -66815,7 +66815,7 @@ sort: by_weight
 西马干村	xi;alvp ma;vva gj;aal cp;mal	10
 西麻各庄	xi;alvp ma;damm ge;pvk vd;dat	10
 西马沟村	xi;alvp ma;vva gb;upv cp;mal	10
-西马合村	xi;alvp ma;vva he;rk cp;mal	10
+西马合村	xi;alvp ma;vva he;rak cp;mal	10
 西麻户村	xi;alvp ma;damm hu;dvap cp;mal	10
 西马家村	xi;alvp ma;vva jw;ddap cp;mal	10
 西马街道	xi;alvp ma;vva jx;pptt dk;dpdv	10
@@ -66883,7 +66883,7 @@ sort: by_weight
 西南沟村	xi;alvp nj;xlv gb;upv cp;mal	10
 西南关村	xi;alvp nj;xlv gr;dpaa cp;mal	10
 西南海村	xi;alvp nj;xlv hl;upa cp;mal	10
-西南合村	xi;alvp nj;xlv he;rk cp;mal	10
+西南合村	xi;alvp nj;xlv he;rak cp;mal	10
 西南河村	xi;alvp nj;xlv he;uak cp;mal	10
 西南角村	xi;alvp nj;xlv jc;pvpv cp;mal	10
 西南街村	xi;alvp nj;xlv jx;pptt cp;mal	10
@@ -66961,7 +66961,7 @@ sort: by_weight
 西平台村	xi;alvp py;adpa tl;vdk cp;mal	10
 西平原村	xi;alvp py;adpa yr;appl cp;mal	10
 西坪塬村	xi;alvp py;tad yr;tap cp;mal	10
-西婆合村	xi;alvp po;uvp he;rk cp;mal	10
+西婆合村	xi;alvp po;uvp he;rak cp;mal	10
 西坡李村	xi;alvp po;tvp li;mvl cp;mal	10
 西坡崖村	xi;alvp po;tvp ya;lvap cp;mal	10
 西坡庄村	xi;alvp po;tvp vd;dat cp;mal	10
@@ -67734,7 +67734,7 @@ sort: by_weight
 下郭街道	xw;ald go;davl jx;pptt dk;dpdv	10
 下韩村乡	xw;ald hj;xoaa cp;mal xd;vvp	10
 下河北村	xw;ald he;uak bz;lapv cp;mal	10
-夏合甫乡	xw;appv he;rk fu;alva xd;vvp	10
+夏合甫乡	xw;appv he;rak fu;alva xd;vvp	10
 下河清乡	xw;ald he;uak qy;uaa xd;vvp	10
 下河清镇	xw;ald he;uak qy;uaa vf;jx	10
 下河滩村	xw;ald he;uak tj;uvd cp;mal	10
@@ -68249,7 +68249,7 @@ sort: by_weight
 祥和社区	xd;dvdp he;pak ue;dvt qu;apdv	284
 翔鹤潭村	xd;dpvd he;dvpv tj;ual cp;mal	10
 响河屯村	xd;kpl he;uak tp;avlv cp;mal	10
-乡合漳乡	xd;vvp he;rk vh;uda xd;vvp	10
+乡合漳乡	xd;vvp he;rak vh;uda xd;vvp	10
 香河总站	xd;pao he;uak zs;dpdv vj;dala	4
 乡红德村	xd;vvp hs;vval de;ppx cp;mal	10
 响洪甸镇	xd;kpl hs;ual dm;pvlv vf;jx	10
@@ -68551,7 +68551,7 @@ sort: by_weight
 小坝子村	xc;lpd ba;tlv zi;vla cp;mal	10
 小坝子乡	xc;lpd ba;tlv zi;vla xd;vvp	10
 小坝子镇	xc;lpd ba;tlv zi;vla vf;jx	10
-小百合站	xc;lpd bl;apl he;rk vj;dala	270
+小百合站	xc;lpd bl;apl he;rak vj;dala	270
 小百户镇	xc;lpd bl;apl hu;dvap vf;jx	10
 小白鹭村	xc;lpd bl;plva lu;kpv cp;mal	10
 小白山乡	xc;lpd bl;plva uj;lvl xd;vvp	10
@@ -68681,7 +68681,7 @@ sort: by_weight
 小河口镇	xc;lpd he;uak kb;k vf;jx	10
 小河里村	xc;lpd he;uak li;lvaa cp;mal	10
 小河刘村	xc;lpd he;uak lq;dall cp;mal	10
-小合隆站	xc;lpd he;rk ls;vlpv vj;dala	99
+小合隆站	xc;lpd he;rak ls;vlpv vj;dala	99
 小河庙乡	xc;lpd he;uak mc;dalv xd;vvp	10
 小河套村	xc;lpd he;uak tk;apal cp;mal	10
 小河头村	xc;lpd he;uak tb;ddap cp;mal	10
@@ -69280,22 +69280,22 @@ sort: by_weight
 新海农场	xn;dapp hl;upa ns;dvpv ih;tvp	279
 信航兰堡	xn;rda hh;ppda lj;dpaa bk;rkt	10
 新浩特镇	xn;dapp hk;upa te;pat vf;jx	10
-新合北村	xn;dapp he;rk bz;lapv cp;mal	10
+新合北村	xn;dapp he;rak bz;lapv cp;mal	10
 新河街道	xn;dapp he;uak jx;pptt dk;dpdv	10
-新合街道	xn;dapp he;rk jx;pptt dk;dpdv	10
+新合街道	xn;dapp he;rak jx;pptt dk;dpdv	10
 新河口村	xn;dapp he;uak kb;k cp;mal	10
 新河口乡	xn;dapp he;uak kb;k xd;vvp	10
-新合南村	xn;dapp he;rk nj;xlv cp;mal	10
-新合社区	xn;dapp he;rk ue;dvt qu;apdv	266
+新合南村	xn;dapp he;rak nj;xlv cp;mal	10
+新合社区	xn;dapp he;rak ue;dvt qu;apdv	266
 新和社区	xn;dapp he;pak ue;dvt qu;apdv	42
 新荷社区	xn;dapp he;cr ue;dvt qu;apdv	26
 新河头村	xn;dapp he;uak tb;ddap cp;mal	10
 新河一村	xn;dapp he;uak yi;a cp;mal	10
-新合营村	xn;dapp he;rk yy;ckk cp;mal	10
+新合营村	xn;dapp he;rak yy;ckk cp;mal	10
 新河峪村	xn;dapp he;uak yu;lvpd cp;mal	10
-新合寨村	xn;dapp he;rk vl;ddm cp;mal	10
+新合寨村	xn;dapp he;rak vl;ddm cp;mal	10
 新河庄村	xn;dapp he;uak vd;dat cp;mal	10
-新合庄村	xn;dapp he;rk vd;dat cp;mal	10
+新合庄村	xn;dapp he;rak vd;dat cp;mal	10
 新横径村	xn;dapp hg;mal jy;ppvd cp;mal	10
 新虹街道	xn;dapp hs;lval jx;pptt dk;dpdv	10
 心红铺村	xn;dvdd hs;vval pu;jal cp;mal	10
@@ -69435,7 +69435,7 @@ sort: by_weight
 辛力庄村	xn;dax li;vp vd;dat cp;mal	10
 辛立庄镇	xn;dax li;dadp vd;dat vf;jx	10
 新里族庄	xn;dapp li;lvaa zu;dapa vd;dat	10
-新联合村	xn;dapp lm;aldp he;rk cp;mal	10
+新联合村	xn;dapp lm;aldp he;rak cp;mal	10
 新莲浦站	xn;dapp lm;cav pu;ual vj;dala	162
 新林皋村	xn;dapp ln;mm gk;plap cp;mal	10
 新岭脚村	xn;dapp ly;lvr jc;yt cp;mal	10
@@ -70749,7 +70749,7 @@ sort: by_weight
 盐河街道	yj;tlv he;uak jx;pptt dk;dpdv	10
 研和街道	yj;apaa he;pak jx;pptt dk;dpdv	10
 沿河口村	yj;upv he;uak kb;k cp;mal	10
-研合峁村	yj;apaa he;rk mk;lvpv cp;mal	10
+研合峁村	yj;apaa he;rak mk;lvpv cp;mal	10
 沿河社区	yj;upv he;uak ue;dvt qu;apdv	162
 沿河湾镇	yj;upv he;uak wj;uda vf;jx	10
 燕河营镇	yj;aldd he;uak yy;ckk vf;jx	10
@@ -71666,7 +71666,7 @@ sort: by_weight
 姚官庄村	yk;vppd gr;ddlv vd;dat cp;mal	10
 窑广社区	yk;ddpa gd;dap ue;dvt qu;apdv	4
 瑶海公园	yk;aapd hl;upa gs;pdvd yr;lvaa	256
-瑶合峁村	yk;aapd he;rk mk;lvpv cp;mal	10
+瑶合峁村	yk;aapd he;rak mk;lvpv cp;mal	10
 尧河庙村	yk;avap he;uak mc;dalv cp;mal	10
 窑虎咀村	yk;ddpa hu;lapv ju;klv cp;mal	10
 姚花沟村	yk;vppd hw;cr gb;upv cp;mal	10
@@ -71821,7 +71821,7 @@ sort: by_weight
 耶夫勒堡	ye;alvl fu;aapd le;alvp bk;rkt	10
 冶父山镇	ye;davd fu;pdpd uj;lvl vf;jx	10
 冶钢农场	ye;davd gh;jlv ns;dvpv ih;tvp	10
-冶合茂村	ye;davd he;rk mk;cap cp;mal	10
+冶合茂村	ye;davd he;rak mk;cap cp;mal	10
 冶户沟村	ye;davd hu;dvap gb;upv cp;mal	10
 野虎沟村	ye;lvvd hu;lapv gb;upv cp;mal	10
 野胡拐乡	ye;lvvd hu;xky gy;fk xd;vvp	10
@@ -72013,18 +72013,18 @@ sort: by_weight
 一号桥站	yi;a hk;kav qc;mpa vj;dala	266
 义河北村	yi;dpd he;uak bz;lapv cp;mal	10
 义和店村	yi;dpd he;pak dm;dala cp;mal	10
-亿合公乡	yi;rv he;rk gs;pdvd xd;vvp	10
-亿合公镇	yi;rv he;rk gs;pdvd vf;jx	10
+亿合公乡	yi;rv he;rak gs;pdvd xd;vvp	10
+亿合公镇	yi;rv he;rak gs;pdvd vf;jx	10
 义和街道	yi;dpd he;pak jx;pptt dk;dpdv	10
 澺河街道	yi; he;uak jx;pptt dk;dpdv	10
 颐和山庄	yi;alap he;pak uj;lvl vd;dat	10
 怡和山庄	yi;ddvd he;pak uj;lvl vd;dat	10
-义合社区	yi;dpd he;rk ue;dvt qu;apdv	4
+义合社区	yi;dpd he;rak ue;dvt qu;apdv	4
 沂河头村	yi;upp he;uak tb;ddap cp;mal	10
-义合屯村	yi;dpd he;rk tp;avlv cp;mal	10
+义合屯村	yi;dpd he;rak tp;avlv cp;mal	10
 义和庄村	yi;dpd he;pak vd;dat cp;mal	10
-义合庄村	yi;dpd he;rk vd;dat cp;mal	10
-义合庄乡	yi;dpd he;rk vd;dat xd;vvp	10
+义合庄村	yi;dpd he;rak vd;dat cp;mal	10
+义合庄乡	yi;dpd he;rak vd;dat xd;vvp	10
 义和庄镇	yi;dpd he;pak vd;dat vf;jx	10
 移湖街道	yi;papv hu;uxk jx;pptt dk;dpdv	10
 殪虎桥乡	yi;apt hu;lapv qc;mpa xd;vvp	10
@@ -72139,7 +72139,7 @@ sort: by_weight
 伊敏苏木	yi;rva mn;papa su;cvp mu;m	10
 义民新村	yi;dpd mn;vava xn;dapp cp;mal	10
 移民新村	yi;papv mn;vava xn;dapp cp;mal	10
-依莫合乡	yi;rda mo;co he;rk xd;vvp	10
+依莫合乡	yi;rda mo;co he;rak xd;vvp	10
 宜牧地乡	yi;ddlv mu;papa di;tvl xd;vvp	10
 一亩泉镇	yi;a mu;dalv qr;plu vf;jx	10
 驿南府村	yi;vvvd nj;xlv fu;dar cp;mal	10
@@ -72607,9 +72607,9 @@ sort: by_weight
 永福庄乡	ys;dvvp fu;dvak vd;dat xd;vvp	10
 甬港新村	ys;vdlv gh;ual xn;dapp cp;mal	10
 雍和宫站	ys;davv he;pak gs;ddkk vj;dala	35
-永合会镇	ys;dvvp he;rk hv;raa vf;jx	10
+永合会镇	ys;dvvp he;rak hv;raa vf;jx	10
 永和街道	ys;dvvp he;pak jx;pptt dk;dpdv	10
-永合庄村	ys;dvvp he;rk vd;dat cp;mal	10
+永合庄村	ys;dvvp he;rak vd;dat cp;mal	10
 永和庄村	ys;dvvp he;pak vd;dat cp;mal	10
 永红街道	ys;dvvp hs;vval jx;pptt dk;dpdv	10
 永华街道	ys;dvvp hw;rx jx;pptt dk;dpdv	10
@@ -72922,7 +72922,7 @@ sort: by_weight
 宇和海村	yu;ddaa he;pak hl;upa cp;mal	10
 御河街道	yu;pppa he;uak jx;pptt dk;dpdv	10
 于河街道	yu;aal he;uak jx;pptt dk;dpdv	10
-玉合街道	yu;aala he;rk jx;pptt dk;dpdv	10
+玉合街道	yu;aala he;rak jx;pptt dk;dpdv	10
 玉河街道	yu;aala he;uak jx;pptt dk;dpdv	10
 鱼河峁村	yu;pvlv he;uak mk;lvpv cp;mal	10
 鱼河峁镇	yu;pvlv he;uak mk;lvpv vf;jx	10
@@ -74576,7 +74576,7 @@ sort: by_weight
 长子张庄	vh;pavd zi;vla vh;vapa vd;dat	10
 张祖庄村	vh;vapa zu;dvlv vd;dat cp;mal	10
 赵堡店村	vk;tpd bk;rkt dm;dala cp;mal	10
-赵保合村	vk;tpd bk;rkm he;rk cp;mal	10
+赵保合村	vk;tpd bk;rkm he;rak cp;mal	10
 赵北口镇	vk;tpd bz;lapv kb;k vf;jx	10
 赵北庙村	vk;tpd bz;lapv mc;dalv cp;mal	10
 照壁山乡	vk;odd bi;vat uj;lvl xd;vvp	10
@@ -74899,7 +74899,7 @@ sort: by_weight
 镇东新村	vf;jx ds;avlp xn;dapp cp;mal	10
 镇斗郎村	vf;jx db;ddx lh;dvvl cp;mal	10
 镇方元村	vf;jx fh;davp yr;aapv cp;mal	10
-镇凤合镇	vf;jx fg;pvvd he;rk vf;jx	10
+镇凤合镇	vf;jx fg;pvvd he;rak vf;jx	10
 镇凤星村	vf;jx fg;pvvd xy;opa cp;mal	10
 镇富托村	vf;jx fu;ddak to;fpa cp;mal	10
 镇葛万村	vf;jx ge;co wj;avp cp;mal	10
@@ -74908,7 +74908,7 @@ sort: by_weight
 镇古天村	vf;jx gu;xk tm;aapd cp;mal	10
 镇海街道	vf;jx hl;upa jx;pptt dk;dpdv	10
 镇海路站	vf;jx hl;upa lu;kpv vj;dala	324
-镇合丰村	vf;jx he;rk fg;aaal cp;mal	10
+镇合丰村	vf;jx he;rak fg;aaal cp;mal	10
 镇鹤湾村	vf;jx he;dvpv wj;uda cp;mal	10
 真和志村	vf;xpd he;pak vi;tdv cp;mal	10
 镇洪厝村	vf;jx hs;ual co;apal cp;mal	10
@@ -75256,8 +75256,8 @@ sort: by_weight
 治国坞村	vi;uvd go;lvaa wu;tpv cp;mal	10
 治河渡镇	vi;uvd he;uak du;uda vf;jx	10
 致和街道	vi;avpa he;pak jx;pptt dk;dpdv	10
-织合玛乡	vi;vvk he;rk ma;aavv xd;vvp	10
-知合玛乡	vi;pak he;rk ma;aavv xd;vvp	10
+织合玛乡	vi;vvk he;rak ma;aavv xd;vvp	10
+知合玛乡	vi;pak he;rak ma;aavv xd;vvp	10
 致和新村	vi;avpa he;pak xn;dapp cp;mal	10
 治鸿鹤镇	vi;uvd hs;ual he;dvpv vf;jx	10
 芝红社区	vi;cdv hs;vval ue;dvt qu;apdv	117
@@ -75416,7 +75416,7 @@ sort: by_weight
 中河街道	vs;lval he;uak jx;pptt dk;dpdv	10
 中和街道	vs;lval he;pak jx;pptt dk;dpdv	10
 中河口镇	vs;lval he;uak kb;k vf;jx	10
-中合流村	vs;lval he;rk lq;uda cp;mal	10
+中合流村	vs;lval he;rak lq;uda cp;mal	10
 中河流村	vs;lval he;uak lq;uda cp;mal	10
 中和西镇	vs;lval he;pak xi;alvp vf;jx	10
 中和营镇	vs;lval he;pak yy;ckk vf;jx	10
@@ -76287,7 +76287,7 @@ sort: by_weight
 自贡沿滩	zi;plva gs;allv yj;upv tj;uvd	10
 紫汉沟村	zi;lavv hj;uvd gb;upv cp;mal	10
 淄河店村	zi;uvv he;uak dm;dala cp;mal	10
-滋合周村	zi;udp he;rk vb;pvtk cp;mal	10
+滋合周村	zi;udp he;rak vb;pvtk cp;mal	10
 紫洪山村	zi;lavv hs;ual uj;lvl cp;mal	10
 訾家灌庄	zi;lada jw;ddap gr;uck vd;dat	10
 訾家山村	zi;lada jw;ddap uj;lvl cp;mal	10
@@ -76368,7 +76368,7 @@ sort: by_weight
 宗关街道	zs;ddaa gr;dpaa jx;pptt dk;dpdv	10
 总管堂村	zs;dpdv gr;padd th;ldkt cp;mal	10
 宗汉街道	zs;ddaa hj;uvd jx;pptt dk;dpdv	10
-综合公园	zs;vvdd he;rk gs;pdvd yr;lvaa	450
+综合公园	zs;vvdd he;rak gs;pdvd yr;lvaa	450
 宗家埠村	zs;ddaa jw;ddap bu;tpl cp;mal	10
 宗家店村	zs;ddaa jw;ddap dm;dala cp;mal	10
 宗家荒村	zs;ddaa jw;ddap hd;cda cp;mal	10
@@ -76477,7 +76477,7 @@ sort: by_weight
 阿都沁苏木	aa;vlak db;xvl qn;udv su;cvp mu;m	10
 阿尕尔森镇	aa;vlak ga;vplp er;pvlp sf;mmm vf;jx	10
 阿格达拉镇	aa;vlak ge;mpv da;apdv la;fda vf;jx	10
-阿合其农场	aa;vlak he;rk qi;alpd ns;dvpv ih;tvp	10
+阿合其农场	aa;vlak he;rak qi;alpd ns;dvpv ih;tvp	10
 阿克达拉镇	aa;vlak ke;xkpv da;apdv la;fda vf;jx	10
 阿克喀什乡	aa;vlak ke;xkpv ka;kdd ui;rx xd;vvp	10
 阿克恰勒乡	aa;vlak ke;xkpv qw;ddr le;alvp xd;vvp	10
@@ -76552,7 +76552,7 @@ sort: by_weight
 安徽池州市	an;ddvp hv;pplv ii;uvl vb;dpdl ui;dalv	10
 安徽滁州市	an;ddvp hv;pplv iu;uvl vb;dpdl ui;dalv	10
 安徽阜阳市	an;ddvp hv;pplv fu;plx yh;vlo ui;dalv	10
-安徽合肥市	an;ddvp hv;pplv he;rk fz;yvl ui;dalv	10
+安徽合肥市	an;ddvp hv;pplv he;rak fz;yvl ui;dalv	10
 安徽淮北市	an;ddvp hv;pplv hy;ur bz;lapv ui;dalv	10
 安徽淮南市	an;ddvp hv;pplv hy;ur nj;xlv ui;dalv	10
 安徽黄山市	an;ddvp hv;pplv hd;allv uj;lvl ui;dalv	10
@@ -76847,7 +76847,7 @@ sort: by_weight
 北沟门子乡	bz;lapv gb;upv mf;dlv zi;vla xd;vvp	10
 北沟沿胡同	bz;lapv gb;upv yj;upv hu;xky ts;lvak	10
 北关清真寺	bz;lapv gr;dpaa qy;uaa vf;xpd si;tal	10
-北海合浦县	bz;lapv hl;upa he;rk pu;ual xm;lvvd	10
+北海合浦县	bz;lapv hl;upa he;rak pu;ual xm;lvvd	10
 北海路街道	bz;lapv hl;upa lu;kpv jx;pptt dk;dpdv	10
 北海铁山港	bz;lapv hl;upa tx;jpa uj;lvl gh;ual	10
 北河泾街道	bz;lapv he;uak jy;uvd jx;pptt dk;dpdv	10
@@ -77871,7 +77871,7 @@ sort: by_weight
 古沟回族乡	gu;xk gb;upv hv;lvka zu;dapa xd;vvp	10
 古观音禅寺	gu;xk gr;vdlv yn;dao ij;dvdp si;tal	10
 古江巴格乡	gu;xk jd;ual ba;vlav ge;mpv xd;vvp	10
-固拉合玛镇	gu;lvxk la;fda he;rk ma;aavv vf;jx	10
+固拉合玛镇	gu;lvxk la;fda he;rak ma;aavv vf;jx	10
 鼓浪屿街道	gu;tkx lh;udv yu;lvav jx;pptt dk;dpdv	10
 古老背街道	gu;xk lk;xpv bz;lay jx;pptt dk;dpdv	10
 古老的街道	gu;xk lk;xpv de;plpv jx;pptt dk;dpdv	10
@@ -78042,7 +78042,7 @@ sort: by_weight
 哈拉布拉镇	ha;kr la;fda bu;aplv la;fda vf;jx	10
 哈拉道口镇	ha;kr la;fda dk;dpdv kb;k vf;jx	10
 哈拉哈达镇	ha;kr la;fda ha;kr da;apdv vf;jx	10
-哈拉合少乡	ha;kr la;fda he;rk uk;lpdp xd;vvp	10
+哈拉合少乡	ha;kr la;fda he;rak uk;lpdp xd;vvp	10
 哈拉毛都镇	ha;kr la;fda mk;paav db;xvl vf;jx	10
 哈拉玉宫乡	ha;kr la;fda yu;aala gs;ddkk xd;vvp	10
 哈拉直沟乡	ha;kr la;fda vi;xlv gb;upv xd;vvp	10
@@ -78154,33 +78154,33 @@ sort: by_weight
 河池南丹县	he;uak ii;uvl nj;xlv dj;pvda xm;lvvd	10
 河池市乡镇	he;uak ii;uvl ui;dalv xd;vvp vf;jx	10
 河池天峨县	he;uak ii;uvl tm;aapd ee;lvpa xm;lvvd	10
-合川区街道	he;rk ir;pll qu;apdv jx;pptt dk;dpdv	10
+合川区街道	he;rak ir;pll qu;apdv jx;pptt dk;dpdv	10
 河东路街道	he;uak ds;avlp lu;kpv jx;pptt dk;dpdv	10
 禾洞农林场	he;palp ds;ulv ns;dvpv ln;mm ih;tvp	10
 诃额伦街道	he;dvak ee;ddap lp;rr jx;pptt dk;dpdv	10
-合肥长丰县	he;rk fz;yvl ih;pavd fg;aaal xm;lvvd	10
-合肥肥东县	he;rk fz;yvl fz;yvl ds;avlp xm;lvvd	10
-合肥肥西县	he;rk fz;yvl fz;yvl xi;alvp xm;lvvd	10
-合肥庐江县	he;rk fz;yvl lu;dadv jd;ual xm;lvvd	10
-合肥路街道	he;rk fz;yvl lu;kpv jx;pptt dk;dpdv	10
-合肥市街道	he;rk fz;yvl ui;dalv jx;pptt dk;dpdv	10
+合肥长丰县	he;rak fz;yvl ih;pavd fg;aaal xm;lvvd	10
+合肥肥东县	he;rak fz;yvl fz;yvl ds;avlp xm;lvvd	10
+合肥肥西县	he;rak fz;yvl fz;yvl xi;alvp xm;lvvd	10
+合肥庐江县	he;rak fz;yvl lu;dadv jd;ual xm;lvvd	10
+合肥路街道	he;rak fz;yvl lu;kpv jx;pptt dk;dpdv	10
+合肥市街道	he;rak fz;yvl ui;dalv jx;pptt dk;dpdv	10
 鹤岗萝北县	he;dvpv gh;lvlv lo;clv bz;lapv xm;lvvd	10
 鹤岗绥滨县	he;dvpv gh;lvlv sv;vvpd bn;udd xm;lvvd	10
 荷花池街道	he;cr hw;cr ii;uvl jx;pptt dk;dpdv	10
 荷花路街道	he;cr hw;cr lu;kpv jx;pptt dk;dpdv	10
 荷花园街道	he;cr hw;cr yr;lvaa jx;pptt dk;dpdv	10
-合淮合作区	he;rk hy;ur he;rk zo;rpa qu;apdv	10
+合淮合作区	he;rak hy;ur he;rak zo;rpa qu;apdv	10
 何集办事处	he;rak ji;rm bj;vpdd ui;alva iu;pvld	10
 贺家土街道	he;vplv jw;ddap tu;t jx;pptt dk;dpdv	10
-合江门街道	he;rk jd;ual mf;dlv jx;pptt dk;dpdv	10
-合江亭街道	he;rk jd;ual ty;dak jx;pptt dk;dpdv	10
+合江门街道	he;rak jd;ual mf;dlv jx;pptt dk;dpdv	10
+合江亭街道	he;rak jd;ual ty;dak jx;pptt dk;dpdv	10
 河口苗族乡	he;uak kb;k mc;clv zu;dapa xd;vvp	10
 河口瑶族乡	he;uak kb;k yk;aapd zu;dapa xd;vvp	10
 鹤立林业局	he;dvpv li;dadp ln;mm ye;lldp ju;vavk	10
 河沥溪街道	he;uak li;uap xi;upd jx;pptt dk;dpdv	10
 和林格尔县	he;pak ln;mm ge;mpv er;pvlp xm;lvvd	10
 和龙林业局	he;pak ls;apvp ln;mm ye;lldp ju;vavk	10
-合隆满族乡	he;rk ls;vlpv mj;uc zu;dapa xd;vvp	10
+合隆满族乡	he;rak ls;vlpv mj;uc zu;dapa xd;vvp	10
 和隆满族乡	he;pak ls;vlpv mj;uc zu;dapa xd;vvp	10
 河马泉街道	he;uak ma;vva qr;plu jx;pptt dk;dpdv	10
 河门口街道	he;uak mf;dlv kb;k jx;pptt dk;dpdv	10
@@ -78211,7 +78211,7 @@ sort: by_weight
 和平南街道	he;pak py;adpa nj;xlv jx;pptt dk;dpdv	10
 和平桥街道	he;pak py;adpa qc;mpa jx;pptt dk;dpdv	10
 和平彝族乡	he;pak py;adpa yi;vvap zu;dapa xd;vvp	10
-合浦合浦县	he;rk pu;ual he;rk pu;ual xm;lvvd	10
+合浦合浦县	he;rak pu;ual he;rak pu;ual xm;lvvd	10
 鹤山风景区	he;dvpv uj;lvl fg;pvpd jy;oda qu;apdv	10
 鹤山街街道	he;dvpv uj;lvl jx;pptt jx;pptt dk;dpdv	10
 和尚房子乡	he;pak uh;ldlv fh;dvda zi;vla xd;vvp	10
@@ -78221,14 +78221,14 @@ sort: by_weight
 河西开发区	he;uak xi;alvp kl;aapl fa;vpvd qu;apdv	10
 鹤兴办街道	he;dvpv xy;ddpd bj;vpdd jx;pptt dk;dpdv	10
 和兴路街道	he;pak xy;ddpd lu;kpv jx;pptt dk;dpdv	10
-合阳城街道	he;rk yh;vlo ig;tap jx;pptt dk;dpdv	10
+合阳城街道	he;rak yh;vlo ig;tap jx;pptt dk;dpdv	10
 荷叶地街道	he;cr ye;kx di;tvl jx;pptt dk;dpdv	10
 河源东源县	he;uak yr;uap ds;avlp yr;uap xm;lvvd	10
 河源和平县	he;uak yr;uap he;pak py;adpa xm;lvvd	10
 河源连平县	he;uak yr;uap lm;avdv py;adpa xm;lvvd	10
 河源龙川县	he;uak yr;uap ls;apvp ir;pll xm;lvvd	10
 河源紫金县	he;uak yr;uap zi;lavv jn;j xm;lvvd	10
-合乐苗族乡	he;rk yt;pvlp mc;clv zu;dapa xd;vvp	10
+合乐苗族乡	he;rak yt;pvlp mc;clv zu;dapa xd;vvp	10
 菏泽成武县	he;cu ze;uvd ig;apvv wu;aala xm;lvvd	10
 菏泽东明县	he;cu ze;uvd ds;avlp my;oy xm;lvvd	10
 菏泽巨野县	he;cu ze;uvd ju;avav ye;lvvd xm;lvvd	10
@@ -78239,7 +78239,7 @@ sort: by_weight
 菏泽郓城县	he;cu ze;uvd yp;dvvl ig;tap xm;lvvd	10
 贺州昭平县	he;vplv vb;dpdl vk;ovp py;adpa xm;lvvd	10
 贺州钟山县	he;vplv vb;dpdl vs;jlv uj;lvl xm;lvvd	10
-合作路街道	he;rk zo;rpa lu;kpv jx;pptt dk;dpdv	10
+合作路街道	he;rak zo;rpa lu;kpv jx;pptt dk;dpdv	10
 黑河孙吴县	hz;lvdd he;uak sp;vllp wu;kaa xm;lvvd	10
 黑河逊克县	hz;lvdd he;uak xp;vldv ke;xkpv xm;lvvd	10
 黑甲山街道	hz;lvdd jw;lvaa uj;lvl jx;pptt dk;dpdv	10
@@ -78984,7 +78984,7 @@ sort: by_weight
 克什克腾旗	ke;xkpv ui;rx ke;xkpv tg;ydp qi;dapa	10
 科学城街道	ke;padd xt;ddvl ig;tap jx;pptt dk;dpdv	10
 科学路街道	ke;padd xt;ddvl lu;kpv jx;pptt dk;dpdv	10
-克州阿合奇	ke;xkpv vb;dpdl aa;vlak he;rk qi;apak	10
+克州阿合奇	ke;xkpv vb;dpdl aa;vlak he;rak qi;apak	10
 克州阿克陶	ke;xkpv vb;dpdl aa;vlak ke;xkpv tk;vlpv	10
 克州阿图什	ke;xkpv vb;dpdl aa;vlak tu;lvpv ui;rx	10
 克孜勒苏乡	ke;xkpv zi;vlpa le;alvp su;cvp xd;vvp	10
@@ -79127,7 +79127,7 @@ sort: by_weight
 联纺东街道	lm;aldp fh;vvda ds;avlp jx;pptt dk;dpdv	10
 联纺西街道	lm;aldp fh;vvda xi;alvp jx;pptt dk;dpdv	10
 联港工业区	lm;aldp gh;ual gs;ala ye;lldp qu;apdv	10
-联合苗族乡	lm;aldp he;rk mc;clv zu;dapa xd;vvp	10
+联合苗族乡	lm;aldp he;rak mc;clv zu;dapa xd;vvp	10
 莲花池街道	lm;cav hw;cr ii;uvl jx;pptt dk;dpdv	10
 莲花湖街道	lm;cav hw;cr hu;uxk jx;pptt dk;dpdv	10
 莲花泡农场	lm;cav hw;cr pk;upv ns;dvpv ih;tvp	10
@@ -79253,8 +79253,8 @@ sort: by_weight
 六道湾街道	lq;dapd dk;dpdv wj;uda jx;pptt dk;dpdv	10
 刘房子街道	lq;dall fh;dvda zi;vla jx;pptt dk;dpdv	10
 六官营子镇	lq;dapd gr;ddlv yy;ckk zi;vla vf;jx	10
-六合开发区	lq;dapd he;rk kl;aapl fa;vpvd qu;apdv	10
-六合彝族乡	lq;dapd he;rk yi;vvap zu;dapa xd;vvp	10
+六合开发区	lq;dapd he;rak kl;aapl fa;vpvd qu;apdv	10
+六合彝族乡	lq;dapd he;rak yi;vvap zu;dapa xd;vvp	10
 柳花泊街道	lq;mpv hw;cr po;upl jx;pptt dk;dpdv	10
 硫磺温泉镇	lq;apda hd;apal wf;uo qr;plu vf;jx	10
 刘家堡街道	lq;dall jw;ddap bk;rkt jx;pptt dk;dpdv	10
@@ -79364,7 +79364,7 @@ sort: by_weight
 炉院街街道	lu;hdv yr;vldd jx;pptt jx;pptt dk;dpdv	10
 陆中湾街道	lu;vlaa vs;lval wj;uda jx;pptt dk;dpdv	10
 泸州古蔺县	lu;ula vb;dpdl gu;xk ln;cdl xm;lvvd	10
-泸州合江县	lu;ula vb;dpdl he;rk jd;ual xm;lvvd	10
+泸州合江县	lu;ula vb;dpdl he;rak jd;ual xm;lvvd	10
 泸州龙马潭	lu;ula vb;dpdl ls;apvp ma;vva tj;ual	10
 泸州市泸县	lu;ula vb;dpdl ui;dalv lu;ula xm;lvvd	10
 泸州叙永县	lu;ula vb;dpdl xu;rvd ys;dvvp xm;lvvd	10
@@ -79806,7 +79806,7 @@ sort: by_weight
 坡子街街道	po;tvp zi;vla jx;pptt jx;pptt dk;dpdv	10
 浦贝彝族乡	pu;ual bz;lvpd yi;vvap zu;dapa xd;vvp	10
 蒲纺工业园	pu;cu fh;vvda gs;ala ye;lldp yr;lvaa	10
-普合苗族乡	pu;dpo he;rk mc;clv zu;dapa xd;vvp	10
+普合苗族乡	pu;dpo he;rak mc;clv zu;dapa xd;vvp	10
 蒲芦瑶族乡	pu;cu lu;cdv yk;aapd zu;dapa xd;vvp	10
 普玛江塘乡	pu;dpo ma;aavv jd;ual th;tda xd;vvp	10
 普恰克其镇	pu;dpo qw;ddr ke;xkpv qi;alpd vf;jx	10
@@ -79896,7 +79896,7 @@ sort: by_weight
 千佛山街道	qm;pal fo;rva uj;lvl jx;pptt dk;dpdv	10
 前福兴地镇	qm;dpy fu;dvak xy;ddpd di;tvl vf;jx	10
 前郭尔罗斯	qm;dpy go;davl er;pvlp lo;lvpv si;alpp	10
-前海合作区	qm;dpy hl;upa he;rk zo;rpa qu;apdv	10
+前海合作区	qm;dpy hl;upa he;rak zo;rpa qu;apdv	10
 前海开发区	qm;dpy hl;upa kl;aapl fa;vpvd qu;apdv	10
 黔江区街道	qm;lvr jd;ual qu;apdv jx;pptt dk;dpdv	10
 前进道街道	qm;dpy jn;aadv dk;dpdv jx;pptt dk;dpdv	10
@@ -79986,7 +79986,7 @@ sort: by_weight
 清溪场街道	qy;uaa xi;upd ih;tvp jx;pptt dk;dpdv	10
 清香坪街道	qy;uaa xd;pao py;tad jx;pptt dk;dpdv	10
 清徐香岩寺	qy;uaa xu;ppr xd;pao yj;lvap si;tal	10
-庆阳合水县	qy;daap yh;vlo he;rk uv;u xm;lvvd	10
+庆阳合水县	qy;daap yh;vlo he;rak uv;u xm;lvvd	10
 庆阳华池县	qy;daap yh;vlo hw;rx ii;uvl xm;lvvd	10
 庆阳庆城县	qy;daap yh;vlo qy;daap ig;tap xm;lvvd	10
 庆阳市环县	qy;daap yh;vlo ui;dalv hr;aaap xm;lvvd	10
@@ -80753,10 +80753,10 @@ sort: by_weight
 唐山玉田县	th;dava uj;lvl yu;aala tm;lval xm;lvvd	10
 汤图满族乡	th;uvp tu;lvpv mj;uc zu;dapa xd;vvp	10
 唐闸镇街道	th;dava va;dllv vf;jx jx;pptt dk;dpdv	10
-逃出绝命镇	tk;pddv iu;vllv jt;vvpv my;rk vf;jx	10
+逃出绝命镇	tk;pddv iu;vllv jt;vvpv my;rak vf;jx	10
 陶店回族乡	tk;vlpv dm;dala hv;lvka zu;dapa xd;vvp	10
 洮儿河农场	tk;upd er;pv he;uak ns;dvpv ih;tvp	10
-桃合木苏木	tk;mpd he;rk mu;m su;cvp mu;m	10
+桃合木苏木	tk;mpd he;rak mu;m su;cvp mu;m	10
 桃花冲林场	tk;mpd hw;cr is;dalv ln;mm ih;tvp	10
 桃花仑街道	tk;mpd hw;cr lp;rpv jx;pptt dk;dpdv	10
 桃花坪街道	tk;mpd hw;cr py;tad jx;pptt dk;dpdv	10
@@ -80987,7 +80987,7 @@ sort: by_weight
 渭南澄城县	wz;ulv nj;xlv ig;uvd ig;tap xm;lvvd	10
 渭南大荔县	wz;ulv nj;xlv da;apd li;cvp xm;lvvd	10
 渭南富平县	wz;ulv nj;xlv fu;ddak py;adpa xm;lvvd	10
-渭南合阳县	wz;ulv nj;xlv he;rk yh;vlo xm;lvvd	10
+渭南合阳县	wz;ulv nj;xlv he;rak yh;vlo xm;lvvd	10
 渭南蒲城县	wz;ulv nj;xlv pu;cu ig;tap xm;lvvd	10
 渭南市街道	wz;ulv nj;xlv ui;dalv jx;pptt dk;dpdv	10
 渭南市乡镇	wz;ulv nj;xlv ui;dalv xd;vvp vf;jx	10
@@ -81062,7 +81062,7 @@ sort: by_weight
 武汉路街道	wu;aala hj;uvd lu;kpv jx;pptt dk;dpdv	10
 武汉市街道	wu;aala hj;uvd ui;dalv jx;pptt dk;dpdv	10
 武汉市乡镇	wu;aala hj;uvd ui;dalv xd;vvp vf;jx	10
-吾合沙鲁乡	wu;alk he;rk ua;ulp lu;pvo xd;vvp	10
+吾合沙鲁乡	wu;alk he;rak ua;ulp lu;pvo xd;vvp	10
 芜湖开发区	wu;caa hu;uxk kl;aapl fa;vpvd qu;apdv	10
 芜湖路街道	wu;caa hu;uxk lu;kpv jx;pptt dk;dpdv	10
 芜湖南陵县	wu;caa hu;uxk nj;xlv ly;vlt xm;lvvd	10
@@ -81755,7 +81755,7 @@ sort: by_weight
 伊尔施街道	yi;rva er;pvlp ui;dapa jx;pptt dk;dpdv	10
 仪封园艺场	yi;rdp fg;ttal yr;lvaa yi;cv ih;tvp	10
 依盖尔其镇	yi;rda gl;dplv er;pvlp qi;alpd vf;jx	10
-伊合昂街道	yi;rva he;rk ah;opv jx;pptt dk;dpdv	10
+伊合昂街道	yi;rva he;rak ah;opv jx;pptt dk;dpdv	10
 义和塔拉镇	yi;dpd he;pak ta;tcr la;fda vf;jx	10
 伊胡塔林场	yi;rva hu;xky ta;tcr ln;mm ih;tvp	10
 弋矶山街道	yi;avd ji;appv uj;lvl jx;pptt dk;dpdv	10
@@ -82246,8 +82246,8 @@ sort: by_weight
 自由路街道	zi;plva yb;lval lu;kpv jx;pptt dk;dpdv	10
 紫云路街道	zi;lavv yp;aavd lu;kpv jx;pptt dk;dpdv	10
 紫竹院街道	zi;lavv vu;papa yr;vldd jx;pptt dk;dpdv	10
-综合保税区	zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
-综合垦殖场	zs;vvdd he;rk kf;vat vi;apx ih;tvp	10
+综合保税区	zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
+综合垦殖场	zs;vvdd he;rak kf;vat vi;apx ih;tvp	10
 总口管理区	zs;dpdv kb;k gr;padd li;aalv qu;apdv	10
 总前委旧址	zs;dpdv qm;dpy wz;pavp jq;lo vi;tla	10
 棕树营街道	zs;mdd uu;mvd yy;ckk jx;pptt dk;dpdv	10
@@ -82318,7 +82318,7 @@ sort: by_weight
 安徽省池州市	an;ddvp hv;pplv ug;lplv ii;uvl vb;dpdl ui;dalv	10
 安徽省滁州市	an;ddvp hv;pplv ug;lplv iu;uvl vb;dpdl ui;dalv	10
 安徽省阜阳市	an;ddvp hv;pplv ug;lplv fu;plx yh;vlo ui;dalv	10
-安徽省合肥市	an;ddvp hv;pplv ug;lplv he;rk fz;yvl ui;dalv	10
+安徽省合肥市	an;ddvp hv;pplv ug;lplv he;rak fz;yvl ui;dalv	10
 安徽省淮北市	an;ddvp hv;pplv ug;lplv hy;ur bz;lapv ui;dalv	10
 安徽省淮南市	an;ddvp hv;pplv ug;lplv hy;ur nj;xlv ui;dalv	10
 安徽省黄山市	an;ddvp hv;pplv ug;lplv hd;allv uj;lvl ui;dalv	10
@@ -82544,7 +82544,7 @@ sort: by_weight
 北二十家子镇	bz;lapv er;aa ui;x jw;ddap zi;vla vf;jx	10
 北岗街道地区	bz;lapv gh;lvlv jx;pptt dk;dpdv di;tvl qu;apdv	10
 北海市海城区	bz;lapv hl;upa ui;dalv hl;upa ig;tap qu;apdv	10
-北海市合浦县	bz;lapv hl;upa ui;dalv he;rk pu;ual xm;lvvd	10
+北海市合浦县	bz;lapv hl;upa ui;dalv he;rak pu;ual xm;lvvd	10
 北海市图书馆	bz;lapv hl;upa ui;dalv tu;lvpv uu;vvld gr;pvdd	15
 北海市银海区	bz;lapv hl;upa ui;dalv yn;jva hl;upa qu;apdv	10
 北京南路街道	bz;lapv jy;dak nj;xlv lu;kpv jx;pptt dk;dpdv	10
@@ -82875,7 +82875,7 @@ sort: by_weight
 重庆市丰都县	is;palv qy;daap ui;dalv fg;aaal du;xvl xm;lvvd	10
 重庆市奉节县	is;palv qy;daap ui;dalv fg;aaaa jx;cvl xm;lvvd	10
 重庆市涪陵区	is;palv qy;daap ui;dalv fu;uda ly;vlt qu;apdv	10
-重庆市合川区	is;palv qy;daap ui;dalv he;rk ir;pll qu;apdv	10
+重庆市合川区	is;palv qy;daap ui;dalv he;rak ir;pll qu;apdv	10
 重庆市江津区	is;palv qy;daap ui;dalv jd;ual jn;uva qu;apdv	10
 重庆市京剧团	is;palv qy;daap ui;dalv jy;dak ju;vall tr;lval	18
 重庆市开州区	is;palv qy;daap ui;dalv kl;aapl vb;dpdl qu;apdv	10
@@ -83555,20 +83555,20 @@ sort: by_weight
 河池市南丹县	he;uak ii;uvl ui;dalv nj;xlv dj;pvda xm;lvvd	10
 河池市天峨县	he;uak ii;uvl ui;dalv tm;aapd ee;lvpa xm;lvvd	10
 河池市宜州区	he;uak ii;uvl ui;dalv yi;ddlv vb;dpdl qu;apdv	10
-合肥龙岗综合	he;rk fz;yvl ls;apvp gh;lvlv zs;vvdd he;rk	10
-合肥市包河区	he;rk fz;yvl ui;dalv bk;pvva he;uak qu;apdv	10
-合肥市巢湖市	he;rk fz;yvl ui;dalv ik;vvlv hu;uxk ui;dalv	10
-合肥市肥东县	he;rk fz;yvl ui;dalv fz;yvl ds;avlp xm;lvvd	10
-合肥市肥西县	he;rk fz;yvl ui;dalv fz;yvl xi;alvp xm;lvvd	10
-合肥市公安局	he;rk fz;yvl ui;dalv gs;pdvd an;ddvp ju;vavk	340
-合肥市工商局	he;rk fz;yvl ui;dalv gs;ala uh;dalv ju;vavk	22
-合肥市教育局	he;rk fz;yvl ui;dalv jc;xpa yu;day ju;vavk	67
-合肥市庐江县	he;rk fz;yvl ui;dalv lu;dadv jd;ual xm;lvvd	10
-合肥市庐阳区	he;rk fz;yvl ui;dalv lu;dadv yh;vlo qu;apdv	10
-合肥市蜀山区	he;rk fz;yvl ui;dalv uu;lvpv uj;lvl qu;apdv	10
-合肥市图书馆	he;rk fz;yvl ui;dalv tu;lvpv uu;vvld gr;pvdd	52
-合肥市瑶海区	he;rk fz;yvl ui;dalv yk;aapd hl;upa qu;apdv	10
-合肥市长丰县	he;rk fz;yvl ui;dalv vh;pavd fg;aaal xm;lvvd	10
+合肥龙岗综合	he;rak fz;yvl ls;apvp gh;lvlv zs;vvdd he;rak	10
+合肥市包河区	he;rak fz;yvl ui;dalv bk;pvva he;uak qu;apdv	10
+合肥市巢湖市	he;rak fz;yvl ui;dalv ik;vvlv hu;uxk ui;dalv	10
+合肥市肥东县	he;rak fz;yvl ui;dalv fz;yvl ds;avlp xm;lvvd	10
+合肥市肥西县	he;rak fz;yvl ui;dalv fz;yvl xi;alvp xm;lvvd	10
+合肥市公安局	he;rak fz;yvl ui;dalv gs;pdvd an;ddvp ju;vavk	340
+合肥市工商局	he;rak fz;yvl ui;dalv gs;ala uh;dalv ju;vavk	22
+合肥市教育局	he;rak fz;yvl ui;dalv jc;xpa yu;day ju;vavk	67
+合肥市庐江县	he;rak fz;yvl ui;dalv lu;dadv jd;ual xm;lvvd	10
+合肥市庐阳区	he;rak fz;yvl ui;dalv lu;dadv yh;vlo qu;apdv	10
+合肥市蜀山区	he;rak fz;yvl ui;dalv uu;lvpv uj;lvl qu;apdv	10
+合肥市图书馆	he;rak fz;yvl ui;dalv tu;lvpv uu;vvld gr;pvdd	52
+合肥市瑶海区	he;rak fz;yvl ui;dalv yk;aapd hl;upa qu;apdv	10
+合肥市长丰县	he;rak fz;yvl ui;dalv vh;pavd fg;aaal xm;lvvd	10
 鹤岗市东山区	he;dvpv gh;lvlv ui;dalv ds;avlp uj;lvl qu;apdv	10
 鹤岗市工农区	he;dvpv gh;lvlv ui;dalv gs;ala ns;dvpv qu;apdv	10
 鹤岗市萝北县	he;dvpv gh;lvlv ui;dalv lo;clv bz;lapv xm;lvvd	10
@@ -83624,7 +83624,7 @@ sort: by_weight
 贺州市平桂区	he;vplv vb;dpdl ui;dalv py;adpa gv;mtt qu;apdv	10
 贺州市昭平县	he;vplv vb;dpdl ui;dalv vk;ovp py;adpa xm;lvvd	10
 贺州市钟山县	he;vplv vb;dpdl ui;dalv vs;jlv uj;lvl xm;lvvd	10
-合作市公安局	he;rk zo;rpa ui;dalv gs;pdvd an;ddvp ju;vavk	20
+合作市公安局	he;rak zo;rpa ui;dalv gs;pdvd an;ddvp ju;vavk	20
 黑城子示范区	hz;lvdd ig;tap zi;vla ui;aalp fj;cu qu;apdv	10
 黑河市爱辉区	hz;lvdd he;uak ui;dalv ai;pdap hv;lddv qu;apdv	10
 黑河市北安市	hz;lvdd he;uak ui;dalv bz;lapv an;ddvp ui;dalv	10
@@ -83648,7 +83648,7 @@ sort: by_weight
 黑龙潭风景区	hz;lvdd ls;apvp tj;ual fg;pvpd jy;oda qu;apdv	10
 黑氏饭店旧址	hz;lvdd ui;pvav fj;pvpp dm;dala jq;lo vi;tla	10
 恒丰企业集团	hg;ddao fg;aaal qi;rla ye;lldp ji;rm tr;lval	10
-恒合土家族乡	hg;ddao he;rk tu;t jw;ddap zu;dapa xd;vvp	10
+恒合土家族乡	hg;ddao he;rak tu;t jw;ddap zu;dapa xd;vvp	10
 衡水滨湖新区	hg;pppv uv;u bn;udd hu;uxk xn;dapp qu;apdv	10
 衡水市安平县	hg;pppv uv;u ui;dalv an;ddvp py;adpa xm;lvvd	10
 衡水市阜城县	hg;pppv uv;u ui;dalv fu;plx ig;tap xm;lvvd	10
@@ -84080,7 +84080,7 @@ sort: by_weight
 荆州市松滋市	jy;cll vb;dpdl ui;dalv ss;mpd zi;udp ui;dalv	10
 九保阿昌族乡	jq;pv bk;rkm aa;vlak ih;oo zu;dapa xd;vvp	10
 鹫峰森林公园	jq;dapv fg;lvpv sf;mmm ln;mm gs;pdvd yr;lvaa	10
-九合垸原种场	jq;pv he;rk yr;tdd yr;appl vs;palv ih;tvp	10
+九合垸原种场	jq;pv he;rak yr;tdd yr;appl vs;palv ih;tvp	10
 九江市柴桑区	jq;pv jd;ual ui;dalv il;lam sh;vdm qu;apdv	10
 九江市德安县	jq;pv jd;ual ui;dalv de;ppx an;ddvp xm;lvvd	10
 九江市都昌县	jq;pv jd;ual ui;dalv du;xvl ih;oo xm;lvvd	10
@@ -84188,7 +84188,7 @@ sort: by_weight
 拉萨市林周县	la;fda sa;cvl ui;dalv ln;mm vb;pvtk xm;lvvd	10
 拉萨市尼木县	la;fda sa;cvl ui;dalv ni;vapv mu;m xm;lvvd	10
 拉萨市曲水县	la;fda sa;cvl ui;dalv qu;lval uv;u xm;lvvd	10
-来宾市合山市	ll;adpa bn;ddpl ui;dalv he;rk uj;lvl ui;dalv	10
+来宾市合山市	ll;adpa bn;ddpl ui;dalv he;rak uj;lvl ui;dalv	10
 来宾市武宣县	ll;adpa bn;ddpl ui;dalv wu;aala xr;ddao xm;lvvd	10
 来宾市象州县	ll;adpa bn;ddpl ui;dalv xd;pvlv vb;dpdl xm;lvvd	10
 来宾市忻城县	ll;adpa bn;ddpl ui;dalv xn;ddpp ig;tap xm;lvvd	10
@@ -84253,8 +84253,8 @@ sort: by_weight
 鲤鱼洲管理处	li;pvlv yu;pvlv vb;udp gr;padd li;aalv iu;pvld	10
 梨园主题公园	li;pam yr;lvaa vu;daal ti;oap gs;pdvd yr;lvaa	10
 栗子坪彝族乡	li;alm zi;vla py;tad yi;vvap zu;dapa xd;vvp	10
-联合市公安局	lm;aldp he;rk ui;dalv gs;pdvd an;ddvp ju;vavk	69
-联合市教育局	lm;aldp he;rk ui;dalv jc;xpa yu;day ju;vavk	58
+联合市公安局	lm;aldp he;rak ui;dalv gs;pdvd an;ddvp ju;vavk	69
+联合市教育局	lm;aldp he;rak ui;dalv jc;xpa yu;day ju;vavk	58
 莲花山风景区	lm;cav hw;cr uj;lvl fg;pvpd jy;oda qu;apdv	10
 恋乡太行水镇	lm;dadv xd;vvp tl;apdd hh;ppaa uv;u vf;jx	10
 连云港东海县	lm;avdv yp;aavd gh;ual ds;avlp hl;upa xm;lvvd	10
@@ -84345,8 +84345,8 @@ sort: by_weight
 灵宝市园艺场	ly;vah bk;ddaa ui;dalv yr;lvaa yi;cv ih;tvp	10
 菱角湖管理区	ly;ct jc;pvpv hu;uxk gr;padd li;aalv qu;apdv	10
 羚羊国家公园	ly;dpr yh;dpaa go;lvaa jw;ddap gs;pdvd yr;lvaa	10
-六合开发区站	lq;dapd he;rk kl;aapl fa;vpvd qu;apdv vj;dala	10
-六合垸管理区	lq;dapd he;rk yr;tdd gr;padd li;aalv qu;apdv	10
+六合开发区站	lq;dapd he;rak kl;aapl fa;vpvd qu;apdv vj;dala	10
+六合垸管理区	lq;dapd he;rak yr;tdd gr;padd li;aalv qu;apdv	10
 刘家坪白族乡	lq;dall jw;ddap py;tad bl;plva zu;dapa xd;vvp	10
 柳浪闻莺公园	lq;mpv lh;udv wf;dlal yy;cpv gs;pdvd yr;lvaa	10
 六盘水水城县	lq;dapd pj;pplv uv;u uv;u ig;tap xm;lvvd	10
@@ -84402,7 +84402,7 @@ sort: by_weight
 鲁础营回族乡	lu;pvo iu;apvl yy;ckk hv;lvka zu;dapa xd;vvp	10
 路德公寓旧址	lu;kpv de;ppx gs;pdvd yu;ddlv jq;lo vi;tla	10
 泸州市古蔺县	lu;ula vb;dpdl ui;dalv gu;xk ln;cdl xm;lvvd	10
-泸州市合江县	lu;ula vb;dpdl ui;dalv he;rk jd;ual xm;lvvd	10
+泸州市合江县	lu;ula vb;dpdl ui;dalv he;rak jd;ual xm;lvvd	10
 泸州市江阳区	lu;ula vb;dpdl ui;dalv jd;ual yh;vlo qu;apdv	10
 泸州市纳溪区	lu;ula vb;dpdl ui;dalv na;vvlv xi;upd qu;apdv	10
 泸州市叙永县	lu;ula vb;dpdl ui;dalv xu;rvd ys;dvvp xm;lvvd	10
@@ -84455,7 +84455,7 @@ sort: by_weight
 麻城三河水库	ma;damm ig;tap sj;aaa he;uak uv;u ku;daav	10
 马尔代夫群岛	ma;vva er;pvlp dl;rav fu;aapd qp;vadp dk;pvlv	10
 马尔维纳群岛	ma;vva er;pvlp wz;vvr na;vvlv qp;vadp dk;pvlv	10
-马合口白族乡	ma;vva he;rk kb;k bl;plva zu;dapa xd;vvp	10
+马合口白族乡	ma;vva he;rak kb;k bl;plva zu;dapa xd;vvp	10
 马里亚那群岛	ma;vva li;lvaa ya;alld na;vavl qp;vadp dk;pvlv	10
 马六甲香林寺	ma;vva lq;dapd jw;lvaa xd;pao ln;mm si;tal	10
 马马努卡群岛	ma;vva ma;vva nu;vpvp ka;lald qp;vadp dk;pvlv	10
@@ -84581,7 +84581,7 @@ sort: by_weight
 南京市交通局	nj;xlv jy;dak ui;dalv jc;dapd ts;vddv ju;vavk	69
 南京市教育局	nj;xlv jy;dak ui;dalv jc;xpa yu;day ju;vavk	162
 南京市溧水区	nj;xlv jy;dak ui;dalv li;ual uv;u qu;apdv	10
-南京市六合区	nj;xlv jy;dak ui;dalv lu;dapd he;rk qu;apdv	10
+南京市六合区	nj;xlv jy;dak ui;dalv lu;dapd he;rak qu;apdv	10
 南京市浦口区	nj;xlv jy;dak ui;dalv pu;ual kb;k qu;apdv	10
 南京市栖霞区	nj;xlv jy;dak ui;dalv qi;mal xw;adva qu;apdv	10
 南京市秦淮区	nj;xlv jy;dak ui;dalv qn;aapa hy;ur qu;apdv	10
@@ -84856,7 +84856,7 @@ sort: by_weight
 青浦区徐泾镇	qy;aay pu;ual qu;apdv xu;ppr jy;uvd vf;jx	10
 清水土家族乡	qy;uaa uv;u tu;t jw;ddap zu;dapa xd;vvp	10
 青西郊野公园	qy;aay xi;alvp jc;davl ye;lvvd gs;pdvd yr;lvaa	10
-庆阳市合水县	qy;daap yh;vlo ui;dalv he;rk uv;u xm;lvvd	10
+庆阳市合水县	qy;daap yh;vlo ui;dalv he;rak uv;u xm;lvvd	10
 庆阳市华池县	qy;daap yh;vlo ui;dalv hw;rx ii;uvl xm;lvvd	10
 庆阳市庆城县	qy;daap yh;vlo ui;dalv qy;daap ig;tap xm;lvvd	10
 庆阳市西峰区	qy;daap yh;vlo ui;dalv xi;alvp fg;lvpv qu;apdv	10
@@ -85702,7 +85702,7 @@ sort: by_weight
 渭南市富平县	wz;ulv nj;xlv ui;dalv fu;ddak py;adpa xm;lvvd	10
 渭南市公安局	wz;ulv nj;xlv ui;dalv gs;pdvd an;ddvp ju;vavk	90
 渭南市韩城市	wz;ulv nj;xlv ui;dalv hj;xoaa ig;tap ui;dalv	10
-渭南市合阳县	wz;ulv nj;xlv ui;dalv he;rk yh;vlo xm;lvvd	10
+渭南市合阳县	wz;ulv nj;xlv ui;dalv he;rak yh;vlo xm;lvvd	10
 渭南市华阴市	wz;ulv nj;xlv ui;dalv hw;rx yn;vly ui;dalv	10
 渭南市华州区	wz;ulv nj;xlv ui;dalv hw;rx vb;dpdl qu;apdv	10
 渭南市临渭区	wz;ulv nj;xlv ui;dalv ln;llpa wz;ulv qu;apdv	10
@@ -86465,7 +86465,7 @@ sort: by_weight
 云雾土家族乡	yp;aavd wu;adpv tu;t jw;ddap zu;dapa xd;vvp	10
 在海一方公园	zl;apt hl;upa yi;a fh;davp gs;pdvd yr;lvaa	10
 藏青工业园乡	zh;cap qy;aay gs;ala ye;lldp yr;lvaa xd;vvp	10
-枣园革命旧址	zk;aldd yr;lvaa ge;allv my;rk jq;lo vi;tla	10
+枣园革命旧址	zk;aldd yr;lvaa ge;allv my;rak jq;lo vi;tla	10
 枣庄市山亭区	zk;aldd vd;dat ui;dalv uj;lvl ty;dak qu;apdv	10
 枣庄市市中区	zk;aldd vd;dat ui;dalv ui;dalv vs;lval qu;apdv	10
 枣庄市滕州市	zk;aldd vd;dat ui;dalv tg;ydp vb;dpdl ui;dalv	10
@@ -86696,7 +86696,7 @@ sort: by_weight
 阿拉善北路街道	aa;vlak la;fda uj;dpk bz;lapv lu;kpv jx;pptt dk;dpdv	10
 阿拉善盟额济纳	aa;vlak la;fda uj;dpk mg;oylv ee;ddap ji;uda na;vvlv	10
 阿拉坦额莫勒镇	aa;vlak la;fda tj;to ee;ddap mo;co le;alvp vf;jx	10
-阿拉坦合力苏木	aa;vlak la;fda tj;to he;rk li;vp su;cvp mu;m	10
+阿拉坦合力苏木	aa;vlak la;fda tj;to he;rak li;vp su;cvp mu;m	10
 阿拉腾朝格苏木	aa;vlak la;fda tg;ydp ik;xoy ge;mpv su;cvp mu;m	10
 阿勒泰可克达拉	aa;vlak le;alvp tl;aau ke;akl ke;xkpv da;apdv la;fda	10
 阿勒泰图木舒克	aa;vlak le;alvp tl;aau tu;lvpv mu;m uu;rvd ke;xkpv	10
@@ -87418,7 +87418,7 @@ sort: by_weight
 清原满族自治县	qy;uaa yr;appl mj;uc zu;dapa zi;plva vi;uvd xm;lvvd	10
 区生态林场总场	qu;apdv ug;paal tl;apdv ln;mm ih;tvp zs;dpdv ih;tvp	10
 区直辖村级区划	qu;apdv vi;xlv xw;avdd cp;mal ji;vvpv qu;apdv hw;avll	10
-泉州综合保税区	qr;plu vb;dpdl zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
+泉州综合保税区	qr;plu vb;dpdl zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
 仁和彝族苗族乡	rf;raa he;pak yi;vvap zu;dapa mc;clv zu;dapa xd;vvp	10
 日喀则南木林县	ri;o ka;kdd ze;lvll nj;xlv mu;m ln;mm xm;lvvd	10
 日喀则聂拉木县	ri;o ka;kdd ze;lvll nx;alvd la;fda mu;m xm;lvvd	10
@@ -87955,7 +87955,7 @@ sort: by_weight
 环江毛南族自治县	hr;aaap jd;ual mk;paav nj;xlv zu;dapa zi;plva vi;uvd xm;lvvd	10
 黄河湿地管护中心	hd;allv he;uak ui;uo di;tvl gr;padd hu;fdv vs;lval xn;dvdd	10
 黄腊布依族苗族乡	hd;allv la;yal bu;aplv yi;rda zu;dapa mc;clv zu;dapa xd;vvp	10
-黄桥决战革命旧址	hd;allv qc;mpa jt;dava vj;laav ge;allv my;rk jq;lo vi;tla	10
+黄桥决战革命旧址	hd;allv qc;mpa jt;dava vj;laav ge;allv my;rak jq;lo vi;tla	10
 汇金区域服务中心	hv;uav jn;j qu;apdv yu;tak fu;yvl wu;pvvp vs;lval xn;dvdd	10
 火车西站片区街道	ho;h ie;aval xi;alvp vj;dala pm;plav qu;apdv jx;pptt dk;dpdv	10
 火炬高技术开发区	ho;h ju;hav gk;dak ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
@@ -88003,7 +88003,7 @@ sort: by_weight
 辽宁省金城原种场	lc;vldv ny;ddal ug;lplv jn;j ig;tap yr;appl vs;palv ih;tvp	10
 林芝市工布江达县	ln;mm vi;cdv ui;dalv gs;ala bu;aplv jd;ual da;apdv xm;lvvd	10
 六德傈僳族彝族乡	lq;dapd de;ppx li;ral su;ral zu;dapa yi;vvap zu;dapa xd;vvp	10
-六合镇黎明奶牛场	lq;dapd he;rk vf;jx li;paru my;oy nl;vpvp nq;paal ih;tvp	10
+六合镇黎明奶牛场	lq;dapd he;rak vf;jx li;paru my;oy nl;vpvp nq;paal ih;tvp	10
 六零二所高科技园	lq;dapd ly;adr er;aa so;pppp gk;dak ke;padd ji;fx yr;lvaa	10
 六盘水市六枝特区	lq;dapd pj;pplv uv;u ui;dalv lq;dapd vi;mx te;pat qu;apdv	10
 龙井大苏果树农场	ls;apvp jy;aapl da;apd su;cvp go;lvaa uu;mvd ns;dvpv ih;tvp	10
@@ -88018,7 +88018,7 @@ sort: by_weight
 马铃薯原种繁殖场	ma;vva ly;jr uu;clv yr;appl vs;palv fj;pavv vi;apx ih;tvp	10
 马洋溪生态旅游区	ma;vva yh;udp xi;upd ug;paal tl;apdv lv;dapa yb;uda qu;apdv	10
 麦格苗族布依族乡	ml;aapv ge;mpv mc;clv zu;dapa bu;aplv yi;rda zu;dapa xd;vvp	10
-满洲里综合保税区	mj;uc vb;udp li;lvaa zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
+满洲里综合保税区	mj;uc vb;udp li;lvaa zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
 莽格吐达斡尔族乡	mh;cap ge;mpv tu;kt da;apdv wo;xor er;pvlp zu;dapa xd;vvp	10
 忙怀彝族布朗族乡	mh;ddda hy;ddap yi;vvap zu;dapa bu;aplv lh;dvy zu;dapa xd;vvp	10
 猫洞苗族仡佬族乡	mk;pvc ds;ulv mc;clv zu;dapa ge;rpa lk;rx zu;dapa xd;vvp	10
@@ -88076,7 +88076,7 @@ sort: by_weight
 瑞昌市大德山林场	rv;aalv ih;oo ui;dalv da;apd de;ppx uj;lvl ln;mm ih;tvp	10
 塞飞亚食品工业园	sl;ddt fz;vpd ya;alld ui;rdv pn;kkk gs;ala ye;lldp yr;lvaa	10
 三工河哈萨克族乡	sj;aaa gs;ala he;uak ha;kr sa;cvl ke;xkpv zu;dapa xd;vvp	10
-三合满族朝鲜族乡	sj;aaa he;rk mj;uc zu;dapa ik;xoy xm;pvdp zu;dapa xd;vvp	10
+三合满族朝鲜族乡	sj;aaa he;rak mj;uc zu;dapa ik;xoy xm;pvdp zu;dapa xd;vvp	10
 三角山旅游度假区	sj;aaa jc;pvpv uj;lvl lv;dapa yb;uda du;davd jw;rva qu;apdv	10
 三娘湾旅游管理区	sj;aaa nd;vpdv wj;uda lv;dapa yb;uda gr;padd li;aalv qu;apdv	10
 莎车县国营二林场	ua;cu ie;aval xm;lvvd go;lvaa yy;ckk er;aa ln;mm ih;tvp	10
@@ -88084,7 +88084,7 @@ sort: by_weight
 上海市白茅岭监狱	uh;laa hl;upa ui;dalv bl;plva mk;cvd ly;lvr jm;lllv yu;pvdv	10
 上户沟哈萨克族乡	uh;laa hu;dvap gb;upv ha;kr sa;cvl ke;xkpv zu;dapa xd;vvp	10
 商洛职业技术学院	uh;dalv lo;upv vi;alk ye;lldp ji;fx uu;md xt;ddvl yr;vldd	10
-上十岭综合垦殖场	uh;laa ui;x ly;lvr zs;vvdd he;rk kf;vat vi;apx ih;tvp	10
+上十岭综合垦殖场	uh;laa ui;x ly;lvr zs;vvdd he;rak kf;vat vi;apx ih;tvp	10
 召陵区天桥街街道	uk;vpk ly;vlt qu;apdv tm;aapd qc;mpa jx;pptt jx;pptt dk;dpdv	10
 沈北新区马刚林场	uf;udv bz;lapv xn;dapp qu;apdv ma;vva gh;lvll ln;mm ih;tvp	10
 沈北新区示范农场	uf;udv bz;lapv xn;dapp qu;apdv ui;aalp fj;cu ns;dvpv ih;tvp	10
@@ -88268,7 +88268,7 @@ sort: by_weight
 池州经济技术开发区	ii;uvl vb;dpdl jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 滁州经济技术开发区	iu;uvl vb;dpdl jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 翠玉傈僳族普米族乡	cv;vdda yu;aala li;ral su;ral zu;dapa pu;dpo mi;dpal zu;dapa xd;vvp	10
-达尔罕茂明安联合旗	da;apdv er;pvlp hj;dvaa mk;cap my;oy an;ddvp lm;aldp he;rk qi;dapa	10
+达尔罕茂明安联合旗	da;apdv er;pvlp hj;dvaa mk;cap my;oy an;ddvp lm;aldp he;rak qi;dapa	10
 大沟林业开发管理区	da;apd gb;upv ln;mm ye;lldp kl;aapl fa;vpvd gr;padd li;aalv qu;apdv	10
 大沁他拉街道办事处	da;apd qn;udv ta;rvl la;fda jx;pptt dk;dpdv bj;vpdd ui;alva iu;pvld	10
 大泉源满族朝鲜族乡	da;apd qr;plu yr;uap mj;uc zu;dapa ik;xoy xm;pvdp zu;dapa xd;vvp	10
@@ -88300,7 +88300,7 @@ sort: by_weight
 高新技术产业开发区	gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 高新技术开发区街道	gk;dak xn;dapp ji;fx uu;md kl;aapl fa;vpvd qu;apdv jx;pptt dk;dpdv	10
 耿马傣族佤族自治县	gg;alh ma;vva dl;raa zu;dapa wa;rav zu;dapa zi;plva vi;uvd xm;lvvd	10
-广西凭祥综合保税区	gd;dap xi;alvp py;rpv xd;dvdp zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
+广西凭祥综合保税区	gd;dap xi;alvp py;rpv xd;dvdp zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
 龟峰山风景区管理处	gv;pvlv fg;lvpv uj;lvl fg;pvpd jy;oda qu;apdv gr;padd li;aalv iu;pvld	10
 国营新兴县岩头林场	go;lvaa yy;ckk xn;dapp xy;ddpd xm;lvvd yj;lvap tb;ddap ln;mm ih;tvp	10
 国营兴顺德畜牧农场	go;lvaa yy;ckk xy;ddpd up;plap de;ppx xu;dalv mu;papa ns;dvpv ih;tvp	10
@@ -88310,8 +88310,8 @@ sort: by_weight
 海西自治州格尔木市	hl;upa xi;alvp zi;plva vi;uvd vb;dpdl ge;mpv er;pvlp mu;m ui;dalv	10
 邯郸经济技术开发区	hj;alvl dj;dpvl jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 鹤壁经济技术开发区	he;dvpv bi;vat jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
-合肥经济技术开发区	he;rk fz;yvl jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
-合肥循环经济示范园	he;rk fz;yvl xp;pppp hr;aaap jy;vvvd ji;uda ui;aalp fj;cu yr;lvaa	10
+合肥经济技术开发区	he;rak fz;yvl jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
+合肥循环经济示范园	he;rak fz;yvl xp;pppp hr;aaap jy;vvvd ji;uda ui;aalp fj;cu yr;lvaa	10
 鹤岗市林业局生活区	he;dvpv gh;lvlv ui;dalv ln;mm ye;lldp ju;vavk ug;paal ho;upa qu;apdv	10
 禾木哈纳斯蒙古族乡	he;palp mu;m ha;kr na;vvlv si;alpp mg;caa gu;xk zu;dapa xd;vvp	10
 和硕县马兰公安管区	he;pak uo;apap xm;lvvd ma;vva lj;dpaa gs;pdvd an;ddvp gr;padd qu;apdv	10
@@ -88323,7 +88323,7 @@ sort: by_weight
 红嘴高新技术开发区	hs;vval zv;kla gk;dak xn;dapp ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 呼和浩特市清水河县	hu;kpd he;pak hk;upa te;pat ui;dalv qy;uaa uv;u he;uak xm;lvvd	10
 呼和浩特市托克托县	hu;kpd he;pak hk;upa te;pat ui;dalv to;fpa ke;xkpv to;fpa xm;lvvd	10
-呼和浩特综合保税区	hu;kpd he;pak hk;upa te;pat zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
+呼和浩特综合保税区	hu;kpd he;pak hk;upa te;pat zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
 呼吉尔特蒙古民族乡	hu;kpd ji;tk er;pvlp te;pat mg;caa gu;xk mn;vava zu;dapa xd;vvp	10
 胡家湾苗族土家族乡	hu;xky jw;ddap wj;uda mc;clv zu;dapa tu;t jw;ddap zu;dapa xd;vvp	10
 呼伦贝尔市海拉尔区	hu;kpd lp;rr bz;lvpd er;pvlp ui;dalv hl;upa la;fda er;pvlp qu;apdv	10
@@ -88340,7 +88340,7 @@ sort: by_weight
 霍吉尔特蒙古民族乡	ho;adr ji;tk er;pvlp te;pat mg;caa gu;xk mn;vava zu;dapa xd;vvp	10
 吉阳区直辖村级区划	ji;tk yh;vlo qu;apdv vi;xlv xw;avdd cp;mal ji;vvpv qu;apdv hw;avll	10
 江宁高新技术产业园	jd;ual ny;ddal gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp yr;lvaa	10
-江苏生命科技创新园	jd;ual su;cvp ug;paal my;rk ke;padd ji;fx id;rll xn;dapp yr;lvaa	10
+江苏生命科技创新园	jd;ual su;cvp ug;paal my;rak ke;padd ji;fx id;rll xn;dapp yr;lvaa	10
 胶州经济技术开发区	jc;yda vb;dpdl jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 金坡苗族彝族满族乡	jn;j po;tvp mc;clv zu;dapa yi;vvap zu;dapa mj;uc zu;dapa xd;vvp	10
 金桥经济技术开发区	jn;j qc;mpa jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
@@ -88376,7 +88376,7 @@ sort: by_weight
 禄劝彝族苗族自治县	lu;dvva qr;vdvp yi;vvap zu;dapa mc;clv zu;dapa zi;plva vi;uvd xm;lvvd	10
 漯河经济技术开发区	lo;ulv he;uak jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 满洲里市互市贸易区	mj;uc vb;udp li;lvaa ui;dalv hu;avva ui;dalv mk;pvlv yi;opv qu;apdv	10
-满洲里市经济合作区	mj;uc vb;udp li;lvaa ui;dalv jy;vvvd ji;uda he;rk zo;rpa qu;apdv	10
+满洲里市经济合作区	mj;uc vb;udp li;lvaa ui;dalv jy;vvvd ji;uda he;rak zo;rpa qu;apdv	10
 芒洪拉祜族布朗族乡	mh;cda hs;ual la;fda hu;dvxk zu;dapa bu;aplv lh;dvy zu;dapa xd;vvp	10
 茅兰沟满族蒙古族乡	mk;cvd lj;dpaa gb;upv mj;uc zu;dapa mg;caa gu;xk zu;dapa xd;vvp	10
 庙子沟蒙古族满族乡	mc;dalv zi;vla gb;upv mg;caa gu;xk zu;dapa mj;uc zu;dapa xd;vvp	10
@@ -88403,8 +88403,8 @@ sort: by_weight
 普宁产业转移工业园	pu;dpo ny;ddal ij;dadp ye;lldp vr;avaa yi;papv gs;ala ye;lldp yr;lvaa	10
 濮阳经济技术开发区	pu;ur yh;vlo jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 启东海工船舶工业园	qi;dvk ds;avlp hl;upa gs;ala ir;pppv bo;pppl gs;ala ye;lldp yr;lvaa	10
-启东生命健康产业园	qi;dvk ds;avlp ug;paal my;rk jm;rva kh;dava ij;dadp ye;lldp yr;lvaa	10
-启东生命健康科技园	qi;dvk ds;avlp ug;paal my;rk jm;rva kh;dava ke;padd ji;fx yr;lvaa	10
+启东生命健康产业园	qi;dvk ds;avlp ug;paal my;rak jm;rva kh;dava ij;dadp ye;lldp yr;lvaa	10
+启东生命健康科技园	qi;dvk ds;avlp ug;paal my;rak jm;rva kh;dava ke;padd ji;fx yr;lvaa	10
 启隆生态科技产业园	qi;dvk ls;vlpv ug;paal tl;apdv ke;padd ji;fx ij;dadp ye;lldp yr;lvaa	10
 齐齐哈尔市昂昂溪区	qi;dapl qi;dapl ha;kr er;pvlp ui;dalv ah;opv ah;opv xi;upd qu;apdv	10
 齐齐哈尔市碾子山区	qi;dapl qi;dapl ha;kr er;pvlp ui;dalv nm;apva zi;vla uj;lvl qu;apdv	10
@@ -88423,9 +88423,9 @@ sort: by_weight
 上党经济技术开发区	uh;laa dh;ldk jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 上海松江出口加工区	uh;laa hl;upa ss;mpd jd;ual iu;vllv kb;k jw;vpk gs;ala qu;apdv	10
 上游水库工程管理局	uh;laa yb;uda uv;u ku;daav gs;ala ig;pak gr;padd li;aalv ju;vavk	10
-深圳坪山综合保税区	uf;udv vf;tpl py;tad uj;lvl zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
+深圳坪山综合保税区	uf;udv vf;tpl py;tad uj;lvl zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
 深圳市宝安国际机场	uf;udv vf;tpl ui;dalv bk;ddaa an;ddvp go;lvaa ji;vlaa ji;mpv ih;tvp	10
-深圳盐田综合保税区	uf;udv vf;tpl yj;tlv tm;lval zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
+深圳盐田综合保税区	uf;udv vf;tpl yj;tlv tm;lval zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
 石家庄循环化工园区	ui;apk jw;ddap vd;dat xp;pppp hr;aaap hw;rpv gs;ala yr;lvaa qu;apdv	10
 石梯子哈萨克民族乡	ui;apk ti;mdp zi;vla ha;kr sa;cvl ke;xkpv mn;vava zu;dapa xd;vvp	10
 四平市铁东区城东乡	si;lvpv py;adpa ui;dalv tx;jpa ds;avlp qu;apdv ig;tap ds;avlp xd;vvp	10
@@ -88557,14 +88557,14 @@ sort: by_weight
 百色市隆林各族自治县	bl;apl se;pvvl ui;dalv ls;vlpv ln;mm ge;pvk zu;dapa zi;plva vi;uvd xm;lvvd	10
 白杨坪林业开发管理区	bl;plva yh;mvp py;tad ln;mm ye;lldp kl;aapl fa;vpvd gr;padd li;aalv qu;apdv	10
 白银纳鄂伦春族民族乡	bl;plva yn;jva na;vvlv ee;kkvl lp;rr ip;aao zu;dapa mn;vava zu;dapa xd;vvp	10
-北大街综合治理办公室	bz;lapv da;apd jx;pptt zs;vvdd he;rk vi;uvd li;aalv bj;vpdd gs;pdvd ui;ddav	10
+北大街综合治理办公室	bz;lapv da;apd jx;pptt zs;vvdd he;rak vi;uvd li;aalv bj;vpdd gs;pdvd ui;ddav	10
 本溪市本溪满族自治县	bf;alpd xi;upd ui;dalv bf;alpd xi;upd mj;uc zu;dapa zi;plva vi;uvd xm;lvvd	10
 本溪市桓仁满族自治县	bf;alpd xi;upd ui;dalv hr;mao rf;raa mj;uc zu;dapa zi;plva vi;uvd xm;lvvd	10
 蚌埠市高新技术开发区	bg;lvaa bu;tpl ui;dalv gk;dak xn;dapp ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 兵团农六师北塔山牧场	by;plpd tr;lval ns;dvpv lq;dapd ui;lpal bz;lapv ta;tcr uj;lvl mu;papa ih;tvp	10
 兵团农六师土墩子农场	by;plpd tr;lval ns;dvpv lq;dapd ui;lpal tu;t dp;tda zi;vla ns;dvpv ih;tvp	10
 兵团农十二师一零四团	by;plpd tr;lval ns;dvpv ui;x er;aa ui;lpal yi;a ly;adr si;lvpv tr;lval	10
-步行街综合治理办公室	bu;lalp xy;ppaa jx;pptt zs;vvdd he;rk vi;uvd li;aalv bj;vpdd gs;pdvd ui;ddav	10
+步行街综合治理办公室	bu;lalp xy;ppaa jx;pptt zs;vvdd he;rak vi;uvd li;aalv bj;vpdd gs;pdvd ui;ddav	10
 沧州市孟村回族自治县	ch;ur vb;dpdl ui;dalv mg;vllv cp;mal hv;lvka zu;dapa zi;plva vi;uvd xm;lvvd	10
 漕河泾新兴技术开发区	ck;ual he;uak jy;uvd xn;dapp xy;ddpd ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 茶店布依族苗族彝族乡	ia;crm dm;dala bu;aplv yi;rda zu;dapa mc;clv zu;dapa yi;vvap zu;dapa xd;vvp	10
@@ -88619,12 +88619,12 @@ sort: by_weight
 额玛勒郭楞蒙古民族乡	ee;ddap ma;aavv le;alvp go;davl lg;mlv mg;caa gu;xk mn;vava zu;dapa xd;vvp	10
 恩施大峡谷风景管理处	en;lvdv ui;dapa da;apd xw;lvad gu;pdk fg;pvpd jy;oda gr;padd li;aalv iu;pvld	10
 恩施土家族苗族自治州	en;lvdv ui;dapa tu;t jw;ddap zu;dapa mc;clv zu;dapa zi;plva vi;uvd vb;dpdl	10
-佛宝山生态综合开发区	fo;rva bk;ddaa uj;lvl ug;paal tl;apdv zs;vvdd he;rk kl;aapl fa;vpvd qu;apdv	10
+佛宝山生态综合开发区	fo;rva bk;ddaa uj;lvl ug;paal tl;apdv zs;vvdd he;rak kl;aapl fa;vpvd qu;apdv	10
 富锦市国营果树示范场	fu;ddak jn;jpl ui;dalv go;lvaa yy;ckk go;lvaa uu;mvd ui;aalp fj;cu ih;tvp	10
 抚顺市清原满族自治县	fu;faa up;plap ui;dalv qy;uaa yr;appl mj;uc zu;dapa zi;plva vi;uvd xm;lvvd	10
 抚顺市新宾满族自治县	fu;faa up;plap ui;dalv xn;dapp bn;ddpl mj;uc zu;dapa zi;plva vi;uvd xm;lvvd	10
 甘南藏族自治州迭部县	gj;alla nj;xlv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl dx;padv bu;davl xm;lvvd	10
-甘南藏族自治州合作市	gj;alla nj;xlv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl he;rk zo;rpa ui;dalv	10
+甘南藏族自治州合作市	gj;alla nj;xlv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl he;rak zo;rpa ui;dalv	10
 甘南藏族自治州临潭县	gj;alla nj;xlv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl ln;llpa tj;ual xm;lvvd	10
 甘南藏族自治州碌曲县	gj;alla nj;xlv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl lu;apva qu;lval xm;lvvd	10
 甘南藏族自治州玛曲县	gj;alla nj;xlv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl ma;aavv qu;lval xm;lvvd	10
@@ -88677,7 +88677,7 @@ sort: by_weight
 果洛藏族自治州玛多县	go;lvaa lo;upv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl ma;aavv do;pvpv xm;lvvd	10
 果洛藏族自治州玛沁县	go;lvaa lo;upv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl ma;aavv qn;udv xm;lvvd	10
 国营朝阳县贾家店农场	go;lvaa yy;ckk ik;xoy yh;vlo xm;lvvd jw;allv jw;ddap dm;dala ns;dvpv ih;tvp	10
-哈尔滨综合保税区地区	ha;kr er;pvlp bn;udd zs;vvdd he;rk bk;rkm uv;padp qu;apdv di;tvl qu;apdv	10
+哈尔滨综合保税区地区	ha;kr er;pvlp bn;udd zs;vvdd he;rak bk;rkm uv;padp qu;apdv di;tvl qu;apdv	10
 哈日布日格德音乌拉镇	ha;kr ri;o bu;aplv ri;o ge;mpv de;ppx yn;dao wu;pvva la;fda vf;jx	10
 海北藏族自治州刚察县	hl;upa bz;lapv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl gh;lvll ia;ddpv xm;lvvd	10
 海北藏族自治州海晏县	hl;upa bz;lapv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl hl;upa yj;odd xm;lvvd	10
@@ -88833,9 +88833,9 @@ sort: by_weight
 四平市铁东区平南街道	si;lvpv py;adpa ui;dalv tx;jpa ds;avlp qu;apdv py;adpa nj;xlv jx;pptt dk;dpdv	10
 四平市伊通满族自治县	si;lvpv py;adpa ui;dalv yi;rva ts;vddv mj;uc zu;dapa zi;plva vi;uvd xm;lvvd	10
 松林坡白族彝族苗族乡	ss;mpd ln;mm po;tvp bl;plva zu;dapa yi;vvap zu;dapa mc;clv zu;dapa xd;vvp	10
-苏州高新区综合保税区	su;cvp vb;dpdl gk;dak xn;dapp qu;apdv zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
-塔布勒合特蒙古民族乡	ta;tcr bu;aplv le;alvp he;rk te;pat mg;caa gu;xk mn;vava zu;dapa xd;vvp	10
-太泊湖农业综合开发区	tl;apdd po;upl hu;uxk ns;dvpv ye;lldp zs;vvdd he;rk kl;aapl fa;vpvd qu;apdv	10
+苏州高新区综合保税区	su;cvp vb;dpdl gk;dak xn;dapp qu;apdv zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
+塔布勒合特蒙古民族乡	ta;tcr bu;aplv le;alvp he;rak te;pat mg;caa gu;xk mn;vava zu;dapa xd;vvp	10
+太泊湖农业综合开发区	tl;apdd po;upl hu;uxk ns;dvpv ye;lldp zs;vvdd he;rak kl;aapl fa;vpvd qu;apdv	10
 田横岛省级旅游度假区	tm;lval hg;mal dk;pvlv ug;lplv ji;vvpv lv;dapa yb;uda du;davd jw;rva qu;apdv	10
 天水市高新技术工业园	tm;aapd uv;u ui;dalv gk;dak xn;dapp ji;fx uu;md gs;ala ye;lldp yr;lvaa	10
 通辽市国有查金台牧场	ts;vddv lc;vldv ui;dalv go;lvaa yb;apy ia;mo jn;j tl;vdk mu;papa ih;tvp	10
@@ -88848,7 +88848,7 @@ sort: by_weight
 乌鲁木齐市沙依巴克区	wu;pvva lu;pvo mu;m qi;dapl ui;dalv ua;ulp yi;rda ba;vlav ke;xkpv qu;apdv	10
 乌鲁木齐市乌鲁木齐县	wu;pvva lu;pvo mu;m qi;dapl ui;dalv wu;pvva lu;pvo mu;m qi;dapl xm;lvvd	10
 武威市天祝藏族自治县	wu;aala wz;apav ui;dalv tm;aapd vu;dvk zh;cap zu;dapa zi;plva vi;uvd xm;lvvd	10
-无锡高新区综合保税区	wu;aapv xi;jo gk;dak xn;dapp qu;apdv zs;vvdd he;rk bk;rkm uv;padp qu;apdv	10
+无锡高新区综合保税区	wu;aapv xi;jo gk;dak xn;dapp qu;apdv zs;vvdd he;rak bk;rkm uv;padp qu;apdv	10
 锡林郭勒盟东乌珠穆沁	xi;jo ln;mm go;davl le;alvp mg;oylv ds;avlp wu;pvva vu;aapa mu;papl qn;udv	10
 锡林郭勒盟二连浩特市	xi;jo ln;mm go;davl le;alvp mg;oylv er;aa lm;avdv hk;upa te;pat ui;dalv	10
 锡林郭勒盟苏尼特右旗	xi;jo ln;mm go;davl le;alvp mg;oylv su;cvp ni;vapv te;pat yb;apk qi;dapa	10
@@ -88922,7 +88922,7 @@ sort: by_weight
 巴彦淖尔市乌梁素海渔场	ba;vlav yj;dapp nk;ula er;pvlp ui;dalv wu;pvva ld;um su;aavv hl;upa yu;upv ih;tvp	10
 白山市长白朝鲜族自治县	bl;plva uj;lvl ui;dalv vh;pavd bl;plva ik;xoy xm;pvdp zu;dapa zi;plva vi;uvd xm;lvvd	10
 保定高新技术产业开发区	bk;rkm dy;ddal gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
-包头达尔罕茂明安联合旗	bk;pvva tb;ddap da;apdv er;pvlp hj;dvaa mk;cap my;oy an;ddvp lm;aldp he;rk qi;dapa	10
+包头达尔罕茂明安联合旗	bk;pvva tb;ddap da;apdv er;pvlp hj;dvaa mk;cap my;oy an;ddvp lm;aldp he;rak qi;dapa	10
 兵团一二八团分部生活区	by;plpd tr;lval yi;a er;aa ba;pd tr;lval ff;pdvp bu;davl ug;paal ho;upa qu;apdv	10
 兵团一二五团分部生活区	by;plpd tr;lval yi;a er;aa wu;alva tr;lval ff;pdvp bu;davl ug;paal ho;upa qu;apdv	10
 兵团一三零团分部生活区	by;plpd tr;lval yi;a sj;aaa ly;adr tr;lval ff;pdvp bu;davl ug;paal ho;upa qu;apdv	10
@@ -88947,7 +88947,7 @@ sort: by_weight
 大雪山彝族拉祜族傣族乡	da;apd xt;adva uj;lvl yi;vvap zu;dapa la;fda hu;dvxk zu;dapa dl;raa zu;dapa xd;vvp	10
 邓马营湖生态建设指挥部	dg;vdvl ma;vva yy;ckk hu;uxk ug;paal tl;apdv jm;vavd ue;dvpv vi;fpv hv;fdv bu;davl	10
 东城城乡统筹发展试验区	ds;avlp ig;tap ig;tap xd;vvp ts;vvda ib;paaa fa;vpvd vj;vaal ui;dvaa yj;vvr qu;apdv	10
-二连边境经济技术合作区	er;aa lm;avdv bm;vpdv jy;tda jy;vvvd ji;uda ji;fx uu;md he;rk zo;rpa qu;apdv	10
+二连边境经济技术合作区	er;aa lm;avdv bm;vpdv jy;tda jy;vvvd ji;uda ji;fx uu;md he;rak zo;rpa qu;apdv	10
 阜新市阜新蒙古族自治县	fu;plx xn;dapp ui;dalv fu;plx xn;dapp mg;caa gu;xk zu;dapa zi;plva vi;uvd xm;lvvd	10
 高淳县团结圩良种繁育场	gk;dak ip;uda xm;lvvd tr;lval jx;vvtk wz;taa ld;dvaa vs;palv fj;pavv yu;day ih;tvp	10
 广西壮族自治区防城港市	gd;dap xi;alvp vd;dat zu;dapa zi;plva vi;uvd qu;apdv fh;vlda ig;tap gh;ual ui;dalv	10
@@ -88960,7 +88960,7 @@ sort: by_weight
 海峡两岸科技产业管理处	hl;upa xw;lvad ld;alvp an;lvap ke;padd ji;fx ij;dadp ye;lldp gr;padd li;aalv iu;pvld	10
 河池市环江毛南族自治县	he;uak ii;uvl ui;dalv hr;aaap jd;ual mk;paav nj;xlv zu;dapa zi;plva vi;uvd xm;lvvd	10
 河池市罗城仫佬族自治县	he;uak ii;uvl ui;dalv lo;lvpv ig;tap mu;rpv lk;rx zu;dapa zi;plva vi;uvd xm;lvvd	10
-合肥高新技术产业开发区	he;rk fz;yvl gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
+合肥高新技术产业开发区	he;rak fz;yvl gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 呼和浩特经济技术开发区	hu;kpd he;pak hk;upa te;pat jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv	10
 呼和浩特留学人员创业园	hu;kpd he;pak hk;upa te;pat lq;pvlv xt;ddvl rf;r yr;klv id;rll ye;lldp yr;lvaa	10
 呼伦贝尔市鄂伦春自治旗	hu;kpd lp;rr bz;lvpd er;pvlp ui;dalv ee;kkvl lp;rr ip;aao zi;plva vi;uvd qi;dapa	10
@@ -89028,7 +89028,7 @@ sort: by_weight
 三明高新技术产业开发区	sj;aaa my;oy gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 山西鲁能晋北铝业工矿区	uj;lvl xi;alvp lu;pvo ng;vdpv jn;alo bz;lapv lv;jkk ye;lldp gs;ala kd;apda qu;apdv	10
 山西朔州经济开发区街道	uj;lvl xi;alvp uo;dpy vb;dpdl jy;vvvd ji;uda kl;aapl fa;vpvd qu;apdv jx;pptt dk;dpdv	10
-山西转型综合改革示范区	uj;lvl xi;alvp vr;avaa xy;aat zs;vvdd he;rk gl;vapa ge;allv ui;aalp fj;cu qu;apdv	10
+山西转型综合改革示范区	uj;lvl xi;alvp vr;avaa xy;aat zs;vvdd he;rak gl;vapa ge;allv ui;aalp fj;cu qu;apdv	10
 绍根煤碳及煤化工产业园	uk;vvvp gf;mva mz;hal tj;aplv ji;pvd mz;hal hw;rpv gs;ala ij;dadp ye;lldp yr;lvaa	10
 石狮高新技术产业开发区	ui;apk ui;pvlp gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 双鸭山林业局宝石经营所	ud;vdvd ya;lvpv uj;lvl ln;mm ye;lldp ju;vavk bk;ddaa ui;apk jy;vvvd yy;ckk so;pppp	10
@@ -89049,7 +89049,7 @@ sort: by_weight
 绥棱县国有林场阁山林场	sv;vvpd ly;mt xm;lvvd go;lvaa yb;apy ln;mm ih;tvp ge;dlpv uj;lvl ln;mm ih;tvp	10
 绥中高新技术产业开发区	sv;vvpd vs;lval gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 塔什库尔干塔吉克自治县	ta;tcr ui;rx ku;daav er;pvlp gj;aal ta;tcr ji;tk ke;xkpv zi;plva vi;uvd xm;lvvd	10
-太原武宿综合保税区街道	tl;apdd yr;appl wu;aala su;ddr zs;vvdd he;rk bk;rkm uv;padp qu;apdv jx;pptt dk;dpdv	10
+太原武宿综合保税区街道	tl;apdd yr;appl wu;aala su;ddr zs;vvdd he;rak bk;rkm uv;padp qu;apdv jx;pptt dk;dpdv	10
 唐家河国家级自然保护区	th;dava jw;ddap he;uak go;lvaa jw;ddap ji;vvpv zi;plva rj;pvdd bk;rkm hu;fdv qu;apdv	10
 唐山高新技术产业开发区	th;dava uj;lvl gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 天津经济技术开发区西区	tm;aapd jn;uva jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv xi;alvp qu;apdv	10
@@ -89106,7 +89106,7 @@ sort: by_weight
 伊犁哈萨克自治州昭苏县	yi;rva li;papa ha;kr sa;cvl ke;xkpv zi;plva vi;uvd vb;dpdl vk;ovp su;cvp xm;lvvd	10
 音河达斡尔鄂温克民族乡	yn;dao he;uak da;apdv wo;xor er;pvlp ee;kkvl wf;uo ke;xkpv mn;vava zu;dapa xd;vvp	10
 永吉经济开发区特殊乡镇	ys;dvvp ji;tk jy;vvvd ji;uda kl;aapl fa;vpvd qu;apdv te;pat uu;appa xd;vvp vf;jx	10
-豫东综合物流产业聚集区	yu;vdpv ds;avlp zs;vvdd he;rk wu;papv lq;uda ij;dadp ye;lldp ju;alpl ji;rm qu;apdv	10
+豫东综合物流产业聚集区	yu;vdpv ds;avlp zs;vvdd he;rak wu;papv lq;uda ij;dadp ye;lldp ju;alpl ji;rm qu;apdv	10
 玉树藏族自治州曲麻莱县	yu;aala uu;mvd zh;cap zu;dapa zi;plva vi;uvd vb;dpdl qu;lval ma;damm ll;cad xm;lvvd	10
 原平市石豹沟煤矿工矿区	yr;appl py;adpa ui;dalv ui;apk bk;pdpv gb;upv mz;hal kd;apda gs;ala kd;apda qu;apdv	10
 月亮河彝族布依族苗族乡	yt;y ld;dak he;uak yi;vvap zu;dapa bu;aplv yi;rda zu;dapa mc;clv zu;dapa xd;vvp	10
@@ -89134,7 +89134,7 @@ sort: by_weight
 巴音郭楞蒙古自治州且末县	ba;vlav yn;dao go;davl lg;mlv mg;caa gu;xk zi;plva vi;uvd vb;dpdl qx;lvaa mo;aalp xm;lvvd	10
 巴音郭楞蒙古自治州若羌县	ba;vlav yn;dao go;davl lg;mlv mg;caa gu;xk zi;plva vi;uvd vb;dpdl ro;cap qd;dpaa xm;lvvd	10
 巴音郭楞蒙古自治州尉犁县	ba;vlav yn;dao go;davl lg;mlv mg;caa gu;xk zi;plva vi;uvd vb;dpdl yu;vaal li;papa xm;lvvd	10
-包头市达尔罕茂明安联合旗	bk;pvva tb;ddap ui;dalv da;apdv er;pvlp hj;dvaa mk;cap my;oy an;ddvp lm;aldp he;rk qi;dapa	10
+包头市达尔罕茂明安联合旗	bk;pvva tb;ddap ui;dalv da;apdv er;pvlp hj;dvaa mk;cap my;oy an;ddvp lm;aldp he;rak qi;dapa	10
 博尔塔拉蒙古自治州博乐市	bo;xal er;pvlp ta;tcr la;fda mg;caa gu;xk zi;plva vi;uvd vb;dpdl bo;xal le;pvlp ui;dalv	10
 博尔塔拉蒙古自治州精河县	bo;xal er;pvlp ta;tcr la;fda mg;caa gu;xk zi;plva vi;uvd vb;dpdl jy;dpaa he;uak xm;lvvd	10
 博尔塔拉蒙古自治州温泉县	bo;xal er;pvlp ta;tcr la;fda mg;caa gu;xk zi;plva vi;uvd vb;dpdl wf;uo qr;plu xm;lvvd	10
@@ -89224,7 +89224,7 @@ sort: by_weight
 云南省文山壮族苗族自治州	yp;aavd nj;xlv ug;lplv wf;dapd uj;lvl vd;dat zu;dapa mc;clv zu;dapa zi;plva vi;uvd vb;dpdl	10
 云南省西双版纳傣族自治州	yp;aavd nj;xlv ug;lplv xi;alvp ud;vdvd bj;plpp na;vvlv dl;raa zu;dapa zi;plva vi;uvd vb;dpdl	10
 张家港市现代农业示范园区	vh;vapa jw;ddap gh;ual ui;dalv xm;aalv dl;rav ns;dvpv ye;lldp ui;aalp fj;cu yr;lvaa qu;apdv	10
-郑州航空港经济综合实验区	vg;dpvl vb;dpdl hh;ppda ks;ddal gh;ual jy;vvvd ji;uda zs;vvdd he;rk ui;dddd yj;vvr qu;apdv	10
+郑州航空港经济综合实验区	vg;dpvl vb;dpdl hh;ppda ks;ddal gh;ual jy;vvvd ji;uda zs;vvdd he;rak ui;dddd yj;vvr qu;apdv	10
 阿坝藏族羌族自治州九寨沟县	aa;vlak ba;tlv zh;cap zu;dapa qd;dpaa zu;dapa zi;plva vi;uvd vb;dpdl jq;pv vl;ddm gb;upv xm;lvvd	10
 阿坝藏族羌族自治州马尔康市	aa;vlak ba;tlv zh;cap zu;dapa qd;dpaa zu;dapa zi;plva vi;uvd vb;dpdl ma;vva er;pvlp kh;dava ui;dalv	10
 阿坝藏族羌族自治州若尔盖县	aa;vlak ba;tlv zh;cap zu;dapa qd;dpaa zu;dapa zi;plva vi;uvd vb;dpdl ro;cap er;pvlp gl;dplv xm;lvvd	10
@@ -89274,7 +89274,7 @@ sort: by_weight
 河北衡水高新技术产业开发区	he;uak bz;lapv hg;pppv uv;u gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 河北冀州高新技术产业开发区	he;uak bz;lapv ji;lalv vb;dpdl gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 河北廊坊高新技术产业开发区	he;uak bz;lapv lh;dadv fh;tda gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
-合肥新站高新技术产业开发区	he;rk fz;yvl xn;dapp vj;dala gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
+合肥新站高新技术产业开发区	he;rak fz;yvl xn;dapp vj;dala gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
 红河哈尼族彝族自治州个旧市	hs;vval he;uak ha;kr ni;vapv zu;dapa yi;vvap zu;dapa zi;plva vi;uvd vb;dpdl ge;rl jq;lo ui;dalv	10
 红河哈尼族彝族自治州红河县	hs;vval he;uak ha;kr ni;vapv zu;dapa yi;vvap zu;dapa zi;plva vi;uvd vb;dpdl hs;vval he;uak xm;lvvd	10
 红河哈尼族彝族自治州建水县	hs;vval he;uak ha;kr ni;vapv zu;dapa yi;vvap zu;dapa zi;plva vi;uvd vb;dpdl jm;vavd uv;u xm;lvvd	10
@@ -89309,7 +89309,7 @@ sort: by_weight
 南通市经济技术开发区老洪港	nj;xlv ts;vddv ui;dalv jy;vvvd ji;uda ji;fx uu;md kl;aapl fa;vpvd qu;apdv lk;xpv hs;ual gh;ual	10
 内蒙古赤峰商贸服务物流园区	nz;lvpd mg;caa gu;xk ii;tpl fg;lvpv uh;dalv mk;pvlv fu;yvl wu;pvvp wu;papv lq;uda yr;lvaa qu;apdv	10
 内蒙古自治区国营杜尔基农场	nz;lvpd mg;caa gu;xk zi;plva vi;uvd qu;apdv go;lvaa yy;ckk du;mt er;pvlp ji;alt ns;dvpv ih;tvp	10
-农村改革发展综合试验核心区	ns;dvpv cp;mal gl;vapa ge;allv fa;vpvd vj;vaal zs;vvdd he;rk ui;dvaa yj;vvr he;mda xn;dvdd qu;apdv	10
+农村改革发展综合试验核心区	ns;dvpv cp;mal gl;vapa ge;allv fa;vpvd vj;vaal zs;vvdd he;rak ui;dvaa yj;vvr he;mda xn;dvdd qu;apdv	10
 普洱市江城哈尼族彝族自治县	pu;dpo er;ual ui;dalv jd;ual ig;tap ha;kr ni;vapv zu;dapa yi;vvap zu;dapa zi;plva vi;uvd xm;lvvd	10
 普洱市宁洱哈尼族彝族自治县	pu;dpo er;ual ui;dalv ny;ddal er;ual ha;kr ni;vapv zu;dapa yi;vvap zu;dapa zi;plva vi;uvd xm;lvvd	10
 齐齐哈尔市梅里斯达斡尔族区	qi;dapl qi;dapl ha;kr er;pvlp ui;dalv mz;mpa li;lvaa si;alpp da;apdv wo;xor er;pvlp zu;dapa qu;apdv	10
@@ -89345,7 +89345,7 @@ sort: by_weight
 松原市哈达山国有林保护中心	ss;mpd yr;appl ui;dalv ha;kr da;apdv uj;lvl go;lvaa yb;apy ln;mm bk;rkm hu;fdv vs;lval xn;dvdd	10
 宿迁市软件与服务外包产业园	su;ddr qm;padv ui;dalv rr;avpv jm;rpa yu;ava fu;yvl wu;pvvp wl;pvld bk;pvva ij;dadp ye;lldp yr;lvaa	10
 太原中北高新技术产业开发区	tl;apdd yr;appl vs;lval bz;lapv gk;dak xn;dapp ji;fx uu;md ij;dadp ye;lldp kl;aapl fa;vpvd qu;apdv	10
-天津健康产业国际合作示范区	tm;aapd jn;uva jm;rva kh;dava ij;dadp ye;lldp go;lvaa ji;vlaa he;rk zo;rpa ui;aalp fj;cu qu;apdv	10
+天津健康产业国际合作示范区	tm;aapd jn;uva jm;rva kh;dava ij;dadp ye;lldp go;lvaa ji;vlaa he;rak zo;rpa ui;aalp fj;cu qu;apdv	10
 天水市麦积区廿铺工业示范区	tm;aapd uv;u ui;dalv ml;aapv ji;pak qu;apdv nm;alla pu;jal gs;ala ye;lldp ui;aalp fj;cu qu;apdv	10
 天水市麦积区三阳工业示范区	tm;aapd uv;u ui;dalv ml;aapv ji;pak qu;apdv sj;aaa yh;vlo gs;ala ye;lldp ui;aalp fj;cu qu;apdv	10
 通化聚鑫经济开发区特殊乡镇	ts;vddv hw;rpv ju;alpl xn;jjj jy;vvvd ji;uda kl;aapl fa;vpvd qu;apdv te;pat uu;appa xd;vvp vf;jx	10
@@ -89398,7 +89398,7 @@ sort: by_weight
 恩施土家族苗族自治州神农架林区	en;lvdv ui;dapa tu;t jw;ddap zu;dapa mc;clv zu;dapa zi;plva vi;uvd vb;dpdl uf;dvlv ns;dvpv jw;vpm ln;mm qu;apdv	10
 黄南藏族自治州河南蒙古族自治县	hd;allv nj;xlv zh;cap zu;dapa zi;plva vi;uvd vb;dpdl he;uak nj;xlv mg;caa gu;xk zu;dapa zi;plva vi;uvd xm;lvvd	10
 喀什地区塔什库尔干塔吉克自治县	ka;kdd ui;rx di;tvl qu;apdv ta;tcr ui;rx ku;daav er;pvlp gj;aal ta;tcr ji;tk ke;xkpv zi;plva vi;uvd xm;lvvd	10
-克孜勒苏柯尔克孜自治州阿合奇县	ke;xkpv zi;vlpa le;alvp su;cvp ke;mak er;pvlp ke;xkpv zi;vlpa zi;plva vi;uvd vb;dpdl aa;vlak he;rk qi;apak xm;lvvd	10
+克孜勒苏柯尔克孜自治州阿合奇县	ke;xkpv zi;vlpa le;alvp su;cvp ke;mak er;pvlp ke;xkpv zi;vlpa zi;plva vi;uvd vb;dpdl aa;vlak he;rak qi;apak xm;lvvd	10
 克孜勒苏柯尔克孜自治州阿克陶县	ke;xkpv zi;vlpa le;alvp su;cvp ke;mak er;pvlp ke;xkpv zi;vlpa zi;plva vi;uvd vb;dpdl aa;vlak ke;xkpv tk;vlpv xm;lvvd	10
 克孜勒苏柯尔克孜自治州阿图什市	ke;xkpv zi;vlpa le;alvp su;cvp ke;mak er;pvlp ke;xkpv zi;vlpa zi;plva vi;uvd vb;dpdl aa;vlak tu;lvpv ui;rx ui;dalv	10
 普洱市孟连傣族拉祜族佤族自治县	pu;dpo er;ual ui;dalv mg;vllv lm;avdv dl;raa zu;dapa la;fda hu;dvxk zu;dapa wa;rav zu;dapa zi;plva vi;uvd xm;lvvd	10
