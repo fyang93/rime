@@ -28,9 +28,9 @@ switches:
   - name: full_shape
     states: [半角, 全角]
     reset: 0
-  - name: context_reorder # 上下文调序，见 lua/wanxiang/context_reorder.lua
+  - name: context_reorder # 默认按词库排序；需要时可手动开启上下文调序
     states: [上下文关, 上下文开]
-    reset: 1
+    reset: 0
 
 engine:
   processors:
