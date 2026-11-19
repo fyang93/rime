@@ -3,6 +3,7 @@ name: zrm
 version: "1.0"
 sort: by_weight  
 import_tables:
+  - ./dicts/fix
   - ./dicts/custom
   - ./dicts/jichu.lite
   - ./dicts/cuoyin.lite

@@ -3,6 +3,7 @@ name: pinyin
 version: "1.0"
 sort: by_weight
 import_tables:
+  - ./scripts/dicts/fix
   - ./scripts/dicts/custom
   - ./scripts/dicts/wanxiang/zi.lite
   - ./scripts/dicts/wanxiang/jichu.lite

@@ -60,5 +60,6 @@
 ## 自定义词库
 
 - `scripts/dicts/custom.dict.yaml`：自定义词库，修改后需要运行 `uv run python scripts/generate.py` 进行词库转换，转换后的词库会更新到`dicts/custom.dict.yaml`。
+- `scripts/dicts/fix.dict.yaml`：调整已有词条词频的专用词库，修改后同样运行 `uv run python scripts/generate.py`，输出到 `dicts/fix.dict.yaml`；已加入拼音与自然码方案。
 - `dicts/custom_phrase.txt`：自定义短词，适用于用缩写编码输入较长的内容，如邮箱、手机号、身份证等。
 - 需要提升的自定义词放在 `scripts/dicts/custom.dict.yaml`，按词频参与正常排序。

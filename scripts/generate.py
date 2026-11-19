@@ -57,6 +57,7 @@ name: zrm
 version: "1.0"
 sort: by_weight  
 import_tables:
+  - ./dicts/fix
   - ./dicts/custom
 """ + ''.join(f'  - ./dicts/{name}.lite\n' for name in WORDS) + """...
 
@@ -132,6 +133,7 @@ def convert_pinyin(infile, outfile, override_freq=None):
         f2.write(''.join(chars) + '\t' + doubled_code + '\t' + freq + '\n')
 # --- former notebook cell 9 ---
 convert_pinyin('./dicts/custom.dict.yaml', '../dicts/custom.dict.yaml', override_freq=10000)
+convert_pinyin('./dicts/fix.dict.yaml', '../dicts/fix.dict.yaml')
 
 # --- former notebook cell 11 ---
 for name in WORDS:
