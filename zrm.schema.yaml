@@ -57,6 +57,7 @@ engine:
     - script_translator@user_dict_set # 自动造出的词
   filters:
     - lua_filter@*wanxiang.context_reorder*F
+    - lua_filter@*second_choice # 单字双拼后输入空分号，将第二候选提到首位
     - lua_filter@*wanxiang.auto_phrase # 自动造词，并格式化注释
     - simplifier@emoji
     - simplifier@traditionalize
