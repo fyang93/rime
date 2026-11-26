@@ -273,13 +273,14 @@ class JD6Tests(unittest.TestCase):
                 '甲\t日丿\t已核对\t合成fixture\n乙\t木\t已核对\t表外字须纯音\n'
                 '丙\t\t待补\t待核对\n', encoding='utf-8')
             (data / 'custom.dict.yaml').write_text('---\nname: custom\n...\n', encoding='utf-8')
+            (data / 'fix.dict.yaml').write_text('---\nname: fix\n...\n乙\tye\t120\n', encoding='utf-8')
             for name in ('jichu', 'cuoyin', 'duoyin', 'diming', 'mingren', 'yiren'):
                 (data / f'wanxiang/{name}.lite.dict.yaml').write_text(
                     f'---\nname: {name}.lite\n...\n甲乙\tjia yi\t9\n甲丙\tjia bing\t9\n', encoding='utf-8')
             namespace = self.run_generator(scripts)
             generated = (output / 'zrm.dict.yaml').read_text()
             expected = {'甲\tjw;op\t577'}  # 只写规范码，e、s 由 schema 派生
-            expected.update({'乙\tyi;\t100', '乙\tye;\t50'})
+            expected.update({'乙\tyi;\t100', '乙\tye;\t120'})
             entries = [line for line in generated.splitlines() if '\t' in line]
             self.assertEqual(set(entries), expected)
             self.assertEqual(len(entries), len(expected))

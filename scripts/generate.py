@@ -23,7 +23,16 @@ def split_zh_en(text):
 # --- former notebook cell 3 ---
 # 字表与词库均取万象 Lite（无调全拼），见 scripts/dicts/wanxiang
 CHARS = 'dicts/wanxiang/zi.lite.dict.yaml'
+FIX = 'dicts/fix.dict.yaml'
 WORDS = ('jichu', 'cuoyin', 'duoyin', 'diming', 'mingren', 'yiren')
+
+# Rime 的主词库权重优先于导入表，单字修正需直接写入自然码主词库。
+fixed_char_weights = {}
+with open(FIX, encoding='utf-8') as f:
+    for line in f:
+        if not line.startswith('#') and re.fullmatch(r'.\t[a-z]+\t\d+', line.rstrip()):
+            char, pinyin, weight = line.rstrip().split('\t')
+            fixed_char_weights[char, pinyin] = weight
 
 targets = dictionary_characters()
 standard = set()
@@ -70,7 +79,7 @@ with open('../zrm.dict.yaml', 'w', encoding='utf-8') as f1, open(CHARS, encoding
         if re.match(r'^.\t\w+(\t\d+)?$', line):
             fields = line.split('\t')
             char, pinyin = fields[:2]
-            freq = fields[2] if len(fields) == 3 else '1'
+            freq = fixed_char_weights.get((char, pinyin), fields[2] if len(fields) == 3 else '1')
             if (char, pinyin) in seen:
                 continue
             seen.add((char, pinyin))
@@ -133,7 +142,7 @@ def convert_pinyin(infile, outfile, override_freq=None):
         f2.write(''.join(chars) + '\t' + doubled_code + '\t' + freq + '\n')
 # --- former notebook cell 9 ---
 convert_pinyin('./dicts/custom.dict.yaml', '../dicts/custom.dict.yaml', override_freq=10000)
-convert_pinyin('./dicts/fix.dict.yaml', '../dicts/fix.dict.yaml')
+convert_pinyin(FIX, '../dicts/fix.dict.yaml')
 
 # --- former notebook cell 11 ---
 for name in WORDS:
